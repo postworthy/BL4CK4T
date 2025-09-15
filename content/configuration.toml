@@ -1,0 +1,114 @@
+# Due to how Astro handles type inference with this structure,
+# we need to prefix all configuration keys with an underscore.
+
+[_.site]
+baseUrl = "https://bl4ck4t.com"
+
+[_.globalMeta]
+title = "BL4CK4T - The Script Kitty Chronicles"
+description = "Cybersecurity lessons & stories for teens and teachers—Script Kitties decode BL4CK4T drops to teach cryptography, networking, OSINT, web security, and AI safety."
+longDescription = "A neon-cyberpunk learning hub that blends narrative with hands-on labs. Classroom-ready activities cover ethical hacking, cryptography (Caesar to RSA), Diffie–Hellman, networking & Nmap, OSINT, OWASP web security, firmware basics, and AI safety. Built for middle/high-school STEM, homeschoolers, and cyber clubs."
+cardImage = "https://bl4ck4t.com/BL4CK4T.png"
+keywords = [
+  "cybersecurity lessons for students",
+  "ethical hacking curriculum",
+  "high school cybersecurity",
+  "middle school STEM activities",
+  "cryptography lessons",
+  "public key cryptography RSA",
+  "Diffie-Hellman explained",
+  "networking basics for beginners",
+  "Nmap tutorial",
+  "OSINT activities for students",
+  "OWASP Juice Shop guide",
+  "web security for beginners",
+  "AI safety education",
+  "CTF challenges for classrooms",
+  "computer science education",
+  "homeschool cybersecurity",
+  "teacher resources cybersecurity",
+  "Script Kitties stories",
+  "BL4CK4T drops",
+  "Cybertropolis learning"
+]
+
+[_.blogMeta]
+title = "BL4CK4T - The Script Kitty Chronicles"
+description = "Articles, mission debriefs, and lab write-ups on teaching cybersecurity—crypto puzzles, packet captures, firmware forensics, OSINT, OWASP, and AI-safety tips."
+longDescription = "Deep-dive posts that expand each BL4CK4T drop: step-by-step tutorials, classroom lesson plans, code snippets, Wireshark walkthroughs, firmware and reverse-engineering primers, OSINT workflows, OWASP fixes, and reflections on building ethical hacker mindsets. Ideal for teachers, mentors, and curious teens."
+cardImage = "https://bl4ck4t.com/BL4CK4T.png"
+keywords = [
+  "cybersecurity teaching blog",
+  "lesson plans cybersecurity",
+  "ethical hacking tutorials",
+  "Wireshark packet capture guide",
+  "firmware reverse engineering basics",
+  "OSINT techniques for beginners",
+  "OWASP Top 10 tutorial",
+  "AI safety best practices",
+  "cryptography tutorials RSA DH",
+  "frequency analysis Caesar cipher",
+  "student cybersecurity projects",
+  "classroom CTF ideas",
+  "network scanning Nmap guide",
+  "security education resources",
+  "Script Kitties blog",
+  "BL4CK4T mission debriefs"
+]
+
+
+[_.projectMeta]
+title = "BL4CK4T Projects"
+description = "Open-source drops, labs, and tools for Script Kitties adventures and classroom missions."
+longDescription = "A catalog of runnable notebooks and kits: Caesar and RSA demos, Diffie-Hellman exchanges, Nmap recon challenges, OWASP Juice Shop guides, firmware reversing demos, and AI safety labs—ready for teachers and curious learners."
+cardImage = "https://bl4ck4t.com/BL4CK4T.png"
+keywords = [
+  "cybersecurity teaching blog",
+  "lesson plans cybersecurity",
+  "ethical hacking tutorials",
+  "Wireshark packet capture guide",
+  "firmware reverse engineering basics",
+  "OSINT techniques for beginners",
+  "OWASP Top 10 tutorial",
+  "AI safety best practices",
+  "cryptography tutorials RSA DH",
+  "frequency analysis Caesar cipher",
+  "student cybersecurity projects",
+  "classroom CTF ideas",
+  "network scanning Nmap guide",
+  "security education resources",
+  "Script Kitties blog",
+  "BL4CK4T mission debriefs"
+]
+
+
+[_.notFoundMeta]
+title = "BL4CK4T 404"
+description = "Drop not found. The route may be obfuscated or the link expired."
+longDescription = "This page doesn’t exist—or it’s a decoy. Trace back to the main menu, follow a fresh drop, or scan the skyline again."
+cardImage = "https://bl4ck4t.com/BL4CK4T.png"
+
+[_.hero]
+title = "<BL4CK4T/>"
+subtitle = "The Script Kitty Chronicles"
+image = "https://bl4ck4t.com/BL4CK4T.png"
+ctaText = "View Projects"
+ctaUrl = "/projects"
+
+[_.personal]
+name = "BL4CK4T"
+githubProfile = "https://github.com/postworthy/bl4ck4t"
+twitterProfile = "https://github.com/postworthy/bl4ck4t"
+linkedinProfile = "https://github.com/postworthy/bl4ck4t"
+
+[_.texts]
+articlesName = "Articles"
+projectsName = "Projects"
+viewAll = "View All"
+noArticles = "No articles found."
+noProjects = "No projects found."
+
+[_.menu]
+home = "/"
+projects = "/projects"
+blog = "/blog"
