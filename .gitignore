@@ -21,8 +21,5 @@ pnpm-debug.log*
 .DS_Store
 
 # jetbrains setting folder
-.idea/
-
-pnpm-lock.yaml
 
 .vscode/
