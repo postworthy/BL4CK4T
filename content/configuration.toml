@@ -6,7 +6,7 @@ baseUrl = "https://bl4ck4t.com"
 
 [_.globalMeta]
 title = "BL4CK4T - The Script Kitty Chronicles"
-description = "Cybersecurity lessons & stories for teens and teachers—Script Kitties decode BL4CK4T drops to teach cryptography, networking, OSINT, web security, and AI safety."
+description = "Cybersecurity lessons & stories for teens and teachers—Script Kitties decode BL4CK4T drops to teach cryptography, networking, OSINT, web security, AI safety, and much more."
 longDescription = "A neon-cyberpunk learning hub that blends narrative with hands-on labs. Classroom-ready activities cover ethical hacking, cryptography (Caesar to RSA), Diffie–Hellman, networking & Nmap, OSINT, OWASP web security, firmware basics, and AI safety. Built for middle/high-school STEM, homeschoolers, and cyber clubs."
 cardImage = "https://bl4ck4t.com/BL4CK4T.png"
 keywords = [
