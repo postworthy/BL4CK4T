@@ -3,7 +3,7 @@ title: "Script Kitties — Episode 1: The Hidden Code"
 slug: "script-kitties-episode-1-hidden-code"
 description: "The Script Kitties receive their first encrypted drop from BL4CK4T and crack a Caesar cipher—unlocking a path to bigger secrets in Cybertropolis."
 longDescription: "In this pilot chapter, the Script Kitties—Grimalkin, Pixel, Byte, Whiskers, Cipher, Jinx, and Shadow—decode their first message from the unseen mentor BL4CK4T using a Caesar cipher (shift 5). The win foreshadows their next lesson: public–private keys and Diffie–Hellman."
-cardImage: "https://bl4ck4t.com/BL4CK4T.png"
+cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"
 tags: ["story", "script-kitties", "cybersecurity", "cryptography", "caesar-cipher"]
 readTime: 7
 featured: true
@@ -12,7 +12,7 @@ timestamp: 2025-09-15T21:01:40.696878+00:00
 
 # 🐾 Pilot Episode: The Hidden Code
 
-The city of **Cybertropolis** never truly slept. Neon signs flickered across steel towers, and data streams flowed like glowing rivers through the dark alleys. Somewhere high above, in an unseen lair, a message was being written — one that would change everything for the young hacker crew known as the **Script Kitties**.
+<img src="https://bl4ck4t.com/script-kitties-crowd.jpg" style="float: left;margin: 0px 10px 0px 0px;" width="250" alt="the script kitties blending into the crowd"> The city of **Cybertropolis** never truly slept. Neon signs flickered across steel towers, and data streams flowed like glowing rivers through the dark alleys. Somewhere high above, in an unseen lair, a message was being written — one that would change everything for the young hacker crew known as the **Script Kitties**.
 
 ## The Drop
 

@@ -16,7 +16,7 @@ featured: true
 
 ## The Details
 
-<img src="https://bl4ck4t.com/script-kitties-crowd.jpg" style="float:left" width="250" alt="the script kitties blending into the crowd"> **ClassOverride** is a teaching repo with Script Kitties vibes—short, hands‑on labs and notebooks that introduce teens to the **hacker mindset** (ethics first, curiosity always). Each folder reads like a BL4CK4T “drop” you can open in Jupyter/Colab and run immediately.
+<img src="https://bl4ck4t.com/classoverride.png" style="float: left;margin: 0px 10px 0px 0px;" width="250" alt="the script kitties blending into the crowd"> **ClassOverride** is a teaching repo with Script Kitties vibes—short, hands‑on labs and notebooks that introduce teens to the **hacker mindset** (ethics first, curiosity always). Each folder reads like a BL4CK4T “drop” you can open in Jupyter/Colab and run immediately.
 
 The project’s purpose is simple: help students learn by **doing**—from ciphers and key exchange to network recon and web‑app defense—while pairing every activity with reflection prompts about responsibility and real‑world impact.
 
