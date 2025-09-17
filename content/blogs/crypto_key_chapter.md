@@ -3,7 +3,7 @@ title: "Keys to the City: Public–Private Crypto"
 slug: "keys-to-the-city"
 description: "The Script Kitties learn how public and private keys protect secrets across Cybertropolis."
 longDescription: "In this adventure, BL4CK4T drops a clue that leads the Script Kitties to uncover the magic of public–private cryptography. Through teamwork, they grasp how digital keys lock and unlock secrets, why this underpins the web, and how trust is built online."
-cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"
+cardImage: "https://bl4ck4t.com/shared-secret.png"
 tags: ["story", "script-kitties", "cybersecurity", "cryptography", "rsa", "diffie-hellman"]
 readTime: 7
 featured: true
@@ -12,7 +12,7 @@ timestamp: 2025-09-17T00:00:00+00:00
 
 # 🐾 Keys to the City: Public–Private Crypto
 
-The neon glow of Cybertropolis hummed as the Script Kitties gathered on a rooftop. A faint pawprint shimmered on a nearby billboard—BL4CK4T’s latest drop.
+<img src="https://bl4ck4t.com/shared-secret.png" style="float: left;margin: 0px 10px 0px 0px;" width="250" alt="the script kitties blending colors into a shared secret"> The neon glow of Cybertropolis hummed as the Script Kitties gathered on a rooftop. A faint pawprint shimmered on a nearby billboard—BL4CK4T’s latest drop.
 
 ## The Drop
 
