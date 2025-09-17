@@ -58,8 +58,3 @@ Pixel stretched. “Keys that work in pairs—like us.”
 Grimalkin added, “One to protect, one to prove. Balance.”
 
 And together, the Script Kitties disappeared into the neon maze, carrying the keys to the city’s trust.
-
----
-
-[Download this story as a Markdown file](sandbox:/mnt/data/crypto_key_chapter.md)
-
