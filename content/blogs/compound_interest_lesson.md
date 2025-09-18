@@ -12,7 +12,7 @@ timestamp: 2025-09-18T21:00:00.000000+00:00
 
 # 🐾 The Interest of Time
 
-The city hummed with its usual neon rhythm—billboards flickering, server towers buzzing, rooftops alive with hidden signals. The Script Kitties perched on their favorite overhang, the night breeze carrying static and promise. They had been waiting for BL4CK4T’s next sign, knowing each drop carried both a challenge and a lesson that shaped not only their skills but their identities.
+<img src="https://bl4ck4t.com/compound-interest.png" style="float: left;margin: 0px 10px 0px 0px;" width="250" alt="the script kitties discover the power of compound interest"> The city hummed with its usual neon rhythm—billboards flickering, server towers buzzing, rooftops alive with hidden signals. The Script Kitties perched on their favorite overhang, the night breeze carrying static and promise. They had been waiting for BL4CK4T’s next sign, knowing each drop carried both a challenge and a lesson that shaped not only their skills but their identities.
 
 ## The Drop
 A glowing pawprint flickered across a rooftop billboard in Cybertropolis. BL4CK4T’s encrypted message scrolled across in shifting neon:
