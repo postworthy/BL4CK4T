@@ -32,12 +32,18 @@ jobs:
       - name: Install deps
         run: pnpm install --frozen-lockfile
 
-      - name: Build Astro site
-        run: pnpm run build
+      - name: Build
+        run: pnpm run build  # outputs to ./dist
+
+      - name: Add .nojekyll (and CNAME if using custom domain)
+        run: |
+          touch dist/.nojekyll
+          echo 'bl4ck4t.com' > dist/CNAME
 
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -47,3 +53,5 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          cname: bl4ck4t.com
