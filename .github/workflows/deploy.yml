@@ -53,5 +53,3 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          cname: bl4ck4t.com
