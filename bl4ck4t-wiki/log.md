@@ -2,6 +2,35 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] research | Draft Season 6 Estonia documentary treatment
+
+Created the draft nonfiction documentary treatment for the 2007 Estonia cyberattacks. The treatment turns the historical account into six factual movements around the Bronze Soldier crisis, Estonia's digital dependence, the first availability disruption, defender triage, attribution uncertainty, and NATO policy aftermath.
+
+Touched areas:
+
+- [historical-documentary-treatments/estonia-cyberattacks-2007.md](historical-documentary-treatments/estonia-cyberattacks-2007.md)
+- [historical-documentary-treatments/README.md](historical-documentary-treatments/README.md)
+- [index.md](index.md)
+
+## [2026-05-27] research | Draft Season 6 Estonia historical account
+
+Created the draft historical account for the 2007 Estonia cyberattacks. The draft separates known, alleged, inferred, and uncertain claims; emphasizes availability, civic dependence, attribution discipline, defender response, NATO aftermath, and open research gaps; and remains historically clean with no fictional adaptation material.
+
+Touched areas:
+
+- [historical-accounts/estonia-cyberattacks-2007.md](historical-accounts/estonia-cyberattacks-2007.md)
+- [historical-accounts/README.md](historical-accounts/README.md)
+- [index.md](index.md)
+
+## [2026-05-27] ingest | File Season 6 Estonia source page
+
+Created the Season 6 real-world source page for the 2007 cyberattacks against Estonia. The source page prioritizes CCDCOE/Ottis, NATO, CCDCOE policy-afterward analysis, contemporaneous Guardian reporting, and academic secondary analysis to support a deeper historical account before any fictional import.
+
+Touched areas:
+
+- [sources/real-world/estonia-cyberattacks-2007.md](sources/real-world/estonia-cyberattacks-2007.md)
+- [index.md](index.md)
+
 ## [2026-05-27] research | Add Season 6-10 historical depth remediation plan
 
 Added a historical-depth remediation plan after determining that the Season 6-10 macro planning pages were not deep enough to support high-quality fictional import. The plan requires each season to rebuild from source page, historical account, documentary treatment, historical-depth review, story-world import, production bible, drafts, quality gate, and release validation.

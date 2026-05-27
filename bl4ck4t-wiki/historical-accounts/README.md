@@ -11,7 +11,7 @@ Current status:
 - [Morris Worm](morris-worm.md) - research foundation complete.
 - [Mitnick / Shimomura / hacker-manhunt era](mitnick-shimomura-hacker-manhunt.md) - research foundation complete.
 - [ILOVEYOU / Love Bug](iloveyou-love-bug.md) - research foundation complete.
-- Estonia cyberattacks - not started.
+- [Estonia 2007 Cyberattacks](estonia-cyberattacks-2007.md) - draft.
 - MSBlaster / Welchia / early-2000s worm era - not started.
 - Operation Aurora - not started.
 - Stuxnet / Operation Olympic Games - not started.

@@ -168,6 +168,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Morris Worm](historical-accounts/morris-worm.md) - Completed historical research foundation.
 - [Mitnick, Shimomura, And The Hacker-Manhunt Era](historical-accounts/mitnick-shimomura-hacker-manhunt.md) - Completed historical research foundation.
 - [ILOVEYOU / Love Bug](historical-accounts/iloveyou-love-bug.md) - Completed historical research foundation.
+- [Estonia 2007 Cyberattacks](historical-accounts/estonia-cyberattacks-2007.md) - Draft Season 6 historical research foundation.
 
 ## Historical Documentary Treatments
 
@@ -177,6 +178,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Morris Worm Documentary Treatment](historical-documentary-treatments/morris-worm.md) - Season 3 documentary movement structure derived from the historical account.
 - [Mitnick, Shimomura, And The Hacker-Manhunt Era Documentary Treatment](historical-documentary-treatments/mitnick-shimomura-hacker-manhunt.md) - Season 4 documentary movement structure derived from the historical account.
 - [ILOVEYOU / Love Bug Documentary Treatment](historical-documentary-treatments/iloveyou-love-bug.md) - Season 5 documentary movement structure derived from the historical account.
+- [Estonia 2007 Cyberattacks Documentary Treatment](historical-documentary-treatments/estonia-cyberattacks-2007.md) - Draft Season 6 documentary movement structure derived from the historical account.
 
 ## Seasons
 
@@ -268,6 +270,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Phone Phreaking And The Blue-Box Era](sources/real-world/phone-phreaking-blue-box-era.md) - Source page for the Season 1 historical account.
 - [The Cuckoo's Egg And The Hanover Hackers](sources/real-world/cuckoos-egg-hanover-hackers.md) - Source page for the Season 2 historical account.
 - [Mitnick, Shimomura, And The Hacker-Manhunt Era](sources/real-world/mitnick-shimomura-hacker-manhunt.md) - Source page for the Season 4 historical account.
+- [Estonia 2007 Cyberattacks](sources/real-world/estonia-cyberattacks-2007.md) - Source page for the Season 6 historical account rebuild.
 - [Cyber History Season Brief](sources/creative-briefs/cyber-history-season-brief.md) - User-supplied creative direction for season-level historical arcs.
 
 ## Drafts
