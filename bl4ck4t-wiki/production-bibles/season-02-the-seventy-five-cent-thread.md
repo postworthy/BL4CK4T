@@ -1,6 +1,6 @@
 ---
 type: production-bible
-status: draft
+status: released
 created: 2026-05-27
 updated: 2026-05-27
 tags: [season-2, production, investigation, logging, evidence]

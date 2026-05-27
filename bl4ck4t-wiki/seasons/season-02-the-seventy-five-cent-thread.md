@@ -42,7 +42,7 @@ Jinx finds a tiny resource discrepancy in a school lab. What looks like bookkeep
 ## Story Arc
 
 - Story arc path: `bl4ck4t-wiki/story-arcs/season-02-the-seventy-five-cent-thread-arc.md`
-- Status: draft.
+- Status: released.
 
 ## Production Bible
 
@@ -77,13 +77,11 @@ Jinx finds a tiny resource discrepancy in a school lab. What looks like bookkeep
 4. The team learns the difference between suspicion and evidence.
 5. The season ends with a bigger world beyond the lab.
 
-## Source Requirements Before Drafting
+## Completed Source Requirements
 
-- Ingest a Cuckoo's Egg source page.
-- Add concepts for logging and intrusion detection.
-- Complete the documentary treatment.
-- Complete the story arc adaptation.
-- Complete the production bible.
+- Real-world source page: [The Cuckoo's Egg And The Hanover Hackers](../sources/real-world/cuckoos-egg-hanover-hackers.md).
+- Concepts for logging, intrusion detection, anomaly investigation, evidence preservation, account misuse, incident reporting, shared-system accounting, and Civic Learning Grid completed.
+- Documentary treatment, story arc adaptation, production bible, draft review, continuity audit, and release historical-anchor analysis completed.
 
 ## Safety Boundaries
 

@@ -4,7 +4,8 @@ status: research-foundation-complete
 created: 2026-05-26
 updated: 2026-05-26
 tags: [phone-phreaking, blue-box, telecom, signaling]
-source_pages: []
+source_pages:
+  - ../sources/real-world/phone-phreaking-blue-box-era.md
 journalism_standard: ../style-guides/historical-journalism-standard.md
 ---
 

@@ -19,6 +19,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Real World Transformation Guide](style-guides/real-world-transformation-guide.md) - How real incidents, TTPs, tools, and APT-inspired ideas become BL4CK4T-world material.
 - [Story Draft Checklist](style-guides/story-draft-checklist.md) - Continuity, safety, lesson, and publication checks for drafts.
 - [Historical Journalism Standard](style-guides/historical-journalism-standard.md) - Source, attribution, timeline, uncertainty, and ethics rules for historical cyber accounts.
+- [Season Artifact Checklist](style-guides/season-artifact-checklist.md) - Required artifact, validation, status, index, and log checklist for season production.
 
 ## Characters
 
@@ -155,6 +156,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Supply Chain Risk](sources/real-world/supply-chain-risk.md) - Source page for provenance and third-party dependency lessons.
 - [Nmap](sources/real-world/nmap.md) - Source page for authorized network discovery.
 - [OWASP Juice Shop](sources/real-world/owasp-juice-shop.md) - Source page for safe web-security practice.
+- [Phone Phreaking And The Blue-Box Era](sources/real-world/phone-phreaking-blue-box-era.md) - Source page for the Season 1 historical account.
 - [The Cuckoo's Egg And The Hanover Hackers](sources/real-world/cuckoos-egg-hanover-hackers.md) - Source page for the Season 2 historical account.
 - [Cyber History Season Brief](sources/creative-briefs/cyber-history-season-brief.md) - User-supplied creative direction for season-level historical arcs.
 
@@ -183,6 +185,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 ## Reports
 
 - [2026-05-26 Wiki Lint Report](reports/2026-05-26-wiki-lint.md) - Structural lint, maturity review, and recommended next attention areas.
+- [Season 1 Draft Review](reports/season-01-draft-review.md) - Full private draft review against the Season 1 historical account, documentary treatment, story arc, and production bible.
 - [Season 1 Release Historical Anchor Analysis](reports/season-01-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Season 2 Draft Review](reports/season-02-draft-review.md) - Full private draft review against the Season 2 historical account, documentary treatment, story arc, and production bible.
 - [Series Continuity Audit 2026-05-27](reports/series-continuity-audit-2026-05-27.md) - First cross-season continuity audit covering the pilot, Season 1, and private Season 2 draft set.

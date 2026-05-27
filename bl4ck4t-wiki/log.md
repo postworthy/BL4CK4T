@@ -420,3 +420,19 @@ Touched pages:
 - [canon/continuity-timeline.md](canon/continuity-timeline.md)
 - [seasons/season-02-the-seventy-five-cent-thread.md](seasons/season-02-the-seventy-five-cent-thread.md)
 - [index.md](index.md)
+
+## [2026-05-27] maintenance | Normalize season artifact parity
+
+Cleaned up the private season-production records after comparing Season 1 and Season 2 artifacts. Backfilled the Season 1 real-world source page and draft review report, added a reusable season artifact checklist, linked the Season 1 source page from the historical account, and normalized stale season/production-bible statuses now that both seasons have been released.
+
+Touched pages:
+
+- [sources/real-world/phone-phreaking-blue-box-era.md](sources/real-world/phone-phreaking-blue-box-era.md)
+- [reports/season-01-draft-review.md](reports/season-01-draft-review.md)
+- [style-guides/season-artifact-checklist.md](style-guides/season-artifact-checklist.md)
+- [historical-accounts/phone-phreaking-blue-box-era.md](historical-accounts/phone-phreaking-blue-box-era.md)
+- [seasons/season-01-the-singing-network.md](seasons/season-01-the-singing-network.md)
+- [seasons/season-02-the-seventy-five-cent-thread.md](seasons/season-02-the-seventy-five-cent-thread.md)
+- [production-bibles/season-02-the-seventy-five-cent-thread.md](production-bibles/season-02-the-seventy-five-cent-thread.md)
+- [index.md](index.md)
+- [log.md](log.md)

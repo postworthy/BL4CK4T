@@ -1,8 +1,8 @@
 ---
 type: season
-status: planned
+status: published
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 season_number: 1
 tags: [season, phone-phreaking, hidden-rules]
 sources:
@@ -13,6 +13,9 @@ sources:
   - ../production-bibles/season-01-the-singing-network.md
 historical_inspiration: [phone-phreaking, blue-box-era]
 historical_account: ../historical-accounts/phone-phreaking-blue-box-era.md
+historical_documentary_treatment: ../historical-documentary-treatments/phone-phreaking-blue-box-era.md
+story_arc: ../story-arcs/season-01-the-singing-network-arc.md
+production_bible: ../production-bibles/season-01-the-singing-network.md
 primary_lessons: []
 featured_characters:
   - ../characters/pixel.md
@@ -49,13 +52,20 @@ Phone phreaking, blue boxes, telecom signaling, counterculture curiosity, and th
 ## Story Arc
 
 - Story arc path: [Season 1 Story Arc: The Singing Network](../story-arcs/season-01-the-singing-network-arc.md)
-- Status: draft, ready for user review.
+- Status: released.
 
 ## Production Bible
 
 - Production bible path: [Season 1 Production Bible: The Singing Network](../production-bibles/season-01-the-singing-network.md)
-- Status: draft, ready for user review.
-- Publication rule: all Season 1 episodes and the Season 2 cliffhanger must be drafted, vetted, and approved before any Season 1 episode is published.
+- Status: released.
+- Publication rule completed: all Season 1 episodes and the Season 2 cliffhanger were drafted, vetted, approved, and published as a simultaneous release.
+
+## Public Release
+
+- Public season page: `content/seasons/season-01-the-singing-network.md`
+- Public episodes: `content/blogs/season-01-episode-01-*` through `content/blogs/season-01-episode-09-*`
+- Release mode: simultaneous drop.
+- Release validation: [Season 1 Release Historical Anchor Analysis](../reports/season-01-release-historical-anchor-analysis.md).
 
 ## BL4CK4T Transformation
 
@@ -88,12 +98,12 @@ Cybertropolis has an old tone-based signal network under Signal Row. Curious out
 
 ## Season 2 Cliffhanger
 
-The finale should close the Echo Grid story first, then reveal a tiny `0.75` discrepancy that Jinx notices after everyone else has moved on. BL4CK4T's final tease should point toward following small threads, setting up Season 2's Cuckoo's Egg-inspired investigation.
+The finale should close the Echo Grid story first, then reveal a tiny `-0.75` discrepancy that Jinx notices after everyone else has moved on. BL4CK4T's final tease should point toward following small threads, setting up Season 2's Cuckoo's Egg-inspired investigation.
 
-## Source Requirements Before Drafting
+## Completed Source Requirements
 
-- Ingest a real-world phone phreaking source page.
-- Ingest or create a concept page for telecom signaling.
+- Real-world phone phreaking source page: [Phone Phreaking And The Blue-Box Era](../sources/real-world/phone-phreaking-blue-box-era.md).
+- Telecom signaling concept carried through the historical account, documentary treatment, story arc, and Hushline adaptation.
 
 ## Production Guardrails
 
