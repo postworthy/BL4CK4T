@@ -10,7 +10,7 @@ sources:
 canon_pages:
   - ../production-bibles/season-05-the-love-letter-plague.md
   - ../story-arcs/season-05-the-love-letter-plague-arc.md
-  - ../seasons/season-06-the-traffic-siege.md
+  - ../seasons/season-06-the-day-the-city-would-not-answer.md
 ---
 
 # Draft: The Love Letter Plague
@@ -38,4 +38,3 @@ The Message Office closes the Glitter Letter incident by turning the team's resp
 - Lesson accuracy: End state emphasizes practical message habits.
 - Safety review: No operational detail.
 - TROPES.md validation: passed after public promotion.
-

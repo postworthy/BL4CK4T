@@ -55,6 +55,16 @@ The series should escalate historically and emotionally:
 9. Trust layers can be attacked.
 10. Small observations can protect global systems.
 
+The current planned Seasons 6-10 macro arc is [The Civic Dependency Arc](../story-arcs/seasons-06-10-civic-dependency-arc.md). It replaces the earlier rough ordering for these slots and focuses on:
+
+1. Availability and civic resilience.
+2. Maintenance and patch responsibility.
+3. Quiet intrusion and crown-jewel protection.
+4. Cyber-physical safety.
+5. Connected-device caretaking.
+
+Displaced historical candidates such as Sandworm/NotPetya, SolarWinds/SUNBURST, and XZ Utils remain strong future-season material for the next macro arc.
+
 ## Production Rule
 
 Season pages can be planned from creative direction. Historically inspired season development requires a completed historical account before transformation work. Episode drafts require source pages, mission packets, continuity review, and safety review before publication.

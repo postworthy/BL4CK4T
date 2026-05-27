@@ -2,6 +2,22 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] canon | Plan Seasons 6-10 Civic Dependency Arc
+
+Formalized the next five-season planning path after Season 5. Added the Civic Dependency Arc as a macro story document and revised the planned Season 6-10 pages around Estonia 2007, MSBlaster/Welchia, Operation Aurora, Stuxnet, and Mirai/Dyn. Preserved the source-first rule: these are planning documents only until each historical account is completed.
+
+Touched areas:
+
+- [story-arcs/seasons-06-10-civic-dependency-arc.md](story-arcs/seasons-06-10-civic-dependency-arc.md)
+- `bl4ck4t-wiki/seasons/season-06-*.md`
+- `bl4ck4t-wiki/seasons/season-07-*.md`
+- `bl4ck4t-wiki/seasons/season-08-*.md`
+- `bl4ck4t-wiki/seasons/season-09-*.md`
+- `bl4ck4t-wiki/seasons/season-10-*.md`
+- [seasons/season-architecture.md](seasons/season-architecture.md)
+- [historical-accounts/README.md](historical-accounts/README.md)
+- [index.md](index.md)
+
 ## [2026-05-27] publish | Release Season 5: The Love Letter Plague
 
 Completed the Season 5 source-first production pipeline for the ILOVEYOU-inspired story arc. Added the historical account, documentary treatment, story-world import, production bible, mission packets, draft mirrors, public season page, public episodes, continuity audit, historical anchor analysis, and entity inventory. Updated canon continuity, open threads, index, and status READMEs.

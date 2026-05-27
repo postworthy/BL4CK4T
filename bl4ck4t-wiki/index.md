@@ -148,6 +148,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 3: The Escaped Experiment Arc](story-arcs/season-03-the-escaped-experiment-arc.md) - Documentary-to-world adaptation for the Morris Worm inspired season.
 - [Season 4: The Invisible Chase Arc](story-arcs/season-04-the-invisible-chase-arc.md) - Documentary-to-world adaptation for the hacker-manhunt inspired season.
 - [Season 5: The Love Letter Plague Arc](story-arcs/season-05-the-love-letter-plague-arc.md) - Documentary-to-world adaptation for the ILOVEYOU inspired season.
+- [Seasons 6-10: The Civic Dependency Arc](story-arcs/seasons-06-10-civic-dependency-arc.md) - Macro planning arc for availability, maintenance, quiet intrusion, physical safety, and connected-device responsibility.
 
 ## Production Bibles
 
@@ -185,11 +186,11 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 3: The Escaped Experiment](seasons/season-03-the-escaped-experiment.md) - Morris Worm inspiration.
 - [Season 4: The Invisible Chase](seasons/season-04-the-invisible-chase.md) - Hacker-manhunt era inspiration.
 - [Season 5: The Love Letter Plague](seasons/season-05-the-love-letter-plague.md) - ILOVEYOU inspiration.
-- [Season 6: The Traffic Siege](seasons/season-06-the-traffic-siege.md) - Estonia cyberattacks inspiration.
-- [Season 7: The Spinning Machine](seasons/season-07-the-spinning-machine.md) - Stuxnet-style cyber-physical inspiration.
-- [Season 8: The Borderless Blast](seasons/season-08-the-borderless-blast.md) - Sandworm, Ukraine grid, and NotPetya inspiration.
-- [Season 9: The Poisoned Keymaker](seasons/season-09-the-poisoned-keymaker.md) - SolarWinds/SUNBURST supply-chain inspiration.
-- [Season 10: The Half-Second Clue](seasons/season-10-the-half-second-clue.md) - XZ Utils near-miss inspiration.
+- [Season 6: The Day The City Would Not Answer](seasons/season-06-the-day-the-city-would-not-answer.md) - Estonia cyberattacks and availability inspiration.
+- [Season 7: The Patch Bell War](seasons/season-07-the-patch-bell-war.md) - MSBlaster, Welchia/Nachi, and patch-debt inspiration.
+- [Season 8: The Aurora Vault](seasons/season-08-the-aurora-vault.md) - Operation Aurora and quiet-intrusion inspiration.
+- [Season 9: The Machine That Lied](seasons/season-09-the-machine-that-lied.md) - Stuxnet-style cyber-physical inspiration.
+- [Season 10: The Army Of Little Eyes](seasons/season-10-the-army-of-little-eyes.md) - Mirai/Dyn and connected-device responsibility inspiration.
 
 ## Season Candidates
 
