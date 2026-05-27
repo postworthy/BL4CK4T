@@ -11,8 +11,3 @@ Current status:
 - [Season 3: The Escaped Experiment](season-03-the-escaped-experiment.md) - released production bible.
 - [Season 4: The Invisible Chase](season-04-the-invisible-chase.md) - released production bible.
 - [Season 5: The Love Letter Plague](season-05-the-love-letter-plague.md) - released production bible.
-- [Season 6: The Day The City Would Not Answer](season-06-the-day-the-city-would-not-answer.md) - released production bible.
-- [Season 7: The Patch Bell War](season-07-the-patch-bell-war.md) - released production bible.
-- [Season 8: The Aurora Vault](season-08-the-aurora-vault.md) - released production bible.
-- [Season 9: The Machine That Lied](season-09-the-machine-that-lied.md) - released production bible.
-- [Season 10: The Army Of Little Eyes](season-10-the-army-of-little-eyes.md) - released production bible.

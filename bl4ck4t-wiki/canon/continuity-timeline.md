@@ -13,11 +13,6 @@ sources:
   - ../production-bibles/season-03-the-escaped-experiment.md
   - ../production-bibles/season-04-the-invisible-chase.md
   - ../production-bibles/season-05-the-love-letter-plague.md
-  - ../production-bibles/season-06-the-day-the-city-would-not-answer.md
-  - ../production-bibles/season-07-the-patch-bell-war.md
-  - ../production-bibles/season-08-the-aurora-vault.md
-  - ../production-bibles/season-09-the-machine-that-lied.md
-  - ../production-bibles/season-10-the-army-of-little-eyes.md
 ---
 
 # Continuity Timeline
@@ -99,47 +94,6 @@ This timeline records the current event order from the published blog and privat
 - The season closes with Message Office handling rules for unexpected, emotional, or mismatched messages.
 - The Season 6 thread opens when every Message Office lamp blinks under a rush of empty delivery receipts.
 
-## Season 6: The Day The City Would Not Answer - Public Hard Continuity
-
-- Season 6 opens from the empty receipt flood at the Message Office.
-- The Queue District, Status Wall Desk, and Service Map enter canon as the city learns availability as a civic trust issue.
-- Whiskers learns that honest uncertainty is stronger than guessing during degraded service.
-- The Flood Prince represents attention without responsibility.
-- The season closes with one red service failing through old patch debt, pointing into Season 7.
-
-## Season 7: The Patch Bell War - Public Hard Continuity
-
-- Season 7 opens from the red unpatched service.
-- The Civic Pages District, Repair Lane, Red Clerk, Helpful Ghost, and Patch Bell enter canon.
-- Cipher learns responsible action under bounded evidence.
-- Byte learns that a clever fix without consent still crosses a boundary.
-- The season closes with a quiet source-plan access clue, pointing into Season 8.
-
-## Season 8: The Aurora Vault - Public Hard Continuity
-
-- Season 8 opens from the quiet source-plan access clue.
-- The Aurora Vault, Aurora Caretakers, Glass Dragon, and Crown Jewel Register enter canon.
-- Jinx learns to read absence, timing, and small impossibilities as evidence.
-- Grimalkin learns that old wisdom must be renewed.
-- The season closes with a partial blueprint pointing below the city, leading into Season 9.
-
-## Season 9: The Machine That Lied - Public Hard Continuity
-
-- Season 9 opens with the blueprint leading into the Foundry Quarter.
-- The Foundry Caretakers, False Engineer, Truth Gauge, and cyber-physical safety line enter canon.
-- Shadow learns to watch the physical world around the system.
-- Byte learns that technical elegance is not beautiful when it hides harm.
-- The season closes with tiny devices answering under repeated factory names, leading into Season 10.
-
-## Season 10: The Army Of Little Eyes - Public Hard Continuity
-
-- Season 10 opens from the tiny devices with repeated factory names.
-- The Little Things District, Nameplate Factory, Shepherd of Little Eyes, and Device Census enter canon.
-- Pixel learns that wonder matures into caretaking.
-- Jinx extends evidence mapping into responsibility mapping.
-- Byte connects device safety to manufacturer responsibility.
-- The season closes by tracing repeated names to a shared update supplier, opening the next macro arc.
-
 ## Current Character Continuity
 
 - The pilot establishes the team in a converted warehouse hideout.
@@ -162,15 +116,10 @@ This timeline records the current event order from the published blog and privat
 - Whiskers extends leadership into warning language and response-lane design.
 - Cipher and Byte make appearance-versus-behavior mismatch visible without exposing harmful mechanics.
 - Jinx carries evidence discipline into humane contact-path mapping.
-- Whiskers completes a Season 6 uncertainty arc by communicating honestly during degraded service.
-- Cipher and Byte complete a Season 7 patch-and-consent arc.
-- Jinx and Grimalkin complete a Season 8 quiet-evidence and renewed-wisdom arc.
-- Shadow and Byte complete a Season 9 physical-safety arc.
-- Pixel completes a Season 10 gadget-caretaking arc.
 
 ## Open Threads
 
-- Season 11 should pick up the shared update supplier clue from Season 10.
+- Season 6 should pick up the empty delivery receipt traffic flood from Season 5.
 - The Row Rebels can return, but future stories should remember that Season 1 treated them as mixed-motive kids, not villains.
 - The Far Relay and Ledgerjack can recur as broader adversary infrastructure, but Season 2 does not establish a captured individual mastermind.
 - The Glass Bureau and shared evidence channel should remain available for later reporting and coordination stories.
@@ -178,4 +127,3 @@ This timeline records the current event order from the published blog and privat
 - The First Bell Desk should remain available for fast lab incident coordination.
 - The Vanishing Caller case is closed; future use should focus on lessons, corrected process, or aftermath rather than reopening the chase.
 - The Glitter Letter incident is closed; future use should focus on message-handling lessons, Quarantine Tray practice, or Message Office aftermath rather than reopening the same outbreak.
-- The Civic Dependency Arc is closed; future use should treat its artifacts as city practices rather than reopening the same incidents.

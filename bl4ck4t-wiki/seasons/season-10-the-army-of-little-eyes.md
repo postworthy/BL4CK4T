@@ -1,6 +1,6 @@
 ---
 type: season
-status: published
+status: planned
 created: 2026-05-26
 updated: 2026-05-27
 season_number: 10
@@ -9,11 +9,7 @@ sources:
   - ../story-arcs/seasons-06-10-civic-dependency-arc.md
 historical_inspiration: [mirai, dyn-ddos, iot-botnet, default-credentials]
 historical_account: ../historical-accounts/mirai-dyn-ddos.md
-primary_lessons:
-  - ../concepts/iot-devices.md
-  - ../concepts/device-inventory.md
-  - ../concepts/default-credentials.md
-
+primary_lessons: []
 featured_characters:
   - ../characters/pixel.md
   - ../characters/jinx.md

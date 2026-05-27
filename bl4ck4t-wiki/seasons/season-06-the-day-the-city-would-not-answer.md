@@ -1,6 +1,6 @@
 ---
 type: season
-status: published
+status: planned
 created: 2026-05-26
 updated: 2026-05-27
 season_number: 6
@@ -9,11 +9,7 @@ sources:
   - ../story-arcs/seasons-06-10-civic-dependency-arc.md
 historical_inspiration: [estonia-2007, ddos, cyber-conflict, civic-resilience]
 historical_account: ../historical-accounts/estonia-cyberattacks-2007.md
-primary_lessons:
-  - ../concepts/availability.md
-  - ../concepts/service-degradation.md
-  - ../concepts/status-communication.md
-
+primary_lessons: []
 featured_characters:
   - ../characters/whiskers.md
   - ../characters/jinx.md

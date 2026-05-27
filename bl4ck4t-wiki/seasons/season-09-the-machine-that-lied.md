@@ -1,6 +1,6 @@
 ---
 type: season
-status: published
+status: planned
 created: 2026-05-26
 updated: 2026-05-27
 season_number: 9
@@ -9,11 +9,7 @@ sources:
   - ../story-arcs/seasons-06-10-civic-dependency-arc.md
 historical_inspiration: [stuxnet, olympic-games, cyber-physical, false-telemetry]
 historical_account: ../historical-accounts/stuxnet-operation-olympic-games.md
-primary_lessons:
-  - ../concepts/telemetry-integrity.md
-  - ../concepts/independent-sensing.md
-  - ../concepts/cyber-physical-safety.md
-
+primary_lessons: []
 featured_characters:
   - ../characters/shadow.md
   - ../characters/byte.md

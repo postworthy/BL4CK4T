@@ -1,6 +1,6 @@
 ---
 type: season
-status: published
+status: planned
 created: 2026-05-26
 updated: 2026-05-27
 season_number: 7
@@ -10,9 +10,7 @@ sources:
 historical_inspiration: [msblaster, welchia-nachi, code-red, nimda, sql-slammer, patch-debt]
 historical_account: ../historical-accounts/msblaster-welchia-worm-era.md
 primary_lessons:
-  - ../concepts/patch-debt.md
-  - ../concepts/verified-repair.md
-  - ../concepts/emergency-change.md
+  - ../concepts/patching.md
 featured_characters:
   - ../characters/cipher.md
   - ../characters/byte.md
