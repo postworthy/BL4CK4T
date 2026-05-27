@@ -14,7 +14,11 @@ sources:
 
 Rollback and recovery are the steps that return a system to a known good state after a problem is contained.
 
-## Season 3 Use
+## BL4CK4T Teaching Frame
+
+Use recovery to show that the quiet after containment still requires careful verification.
+
+## Story Hooks
 
 - Byte learns to prepare restore points before a demo.
 - Cipher checks whether recovered rooms match expected counts.

@@ -14,7 +14,11 @@ sources:
 
 Safe testing boundaries define where an experiment may run, what it may touch, how it stops, and who knows what to do if it behaves unexpectedly.
 
-## Season 3 Use
+## BL4CK4T Teaching Frame
+
+Use testing boundaries to turn curiosity into consent-based practice.
+
+## Story Hooks
 
 - Byte learns that a sandbox needs stop controls, logs, cleanup plans, and caretaker review.
 - Pixel learns that a surprising result is a reason to slow down and document, not a reason to keep poking.

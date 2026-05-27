@@ -14,7 +14,11 @@ sources:
 
 Incident response is the organized work of noticing, containing, understanding, communicating, recovering, and improving after a security problem.
 
-## Season 3 Use
+## BL4CK4T Teaching Frame
+
+Use incident response to make defensive work feel coordinated, human, and practical.
+
+## Story Hooks
 
 - The First Bell Desk becomes Cybertropolis's standing coordination point for lab incidents.
 - Grimalkin coordinates owners, updates, and containment lanes.

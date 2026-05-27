@@ -14,6 +14,10 @@ sources:
 
 Diffie-Hellman lets two parties derive a shared secret over an open channel. BL4CK4T currently uses color mixing as the beginner analogy.
 
+## BL4CK4T Teaching Frame
+
+Use Diffie-Hellman as a story-safe way to show that trust can be built with careful math instead of hidden channels.
+
 ## Story Hooks
 
 - Shared paint colors.

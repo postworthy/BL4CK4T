@@ -62,6 +62,13 @@ Use Byte for safe tooling, demos, toy crypto, network labs, and validation check
 
 Byte should grow from gadget-first builder into thoughtful engineer. The backstory should center on repairing discarded tech in The Old Stack and learning that a clever tool still needs verification, documentation, and care for the people using it.
 
-## Season 3 Development
+## Published Season Canon
 
-Season 3 completes Byte's first major builder-accountability arc. The Copycat Sprite incident teaches Byte to ask `How does this fail?` before future demos, to prepare stop plans and cleanup plans, and to treat recovery as part of building.
+- Pilot: serves as the team builder and makes abstract lessons runnable.
+- Season 1: builds the Tonebox model and learns that a clear demo can be misunderstood outside its original lesson.
+- Season 2: builds the Threadboard as an evidence-preserving instrument instead of a conclusion-forcing tool.
+- Season 3: completes the first major builder-accountability arc through the Copycat Sprite incident.
+
+## Future Use Notes
+
+Byte should carry `How does this fail?` into future demos, prepare stop plans and cleanup plans, and treat recovery as part of building.

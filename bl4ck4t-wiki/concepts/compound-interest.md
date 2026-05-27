@@ -14,6 +14,10 @@ sources:
 
 Compound interest grows by earning on previous growth. In BL4CK4T, it becomes a lesson about patience, time, debt, and steady effort.
 
+## BL4CK4T Teaching Frame
+
+Use compound interest to show how small repeated changes become large over time, for savings, debt, and consistent practice.
+
 ## Story Hooks
 
 - Neon growth curves.

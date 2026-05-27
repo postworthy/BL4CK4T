@@ -14,16 +14,18 @@ sources:
 
 The Civic Learning Grid connects school labs, library terminals, museum kiosks, public learning servers, and old research relays across Cybertropolis. It was built to help learners share projects and resources.
 
-## Story Use
-
-Use the Civic Learning Grid to make Season 2 larger than one lab without turning the story into a chase. The Grid's old trust paths let records, projects, and access passes move between institutions.
-
-## Teaching Frame
+## BL4CK4T Teaching Frame
 
 - Collaboration creates useful connections.
 - Shared trust needs records and caretakers.
 - A problem that crosses systems needs coordinated reporting.
 - Old paths can remain active after people stop thinking about them.
+
+## Story Hooks
+
+- A lab record points to a library terminal.
+- A museum kiosk looks related until timing rules it out.
+- A public learning project crosses more systems than its owners realize.
 
 ## Canon Notes
 

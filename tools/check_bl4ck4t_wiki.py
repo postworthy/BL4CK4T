@@ -13,6 +13,7 @@ WIKI = ROOT / "bl4ck4t-wiki"
 
 LINK_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
 FRONTMATTER_TYPE_RE = re.compile(r"^type:\s*([A-Za-z0-9_-]+)\s*$", re.MULTILINE)
+H2_RE = re.compile(r"^##\s+(.+?)\s*$", re.MULTILINE)
 
 
 def read(path: Path) -> str:
@@ -104,6 +105,89 @@ def validate_missions(errors: list[str]) -> None:
             errors.append(f"{path.relative_to(ROOT)}: mission must link to a concept or lesson")
 
 
+def headings(text: str) -> set[str]:
+    return set(H2_RE.findall(text))
+
+
+def validate_same_type_structure(errors: list[str]) -> None:
+    required_by_dir: dict[str, dict[str, list[str]]] = {
+        "artifacts": {
+            "*.md": ["Published Canon", "Story Function", "Current State"],
+        },
+        "characters": {
+            "bl4ck4t.md": [
+                "Summary",
+                "Hero Anchor",
+                "Current Canon",
+                "Operating Limits",
+                "Voice",
+                "Story Use",
+                "Open Questions",
+                "Growth Direction",
+                "Published Season Canon",
+                "Future Use Notes",
+            ],
+            "script-kitties.md": [
+                "Summary",
+                "Members",
+                "Team Pattern",
+                "Group Voice",
+                "Common Mission Roles",
+                "Public Safety Boundary",
+            ],
+            "*.md": [
+                "Summary",
+                "Hero Anchor",
+                "Current Traits",
+                "Voice",
+                "Strengths",
+                "Flaws",
+                "Visual Motifs And Tools",
+                "Lesson Role",
+                "Backstory Seeds",
+                "Growth Direction",
+                "Published Season Canon",
+                "Future Use Notes",
+            ],
+        },
+        "concepts": {
+            "*.md": ["Summary", "BL4CK4T Teaching Frame", "Story Hooks"],
+        },
+        "factions": {
+            "*.md": ["Summary", "Story Use", "Canon Notes"],
+        },
+        "locations": {
+            "*.md": ["Summary", "Story Use", "Visual Motifs", "Canon Notes"],
+        },
+        "villains": {
+            "villain-backlog.md": ["Summary", "Active Villain Roster", "Backlog Concepts", "Development Notes"],
+            "*.md": [
+                "Summary",
+                "Public Motif",
+                "Personality",
+                "Inspiration Class",
+                "Safe Tactic Abstraction",
+                "Defensive Lesson Mapping",
+                "Episode Hooks",
+            ],
+        },
+    }
+
+    for dirname, patterns in required_by_dir.items():
+        directory = WIKI / dirname
+        if not directory.exists():
+            continue
+        for path in sorted(directory.glob("*.md")):
+            if path.name.upper() == "README.MD":
+                continue
+            required = patterns.get(path.name, patterns.get("*.md", []))
+            text = read(path)
+            present = headings(text)
+            for marker in required:
+                if marker not in present:
+                    errors.append(f"{path.relative_to(ROOT)}: missing required section ## {marker}")
+
+
 def main() -> int:
     errors: list[str] = []
     if not WIKI.exists():
@@ -114,6 +198,7 @@ def main() -> int:
     validate_links(errors)
     validate_drafts(errors)
     validate_missions(errors)
+    validate_same_type_structure(errors)
 
     if errors:
         for error in errors:

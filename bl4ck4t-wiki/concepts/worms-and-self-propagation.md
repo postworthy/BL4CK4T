@@ -14,7 +14,11 @@ sources:
 
 A worm is software that can spread without attaching to another program. In BL4CK4T stories, this becomes fictional copying behavior that teaches propagation risk without explaining real abuse paths.
 
-## Season 3 Use
+## BL4CK4T Teaching Frame
+
+Use fictional copying markers, rooms, and counters to teach spread and resource pressure.
+
+## Story Hooks
 
 - The Copycat Sprite is a story metaphor for self-propagation.
 - The core lesson is spread plus resource pressure, not file destruction.

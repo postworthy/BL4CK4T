@@ -472,3 +472,17 @@ Touched areas:
 - `bl4ck4t-wiki/villains/`
 - [index.md](index.md)
 - [log.md](log.md)
+
+## [2026-05-27] maintenance | Enforce wiki structural consistency
+
+Ran a same-directory structure lint pass across core wiki page types. Normalized character, concept, faction, location, and villain pages so pages of the same role carry consistent sections. Expanded `pnpm wiki:check` to enforce same-type section requirements for artifacts, characters, concepts, factions, locations, and villains, preventing future drift like missing published-season canon or inconsistent character fields.
+
+Touched areas:
+
+- [../tools/check_bl4ck4t_wiki.py](../tools/check_bl4ck4t_wiki.py)
+- `bl4ck4t-wiki/characters/`
+- `bl4ck4t-wiki/concepts/`
+- `bl4ck4t-wiki/factions/`
+- `bl4ck4t-wiki/locations/`
+- `bl4ck4t-wiki/villains/`
+- [log.md](log.md)

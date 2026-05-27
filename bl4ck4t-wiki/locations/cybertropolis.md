@@ -26,6 +26,23 @@ Cybertropolis is the neon city where BL4CK4T stories unfold. It works as both a 
 - Converted warehouse hideout.
 - Holographic or virtual learning interfaces.
 
+## Story Use
+
+Use Cybertropolis as the main metaphor engine for BL4CK4T: networks become streets, trust becomes keys and desks, and invisible system behavior becomes visible city life.
+
+## Visual Motifs
+
+- Neon weather.
+- Rooftops and alleys.
+- Message kiosks and public boards.
+- Old infrastructure beside new tools.
+- Learning labs, markets, and civic desks.
+
+## Canon Notes
+
+- Cybertropolis grows through seasons, but new institutions should not erase old ones.
+- Public season fixes remain valid unless a future story explicitly introduces a new cause.
+
 ## Districts
 
 ### Signal Row

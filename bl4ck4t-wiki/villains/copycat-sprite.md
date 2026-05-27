@@ -14,15 +14,38 @@ sources:
 
 The Copycat Sprite is not a person. It is the Season 3 incident force: a fictional self-copying lab sprite that leaves its expected sandbox and fills connected rooms with extra markers.
 
-## Role
+## Public Motif
 
-- Teaches propagation and resource pressure.
-- Forces Byte to face builder accountability.
-- Gives Grimalkin a response-coordination challenge.
+- Blue markers.
+- Paper-cat-like sprite copies.
+- Rooms that fill slowly.
+- Counters that climb past expected numbers.
 
-## Public Boundary
+## Personality
+
+The Copycat Sprite has no human motive. It behaves like a cheerful, simple process that keeps doing the one thing it was made to do after the context has changed.
+
+## Inspiration Class
+
+Worm-like propagation, unintended spread, resource pressure, and experiments that escape expected boundaries.
+
+## Safe Tactic Abstraction
 
 Keep it visual and fictional. It should never become a real malware recipe.
+
+## Defensive Lesson Mapping
+
+- Define test boundaries.
+- Stop unexpected behavior.
+- Contain spread.
+- Verify recovery.
+- Record impact honestly.
+
+## Episode Hooks
+
+- A ninth marker appears in an empty sandbox room.
+- A retired terminal wakes under a dust cover.
+- A room looks clear until Shadow hears a fan still running.
 
 ## Published Canon Details
 

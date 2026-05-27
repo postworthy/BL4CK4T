@@ -14,6 +14,10 @@ sources:
 
 The Script Kitties are a learner crew guided by BL4CK4T. They are not an offensive hacking group; they are a curiosity-first team learning how systems work so they can help and defend.
 
+## Story Use
+
+Use the team when a lesson needs multiple viewpoints: curiosity, evidence, building, planning, explanation, observation, and leadership.
+
 ## Ethos
 
 - Learn by doing.
@@ -32,3 +36,9 @@ The Script Kitties are a learner crew guided by BL4CK4T. They are not an offensi
 ## Operating Pattern
 
 The team works best when Pixel notices, Jinx questions, Cipher verifies, Byte builds, Shadow observes, Grimalkin coordinates, and Whiskers keeps the mission centered on people.
+
+## Canon Notes
+
+- BL4CK4T guides the team through drops but does not solve missions directly.
+- The team should remain defensive, consent-based, and learner-focused.
+- Published seasons have made them more disciplined without making them adult experts.
