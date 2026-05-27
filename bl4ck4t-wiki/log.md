@@ -2,6 +2,31 @@
 
 Append-only chronological record of wiki operations.
 
+
+## [2026-05-27] publish | Release Seasons 6-10: The Civic Dependency Arc
+
+Completed the autonomous release pipeline for Seasons 6 through 10. Added source pages, historical accounts, documentary treatments, story arcs, support canon, production bibles, mission packets, draft mirrors, public season pages, public episodes, validation reports, and continuity support for the Civic Dependency Arc.
+
+Touched areas:
+
+- `content/blogs/season-0{6..9}-episode-*.md`
+- `content/blogs/season-10-episode-*.md`
+- `content/seasons/season-0{6..9}-*.md`
+- `content/seasons/season-10-*.md`
+- `bl4ck4t-wiki/historical-accounts/`
+- `bl4ck4t-wiki/historical-documentary-treatments/`
+- `bl4ck4t-wiki/story-arcs/`
+- `bl4ck4t-wiki/production-bibles/`
+- `bl4ck4t-wiki/missions/`
+- `bl4ck4t-wiki/drafts/`
+- `bl4ck4t-wiki/reports/`
+- `bl4ck4t-wiki/artifacts/`
+- `bl4ck4t-wiki/concepts/`
+- `bl4ck4t-wiki/factions/`
+- `bl4ck4t-wiki/locations/`
+- `bl4ck4t-wiki/villains/`
+- [index.md](index.md)
+
 ## [2026-05-27] canon | Plan Seasons 6-10 Civic Dependency Arc
 
 Formalized the next five-season planning path after Season 5. Added the Civic Dependency Arc as a macro story document and revised the planned Season 6-10 pages around Estonia 2007, MSBlaster/Welchia, Operation Aurora, Stuxnet, and Mirai/Dyn. Preserved the source-first rule: these are planning documents only until each historical account is completed.

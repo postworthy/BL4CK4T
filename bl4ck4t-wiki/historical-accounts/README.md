@@ -11,11 +11,11 @@ Current status:
 - [Morris Worm](morris-worm.md) - research foundation complete.
 - [Mitnick / Shimomura / hacker-manhunt era](mitnick-shimomura-hacker-manhunt.md) - research foundation complete.
 - [ILOVEYOU / Love Bug](iloveyou-love-bug.md) - research foundation complete.
-- Estonia cyberattacks - not started.
-- MSBlaster / Welchia / early-2000s worm era - not started.
-- Operation Aurora - not started.
-- Stuxnet / Operation Olympic Games - not started.
-- Mirai / Dyn DDoS - not started.
+- [Estonia cyberattacks](estonia-cyberattacks-2007.md) - research foundation complete.
+- [MSBlaster / Welchia / early-2000s worm era](msblaster-welchia-worm-era.md) - research foundation complete.
+- [Operation Aurora](operation-aurora.md) - research foundation complete.
+- [Stuxnet / Operation Olympic Games](stuxnet-operation-olympic-games.md) - research foundation complete.
+- [Mirai / Dyn DDoS](mirai-dyn-ddos.md) - research foundation complete.
 - Sandworm / Ukraine grid / NotPetya - not started.
 - SolarWinds / SUNBURST - not started.
 - XZ Utils backdoor near-miss - not started.

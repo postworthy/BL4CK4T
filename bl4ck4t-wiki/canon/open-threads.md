@@ -12,7 +12,7 @@ sources:
 
 ## Active Threads
 
-- Season 6 traffic flood: Season 5 ends with every Message Office lamp blinking under a rush of empty delivery receipts. The thread should lead into availability, overwhelming traffic, civic dependency, and resilience without operational detail.
+- Season 11 shared update supplier: Season 10 ends by tracing repeated factory names back to a shared update supplier. The thread should lead into supply-chain trust, maker responsibility, update provenance, and platform-scale dependency without operational detail.
 - Far Relay and Ledgerjack: Season 2 leaves the broker layer unresolved. Future stories may expand it, but Ledgerjack should remain indirect unless later canon earns a clearer reveal.
 - Row Rebels: Season 1 leaves them as mixed-motive Signal Row kids, not villains. If they return, preserve curiosity, protest, status, and harm in tension.
 - First Bell Desk: Season 3 creates a standing lab incident coordination point. It should remain available alongside the Glass Bureau.
@@ -25,6 +25,7 @@ sources:
 - Builder's Note: Season 3's accountability pattern can recur when a team-made tool causes unexpected impact.
 - Vanishing Caller: Season 4's chase is closed, but the Notice Wall, Chase Map, and identity-claim reporting pattern can recur.
 - Glitter Letter: Season 5's incident is closed, but the Pink Envelope, Quarantine Tray, and Message Office warning pattern can recur for suspicious-message stories.
+- Civic Dependency Arc: Seasons 6-10 close the availability, maintenance, quiet-intrusion, cyber-physical, and connected-device arc. Service Map, Patch Bell, Crown Jewel Register, Truth Gauge, and Device Census can recur as civic practices.
 
 ## Continuity Warnings
 
@@ -33,3 +34,4 @@ sources:
 - Do not collapse Glass Bureau, First Bell Desk, and Threadboard into the same function; each handles a different part of response.
 - Do not use the Vanishing Caller as the hidden cause of earlier seasons.
 - Do not reopen the Glitter Letter incident as if Season 5 failed; future message incidents need a new cause and continuity reason.
+- Do not make the shared update supplier retroactively responsible for every prior season. It is a forward thread, not an explanation for all past incidents.

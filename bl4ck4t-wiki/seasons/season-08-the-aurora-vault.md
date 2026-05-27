@@ -1,6 +1,6 @@
 ---
 type: season
-status: planned
+status: published
 created: 2026-05-26
 updated: 2026-05-27
 season_number: 8
@@ -9,7 +9,11 @@ sources:
   - ../story-arcs/seasons-06-10-civic-dependency-arc.md
 historical_inspiration: [operation-aurora, targeted-intrusion, source-code-theft, crown-jewels]
 historical_account: ../historical-accounts/operation-aurora.md
-primary_lessons: []
+primary_lessons:
+  - ../concepts/crown-jewel-assets.md
+  - ../concepts/access-boundaries.md
+  - ../concepts/quiet-persistence.md
+
 featured_characters:
   - ../characters/jinx.md
   - ../characters/grimalkin.md
