@@ -34,6 +34,8 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Borrowed Door](artifacts/borrowed-door.md) - Season 2 account-misuse metaphor.
 - [Builder's Note](artifacts/builders-note.md) - Season 3 Byte accountability artifact.
 - [First Bell](artifacts/first-bell.md) - Season 3 incident-response ritual and desk artifact.
+- [Copy Map](artifacts/copy-map.md) - Season 3 spread/evidence map.
+- [Restore Slips](artifacts/restore-slips.md) - Season 3 recovery verification records.
 
 ## Characters
 
@@ -46,6 +48,10 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Cipher](characters/cipher.md) - Codebreaker and math explainer.
 - [Jinx](characters/jinx.md) - Investigator and risk spotter.
 - [Shadow](characters/shadow.md) - Quiet observer and stealth-minded learner.
+- [Ms. Vale](characters/ms-vale.md) - Ledger Lab caretaker and recurring adult ally.
+- [Mira](characters/mira.md) - Signal Row repair figure tied to the Hushline.
+- [Rook](characters/rook.md) - Row Rebels figure from Season 1.
+- [Mr. Olan](characters/mr-olan.md) - Library Systems caretaker from Season 2.
 
 ## Factions
 
@@ -53,6 +59,16 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Glass Bureau](factions/glass-bureau.md) - Season 2 civic reporting and evidence handoff institution.
 - [Far Relay](factions/far-relay.md) - Season 2 adversary broker layer.
 - [First Bell Desk](factions/first-bell-desk.md) - Season 3 lab incident coordination desk.
+- [Row Rebels](factions/row-rebels.md) - Mixed-motive Signal Row youth group from Season 1.
+- [Project Orchard](factions/project-orchard.md) - Affected student project from Season 2.
+- [Team Aster](factions/team-aster.md) - Ledger Lab student team.
+- [Transit Model Club](factions/transit-model-club.md) - Ledger Lab student club.
+- [Grid Intake](factions/grid-intake.md) - Civic Learning Grid report intake desk.
+- [Youth Projects](factions/youth-projects.md) - Student project ownership desk.
+- [Public Terminals](factions/public-terminals.md) - Public endpoint desk.
+- [Library Systems](factions/library-systems.md) - Library terminal systems group.
+- [Museum Systems](factions/museum-systems.md) - Museum kiosk systems group.
+- [Relay Archives](factions/relay-archives.md) - Old relay infrastructure caretakers.
 
 ## Locations
 
@@ -60,6 +76,10 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [The Hideout](locations/the-hideout.md) - Converted warehouse, learning base, and mission staging area.
 - [Ledger Lab](locations/ledger-lab.md) - Season 2 shared computing lab and resource ledger setting.
 - [The Old Stack](locations/the-old-stack.md) - Season 3 retired learning infrastructure beneath the Ledger Lab.
+- [Signal Row](locations/signal-row.md) - Season 1 communications district.
+- [Packet Market](locations/packet-market.md) - Maker and rumor district.
+- [Keylight Gate](locations/keylight-gate.md) - Cryptography and trust district.
+- [Relay Archives Location](locations/relay-archives-location.md) - Archive-adjacent old relay setting.
 
 ## Villains
 
@@ -237,3 +257,4 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 3 Draft Review](reports/season-03-draft-review.md) - Full private draft review against the Season 3 historical account, documentary treatment, story arc, and production bible.
 - [Season 3 Continuity Audit](reports/season-03-continuity-audit.md) - Cross-season continuity audit for Season 3.
 - [Season 3 Release Historical Anchor Analysis](reports/season-03-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
+- [Published Entity Inventory 2026-05-27](reports/published-entity-inventory-2026-05-27.md) - Audit of public-story entities requiring wiki representation.

@@ -486,3 +486,18 @@ Touched areas:
 - `bl4ck4t-wiki/locations/`
 - `bl4ck4t-wiki/villains/`
 - [log.md](log.md)
+
+## [2026-05-27] canon | Backfill missing public story entities
+
+Audited public blog posts from the pilot season through Season 3 for named BL4CK4T-world entities without wiki representation. Added missing character, faction, location, and artifact pages for recurring public canon including Ms. Vale, Mira, Rook, Mr. Olan, Row Rebels, Project Orchard, civic desks, Signal Row, Packet Market, Keylight Gate, Copy Map, and Restore Slips. Filed an entity inventory report and updated the published-canon extraction workflow so future releases require entity inventory backfill.
+
+Touched areas:
+
+- `bl4ck4t-wiki/characters/`
+- `bl4ck4t-wiki/factions/`
+- `bl4ck4t-wiki/locations/`
+- `bl4ck4t-wiki/artifacts/`
+- [reports/published-entity-inventory-2026-05-27.md](reports/published-entity-inventory-2026-05-27.md)
+- [style-guides/published-canon-extraction-workflow.md](style-guides/published-canon-extraction-workflow.md)
+- [index.md](index.md)
+- [log.md](log.md)
