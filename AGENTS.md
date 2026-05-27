@@ -6,6 +6,7 @@ This repo is the public BL4CK4T site plus a private-in-practice worldbuilding wi
 
 - Public articles are the final output. New public posts should match the current blog style: narrative-first Script Kitties stories with a clear learning payload.
 - The wiki is the source of continuity. Before drafting or editing a story, read `bl4ck4t-wiki/index.md` and relevant canon, character, location, lesson, and source pages.
+- During season import work, search the wiki before inventing or reusing named entities. If a new character, faction, villain, location, institution, system, artifact, or recurring concept enters the story, create or update its wiki page during that same work, not after publication.
 - Existing blog content is soft canon. Preserve established details unless the user approves a continuity revision.
 - Cross-season continuity is mandatory. Before reporting a season draft complete or promoting a season to public blog posts, check it against prior seasons with `bl4ck4t-wiki/canon/cross-season-continuity-standard.md` and update `bl4ck4t-wiki/canon/continuity-timeline.md`.
 - Keep real-world cybersecurity inspiration separated from public-facing fiction. Real sources may inform lessons, villain archetypes, tools, TTPs, and incidents, but public stories should transform them into BL4CK4T-world equivalents.
@@ -59,12 +60,14 @@ This repo is the public BL4CK4T site plus a private-in-practice worldbuilding wi
 2. Plan future content as seasons under `bl4ck4t-wiki/seasons/`.
 3. Before transforming a real historical campaign into BL4CK4T story material, create a sourced historical account under `bl4ck4t-wiki/historical-accounts/`.
 4. The historical account must follow `bl4ck4t-wiki/style-guides/historical-journalism-standard.md`.
-5. Only after that historical account is complete may the season decompose the event into fictional villains, districts, artifacts, missions, and episode drafts.
-6. Keep each season focused on one major historical lesson and one emotional growth arc for the Script Kitties.
-7. Create a production bible before creating episode mission packets for a historically inspired season.
-8. For Season 1 specifically, do not publish any episode until all episodes and the Season 2 cliffhanger are drafted, vetted, and approved.
-9. For every season after the pilot, create or update a continuity audit under `bl4ck4t-wiki/reports/` before publication.
-10. Do not publish a season arc or production bible as public content by itself; they guide article generation.
+5. Before importing a historical documentary treatment into BL4CK4T-world story material, follow `bl4ck4t-wiki/style-guides/historical-documentary-import-workflow.md`.
+6. Only after that historical account is complete may the season decompose the event into fictional villains, districts, artifacts, missions, and episode drafts.
+7. Keep each season focused on one major historical lesson and one emotional growth arc for the Script Kitties.
+8. Create or update support canon pages for new characters, factions, villains, locations, institutions, systems, artifacts, and recurring concepts while the story arc and production bible are being built.
+9. Create a production bible before creating episode mission packets for a historically inspired season.
+10. For Season 1 specifically, do not publish any episode until all episodes and the Season 2 cliffhanger are drafted, vetted, and approved.
+11. For every season after the pilot, create or update a continuity audit under `bl4ck4t-wiki/reports/` before publication.
+12. Do not publish a season arc or production bible as public content by itself; they guide article generation.
 
 ## TROPES.md Validation
 

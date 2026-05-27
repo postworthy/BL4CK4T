@@ -501,3 +501,16 @@ Touched areas:
 - [style-guides/published-canon-extraction-workflow.md](style-guides/published-canon-extraction-workflow.md)
 - [index.md](index.md)
 - [log.md](log.md)
+
+## [2026-05-27] maintenance | Require entity creation during season import
+
+Updated the season production workflow so new named story entities are created or updated in the wiki during the historical-documentary import stage, instead of waiting for post-release backfill. Added a dedicated import workflow covering required wiki context, entity reuse, new entity page creation, continuity updates, and completion gates. Tightened the season artifact checklist and published-canon extraction workflow to make post-release extraction a reconciliation pass rather than the primary lore creation process.
+
+Touched areas:
+
+- [../AGENTS.md](../AGENTS.md)
+- [style-guides/historical-documentary-import-workflow.md](style-guides/historical-documentary-import-workflow.md)
+- [style-guides/season-artifact-checklist.md](style-guides/season-artifact-checklist.md)
+- [style-guides/published-canon-extraction-workflow.md](style-guides/published-canon-extraction-workflow.md)
+- [index.md](index.md)
+- [log.md](log.md)

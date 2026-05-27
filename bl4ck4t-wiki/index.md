@@ -20,6 +20,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Real World Transformation Guide](style-guides/real-world-transformation-guide.md) - How real incidents, TTPs, tools, and APT-inspired ideas become BL4CK4T-world material.
 - [Story Draft Checklist](style-guides/story-draft-checklist.md) - Continuity, safety, lesson, and publication checks for drafts.
 - [Historical Journalism Standard](style-guides/historical-journalism-standard.md) - Source, attribution, timeline, uncertainty, and ethics rules for historical cyber accounts.
+- [Historical Documentary Import Workflow](style-guides/historical-documentary-import-workflow.md) - Required story-world import process that creates or updates wiki lore while a season arc is built.
 - [Season Artifact Checklist](style-guides/season-artifact-checklist.md) - Required artifact, validation, status, index, and log checklist for season production.
 - [Published Canon Extraction Workflow](style-guides/published-canon-extraction-workflow.md) - Required post-release backfill process from public season posts into the wiki.
 

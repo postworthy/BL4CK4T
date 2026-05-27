@@ -17,7 +17,8 @@ Use this checklist for every historically inspired season so the source-first pr
 - Historical account in `bl4ck4t-wiki/historical-accounts/`.
 - Historical documentary treatment in `bl4ck4t-wiki/historical-documentary-treatments/`.
 - BL4CK4T-world story arc in `bl4ck4t-wiki/story-arcs/`.
-- Support canon pages for new concepts, locations, factions, villains, and recurring artifacts.
+- Historical documentary import pass using `bl4ck4t-wiki/style-guides/historical-documentary-import-workflow.md`.
+- Support canon pages for new characters, concepts, locations, factions, villains, institutions, systems, and recurring artifacts introduced during story import.
 - Production bible in `bl4ck4t-wiki/production-bibles/`.
 - Mission packets for the declared episode count.
 - Private drafts for the declared episode count.
@@ -41,6 +42,7 @@ Use this checklist for every historically inspired season so the source-first pr
 - `pnpm build` after public files are staged.
 - Manual continuity pass against the pilot, all prior seasons, the current production bible, and `bl4ck4t-wiki/canon/continuity-timeline.md`.
 - Manual historical-anchor pass against the historical account and documentary treatment.
+- Manual entity pass confirming every non-incidental named character, faction, villain, location, institution, system, artifact, and recurring concept introduced during the season has a wiki page or an explicit deferral note.
 
 ## Status Conventions
 

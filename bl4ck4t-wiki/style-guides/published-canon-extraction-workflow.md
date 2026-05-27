@@ -8,7 +8,7 @@ tags: [canon, workflow, seasons]
 
 # Published Canon Extraction Workflow
 
-Run this workflow after every season release.
+Run this workflow after every season release. This is a final reconciliation pass, not the first time season entities should enter the wiki. New entities should already be created during the historical documentary import workflow.
 
 ## Steps
 
