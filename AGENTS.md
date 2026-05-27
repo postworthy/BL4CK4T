@@ -13,6 +13,7 @@ This repo is the public BL4CK4T site plus a private-in-practice worldbuilding wi
 - Youth-safety and ethics matter. Avoid operationally harmful instructions, real target details, or step-by-step abuse paths in public stories. Frame skills around consent, defense, curiosity, and responsible disclosure.
 - Draft first. Create article drafts under `bl4ck4t-wiki/drafts/` unless the user explicitly asks to publish directly into `content/blogs/`.
 - Run `TROPES.md` validation before any user-facing document is published to the site. User-facing means anything in `content/blogs/`, `content/projects/`, or otherwise visible from the main site.
+- Public season releases must pass a manual prose-quality and episode-differentiation review. Do not publish a season if episode openings, scene beats, narration, Teaching Tie-Ins, or conclusions read as templated variants of each other.
 - Update `bl4ck4t-wiki/index.md` and `bl4ck4t-wiki/log.md` after every ingest, canon update, source filing, draft, or maintenance pass.
 - Do not publish the whole wiki as site navigation unless the user explicitly asks. The site may include subtle source-level easter eggs pointing curious readers toward the idea of a hidden canon layer.
 
@@ -67,7 +68,8 @@ This repo is the public BL4CK4T site plus a private-in-practice worldbuilding wi
 9. Create a production bible before creating episode mission packets for a historically inspired season.
 10. For Season 1 specifically, do not publish any episode until all episodes and the Season 2 cliffhanger are drafted, vetted, and approved.
 11. For every season after the pilot, create or update a continuity audit under `bl4ck4t-wiki/reports/` before publication.
-12. Do not publish a season arc or production bible as public content by itself; they guide article generation.
+12. Before publishing any season, run the quality gate in `bl4ck4t-wiki/style-guides/season-release-quality-gate.md` against all drafts and final public posts.
+13. Do not publish a season arc or production bible as public content by itself; they guide article generation.
 
 ## TROPES.md Validation
 

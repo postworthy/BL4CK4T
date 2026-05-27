@@ -39,6 +39,8 @@ Use this checklist before reporting a draft complete and again before promoting 
 
 - Draft has complete Astro-compatible frontmatter in its `Publication Frontmatter` block.
 - Public article title, slug, description, tags, read time, and timestamp are chosen before publication.
+- Season drafts have been compared against neighboring episodes for repeated openings, repeated scene beats, repeated drop mechanics, and same-shaped endings.
+- The season draft review report records the manual checks from [Season Release Quality Gate](season-release-quality-gate.md) before public promotion.
 - `TROPES.md` validation has been run against the draft or public markdown file.
 - Any TROPES.md findings have been revised or explicitly accepted by the user.
 - `pnpm wiki:check` passes.

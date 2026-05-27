@@ -2,6 +2,19 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] maintenance | Retract rushed Season 6-10 release and add quality gate
+
+Removed the rushed public Season 6-10 release from the site and restored the public blog to Pilot through Season 5. Added a release retraction report and a Season Release Quality Gate so future season batches require manual prose differentiation, close-reading, and repeated-structure review before publication.
+
+Touched areas:
+
+- [reports/season-06-10-release-retraction.md](reports/season-06-10-release-retraction.md)
+- [style-guides/season-release-quality-gate.md](style-guides/season-release-quality-gate.md)
+- [style-guides/season-artifact-checklist.md](style-guides/season-artifact-checklist.md)
+- [style-guides/story-draft-checklist.md](style-guides/story-draft-checklist.md)
+- [index.md](index.md)
+- [../AGENTS.md](../AGENTS.md)
+
 ## [2026-05-27] canon | Plan Seasons 6-10 Civic Dependency Arc
 
 Formalized the next five-season planning path after Season 5. Added the Civic Dependency Arc as a macro story document and revised the planned Season 6-10 pages around Estonia 2007, MSBlaster/Welchia, Operation Aurora, Stuxnet, and Mirai/Dyn. Preserved the source-first rule: these are planning documents only until each historical account is completed.

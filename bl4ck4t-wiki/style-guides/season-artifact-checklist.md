@@ -25,6 +25,7 @@ Use this checklist for every historically inspired season so the source-first pr
 - Draft review report in `bl4ck4t-wiki/reports/`.
 - Cross-season continuity audit or explicit update to an existing audit.
 - Release historical-anchor analysis after public copy is frozen.
+- Season release quality gate report entries using `bl4ck4t-wiki/style-guides/season-release-quality-gate.md`.
 
 ## Required Public Artifacts
 
@@ -43,6 +44,7 @@ Use this checklist for every historically inspired season so the source-first pr
 - Manual continuity pass against the pilot, all prior seasons, the current production bible, and `bl4ck4t-wiki/canon/continuity-timeline.md`.
 - Manual historical-anchor pass against the historical account and documentary treatment.
 - Manual entity pass confirming every non-incidental named character, faction, villain, location, institution, system, artifact, and recurring concept introduced during the season has a wiki page or an explicit deferral note.
+- Manual prose-quality and episode-differentiation pass using `bl4ck4t-wiki/style-guides/season-release-quality-gate.md`.
 
 ## Status Conventions
 
