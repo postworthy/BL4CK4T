@@ -179,6 +179,15 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 9: The Poisoned Keymaker](seasons/season-09-the-poisoned-keymaker.md) - SolarWinds/SUNBURST supply-chain inspiration.
 - [Season 10: The Half-Second Clue](seasons/season-10-the-half-second-clue.md) - XZ Utils near-miss inspiration.
 
+## Season Candidates
+
+- [Season Candidate Backlog](season-candidates/README.md) - Future-season option briefs that do not replace the source-first workflow.
+- [Season Candidate Template](season-candidates/template.md) - Required structure for future candidate briefs.
+- [WannaCry Ransomware](season-candidates/wannacry-ransomware.md) - Candidate for ransomware, patch debt, recovery, and public-service disruption.
+- [Log4Shell](season-candidates/log4shell.md) - Candidate for hidden dependencies, software inventory, emergency patching, and long-tail exposure.
+- [Colonial Pipeline / DarkSide](season-candidates/colonial-pipeline-darkside.md) - Candidate for ransomware economics, critical infrastructure, continuity, and public panic.
+- [MOVEit / CL0P](season-candidates/moveit-cl0p.md) - Candidate for managed file transfer, third-party risk, data extortion, and notification discipline.
+
 ## Missions
 
 - [Mission README](missions/README.md) - How mission packets work.

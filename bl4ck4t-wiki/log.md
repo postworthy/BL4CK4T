@@ -547,3 +547,13 @@ Touched areas:
 - [templates/article-draft.md](templates/article-draft.md)
 - [../tools/check_bl4ck4t_wiki.py](../tools/check_bl4ck4t_wiki.py)
 - [log.md](log.md)
+
+## [2026-05-27] maintenance | Create future season candidate backlog
+
+Created a private candidate backlog for major future-season options while keeping Season 5 selected as the ILOVEYOU-inspired Love Letter Plague. Added structured briefs for WannaCry, Log4Shell, Colonial Pipeline / DarkSide, and MOVEit / CL0P, plus a reusable candidate template and backlog README. These pages are selection aids only; any selected candidate still requires the full source-first historical account, documentary treatment, import, production, drafting, validation, and publication process.
+
+Touched areas:
+
+- `bl4ck4t-wiki/season-candidates/`
+- [index.md](index.md)
+- [log.md](log.md)
