@@ -11,6 +11,7 @@ sources:
   - ../production-bibles/season-01-the-singing-network.md
   - ../production-bibles/season-02-the-seventy-five-cent-thread.md
   - ../production-bibles/season-03-the-escaped-experiment.md
+  - ../production-bibles/season-04-the-invisible-chase.md
 ---
 
 # Continuity Timeline
@@ -63,6 +64,20 @@ This timeline records the current event order from the published blog and privat
 - The season closes with the First Bell Desk as a standing lab incident coordination point.
 - The Season 4 thread opens with an anonymous caller asking who gets called a monster.
 
+## Season 4: The Invisible Chase - Public Hard Continuity
+
+- Season 4 opens from the Season 3 anonymous caller thread.
+- The Notice Wall turns the caller's line into a public rumor by adding the `MONSTER` label.
+- The City Chronicle introduces the Vanishing Caller nickname before the evidence is complete.
+- Jinx and Pixel classify public claims as seen, guessed, repeated, or unknown.
+- Shadow and Grimalkin preserve trace evidence at Mirrorline Arcade.
+- Byte and Cipher show that a familiar phrase does not prove a familiar sender.
+- A public rush to Mirrorline Arcade damages some traces and teaches evidence-preservation limits.
+- Jinx and Shadow build the Chase Map to separate confirmed, likely, ruled-out, and unknown evidence.
+- Whiskers and Grimalkin stop a wrong poster from turning suspicion against an innocent student.
+- Shadow and Jinx reach the Caller through evidence. The Caller is held accountable through a proportionate repair path.
+- The season closes with a corrected public record, an identity-claim report process, and a Season 5 pink-envelope clue.
+
 ## Current Character Continuity
 
 - The pilot establishes the team in a converted warehouse hideout.
@@ -79,12 +94,15 @@ This timeline records the current event order from the published blog and privat
 - Pixel remains curiosity-forward and opens the Season 3 copying-process thread.
 - Byte completes the Season 3 builder arc by adding `How does this fail?` to future build kits.
 - Grimalkin becomes a proven incident coordinator through the First Bell Desk.
+- Shadow completes a Season 4 trust arc by moving from hidden observer to trusted witness.
+- Jinx extends her Season 2 evidence discipline into public-claim classification and chase-map standards.
 
 ## Open Threads
 
-- Season 4 should pick up the anonymous caller from Season 3.
+- Season 5 should pick up the pink-envelope clue from Season 4.
 - The Row Rebels can return, but future stories should remember that Season 1 treated them as mixed-motive kids, not villains.
 - The Far Relay and Ledgerjack can recur as broader adversary infrastructure, but Season 2 does not establish a captured individual mastermind.
 - The Glass Bureau and shared evidence channel should remain available for later reporting and coordination stories.
 - The Hushline solved the Echo Grid's message-command confusion in Signal Row, but it did not solve every system risk in Cybertropolis.
 - The First Bell Desk should remain available for fast lab incident coordination.
+- The Vanishing Caller case is closed; future use should focus on lessons, corrected process, or aftermath rather than reopening the chase.

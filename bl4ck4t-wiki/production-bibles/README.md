@@ -7,4 +7,6 @@ Use them to lock the season's voice, release strategy, episode dependencies, cha
 Current status:
 
 - [Season 1: The Singing Network](season-01-the-singing-network.md) - released production bible.
-- [Season 2: The Seventy-Five Cent Thread](season-02-the-seventy-five-cent-thread.md) - draft production bible.
+- [Season 2: The Seventy-Five Cent Thread](season-02-the-seventy-five-cent-thread.md) - released production bible.
+- [Season 3: The Escaped Experiment](season-03-the-escaped-experiment.md) - released production bible.
+- [Season 4: The Invisible Chase](season-04-the-invisible-chase.md) - released production bible.

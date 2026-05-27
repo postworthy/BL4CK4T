@@ -9,7 +9,7 @@ Current status:
 - [Phone phreaking / blue-box era](phone-phreaking-blue-box-era.md) - research foundation complete.
 - [Cuckoo's Egg / Hanover hackers](cuckoos-egg-hanover-hackers.md) - research foundation complete.
 - [Morris Worm](morris-worm.md) - research foundation complete.
-- Mitnick / Shimomura / hacker-manhunt era - not started.
+- [Mitnick / Shimomura / hacker-manhunt era](mitnick-shimomura-hacker-manhunt.md) - research foundation complete.
 - ILOVEYOU / Love Bug - source seed exists, full account not started.
 - Estonia cyberattacks - not started.
 - Stuxnet / Operation Olympic Games - not started.

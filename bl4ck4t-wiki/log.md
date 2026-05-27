@@ -514,3 +514,23 @@ Touched areas:
 - [style-guides/published-canon-extraction-workflow.md](style-guides/published-canon-extraction-workflow.md)
 - [index.md](index.md)
 - [log.md](log.md)
+
+## [2026-05-27] publish | Release Season 4: The Invisible Chase
+
+Completed the Season 4 pipeline for The Invisible Chase. Created the Mitnick/Shimomura hacker-manhunt historical account and documentary treatment, imported the nonfiction spine into BL4CK4T story canon, added support pages for the Vanishing Caller, City Chronicle, Mirrorline Arcade, Notice Wall, Chase Map, Public Mythology, Trace Evidence, and Proportionality, created the production bible, mission packets, private draft mirrors, draft review, continuity audit, release historical-anchor analysis, public season page, and nine public blog posts. Season 4 publishes as a simultaneous drop and closes the Season 3 anonymous-caller thread while opening the Season 5 pink-envelope clue.
+
+Touched areas:
+
+- [sources/real-world/mitnick-shimomura-hacker-manhunt.md](sources/real-world/mitnick-shimomura-hacker-manhunt.md)
+- [historical-accounts/mitnick-shimomura-hacker-manhunt.md](historical-accounts/mitnick-shimomura-hacker-manhunt.md)
+- [historical-documentary-treatments/mitnick-shimomura-hacker-manhunt.md](historical-documentary-treatments/mitnick-shimomura-hacker-manhunt.md)
+- [story-arcs/season-04-the-invisible-chase-arc.md](story-arcs/season-04-the-invisible-chase-arc.md)
+- [production-bibles/season-04-the-invisible-chase.md](production-bibles/season-04-the-invisible-chase.md)
+- `bl4ck4t-wiki/missions/season-04-*`
+- `bl4ck4t-wiki/drafts/season-04-*`
+- `content/blogs/season-04-*`
+- [../content/seasons/season-04-the-invisible-chase.md](../content/seasons/season-04-the-invisible-chase.md)
+- [canon/continuity-timeline.md](canon/continuity-timeline.md)
+- [canon/open-threads.md](canon/open-threads.md)
+- [index.md](index.md)
+- [log.md](log.md)

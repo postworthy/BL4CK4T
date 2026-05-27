@@ -1,20 +1,25 @@
 ---
 type: season
-status: planned
+status: published
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 season_number: 4
 tags: [season, hacker-mythology, social-engineering]
 sources:
   - ../sources/creative-briefs/cyber-history-season-brief.md
+  - ../sources/real-world/mitnick-shimomura-hacker-manhunt.md
 historical_inspiration: [mitnick, shimomura, hacker-manhunt]
 historical_account: ../historical-accounts/mitnick-shimomura-hacker-manhunt.md
 primary_lessons:
   - ../concepts/phishing.md
+  - ../concepts/public-mythology.md
+  - ../concepts/trace-evidence.md
+  - ../concepts/proportionality.md
 featured_characters:
   - ../characters/shadow.md
   - ../characters/jinx.md
-featured_villains: []
+featured_villains:
+  - ../villains/the-vanishing-caller.md
 ---
 
 # Season 4: The Invisible Chase
@@ -30,8 +35,8 @@ Kevin Mitnick, Tsutomu Shimomura, and the hacker-manhunt era.
 ## Historical Account Requirement
 
 - Required account path: `bl4ck4t-wiki/historical-accounts/mitnick-shimomura-hacker-manhunt.md`
-- Status: not started.
-- No BL4CK4T transformation or episode drafting should proceed until the account is complete.
+- Status: complete.
+- The historical account remains separate from fictional transformation.
 
 ## BL4CK4T Transformation
 
@@ -52,16 +57,19 @@ A rumored shadow-hacker becomes the city's obsession. The Script Kitties investi
 
 ## Episode Shape
 
-1. A rumor spreads faster than facts.
-2. Jinx separates evidence from legend.
-3. Shadow follows subtle traces.
-4. The team sees how social engineering works without copying it.
-5. The season ends with a lesson about power, fear, and responsibility.
+1. The Monster Word.
+2. Notice Wall.
+3. Shadow's Trace.
+4. The Borrowed Voice.
+5. Mirrorline Arcade.
+6. The Chase Map.
+7. The Wrong Poster.
+8. Understanding First.
+9. The Invisible Chase.
 
 ## Source Requirements Before Drafting
 
-- Ingest high-level sources on the Mitnick/Shimomura era.
-- Add source pages for social engineering history and public hacker mythology.
+- Source page, historical account, documentary treatment, story arc, production bible, mission packets, drafts, public posts, continuity audit, and historical-anchor analysis completed.
 
 ## Safety Boundaries
 

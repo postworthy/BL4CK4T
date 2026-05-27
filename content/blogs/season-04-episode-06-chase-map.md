@@ -1,0 +1,105 @@
+---
+title: "The Chase Map"
+slug: "season-04-episode-06-chase-map"
+season: "season-04-the-invisible-chase"
+seasonNumber: 4
+episodeNumber: 6
+episodeTitle: "The Chase Map"
+description: "Jinx and Shadow build a map that keeps confirmed, likely, ruled-out, and unknown evidence apart."
+longDescription: "The Script Kitties turn the Vanishing Caller case into a careful Chase Map, refusing to let the cleanest story outrun the facts."
+cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"
+tags: ["story", "script-kitties", "cybersecurity", "evidence", "season-4"]
+readTime: 5
+featured: false
+timestamp: 2026-05-27T00:00:00+00:00
+---
+
+The first Chase Map was ugly.
+
+Jinx considered that a compliment.
+
+Clean maps lied when the case was messy. This one had bent pins, crossed strings, taped labels, and a whole corner reserved for things the team wanted to know but did not.
+
+Shadow placed the Mirrorline booth photo under `CONFIRMED`.
+
+Jinx moved it three inches left.
+
+"Confirmed booth activity," she said. "Identity stays unknown."
+
+Shadow accepted the correction. He was getting better at letting the map be stricter than his instincts.
+
+### The Drop
+
+BL4CK4T's message arrived as four blank labels.
+
+`CONFIRMED`
+
+`LIKELY`
+
+`RULED OUT`
+
+`UNKNOWN`
+
+On the back was one sentence:
+
+`A CHASE MAP SHOULD SLOW THE CHASE.`
+
+Grimalkin pinned that sentence across the top.
+
+### The Lesson Begins
+
+The team sorted everything again.
+
+The original phone call: confirmed.
+
+The monster label: public claim.
+
+The Chronicle nickname: repeated.
+
+The route badge: likely staged.
+
+The copied Ms. Vale phrase: confirmed phrase, unsupported sender.
+
+The high tape from Mirrorline: confirmed object, unknown purpose.
+
+Pixel held up a rumor about the Caller living under the clock stairs.
+
+"Ruled out," Shadow said. "I checked. Only brooms."
+
+Pixel added `BROOMS CLEARED` to the map, which Jinx allowed after a long look.
+
+### Trial And Error
+
+The map did something no one expected.
+
+It made the Caller smaller.
+
+The Vanishing Caller was no longer everywhere. The Caller was tied to a phone call, a message, a staged route, a borrowed phrase, and a few open questions.
+
+Still serious. Less mythical.
+
+Whiskers studied the board. "Now we can ask for Glass Bureau help without handing them a ghost story."
+
+Shadow traced the path linking the First Bell Desk and Mirrorline Arcade. "There is a gap between the copied phrase and the route badge."
+
+Jinx nodded. "Then the gap gets a label."
+
+She wrote `UNKNOWN HANDOFF`.
+
+### Closing Scene
+
+That night, Shadow stayed after the others left.
+
+He added one more note below the map:
+
+`I SAW THIS`
+
+Then another:
+
+`I TOLD THE TEAM`
+
+He looked at both until they felt like the same skill.
+
+## Teaching Tie-In
+
+Good evidence work labels the state of each claim. Confirmed, likely, ruled out, and unknown are different categories. Keeping them separate prevents a fast story from becoming a false conclusion.
