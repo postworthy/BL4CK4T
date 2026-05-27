@@ -8,6 +8,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Continuity Timeline](canon/continuity-timeline.md) - Current event order from the existing blog posts and project page.
 - [Canon Policy](canon/canon-policy.md) - Hard/soft canon rules and revision policy.
 - [Cross-Season Continuity Standard](canon/cross-season-continuity-standard.md) - Required continuity review process for long-running season development.
+- [Open Threads](canon/open-threads.md) - Active unresolved story threads and resolved-but-reusable canon.
 - [Naming Guide](canon/naming-guide.md) - Naming rules for drops, missions, artifacts, districts, villains, and transformed cyber concepts.
 - [Hero Anchor Policy](canon/hero-anchor-policy.md) - Selected hero/persona anchors for BL4CK4T and the Script Kitties.
 - [Historical Grounding Policy](canon/historical-grounding-policy.md) - Required source-first process for seasons based on real cybersecurity history.
@@ -20,6 +21,19 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Story Draft Checklist](style-guides/story-draft-checklist.md) - Continuity, safety, lesson, and publication checks for drafts.
 - [Historical Journalism Standard](style-guides/historical-journalism-standard.md) - Source, attribution, timeline, uncertainty, and ethics rules for historical cyber accounts.
 - [Season Artifact Checklist](style-guides/season-artifact-checklist.md) - Required artifact, validation, status, index, and log checklist for season production.
+- [Published Canon Extraction Workflow](style-guides/published-canon-extraction-workflow.md) - Required post-release backfill process from public season posts into the wiki.
+
+## Artifacts
+
+- [Echo Grid](artifacts/echo-grid.md) - Season 1 old Signal Row message-command architecture.
+- [Hushline](artifacts/hushline.md) - Season 1 architectural fix for Signal Row.
+- [Little Blue Pawprint](artifacts/little-blue-pawprint.md) - Season 1 zine and sticker rumor artifact.
+- [Crunch Charm](artifacts/crunch-charm.md) - Season 1 myth object around the Echo Grid rumor.
+- [Tonebox](artifacts/tonebox.md) - Season 1 Byte/Pixel model for Echo Grid behavior.
+- [Threadboard](artifacts/threadboard.md) - Season 2 evidence wall and ordering tool.
+- [Borrowed Door](artifacts/borrowed-door.md) - Season 2 account-misuse metaphor.
+- [Builder's Note](artifacts/builders-note.md) - Season 3 Byte accountability artifact.
+- [First Bell](artifacts/first-bell.md) - Season 3 incident-response ritual and desk artifact.
 
 ## Characters
 

@@ -27,3 +27,5 @@ Brokered access, underground information markets, espionage-adjacent data tradin
 - The Far Relay is a layer, not one person.
 - It should not overshadow Jinx's investigation.
 - The strongest Season 2 antagonist remains ignored evidence plus brokered misuse.
+- Public Season 2 leaves the Far Relay unresolved.
+- Future stories may expand it through records, marks, traded fragments, or indirect contacts.

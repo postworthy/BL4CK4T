@@ -1,8 +1,8 @@
 ---
 type: character
-status: seed
+status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [character, script-kitty, leader]
 sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
@@ -60,3 +60,13 @@ Use Whiskers to frame consent, teamwork, and the final defensive takeaway.
 ## Growth Direction
 
 Whiskers should grow from eager field leader into a steadier moral center. His formative backstory should involve a small leadership mistake where rushing to decide caused confusion, teaching him that the strongest leader makes space for the whole team.
+
+## Published Season Canon
+
+- Season 1: keeps the team focused when the Echo Grid mystery turns into public consequence.
+- Season 2: bridges the team to the Glass Bureau and protects the Ledger Lab case from overstatement.
+- Season 3: keeps Byte's accountability useful rather than shame-driven and keeps affected students centered.
+
+## Future Use Notes
+
+Whiskers should lead by making space for evidence, repair, and the right teammate's expertise instead of forcing a clean answer early.

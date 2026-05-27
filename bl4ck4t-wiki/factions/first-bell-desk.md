@@ -23,3 +23,9 @@ The First Bell Desk is the standing Cybertropolis coordination point created aft
 ## Continuity Notes
 
 The First Bell Desk complements the Glass Bureau. The Glass Bureau handles cross-grid evidence and civic reports; the First Bell Desk handles fast lab incident coordination.
+
+## Published Canon Details
+
+- Created after the Copycat Sprite incident.
+- Uses a brass bell, response binder, map drawer, first report form, status update form, and recovery check form.
+- Represents calm coordination, not panic.

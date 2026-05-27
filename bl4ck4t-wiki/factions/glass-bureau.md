@@ -30,3 +30,5 @@ Use the Glass Bureau to create realistic friction in Season 2. It asks for proof
 - The Bureau should not be portrayed as useless.
 - It becomes more helpful as the Script Kitties' evidence improves.
 - Whiskers often acts as the bridge between the team and the Bureau.
+- Season 2 establishes the Bureau as useful once knowns, unknowns, ownership, and requested action are clear.
+- The Bureau complements the First Bell Desk; it is not the fast lab incident desk.

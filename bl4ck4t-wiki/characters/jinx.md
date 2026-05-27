@@ -1,8 +1,8 @@
 ---
 type: character
-status: seed
+status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [character, script-kitty, investigator]
 sources:
   - ../sources/blog-interest-of-time.md
@@ -59,3 +59,13 @@ Use Jinx for phishing, social engineering, debt risk, incident clues, and suspic
 ## Growth Direction
 
 Jinx should grow from suspicious clue-hunter into disciplined investigator. Her backstory should involve a small neighborhood mystery where the obvious explanation was wrong, teaching her to collect evidence before accusing anyone.
+
+## Published Season Canon
+
+- Season 1: spots risk around listener marks, false closure consequences, and the `-0.75` clue.
+- Season 2: leads the Ledger Lab investigation and completes her first major evidence-discipline arc.
+- Season 3: applies Season 2 habits to the Copycat Sprite incident by separating knowns, fears, and unknowns.
+
+## Future Use Notes
+
+Jinx should not reset to raw suspicion. She can still ask sharp questions, but future stories should show her using evidence categories and confidence levels.

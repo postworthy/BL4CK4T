@@ -1,8 +1,8 @@
 ---
 type: character
-status: seed
+status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [character, script-kitty, observer]
 sources:
   - ../sources/blog-keys-to-the-city.md
@@ -60,3 +60,13 @@ Use Shadow for authenticity clues, stealthy observation, small beginnings, and h
 ## Growth Direction
 
 Shadow should grow from silent watcher into trusted protector. The backstory should involve a quiet act of noticing that kept someone safe, teaching Shadow that small observations can carry real responsibility.
+
+## Published Season Canon
+
+- Season 1: notices rooftop beacon behavior and sticker-path evidence around the Echo Grid.
+- Season 2: spots physical evidence such as terminal warmth, moved panels, and relay state.
+- Season 3: checks room lights, fans, and physical room state during containment and recovery.
+
+## Future Use Notes
+
+Shadow's observations should continue to matter materially. Avoid using Shadow only as atmosphere.

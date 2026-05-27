@@ -1,8 +1,8 @@
 ---
 type: character
-status: seed
+status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [character, script-kitty, codebreaker]
 sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
@@ -61,3 +61,14 @@ Use Cipher for cryptography, verification, authentication, logic, and math expla
 ## Growth Direction
 
 Cipher should grow from precise puzzle solver into imaginative systems thinker. Her backstory should begin with a notebook of patterns and small codes, then gradually reveal that she is learning not only how machines calculate, but how ideas can be represented and transformed.
+
+## Published Season Canon
+
+- Pilot: explains ciphers, keys, and compound-interest structure.
+- Season 1: finds structure in the Echo Grid signal and helps distinguish artifact myth from system design.
+- Season 2: removes false timing patterns from the Ledger Lab case.
+- Season 3: turns Copycat Sprite counts into a usable copy map and recovery checks.
+
+## Future Use Notes
+
+Cipher should remain precise, but future stories should preserve her Season 2-3 habit of removing weak patterns instead of only finding elegant ones.

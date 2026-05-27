@@ -1,8 +1,8 @@
 ---
 type: character
-status: seed
+status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [character, mentor, mystery]
 sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
@@ -52,3 +52,14 @@ Use BL4CK4T to start the mission, raise the right question, and close the story 
 ## Growth Direction
 
 BL4CK4T should remain publicly mysterious while privately serving as the story's challenge architect. Future canon can reveal pieces of origin slowly, but every reveal should preserve the mentor's core function: preparing younger learners to think ethically without doing the thinking for them.
+
+## Published Season Canon
+
+- Uses compact drops to start, redirect, or close lessons.
+- Does not solve the team's cases directly.
+- Repeatedly asks the team to listen, count, map, preserve, stop, and reflect.
+- Season 3 confirms BL4CK4T can guide response discipline without becoming the responder.
+
+## Future Use Notes
+
+BL4CK4T drops should continue to name the right question, not give the full answer.

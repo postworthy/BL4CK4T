@@ -456,3 +456,19 @@ Touched areas:
 - [canon/continuity-timeline.md](canon/continuity-timeline.md)
 - [index.md](index.md)
 - [log.md](log.md)
+
+## [2026-05-27] canon | Backfill published season canon into wiki
+
+Ran a post-season canon extraction pass across the published Pilot, Season 1, Season 2, and Season 3 material. Added artifact pages for recurring public story objects, created the open-thread tracker and published-canon extraction workflow, and updated character, faction, location, villain, index, and log pages so future seasons can depend on what readers have actually seen.
+
+Touched areas:
+
+- `bl4ck4t-wiki/artifacts/`
+- [canon/open-threads.md](canon/open-threads.md)
+- [style-guides/published-canon-extraction-workflow.md](style-guides/published-canon-extraction-workflow.md)
+- `bl4ck4t-wiki/characters/`
+- `bl4ck4t-wiki/factions/`
+- `bl4ck4t-wiki/locations/`
+- `bl4ck4t-wiki/villains/`
+- [index.md](index.md)
+- [log.md](log.md)

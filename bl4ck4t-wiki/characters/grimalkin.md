@@ -1,8 +1,8 @@
 ---
 type: character
-status: seed
+status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [character, script-kitty, planner]
 sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
@@ -60,3 +60,12 @@ Use Grimalkin for risk modeling, preparation, patching, backups, and long-term t
 ## Growth Direction
 
 Grimalkin should grow from over-planner into resilient strategist. His backstory should include a contained close call where a missing plan created trouble, followed by later stories where he learns that no plan survives without teamwork.
+
+## Published Season Canon
+
+- Season 2: maps ownership paths, old trust paths, and alternate explanations during the Ledger Lab case.
+- Season 3: becomes a proven incident coordinator by creating response lanes, update cadence, and the First Bell Desk.
+
+## Future Use Notes
+
+Grimalkin should now be trusted with response coordination, but he should still need the team's observations to keep plans grounded.

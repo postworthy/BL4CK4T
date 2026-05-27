@@ -51,3 +51,9 @@ Ledgerjack never teaches or demonstrates real intrusion. Public stories show def
 - A torn ledger tab appears beside a resource mismatch.
 - The Threadboard shows a Ledgerjack mark near several unrelated-looking records.
 - Jinx learns that Ledgerjack sells fragments without always knowing what they mean.
+
+## Published Canon Details
+
+- Season 2 introduces Ledgerjack through marks and broker-layer evidence, not direct confrontation.
+- Ledgerjack remains unresolved and indirect after Season 2.
+- Future expansion should not make Ledgerjack retroactively responsible for every unrelated incident.

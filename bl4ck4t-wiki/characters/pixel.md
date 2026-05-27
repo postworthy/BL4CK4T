@@ -1,8 +1,8 @@
 ---
 type: character
-status: seed
+status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [character, script-kitty, curious]
 sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
@@ -61,3 +61,14 @@ Use Pixel for demonstrations, analogies, and safe experiments.
 ## Growth Direction
 
 Pixel should grow from impulsive experimenter into a clear explainer. Pixel's backstory should include a small discovery made by taking apart a harmless object, followed by a lesson that experiments need boundaries so everyone can learn safely.
+
+## Published Season Canon
+
+- Pilot: participates in the first BL4CK4T drops as a visible learner and experimenter.
+- Season 1: hears the hidden three-note phrase beneath Signal Row and drives the wonder side of the Echo Grid mystery.
+- Season 2: notices and builds on small oddities, then opens the Season 3 thread when the toy process copies farther than expected.
+- Season 3: learns to stop, record, and respect boundaries when the ninth marker appears.
+
+## Future Use Notes
+
+Pixel should keep making ideas tangible, but post-Season 3 Pixel should be less eager to rerun surprising behavior without a boundary check.

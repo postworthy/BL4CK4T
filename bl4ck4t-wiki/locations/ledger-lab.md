@@ -32,3 +32,5 @@ Use the Ledger Lab for Season 2's central investigation. It is where the `-0.75`
 - Most Ledger Lab mismatches are ordinary and harmless.
 - The lab should not be portrayed as foolish or broken.
 - Its weakness is that small anomalies are easy to dismiss because the lab sees noise every day.
+- Season 2 creates the Threadboard and shared evidence channel here.
+- Season 3 begins here with the ninth marker and ends with the First Bell Desk.
