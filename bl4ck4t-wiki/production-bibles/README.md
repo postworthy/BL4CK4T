@@ -6,4 +6,5 @@ Use them to lock the season's voice, release strategy, episode dependencies, cha
 
 Current status:
 
-- [Season 1: The Singing Network](season-01-the-singing-network.md) - draft production bible.
+- [Season 1: The Singing Network](season-01-the-singing-network.md) - released production bible.
+- [Season 2: The Seventy-Five Cent Thread](season-02-the-seventy-five-cent-thread.md) - draft production bible.

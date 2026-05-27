@@ -2,7 +2,7 @@
 type: style-guide
 status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [drafts, review, safety, continuity]
 sources: []
 ---
@@ -18,6 +18,7 @@ Use this checklist before reporting a draft complete and again before promoting 
 - The story matches the [World Bible](../canon/world-bible.md).
 - Character behavior matches the relevant character pages.
 - The mission has a clear place in the [Continuity Timeline](../canon/continuity-timeline.md).
+- The story has been checked against [Cross-Season Continuity Standard](../canon/cross-season-continuity-standard.md) when it belongs to a season after the pilot.
 - New canon details are recorded in the wiki.
 
 ## Lesson Check

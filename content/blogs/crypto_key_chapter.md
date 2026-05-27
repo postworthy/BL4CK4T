@@ -16,7 +16,7 @@ timestamp: 2025-09-17T00:00:00+00:00
 
 # 🐾 Keys to the City: Public–Private Crypto
 
-<img src="https://bl4ck4t.com/shared-secret.png" style="float: left;margin: 0px 10px 0px 0px;" width="250" alt="the script kitties blending colors into a shared secret"> The neon glow of Cybertropolis hummed as the Script Kitties gathered on a rooftop. A faint pawprint shimmered on a nearby billboard—BL4CK4T’s latest drop.
+<img src="https://bl4ck4t.com/shared-secret.png" style="float: left;margin: 0px 10px 0px 0px;" width="250" alt="the script kitties blending colors into a shared secret"> The neon glow of Cybertropolis hummed as the Script Kitties gathered on a rooftop. A faint pawprint shimmered on a nearby billboard: BL4CK4T’s latest drop.
 
 ## The Drop
 
@@ -37,13 +37,13 @@ The message flickered, then dissolved into the night. Grimalkin narrowed his eye
 4. Anyone can encrypt with the public key, but only you can decrypt with the private key.
 5. You can also “sign” with the private key, and anyone can verify with the public key.
 
-**Why it matters:** This is the backbone of secure communication on the web—without it, HTTPS, digital signatures, and secure logins would collapse.
+**Why it matters:** This is the backbone of secure communication on the web. Without it, HTTPS, digital signatures, and secure logins would collapse.
 
 ## Trial and Error
 
-Pixel bounced on his heels. “Let’s try Diffie–Hellman first!” He sketched colors in chalk on the rooftop. “We each mix our private paint with the same base color. Then we swap and mix again. Presto—shared secret!”
+Pixel bounced on his heels. “Let’s try Diffie–Hellman first!” He sketched colors in chalk on the rooftop. “We each mix our private paint with the same base color. Then we swap and mix again. Presto, shared secret!”
 
-Byte tapped on his tablet, spinning up code to simulate RSA. “I’ll make a tiny demo. Two small primes, one modulus—boom, public and private keys.”
+Byte tapped on his tablet, spinning up code to simulate RSA. “I’ll make a tiny demo. Two small primes, one modulus, and we have public and private keys.”
 
 Cipher checked the math carefully. “Encrypt a message with the public key.” She tossed a neon sticker across the roof. “Now decrypt it with the private one.” The message revealed itself: **STAY CURIOUS.**
 
@@ -57,7 +57,7 @@ Shadow smirked from the shadows. “No fake whispers tonight.”
 
 The encrypted billboard shimmered again, the pawprint fading into the night. The Kitties smiled. They had learned how secrets could be safely shared even in plain sight.
 
-Pixel stretched. “Keys that work in pairs—like us.”
+Pixel stretched. “Keys that work in pairs, like us.”
 
 Grimalkin added, “One to protect, one to prove. Balance.”
 

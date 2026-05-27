@@ -7,6 +7,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [World Bible](canon/world-bible.md) - Soft-canon baseline for Cybertropolis, BL4CK4T, the Script Kitties, and story rules.
 - [Continuity Timeline](canon/continuity-timeline.md) - Current event order from the existing blog posts and project page.
 - [Canon Policy](canon/canon-policy.md) - Hard/soft canon rules and revision policy.
+- [Cross-Season Continuity Standard](canon/cross-season-continuity-standard.md) - Required continuity review process for long-running season development.
 - [Naming Guide](canon/naming-guide.md) - Naming rules for drops, missions, artifacts, districts, villains, and transformed cyber concepts.
 - [Hero Anchor Policy](canon/hero-anchor-policy.md) - Selected hero/persona anchors for BL4CK4T and the Script Kitties.
 - [Historical Grounding Policy](canon/historical-grounding-policy.md) - Required source-first process for seasons based on real cybersecurity history.
@@ -34,17 +35,21 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 ## Factions
 
 - [Script Kitties](factions/script-kitties.md) - The learner crew at the center of the stories.
+- [Glass Bureau](factions/glass-bureau.md) - Season 2 civic reporting and evidence handoff institution.
+- [Far Relay](factions/far-relay.md) - Season 2 adversary broker layer.
 
 ## Locations
 
 - [Cybertropolis](locations/cybertropolis.md) - Neon city setting and educational metaphor space.
 - [The Hideout](locations/the-hideout.md) - Converted warehouse, learning base, and mission staging area.
+- [Ledger Lab](locations/ledger-lab.md) - Season 2 shared computing lab and resource ledger setting.
 
 ## Villains
 
 - [The Phishmonger](villains/the-phishmonger.md) - Social-trust villain for phishing and verification lessons.
 - [Patch Phantom](villains/patch-phantom.md) - Legacy-risk villain for patching and asset inventory lessons.
 - [Supply Serpent](villains/supply-serpent.md) - Provenance villain for dependency and supply-chain lessons.
+- [Ledgerjack](villains/ledgerjack.md) - Season 2 broker figure connected to account misuse and mismatched records.
 - [Villain Backlog](villains/villain-backlog.md) - Fictional adversary concepts loosely inspired by real threat patterns.
 
 ## Concepts
@@ -59,6 +64,14 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Ransomware](concepts/ransomware.md) - Data-locking extortion and recovery lesson.
 - [Supply Chain Trust](concepts/supply-chain-trust.md) - Dependency, provenance, and package trust lesson.
 - [Network Discovery](concepts/network-discovery.md) - Authorized mapping of lab networks and services.
+- [Logging And Audit Trails](concepts/logging-and-audit-trails.md) - Season 2 concept for ordered system records and evidence trails.
+- [Intrusion Detection](concepts/intrusion-detection.md) - Season 2 concept for defender-side monitoring and investigation.
+- [Anomaly Investigation](concepts/anomaly-investigation.md) - Season 2 concept for investigating small mismatches without jumping to conclusions.
+- [Evidence Preservation](concepts/evidence-preservation.md) - Season 2 concept for keeping records intact and reviewable.
+- [Account Misuse](concepts/account-misuse.md) - Season 2 concept for borrowed access from the defender's point of view.
+- [Incident Reporting](concepts/incident-reporting.md) - Season 2 concept for turning findings into useful reports.
+- [Shared-System Accounting](concepts/shared-system-accounting.md) - Season 2 concept for resource ledgers in shared systems.
+- [Civic Learning Grid](concepts/civic-learning-grid.md) - Season 2 shared public learning infrastructure.
 
 ## Lessons
 
@@ -71,21 +84,25 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 
 - [Origin Arc](story-arcs/origin-arc.md) - Current opening continuity from the first three blog posts.
 - [Season 1: The Singing Network Arc](story-arcs/season-01-the-singing-network-arc.md) - Documentary-to-world adaptation for the phone-phreaking inspired season.
+- [Season 2: The Seventy-Five Cent Thread Arc](story-arcs/season-02-the-seventy-five-cent-thread-arc.md) - Documentary-to-world adaptation for the Cuckoo's Egg inspired season.
 
 ## Production Bibles
 
 - [Production Bibles README](production-bibles/README.md) - Season production control documents.
 - [Season 1: The Singing Network Production Bible](production-bibles/season-01-the-singing-network.md) - Production plan, episode controls, and release gate for Season 1.
+- [Season 2: The Seventy-Five Cent Thread Production Bible](production-bibles/season-02-the-seventy-five-cent-thread.md) - Production plan, episode controls, and release gate for Season 2.
 
 ## Historical Accounts
 
 - [Historical Accounts README](historical-accounts/README.md) - Rules and status for source-backed historical narratives.
 - [Phone Phreaking And The Blue-Box Era](historical-accounts/phone-phreaking-blue-box-era.md) - Completed historical research foundation.
+- [The Cuckoo's Egg And The Hanover Hackers](historical-accounts/cuckoos-egg-hanover-hackers.md) - Completed historical research foundation.
 
 ## Historical Documentary Treatments
 
 - [Historical Documentary Treatments README](historical-documentary-treatments/README.md) - Post-research nonfiction narrative treatment workflow.
 - [Phone Phreaking And The Blue-Box Era Documentary Treatment](historical-documentary-treatments/phone-phreaking-blue-box-era.md) - Documentary movement structure derived from the historical account.
+- [The Cuckoo's Egg And The Hanover Hackers Documentary Treatment](historical-documentary-treatments/cuckoos-egg-hanover-hackers.md) - Season 2 documentary movement structure derived from the historical account.
 
 ## Seasons
 
@@ -115,6 +132,15 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 1 Episode 7: The False Closure](missions/season-01-episode-07-false-closure.md) - Mission packet for the seventh Season 1 episode.
 - [Season 1 Episode 8: The Hushline](missions/season-01-episode-08-hushline.md) - Mission packet for the eighth Season 1 episode.
 - [Season 1 Episode 9: The City Still Sings](missions/season-01-episode-09-city-still-sings.md) - Mission packet for the Season 1 finale.
+- [Season 2 Episode 1: The Seventy-Five Cent Thread](missions/season-02-episode-01-seventy-five-cent-thread.md) - Mission packet for the Season 2 opener.
+- [Season 2 Episode 2: The Ledger Lab](missions/season-02-episode-02-ledger-lab.md) - Mission packet for the second Season 2 episode.
+- [Season 2 Episode 3: The Borrowed Door](missions/season-02-episode-03-borrowed-door.md) - Mission packet for the third Season 2 episode.
+- [Season 2 Episode 4: The Threadboard](missions/season-02-episode-04-threadboard.md) - Mission packet for the fourth Season 2 episode.
+- [Season 2 Episode 5: Nobody Owns The Thread](missions/season-02-episode-05-nobody-owns-thread.md) - Mission packet for the fifth Season 2 episode.
+- [Season 2 Episode 6: Old Trust Paths](missions/season-02-episode-06-old-trust-paths.md) - Mission packet for the sixth Season 2 episode.
+- [Season 2 Episode 7: The Far Relay](missions/season-02-episode-07-far-relay.md) - Mission packet for the seventh Season 2 episode.
+- [Season 2 Episode 8: The Investigator's Case](missions/season-02-episode-08-investigators-case.md) - Mission packet for the eighth Season 2 episode.
+- [Season 2 Episode 9: What The Records Changed](missions/season-02-episode-09-records-changed.md) - Mission packet for the Season 2 finale.
 
 ## Sources
 
@@ -129,6 +155,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Supply Chain Risk](sources/real-world/supply-chain-risk.md) - Source page for provenance and third-party dependency lessons.
 - [Nmap](sources/real-world/nmap.md) - Source page for authorized network discovery.
 - [OWASP Juice Shop](sources/real-world/owasp-juice-shop.md) - Source page for safe web-security practice.
+- [The Cuckoo's Egg And The Hanover Hackers](sources/real-world/cuckoos-egg-hanover-hackers.md) - Source page for the Season 2 historical account.
 - [Cyber History Season Brief](sources/creative-briefs/cyber-history-season-brief.md) - User-supplied creative direction for season-level historical arcs.
 
 ## Drafts
@@ -143,8 +170,20 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 1 Episode 7: The False Closure](drafts/season-01-episode-07-false-closure.md) - Draft article for the seventh Season 1 episode.
 - [Season 1 Episode 8: The Hushline](drafts/season-01-episode-08-hushline.md) - Draft article for the eighth Season 1 episode.
 - [Season 1 Episode 9: The City Still Sings](drafts/season-01-episode-09-city-still-sings.md) - Draft article for the Season 1 finale.
+- [Season 2 Episode 1: The Seventy-Five Cent Thread](drafts/season-02-episode-01-seventy-five-cent-thread.md) - Draft article for the Season 2 opener.
+- [Season 2 Episode 2: The Ledger Lab](drafts/season-02-episode-02-ledger-lab.md) - Draft article for the second Season 2 episode.
+- [Season 2 Episode 3: The Borrowed Door](drafts/season-02-episode-03-borrowed-door.md) - Draft article for the third Season 2 episode.
+- [Season 2 Episode 4: The Threadboard](drafts/season-02-episode-04-threadboard.md) - Draft article for the fourth Season 2 episode.
+- [Season 2 Episode 5: Nobody Owns The Thread](drafts/season-02-episode-05-nobody-owns-thread.md) - Draft article for the fifth Season 2 episode.
+- [Season 2 Episode 6: Old Trust Paths](drafts/season-02-episode-06-old-trust-paths.md) - Draft article for the sixth Season 2 episode.
+- [Season 2 Episode 7: The Far Relay](drafts/season-02-episode-07-far-relay.md) - Draft article for the seventh Season 2 episode.
+- [Season 2 Episode 8: The Investigator's Case](drafts/season-02-episode-08-investigators-case.md) - Draft article for the eighth Season 2 episode.
+- [Season 2 Episode 9: What The Records Changed](drafts/season-02-episode-09-records-changed.md) - Draft article for the Season 2 finale.
 
 ## Reports
 
 - [2026-05-26 Wiki Lint Report](reports/2026-05-26-wiki-lint.md) - Structural lint, maturity review, and recommended next attention areas.
 - [Season 1 Release Historical Anchor Analysis](reports/season-01-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
+- [Season 2 Draft Review](reports/season-02-draft-review.md) - Full private draft review against the Season 2 historical account, documentary treatment, story arc, and production bible.
+- [Series Continuity Audit 2026-05-27](reports/series-continuity-audit-2026-05-27.md) - First cross-season continuity audit covering the pilot, Season 1, and private Season 2 draft set.
+- [Season 2 Release Historical Anchor Analysis](reports/season-02-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.

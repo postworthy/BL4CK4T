@@ -277,3 +277,146 @@ Touched pages:
 - [../content/blogs/season-01-episode-07-false-closure.md](../content/blogs/season-01-episode-07-false-closure.md)
 - [../content/blogs/season-01-episode-08-hushline.md](../content/blogs/season-01-episode-08-hushline.md)
 - [../content/blogs/season-01-episode-09-city-still-sings.md](../content/blogs/season-01-episode-09-city-still-sings.md)
+
+## [2026-05-27] ingest | Start Season 2 historical account
+
+Started the Season 2 historical research foundation for The Cuckoo's Egg and the Hanover hackers. Added a real-world source page, created the historical account draft, updated the Season 2 status, and indexed the new source and account. The document remains historical-only and does not include BL4CK4T-world transformation material.
+
+Closed the initial research gaps by adding contemporaneous indictment and conviction reporting, German court-reporting detail, publication metadata, dated investigation milestones from Stoll's CACM article, and caveated actor roles for Hess, Brzezinski, Carl, Koch, and Huebner.
+
+Touched pages:
+
+- [historical-accounts/cuckoos-egg-hanover-hackers.md](historical-accounts/cuckoos-egg-hanover-hackers.md)
+- [sources/real-world/cuckoos-egg-hanover-hackers.md](sources/real-world/cuckoos-egg-hanover-hackers.md)
+- [seasons/season-02-the-seventy-five-cent-thread.md](seasons/season-02-the-seventy-five-cent-thread.md)
+- [index.md](index.md)
+
+## [2026-05-27] ingest | Create Season 2 documentary treatment
+
+Created the nonfiction documentary movement structure for The Cuckoo's Egg and the Hanover hackers. The treatment follows the completed historical account from the seventy-five-cent accounting mismatch through LBL infrastructure, evidence building, institutional friction, cross-border tracing, the Celle convictions, and the defender-as-detective legacy. The document remains historical-only and does not include BL4CK4T-world transformation material.
+
+Touched pages:
+
+- [historical-documentary-treatments/cuckoos-egg-hanover-hackers.md](historical-documentary-treatments/cuckoos-egg-hanover-hackers.md)
+- [seasons/season-02-the-seventy-five-cent-thread.md](seasons/season-02-the-seventy-five-cent-thread.md)
+- [index.md](index.md)
+
+## [2026-05-27] canon | Create Season 2 story arc
+
+Created the BL4CK4T-world story arc adaptation for The Seventy-Five Cent Thread. The arc imports the nonfiction documentary movements into Cybertropolis while preserving the historical spine: a tiny accounting mismatch, shared computing infrastructure, evidence building, institutional friction, cross-system tracing, an indirect adversary layer, and the defender-as-detective focus. The arc centers Jinx's suspicion-to-evidence growth and seeds the Morris Worm-inspired Season 3 cliffhanger.
+
+Touched pages:
+
+- [story-arcs/season-02-the-seventy-five-cent-thread-arc.md](story-arcs/season-02-the-seventy-five-cent-thread-arc.md)
+- [seasons/season-02-the-seventy-five-cent-thread.md](seasons/season-02-the-seventy-five-cent-thread.md)
+- [index.md](index.md)
+
+## [2026-05-27] canon | Create Season 2 production bible
+
+Created the Season 2 production bible for The Seventy-Five Cent Thread. The bible defines the release gate, source chain, season promise, story engine, core canon, character production notes, episode control grid, episode requirements, Season 3 cliffhanger, required concept/world pages, continuity rules, publication voice rules, production workflow, and draft tracker.
+
+Touched pages:
+
+- [production-bibles/season-02-the-seventy-five-cent-thread.md](production-bibles/season-02-the-seventy-five-cent-thread.md)
+- [production-bibles/README.md](production-bibles/README.md)
+- [seasons/season-02-the-seventy-five-cent-thread.md](seasons/season-02-the-seventy-five-cent-thread.md)
+- [index.md](index.md)
+
+## [2026-05-27] canon | Add Season 2 support canon
+
+Created the required Season 2 support canon before mission drafting: logging, intrusion detection, anomaly investigation, evidence preservation, account misuse, incident reporting, shared-system accounting, Civic Learning Grid, Ledger Lab, Glass Bureau, Far Relay, and Ledgerjack. These pages stabilize the concepts, institutions, locations, and adversary layer used by The Seventy-Five Cent Thread.
+
+Touched pages:
+
+- [concepts/logging-and-audit-trails.md](concepts/logging-and-audit-trails.md)
+- [concepts/intrusion-detection.md](concepts/intrusion-detection.md)
+- [concepts/anomaly-investigation.md](concepts/anomaly-investigation.md)
+- [concepts/evidence-preservation.md](concepts/evidence-preservation.md)
+- [concepts/account-misuse.md](concepts/account-misuse.md)
+- [concepts/incident-reporting.md](concepts/incident-reporting.md)
+- [concepts/shared-system-accounting.md](concepts/shared-system-accounting.md)
+- [concepts/civic-learning-grid.md](concepts/civic-learning-grid.md)
+- [locations/ledger-lab.md](locations/ledger-lab.md)
+- [factions/glass-bureau.md](factions/glass-bureau.md)
+- [factions/far-relay.md](factions/far-relay.md)
+- [villains/ledgerjack.md](villains/ledgerjack.md)
+- [index.md](index.md)
+
+## [2026-05-27] draft | Create Season 2 mission packets and episode drafts
+
+Created mission packets and private article drafts for all nine Season 2 episodes in The Seventy-Five Cent Thread. The draft set carries Jinx's investigation arc from the `-0.75` mismatch through the Ledger Lab, Borrowed Door, Threadboard, Glass Bureau, old trust paths, Far Relay, formal case presentation, changed reporting practice, and the Season 3 toy-process cliffhanger. The draft set passes `pnpm wiki:check` and `pnpm tropes:check` across the nine Season 2 draft files.
+
+Touched pages:
+
+- [missions/season-02-episode-01-seventy-five-cent-thread.md](missions/season-02-episode-01-seventy-five-cent-thread.md)
+- [missions/season-02-episode-02-ledger-lab.md](missions/season-02-episode-02-ledger-lab.md)
+- [missions/season-02-episode-03-borrowed-door.md](missions/season-02-episode-03-borrowed-door.md)
+- [missions/season-02-episode-04-threadboard.md](missions/season-02-episode-04-threadboard.md)
+- [missions/season-02-episode-05-nobody-owns-thread.md](missions/season-02-episode-05-nobody-owns-thread.md)
+- [missions/season-02-episode-06-old-trust-paths.md](missions/season-02-episode-06-old-trust-paths.md)
+- [missions/season-02-episode-07-far-relay.md](missions/season-02-episode-07-far-relay.md)
+- [missions/season-02-episode-08-investigators-case.md](missions/season-02-episode-08-investigators-case.md)
+- [missions/season-02-episode-09-records-changed.md](missions/season-02-episode-09-records-changed.md)
+- [drafts/season-02-episode-01-seventy-five-cent-thread.md](drafts/season-02-episode-01-seventy-five-cent-thread.md)
+- [drafts/season-02-episode-02-ledger-lab.md](drafts/season-02-episode-02-ledger-lab.md)
+- [drafts/season-02-episode-03-borrowed-door.md](drafts/season-02-episode-03-borrowed-door.md)
+- [drafts/season-02-episode-04-threadboard.md](drafts/season-02-episode-04-threadboard.md)
+- [drafts/season-02-episode-05-nobody-owns-thread.md](drafts/season-02-episode-05-nobody-owns-thread.md)
+- [drafts/season-02-episode-06-old-trust-paths.md](drafts/season-02-episode-06-old-trust-paths.md)
+- [drafts/season-02-episode-07-far-relay.md](drafts/season-02-episode-07-far-relay.md)
+- [drafts/season-02-episode-08-investigators-case.md](drafts/season-02-episode-08-investigators-case.md)
+- [drafts/season-02-episode-09-records-changed.md](drafts/season-02-episode-09-records-changed.md)
+- [production-bibles/season-02-the-seventy-five-cent-thread.md](production-bibles/season-02-the-seventy-five-cent-thread.md)
+- [index.md](index.md)
+
+## [2026-05-27] maintenance | Review Season 2 private draft set
+
+Completed the Season 2 private draft review pass against the historical account, documentary treatment, story arc, and production bible. The review confirms the full draft set preserves the Cuckoo's Egg-inspired historical spine while keeping public fiction transformed into BL4CK4T-world elements. The pass covers continuity, Jinx's character arc, evidence/concept handling, historical cleanliness, and the Season 3 cliffhanger. Updated the production bible tracker to show draft-level continuity and TROPES checks complete, with publication still blocked until user approval.
+
+Touched pages:
+
+- [reports/season-02-draft-review.md](reports/season-02-draft-review.md)
+- [production-bibles/season-02-the-seventy-five-cent-thread.md](production-bibles/season-02-the-seventy-five-cent-thread.md)
+- [index.md](index.md)
+- [log.md](log.md)
+
+## [2026-05-27] canon | Establish cross-season continuity discipline
+
+Added a formal cross-season continuity standard and expanded the continuity timeline from pilot-only coverage into a series-level memory for the pilot, Season 1, and private Season 2 draft continuity. Updated agent workflow guidance, the story draft checklist, season architecture, and canon policy so future seasons must be checked against prior seasons before publication. Filed the first series continuity audit and found no blocking contradictions across the pilot, Season 1, and Season 2 draft set.
+
+Touched pages:
+
+- [canon/cross-season-continuity-standard.md](canon/cross-season-continuity-standard.md)
+- [canon/continuity-timeline.md](canon/continuity-timeline.md)
+- [canon/canon-policy.md](canon/canon-policy.md)
+- [style-guides/story-draft-checklist.md](style-guides/story-draft-checklist.md)
+- [seasons/season-architecture.md](seasons/season-architecture.md)
+- [reports/series-continuity-audit-2026-05-27.md](reports/series-continuity-audit-2026-05-27.md)
+- [index.md](index.md)
+- [../AGENTS.md](../AGENTS.md)
+
+## [2026-05-27] publish | Release Season 2 public article files
+
+Promoted all nine Season 2 drafts into public blog markdown files under `content/blogs/` and added the public Season 2 landing page under `content/seasons/`. All Season 2 public timestamps are aligned to `2026-05-27T00:00:00+00:00` so the season publishes simultaneously. Ran TROPES.md validation on the final public Season 2 markdown files, cleaned older public Pilot/Project copy so the full public TROPES gate passes, ran the wiki check, ran the site build, and filed the final historical anchor analysis comparing the released season against the Cuckoo's Egg historical account and documentary treatment.
+
+Touched pages:
+
+- [../content/seasons/season-02-the-seventy-five-cent-thread.md](../content/seasons/season-02-the-seventy-five-cent-thread.md)
+- [../content/blogs/season-02-episode-01-seventy-five-cent-thread.md](../content/blogs/season-02-episode-01-seventy-five-cent-thread.md)
+- [../content/blogs/season-02-episode-02-ledger-lab.md](../content/blogs/season-02-episode-02-ledger-lab.md)
+- [../content/blogs/season-02-episode-03-borrowed-door.md](../content/blogs/season-02-episode-03-borrowed-door.md)
+- [../content/blogs/season-02-episode-04-threadboard.md](../content/blogs/season-02-episode-04-threadboard.md)
+- [../content/blogs/season-02-episode-05-nobody-owns-thread.md](../content/blogs/season-02-episode-05-nobody-owns-thread.md)
+- [../content/blogs/season-02-episode-06-old-trust-paths.md](../content/blogs/season-02-episode-06-old-trust-paths.md)
+- [../content/blogs/season-02-episode-07-far-relay.md](../content/blogs/season-02-episode-07-far-relay.md)
+- [../content/blogs/season-02-episode-08-investigators-case.md](../content/blogs/season-02-episode-08-investigators-case.md)
+- [../content/blogs/season-02-episode-09-records-changed.md](../content/blogs/season-02-episode-09-records-changed.md)
+- [../content/blogs/script-kitties-episode-1-hidden-code.md](../content/blogs/script-kitties-episode-1-hidden-code.md)
+- [../content/blogs/crypto_key_chapter.md](../content/blogs/crypto_key_chapter.md)
+- [../content/blogs/compound_interest_lesson.md](../content/blogs/compound_interest_lesson.md)
+- [../content/projects/classoverride.md](../content/projects/classoverride.md)
+- [reports/season-02-release-historical-anchor-analysis.md](reports/season-02-release-historical-anchor-analysis.md)
+- [production-bibles/season-02-the-seventy-five-cent-thread.md](production-bibles/season-02-the-seventy-five-cent-thread.md)
+- [canon/continuity-timeline.md](canon/continuity-timeline.md)
+- [seasons/season-02-the-seventy-five-cent-thread.md](seasons/season-02-the-seventy-five-cent-thread.md)
+- [index.md](index.md)

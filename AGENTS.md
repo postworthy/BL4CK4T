@@ -7,6 +7,7 @@ This repo is the public BL4CK4T site plus a private-in-practice worldbuilding wi
 - Public articles are the final output. New public posts should match the current blog style: narrative-first Script Kitties stories with a clear learning payload.
 - The wiki is the source of continuity. Before drafting or editing a story, read `bl4ck4t-wiki/index.md` and relevant canon, character, location, lesson, and source pages.
 - Existing blog content is soft canon. Preserve established details unless the user approves a continuity revision.
+- Cross-season continuity is mandatory. Before reporting a season draft complete or promoting a season to public blog posts, check it against prior seasons with `bl4ck4t-wiki/canon/cross-season-continuity-standard.md` and update `bl4ck4t-wiki/canon/continuity-timeline.md`.
 - Keep real-world cybersecurity inspiration separated from public-facing fiction. Real sources may inform lessons, villain archetypes, tools, TTPs, and incidents, but public stories should transform them into BL4CK4T-world equivalents.
 - Youth-safety and ethics matter. Avoid operationally harmful instructions, real target details, or step-by-step abuse paths in public stories. Frame skills around consent, defense, curiosity, and responsible disclosure.
 - Draft first. Create article drafts under `bl4ck4t-wiki/drafts/` unless the user explicitly asks to publish directly into `content/blogs/`.
@@ -44,12 +45,13 @@ This repo is the public BL4CK4T site plus a private-in-practice worldbuilding wi
 5. Create a mission packet in `bl4ck4t-wiki/missions/` using the mission template.
 6. Draft the story in `bl4ck4t-wiki/drafts/` using the article template.
 7. Check continuity, lesson clarity, age appropriateness, and ethical framing with `bl4ck4t-wiki/style-guides/story-draft-checklist.md`.
-8. Run `pnpm tropes:check bl4ck4t-wiki/drafts/<draft-file>.md` before reporting a draft ready for publication review.
-9. Run `pnpm wiki:check` before publishing or reporting a draft complete.
-10. When the user approves publication, create or update a markdown file under `content/blogs/`.
-11. Run `pnpm tropes:check content/blogs/<post-file>.md` before considering the public article publishable.
-12. Run `pnpm build` before considering the public site change done.
-13. Update `bl4ck4t-wiki/index.md` and `bl4ck4t-wiki/log.md`.
+8. For any season after the pilot, check cross-season continuity with `bl4ck4t-wiki/canon/cross-season-continuity-standard.md`.
+9. Run `pnpm tropes:check bl4ck4t-wiki/drafts/<draft-file>.md` before reporting a draft ready for publication review.
+10. Run `pnpm wiki:check` before publishing or reporting a draft complete.
+11. When the user approves publication, create or update a markdown file under `content/blogs/`.
+12. Run `pnpm tropes:check content/blogs/<post-file>.md` before considering the public article publishable.
+13. Run `pnpm build` before considering the public site change done.
+14. Update `bl4ck4t-wiki/index.md` and `bl4ck4t-wiki/log.md`.
 
 ## Season Workflow
 
@@ -61,7 +63,8 @@ This repo is the public BL4CK4T site plus a private-in-practice worldbuilding wi
 6. Keep each season focused on one major historical lesson and one emotional growth arc for the Script Kitties.
 7. Create a production bible before creating episode mission packets for a historically inspired season.
 8. For Season 1 specifically, do not publish any episode until all episodes and the Season 2 cliffhanger are drafted, vetted, and approved.
-9. Do not publish a season arc or production bible as public content by itself; they guide article generation.
+9. For every season after the pilot, create or update a continuity audit under `bl4ck4t-wiki/reports/` before publication.
+10. Do not publish a season arc or production bible as public content by itself; they guide article generation.
 
 ## TROPES.md Validation
 

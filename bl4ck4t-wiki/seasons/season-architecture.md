@@ -2,7 +2,7 @@
 type: season-architecture
 status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [seasons, series-architecture, story-arcs]
 sources:
   - ../sources/creative-briefs/cyber-history-season-brief.md
@@ -57,4 +57,16 @@ The series should escalate historically and emotionally:
 
 ## Production Rule
 
-Season pages can be planned from creative direction. Historically inspired season development requires a completed historical account before transformation work. Episode drafts require source pages, mission packets, and safety review before publication.
+Season pages can be planned from creative direction. Historically inspired season development requires a completed historical account before transformation work. Episode drafts require source pages, mission packets, continuity review, and safety review before publication.
+
+## Cross-Season Continuity Rule
+
+Every season after the pilot must be reviewed against prior seasons before publication. The review must check:
+
+- prior season endings and cliffhangers;
+- recurring character growth;
+- recurring locations, artifacts, factions, and villains;
+- unresolved threads;
+- whether new material weakens or contradicts prior season lessons.
+
+Use [Cross-Season Continuity Standard](../canon/cross-season-continuity-standard.md) and update [Continuity Timeline](../canon/continuity-timeline.md) during the review.

@@ -1,14 +1,17 @@
 ---
 type: season
-status: planned
+status: published
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 season_number: 2
 tags: [season, detective, intrusion]
 sources:
   - ../sources/creative-briefs/cyber-history-season-brief.md
 historical_inspiration: [cuckoos-egg, hanover-hackers]
 historical_account: ../historical-accounts/cuckoos-egg-hanover-hackers.md
+historical_documentary_treatment: ../historical-documentary-treatments/cuckoos-egg-hanover-hackers.md
+story_arc: ../story-arcs/season-02-the-seventy-five-cent-thread-arc.md
+production_bible: ../production-bibles/season-02-the-seventy-five-cent-thread.md
 primary_lessons: []
 featured_characters:
   - ../characters/jinx.md
@@ -29,12 +32,29 @@ The Cuckoo's Egg and the Hanover hackers.
 ## Historical Account Requirement
 
 - Required account path: `bl4ck4t-wiki/historical-accounts/cuckoos-egg-hanover-hackers.md`
-- Status: not started.
+- Status: research foundation complete.
 - No BL4CK4T transformation or episode drafting should proceed until the account is complete.
 
 ## BL4CK4T Transformation
 
 Jinx finds a tiny resource discrepancy in a school lab. What looks like bookkeeping noise becomes a trail through old systems and borrowed access.
+
+## Story Arc
+
+- Story arc path: `bl4ck4t-wiki/story-arcs/season-02-the-seventy-five-cent-thread-arc.md`
+- Status: draft.
+
+## Production Bible
+
+- Production bible path: `bl4ck4t-wiki/production-bibles/season-02-the-seventy-five-cent-thread.md`
+- Status: published.
+
+## Public Release
+
+- Public season page: `content/seasons/season-02-the-seventy-five-cent-thread.md`
+- Public episodes: `content/blogs/season-02-episode-01-*` through `content/blogs/season-02-episode-09-*`
+- Release mode: simultaneous drop.
+- Release validation: [Season 2 Release Historical Anchor Analysis](../reports/season-02-release-historical-anchor-analysis.md).
 
 ## Season Theme
 
@@ -61,6 +81,9 @@ Jinx finds a tiny resource discrepancy in a school lab. What looks like bookkeep
 
 - Ingest a Cuckoo's Egg source page.
 - Add concepts for logging and intrusion detection.
+- Complete the documentary treatment.
+- Complete the story arc adaptation.
+- Complete the production bible.
 
 ## Safety Boundaries
 
