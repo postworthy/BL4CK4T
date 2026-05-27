@@ -10,6 +10,7 @@ sources:
   - ../sources/blog-interest-of-time.md
   - ../production-bibles/season-01-the-singing-network.md
   - ../production-bibles/season-02-the-seventy-five-cent-thread.md
+  - ../production-bibles/season-03-the-escaped-experiment.md
 ---
 
 # Continuity Timeline
@@ -49,6 +50,19 @@ This timeline records the current event order from the published blog and privat
 - Jinx completes the season's investigator arc by presenting what was known first, what changed, what was ruled out, what remains unknown, and what the evidence supports.
 - The season closes with improved anomaly reporting, a shared evidence channel, and a contained toy process that copies farther than expected, pointing toward the Morris Worm-inspired Season 3.
 
+## Season 3: The Escaped Experiment - Public Hard Continuity
+
+- Season 3 opens from the Season 2 toy-process cliffhanger, with a ninth marker appearing in the Ledger Lab simulator.
+- Byte creates a cleaner Copycat Sprite sandbox test with expected counts, stop controls, and caretaker review.
+- The Copycat Sprite reaches The Old Stack, retired learning infrastructure beneath the Ledger Lab.
+- The incident causes slow rooms, stalled queues, delayed class tools, and response labor rather than destroyed files.
+- Jinx and Cipher build a copy map with confirmed rooms, likely paths, ruled-out paths, and unknowns.
+- Grimalkin creates response lanes and a temporary bell desk to coordinate containment.
+- Byte writes the Builder's Note and accepts that intent does not erase impact.
+- The team clears rooms with restore slips, counter checks, and physical verification.
+- The season closes with the First Bell Desk as a standing lab incident coordination point.
+- The Season 4 thread opens with an anonymous caller asking who gets called a monster.
+
 ## Current Character Continuity
 
 - The pilot establishes the team in a converted warehouse hideout.
@@ -63,11 +77,14 @@ This timeline records the current event order from the published blog and privat
 - Cipher becomes the team's strongest pattern cleaner, especially when removing false patterns.
 - Shadow's small physical observations become decisive evidence links.
 - Pixel remains curiosity-forward and opens the Season 3 copying-process thread.
+- Byte completes the Season 3 builder arc by adding `How does this fail?` to future build kits.
+- Grimalkin becomes a proven incident coordinator through the First Bell Desk.
 
 ## Open Threads
 
-- Season 3 should pick up the toy-process cliffhanger from Season 2.
+- Season 4 should pick up the anonymous caller from Season 3.
 - The Row Rebels can return, but future stories should remember that Season 1 treated them as mixed-motive kids, not villains.
 - The Far Relay and Ledgerjack can recur as broader adversary infrastructure, but Season 2 does not establish a captured individual mastermind.
 - The Glass Bureau and shared evidence channel should remain available for later reporting and coordination stories.
 - The Hushline solved the Echo Grid's message-command confusion in Signal Row, but it did not solve every system risk in Cybertropolis.
+- The First Bell Desk should remain available for fast lab incident coordination.

@@ -436,3 +436,23 @@ Touched pages:
 - [production-bibles/season-02-the-seventy-five-cent-thread.md](production-bibles/season-02-the-seventy-five-cent-thread.md)
 - [index.md](index.md)
 - [log.md](log.md)
+
+## [2026-05-27] publish | Release Season 3 public article files
+
+Completed the Season 3 pipeline for The Escaped Experiment. Created the Morris Worm historical account and documentary treatment, transformed the nonfiction spine into a BL4CK4T story arc, added support canon, created the production bible, mission packets, private draft mirrors, draft review, continuity audit, release historical-anchor analysis, public season page, and nine public blog posts. Season 3 publishes as a simultaneous drop and preserves the Season 2 toy-process cliffhanger while closing with a Season 4 chase-story clue.
+
+Touched areas:
+
+- `bl4ck4t-wiki/historical-accounts/morris-worm.md`
+- `bl4ck4t-wiki/historical-documentary-treatments/morris-worm.md`
+- `bl4ck4t-wiki/story-arcs/season-03-the-escaped-experiment-arc.md`
+- `bl4ck4t-wiki/production-bibles/season-03-the-escaped-experiment.md`
+- `bl4ck4t-wiki/concepts/`
+- `bl4ck4t-wiki/missions/season-03-episode-*.md`
+- `bl4ck4t-wiki/drafts/season-03-episode-*.md`
+- `bl4ck4t-wiki/reports/season-03-*.md`
+- `content/seasons/season-03-the-escaped-experiment.md`
+- `content/blogs/season-03-episode-*.md`
+- [canon/continuity-timeline.md](canon/continuity-timeline.md)
+- [index.md](index.md)
+- [log.md](log.md)

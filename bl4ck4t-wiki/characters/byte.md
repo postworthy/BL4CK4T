@@ -1,8 +1,8 @@
 ---
 type: character
-status: seed
+status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [character, script-kitty, builder]
 sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
@@ -61,3 +61,7 @@ Use Byte for safe tooling, demos, toy crypto, network labs, and validation check
 ## Growth Direction
 
 Byte should grow from gadget-first builder into thoughtful engineer. The backstory should center on repairing discarded tech in The Old Stack and learning that a clever tool still needs verification, documentation, and care for the people using it.
+
+## Season 3 Development
+
+Season 3 completes Byte's first major builder-accountability arc. The Copycat Sprite incident teaches Byte to ask `How does this fail?` before future demos, to prepare stop plans and cleanup plans, and to treat recovery as part of building.

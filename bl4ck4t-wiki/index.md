@@ -38,12 +38,14 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Script Kitties](factions/script-kitties.md) - The learner crew at the center of the stories.
 - [Glass Bureau](factions/glass-bureau.md) - Season 2 civic reporting and evidence handoff institution.
 - [Far Relay](factions/far-relay.md) - Season 2 adversary broker layer.
+- [First Bell Desk](factions/first-bell-desk.md) - Season 3 lab incident coordination desk.
 
 ## Locations
 
 - [Cybertropolis](locations/cybertropolis.md) - Neon city setting and educational metaphor space.
 - [The Hideout](locations/the-hideout.md) - Converted warehouse, learning base, and mission staging area.
 - [Ledger Lab](locations/ledger-lab.md) - Season 2 shared computing lab and resource ledger setting.
+- [The Old Stack](locations/the-old-stack.md) - Season 3 retired learning infrastructure beneath the Ledger Lab.
 
 ## Villains
 
@@ -51,6 +53,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Patch Phantom](villains/patch-phantom.md) - Legacy-risk villain for patching and asset inventory lessons.
 - [Supply Serpent](villains/supply-serpent.md) - Provenance villain for dependency and supply-chain lessons.
 - [Ledgerjack](villains/ledgerjack.md) - Season 2 broker figure connected to account misuse and mismatched records.
+- [Copycat Sprite](villains/copycat-sprite.md) - Season 3 incident force for propagation and containment lessons.
 - [Villain Backlog](villains/villain-backlog.md) - Fictional adversary concepts loosely inspired by real threat patterns.
 
 ## Concepts
@@ -73,6 +76,11 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Incident Reporting](concepts/incident-reporting.md) - Season 2 concept for turning findings into useful reports.
 - [Shared-System Accounting](concepts/shared-system-accounting.md) - Season 2 concept for resource ledgers in shared systems.
 - [Civic Learning Grid](concepts/civic-learning-grid.md) - Season 2 shared public learning infrastructure.
+- [Worms And Self-Propagation](concepts/worms-and-self-propagation.md) - Season 3 concept for non-operational propagation lessons.
+- [Containment](concepts/containment.md) - Season 3 concept for limiting spread during response.
+- [Safe Testing Boundaries](concepts/safe-testing-boundaries.md) - Season 3 concept for consent-based sandbox testing.
+- [Incident Response](concepts/incident-response.md) - Season 3 concept for organized response work.
+- [Rollback And Recovery](concepts/rollback-and-recovery.md) - Season 3 concept for restoring known good states.
 
 ## Lessons
 
@@ -86,24 +94,28 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Origin Arc](story-arcs/origin-arc.md) - Current opening continuity from the first three blog posts.
 - [Season 1: The Singing Network Arc](story-arcs/season-01-the-singing-network-arc.md) - Documentary-to-world adaptation for the phone-phreaking inspired season.
 - [Season 2: The Seventy-Five Cent Thread Arc](story-arcs/season-02-the-seventy-five-cent-thread-arc.md) - Documentary-to-world adaptation for the Cuckoo's Egg inspired season.
+- [Season 3: The Escaped Experiment Arc](story-arcs/season-03-the-escaped-experiment-arc.md) - Documentary-to-world adaptation for the Morris Worm inspired season.
 
 ## Production Bibles
 
 - [Production Bibles README](production-bibles/README.md) - Season production control documents.
 - [Season 1: The Singing Network Production Bible](production-bibles/season-01-the-singing-network.md) - Production plan, episode controls, and release gate for Season 1.
 - [Season 2: The Seventy-Five Cent Thread Production Bible](production-bibles/season-02-the-seventy-five-cent-thread.md) - Production plan, episode controls, and release gate for Season 2.
+- [Season 3: The Escaped Experiment Production Bible](production-bibles/season-03-the-escaped-experiment.md) - Production plan, episode controls, and release gate for Season 3.
 
 ## Historical Accounts
 
 - [Historical Accounts README](historical-accounts/README.md) - Rules and status for source-backed historical narratives.
 - [Phone Phreaking And The Blue-Box Era](historical-accounts/phone-phreaking-blue-box-era.md) - Completed historical research foundation.
 - [The Cuckoo's Egg And The Hanover Hackers](historical-accounts/cuckoos-egg-hanover-hackers.md) - Completed historical research foundation.
+- [Morris Worm](historical-accounts/morris-worm.md) - Completed historical research foundation.
 
 ## Historical Documentary Treatments
 
 - [Historical Documentary Treatments README](historical-documentary-treatments/README.md) - Post-research nonfiction narrative treatment workflow.
 - [Phone Phreaking And The Blue-Box Era Documentary Treatment](historical-documentary-treatments/phone-phreaking-blue-box-era.md) - Documentary movement structure derived from the historical account.
 - [The Cuckoo's Egg And The Hanover Hackers Documentary Treatment](historical-documentary-treatments/cuckoos-egg-hanover-hackers.md) - Season 2 documentary movement structure derived from the historical account.
+- [Morris Worm Documentary Treatment](historical-documentary-treatments/morris-worm.md) - Season 3 documentary movement structure derived from the historical account.
 
 ## Seasons
 
@@ -142,6 +154,15 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 2 Episode 7: The Far Relay](missions/season-02-episode-07-far-relay.md) - Mission packet for the seventh Season 2 episode.
 - [Season 2 Episode 8: The Investigator's Case](missions/season-02-episode-08-investigators-case.md) - Mission packet for the eighth Season 2 episode.
 - [Season 2 Episode 9: What The Records Changed](missions/season-02-episode-09-records-changed.md) - Mission packet for the Season 2 finale.
+- [Season 3 Episode 1: The Ninth Marker](missions/season-03-episode-01-ninth-marker.md) - Mission packet for the Season 3 opener.
+- [Season 3 Episode 2: The Sandbox Door](missions/season-03-episode-02-sandbox-door.md) - Mission packet for the second Season 3 episode.
+- [Season 3 Episode 3: More Than Once](missions/season-03-episode-03-more-than-once.md) - Mission packet for the third Season 3 episode.
+- [Season 3 Episode 4: Slow Rooms](missions/season-03-episode-04-slow-rooms.md) - Mission packet for the fourth Season 3 episode.
+- [Season 3 Episode 5: The Copy Map](missions/season-03-episode-05-copy-map.md) - Mission packet for the fifth Season 3 episode.
+- [Season 3 Episode 6: Grimalkin's Bell](missions/season-03-episode-06-grimalkins-bell.md) - Mission packet for the sixth Season 3 episode.
+- [Season 3 Episode 7: The Builder's Note](missions/season-03-episode-07-builders-note.md) - Mission packet for the seventh Season 3 episode.
+- [Season 3 Episode 8: Clearing The Rooms](missions/season-03-episode-08-clearing-rooms.md) - Mission packet for the eighth Season 3 episode.
+- [Season 3 Episode 9: The First Bell](missions/season-03-episode-09-first-bell.md) - Mission packet for the Season 3 finale.
 
 ## Sources
 
@@ -181,6 +202,15 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 2 Episode 7: The Far Relay](drafts/season-02-episode-07-far-relay.md) - Draft article for the seventh Season 2 episode.
 - [Season 2 Episode 8: The Investigator's Case](drafts/season-02-episode-08-investigators-case.md) - Draft article for the eighth Season 2 episode.
 - [Season 2 Episode 9: What The Records Changed](drafts/season-02-episode-09-records-changed.md) - Draft article for the Season 2 finale.
+- [Season 3 Episode 1: The Ninth Marker](drafts/season-03-episode-01-ninth-marker.md) - Draft article for the Season 3 opener.
+- [Season 3 Episode 2: The Sandbox Door](drafts/season-03-episode-02-sandbox-door.md) - Draft article for the second Season 3 episode.
+- [Season 3 Episode 3: More Than Once](drafts/season-03-episode-03-more-than-once.md) - Draft article for the third Season 3 episode.
+- [Season 3 Episode 4: Slow Rooms](drafts/season-03-episode-04-slow-rooms.md) - Draft article for the fourth Season 3 episode.
+- [Season 3 Episode 5: The Copy Map](drafts/season-03-episode-05-copy-map.md) - Draft article for the fifth Season 3 episode.
+- [Season 3 Episode 6: Grimalkin's Bell](drafts/season-03-episode-06-grimalkins-bell.md) - Draft article for the sixth Season 3 episode.
+- [Season 3 Episode 7: The Builder's Note](drafts/season-03-episode-07-builders-note.md) - Draft article for the seventh Season 3 episode.
+- [Season 3 Episode 8: Clearing The Rooms](drafts/season-03-episode-08-clearing-rooms.md) - Draft article for the eighth Season 3 episode.
+- [Season 3 Episode 9: The First Bell](drafts/season-03-episode-09-first-bell.md) - Draft article for the Season 3 finale.
 
 ## Reports
 
@@ -190,3 +220,6 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 2 Draft Review](reports/season-02-draft-review.md) - Full private draft review against the Season 2 historical account, documentary treatment, story arc, and production bible.
 - [Series Continuity Audit 2026-05-27](reports/series-continuity-audit-2026-05-27.md) - First cross-season continuity audit covering the pilot, Season 1, and private Season 2 draft set.
 - [Season 2 Release Historical Anchor Analysis](reports/season-02-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
+- [Season 3 Draft Review](reports/season-03-draft-review.md) - Full private draft review against the Season 3 historical account, documentary treatment, story arc, and production bible.
+- [Season 3 Continuity Audit](reports/season-03-continuity-audit.md) - Cross-season continuity audit for Season 3.
+- [Season 3 Release Historical Anchor Analysis](reports/season-03-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.

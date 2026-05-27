@@ -1,0 +1,45 @@
+---
+type: article-draft
+status: published
+created: 2026-05-27
+updated: 2026-05-27
+target_slug: season-03-episode-05-copy-map
+tags: [season-3, draft, evidence]
+sources:
+  - ../missions/season-03-episode-05-copy-map.md
+canon_pages:
+  - ../production-bibles/season-03-the-escaped-experiment.md
+  - ../concepts/evidence-preservation.md
+---
+
+# The Copy Map
+
+## Publication Frontmatter
+
+```yaml
+title: "The Copy Map"
+slug: "season-03-episode-05-copy-map"
+season: "season-03-the-escaped-experiment"
+seasonNumber: 3
+episodeNumber: 5
+episodeTitle: "The Copy Map"
+```
+
+## Story Draft
+
+Final public copy promoted to `content/blogs/season-03-episode-05-copy-map.md`.
+
+Jinx and Cipher rebuild a dramatic map into confirmed rooms, likely paths, ruled-out paths, and unknowns. The team earns enough structure for coordinated response.
+
+## Teaching Tie-In
+
+- Key concept: evidence preservation helps responders act without guessing.
+- Defensive habit: separate confirmed facts, likely paths, ruled-out ideas, and unknowns.
+
+## Continuity Checks
+
+- Character consistency: Jinx and Cipher keep the map factual.
+- World consistency: the copy map follows Season 2 evidence habits.
+- Lesson accuracy: records and scope drive action.
+- Safety review: no exploit chain included.
+- TROPES.md validation: passed in public release validation.

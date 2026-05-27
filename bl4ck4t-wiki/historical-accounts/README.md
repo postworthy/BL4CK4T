@@ -7,8 +7,8 @@ Rule: these documents must remain historically grounded. Keep adaptation notes, 
 Current status:
 
 - [Phone phreaking / blue-box era](phone-phreaking-blue-box-era.md) - research foundation complete.
-- Cuckoo's Egg / Hanover hackers - not started.
-- Morris Worm - source seed exists, full account not started.
+- [Cuckoo's Egg / Hanover hackers](cuckoos-egg-hanover-hackers.md) - research foundation complete.
+- [Morris Worm](morris-worm.md) - research foundation complete.
 - Mitnick / Shimomura / hacker-manhunt era - not started.
 - ILOVEYOU / Love Bug - source seed exists, full account not started.
 - Estonia cyberattacks - not started.

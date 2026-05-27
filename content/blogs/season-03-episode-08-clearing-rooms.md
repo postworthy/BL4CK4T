@@ -1,0 +1,77 @@
+---
+title: "Clearing The Rooms"
+slug: "season-03-episode-08-clearing-rooms"
+season: "season-03-the-escaped-experiment"
+seasonNumber: 3
+episodeNumber: 8
+episodeTitle: "Clearing The Rooms"
+description: "The exciting part is over. The careful part begins."
+longDescription: "The Script Kitties clear Copycat Sprite markers, verify room states, restore class tools, and learn why recovery is not complete until someone checks the result."
+cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"
+tags: ["story", "script-kitties", "cybersecurity", "recovery", "season-3"]
+readTime: 5
+featured: false
+timestamp: 2026-05-27T00:00:00+00:00
+---
+
+The Copycat Sprite had stopped spreading.
+
+Pixel expected the room to cheer. The room did paperwork.
+
+Restore slips covered the table. Each one named a room, a counter, a class tool, a caretaker, and a final check.
+
+Byte picked up the first slip.
+
+"Room three."
+
+Shadow nodded. "Fan still running."
+
+### The Drop
+
+BL4CK4T sent the shortest message of the season.
+
+`CLEAR IS A CLAIM. PROVE IT.`
+
+Cipher smiled. "Annoying and correct."
+
+The team moved room by room.
+
+### The Lesson Begins
+
+Room three cleared after Shadow found a stuck fan relay.
+
+Room four cleared after Cipher matched the lesson printer count to the map.
+
+Room five did not clear.
+
+Byte wanted to mark it green. The screen was empty. The counter was normal. The door light was cool.
+
+Shadow held up one paw. "Listen."
+
+A low hum came from behind the wall.
+
+Byte lowered the green marker.
+
+### Trial And Error
+
+The hum belonged to a forgotten practice panel still waiting for a copy count that no longer existed. It was not dangerous. It was unfinished.
+
+Byte added a note to the restore slip and waited for Ms. Vale before resetting the panel.
+
+Pixel whispered, "You could fix that in two seconds."
+
+"Yes," Byte said. "And then nobody would know why it was fixed."
+
+By sunset, every room had a signed slip. The waiting class returned to its tools. The old terminal slept under a clean cover.
+
+Whiskers looked at the board.
+
+"Incident over?"
+
+Grimalkin shook his head. "Recovery over. Lesson still open."
+
+## Teaching Tie-In
+
+- Key concept: recovery means returning to a known good state and verifying it.
+- Defensive habit: do not call a system clear until records, tools, and physical checks agree.
+- Season thread: the team is ready to turn the incident into a permanent practice.
