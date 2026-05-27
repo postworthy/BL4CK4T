@@ -10,7 +10,7 @@ Current status:
 - [Cuckoo's Egg / Hanover hackers](cuckoos-egg-hanover-hackers.md) - research foundation complete.
 - [Morris Worm](morris-worm.md) - research foundation complete.
 - [Mitnick / Shimomura / hacker-manhunt era](mitnick-shimomura-hacker-manhunt.md) - research foundation complete.
-- ILOVEYOU / Love Bug - source seed exists, full account not started.
+- [ILOVEYOU / Love Bug](iloveyou-love-bug.md) - research foundation complete.
 - Estonia cyberattacks - not started.
 - Stuxnet / Operation Olympic Games - not started.
 - Sandworm / Ukraine grid / NotPetya - not started.

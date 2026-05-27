@@ -1,8 +1,8 @@
 ---
 type: season
-status: planned
+status: published
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 season_number: 5
 tags: [season, iloveyou, social-malware]
 sources:
@@ -12,6 +12,9 @@ historical_inspiration: [iloveyou, love-bug]
 historical_account: ../historical-accounts/iloveyou-love-bug.md
 primary_lessons:
   - ../concepts/phishing.md
+  - ../concepts/attachment-trust.md
+  - ../concepts/file-appearance-deception.md
+  - ../concepts/contact-list-spread.md
 featured_characters:
   - ../characters/jinx.md
   - ../characters/pixel.md
@@ -32,8 +35,8 @@ ILOVEYOU / The Love Bug.
 ## Historical Account Requirement
 
 - Required account path: `bl4ck4t-wiki/historical-accounts/iloveyou-love-bug.md`
-- Status: not started. A source seed exists, but the full historical account is not complete.
-- No BL4CK4T transformation or episode drafting should proceed until the account is complete.
+- Status: complete.
+- The historical account remains separate from fictional transformation.
 
 ## BL4CK4T Transformation
 
@@ -54,16 +57,19 @@ The Phishmonger returns with a self-sending glitter letter. The team must teach 
 
 ## Episode Shape
 
-1. A glitter letter appears in trusted inboxes.
-2. Pixel wants to inspect it; Jinx insists on a sandbox.
-3. The team sees how social trust spreads risk.
-4. Whiskers coordinates a city warning.
-5. The season ends with a safer message culture.
+1. The Pink Envelope.
+2. A Letter For Everybody.
+3. Pixel Does Not Open It.
+4. The Hidden Ending.
+5. Address Book Bloom.
+6. The Quarantine Tray.
+7. The Warning That Worked.
+8. The Phishmonger's Ribbon.
+9. The Love Letter Plague.
 
 ## Source Requirements Before Drafting
 
-- Deepen [ILOVEYOU Worm](../sources/real-world/iloveyou-worm.md) with additional sources.
-- Add concept page for attachments or file extension trust.
+- Source page, historical account, documentary treatment, story arc, production bible, support canon, mission packets, drafts, reports, and public posts completed.
 
 ## Safety Boundaries
 

@@ -10,3 +10,4 @@ Current status:
 - [Season 2: The Seventy-Five Cent Thread](season-02-the-seventy-five-cent-thread.md) - released production bible.
 - [Season 3: The Escaped Experiment](season-03-the-escaped-experiment.md) - released production bible.
 - [Season 4: The Invisible Chase](season-04-the-invisible-chase.md) - released production bible.
+- [Season 5: The Love Letter Plague](season-05-the-love-letter-plague.md) - released production bible.

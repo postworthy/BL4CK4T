@@ -2,6 +2,29 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] publish | Release Season 5: The Love Letter Plague
+
+Completed the Season 5 source-first production pipeline for the ILOVEYOU-inspired story arc. Added the historical account, documentary treatment, story-world import, production bible, mission packets, draft mirrors, public season page, public episodes, continuity audit, historical anchor analysis, and entity inventory. Updated canon continuity, open threads, index, and status READMEs.
+
+Touched areas:
+
+- `content/blogs/season-05-episode-*.md`
+- `content/seasons/season-05-the-love-letter-plague.md`
+- `bl4ck4t-wiki/historical-accounts/iloveyou-love-bug.md`
+- `bl4ck4t-wiki/historical-documentary-treatments/iloveyou-love-bug.md`
+- `bl4ck4t-wiki/story-arcs/season-05-the-love-letter-plague-arc.md`
+- `bl4ck4t-wiki/production-bibles/season-05-the-love-letter-plague.md`
+- `bl4ck4t-wiki/missions/season-05-episode-*.md`
+- `bl4ck4t-wiki/drafts/season-05-episode-*.md`
+- `bl4ck4t-wiki/reports/season-05-*.md`
+- `bl4ck4t-wiki/reports/published-entity-inventory-season-05.md`
+- `bl4ck4t-wiki/artifacts/`
+- `bl4ck4t-wiki/concepts/`
+- `bl4ck4t-wiki/factions/`
+- `bl4ck4t-wiki/locations/`
+- `bl4ck4t-wiki/canon/`
+- `bl4ck4t-wiki/index.md`
+
 ## [2026-05-26] schema | Initialize BL4CK4T worldbuilding wiki
 
 Created the BL4CK4T wiki structure, operating instructions, templates, canon pages, character pages, initial source ingests, lessons, style guides, and villain backlog. Existing blog/project content was ingested as soft canon to support future story generation.

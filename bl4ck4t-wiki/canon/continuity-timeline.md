@@ -12,6 +12,7 @@ sources:
   - ../production-bibles/season-02-the-seventy-five-cent-thread.md
   - ../production-bibles/season-03-the-escaped-experiment.md
   - ../production-bibles/season-04-the-invisible-chase.md
+  - ../production-bibles/season-05-the-love-letter-plague.md
 ---
 
 # Continuity Timeline
@@ -78,6 +79,21 @@ This timeline records the current event order from the published blog and privat
 - Shadow and Jinx reach the Caller through evidence. The Caller is held accountable through a proportionate repair path.
 - The season closes with a corrected public record, an identity-claim report process, and a Season 5 pink-envelope clue.
 
+## Season 5: The Love Letter Plague - Public Hard Continuity
+
+- Season 5 opens from the Season 4 pink-envelope clue on the Notice Wall.
+- The Pink Envelope moves to Letter Lane and becomes the Glitter Letter incident.
+- The Message Office is established as the delivery and reporting setting for city mail, class notes, club notices, and message handling.
+- Jinx and Cipher use the Quarantine Tray to hold the first suspicious message before opening it.
+- Pixel receives a copy that appears to come from himself and chooses not to open it.
+- Cipher and Byte separate appearance from behavior through the Hidden Ending board.
+- Jinx and Shadow map the Address Book Bloom and correct an early map instead of hiding the mistake.
+- Whiskers and Grimalkin create Message Office response lanes: hold, report, warn, and recover.
+- Whiskers and Pixel rewrite a shaming warning into one that helps people report.
+- The Phishmonger's ribbon pattern appears as evidence of lure style, but the team treats it as a clue rather than certainty.
+- The season closes with Message Office handling rules for unexpected, emotional, or mismatched messages.
+- The Season 6 thread opens when every Message Office lamp blinks under a rush of empty delivery receipts.
+
 ## Current Character Continuity
 
 - The pilot establishes the team in a converted warehouse hideout.
@@ -96,13 +112,18 @@ This timeline records the current event order from the published blog and privat
 - Grimalkin becomes a proven incident coordinator through the First Bell Desk.
 - Shadow completes a Season 4 trust arc by moving from hidden observer to trusted witness.
 - Jinx extends her Season 2 evidence discipline into public-claim classification and chase-map standards.
+- Pixel completes a Season 5 restraint arc by choosing contained review over instant opening.
+- Whiskers extends leadership into warning language and response-lane design.
+- Cipher and Byte make appearance-versus-behavior mismatch visible without exposing harmful mechanics.
+- Jinx carries evidence discipline into humane contact-path mapping.
 
 ## Open Threads
 
-- Season 5 should pick up the pink-envelope clue from Season 4.
+- Season 6 should pick up the empty delivery receipt traffic flood from Season 5.
 - The Row Rebels can return, but future stories should remember that Season 1 treated them as mixed-motive kids, not villains.
 - The Far Relay and Ledgerjack can recur as broader adversary infrastructure, but Season 2 does not establish a captured individual mastermind.
 - The Glass Bureau and shared evidence channel should remain available for later reporting and coordination stories.
 - The Hushline solved the Echo Grid's message-command confusion in Signal Row, but it did not solve every system risk in Cybertropolis.
 - The First Bell Desk should remain available for fast lab incident coordination.
 - The Vanishing Caller case is closed; future use should focus on lessons, corrected process, or aftermath rather than reopening the chase.
+- The Glitter Letter incident is closed; future use should focus on message-handling lessons, Quarantine Tray practice, or Message Office aftermath rather than reopening the same outbreak.

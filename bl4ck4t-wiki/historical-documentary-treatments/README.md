@@ -10,3 +10,4 @@ Current status:
 - [Cuckoo's Egg / Hanover hackers](cuckoos-egg-hanover-hackers.md) - treatment complete.
 - [Morris Worm](morris-worm.md) - treatment complete.
 - [Mitnick / Shimomura / hacker-manhunt era](mitnick-shimomura-hacker-manhunt.md) - treatment complete.
+- [ILOVEYOU / Love Bug](iloveyou-love-bug.md) - treatment complete.

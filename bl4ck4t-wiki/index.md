@@ -39,6 +39,9 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Restore Slips](artifacts/restore-slips.md) - Season 3 recovery verification records.
 - [Notice Wall](artifacts/notice-wall.md) - Season 4 rumor and public-claim surface.
 - [Chase Map](artifacts/chase-map.md) - Season 4 trace-evidence and knowledge-state board.
+- [Pink Envelope](artifacts/pink-envelope.md) - Season 5 suspicious-message clue from the Season 4 finale.
+- [Glitter Letter](artifacts/glitter-letter.md) - Season 5 social-lure message artifact.
+- [Quarantine Tray](artifacts/quarantine-tray.md) - Season 5 hold-first message review artifact.
 
 ## Characters
 
@@ -73,6 +76,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Museum Systems](factions/museum-systems.md) - Museum kiosk systems group.
 - [Relay Archives](factions/relay-archives.md) - Old relay infrastructure caretakers.
 - [City Chronicle](factions/city-chronicle.md) - Season 4 public student news desk.
+- [Message Office](factions/message-office.md) - Season 5 message delivery and report-handling institution.
 
 ## Locations
 
@@ -85,6 +89,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Keylight Gate](locations/keylight-gate.md) - Cryptography and trust district.
 - [Relay Archives Location](locations/relay-archives-location.md) - Archive-adjacent old relay setting.
 - [Mirrorline Arcade](locations/mirrorline-arcade.md) - Season 4 public passage for reflection, phone, and trace clues.
+- [Letter Lane](locations/letter-lane.md) - Season 5 message district and Message Office setting.
 
 ## Villains
 
@@ -124,6 +129,9 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Public Mythology](concepts/public-mythology.md) - Season 4 concept for reputation and rumor outrunning evidence.
 - [Trace Evidence](concepts/trace-evidence.md) - Season 4 concept for partial clues, paths, timing, and uncertainty.
 - [Proportionality](concepts/proportionality.md) - Season 4 concept for matching response to evidence and harm.
+- [Attachment Trust](concepts/attachment-trust.md) - Season 5 concept for suspicious-message handling.
+- [File Appearance Deception](concepts/file-appearance-deception.md) - Season 5 concept for name/icon behavior mismatch.
+- [Contact List Spread](concepts/contact-list-spread.md) - Season 5 concept for trust-path amplification.
 
 ## Lessons
 
@@ -139,6 +147,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 2: The Seventy-Five Cent Thread Arc](story-arcs/season-02-the-seventy-five-cent-thread-arc.md) - Documentary-to-world adaptation for the Cuckoo's Egg inspired season.
 - [Season 3: The Escaped Experiment Arc](story-arcs/season-03-the-escaped-experiment-arc.md) - Documentary-to-world adaptation for the Morris Worm inspired season.
 - [Season 4: The Invisible Chase Arc](story-arcs/season-04-the-invisible-chase-arc.md) - Documentary-to-world adaptation for the hacker-manhunt inspired season.
+- [Season 5: The Love Letter Plague Arc](story-arcs/season-05-the-love-letter-plague-arc.md) - Documentary-to-world adaptation for the ILOVEYOU inspired season.
 
 ## Production Bibles
 
@@ -147,6 +156,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 2: The Seventy-Five Cent Thread Production Bible](production-bibles/season-02-the-seventy-five-cent-thread.md) - Production plan, episode controls, and release gate for Season 2.
 - [Season 3: The Escaped Experiment Production Bible](production-bibles/season-03-the-escaped-experiment.md) - Production plan, episode controls, and release gate for Season 3.
 - [Season 4: The Invisible Chase Production Bible](production-bibles/season-04-the-invisible-chase.md) - Production plan, episode controls, and release gate for Season 4.
+- [Season 5: The Love Letter Plague Production Bible](production-bibles/season-05-the-love-letter-plague.md) - Production plan, episode controls, and release gate for Season 5.
 
 ## Historical Accounts
 
@@ -155,6 +165,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [The Cuckoo's Egg And The Hanover Hackers](historical-accounts/cuckoos-egg-hanover-hackers.md) - Completed historical research foundation.
 - [Morris Worm](historical-accounts/morris-worm.md) - Completed historical research foundation.
 - [Mitnick, Shimomura, And The Hacker-Manhunt Era](historical-accounts/mitnick-shimomura-hacker-manhunt.md) - Completed historical research foundation.
+- [ILOVEYOU / Love Bug](historical-accounts/iloveyou-love-bug.md) - Completed historical research foundation.
 
 ## Historical Documentary Treatments
 
@@ -163,6 +174,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [The Cuckoo's Egg And The Hanover Hackers Documentary Treatment](historical-documentary-treatments/cuckoos-egg-hanover-hackers.md) - Season 2 documentary movement structure derived from the historical account.
 - [Morris Worm Documentary Treatment](historical-documentary-treatments/morris-worm.md) - Season 3 documentary movement structure derived from the historical account.
 - [Mitnick, Shimomura, And The Hacker-Manhunt Era Documentary Treatment](historical-documentary-treatments/mitnick-shimomura-hacker-manhunt.md) - Season 4 documentary movement structure derived from the historical account.
+- [ILOVEYOU / Love Bug Documentary Treatment](historical-documentary-treatments/iloveyou-love-bug.md) - Season 5 documentary movement structure derived from the historical account.
 
 ## Seasons
 
@@ -228,6 +240,15 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 4 Episode 7: The Wrong Poster](missions/season-04-episode-07-wrong-poster.md) - Mission packet for the seventh Season 4 episode.
 - [Season 4 Episode 8: Understanding First](missions/season-04-episode-08-understanding-first.md) - Mission packet for the eighth Season 4 episode.
 - [Season 4 Episode 9: The Invisible Chase](missions/season-04-episode-09-invisible-chase.md) - Mission packet for the Season 4 finale.
+- [Season 5 Episode 1: The Pink Envelope](missions/season-05-episode-01-pink-envelope.md) - Mission packet for the Season 5 opener.
+- [Season 5 Episode 2: A Letter For Everybody](missions/season-05-episode-02-letter-for-everybody.md) - Mission packet for the second Season 5 episode.
+- [Season 5 Episode 3: Pixel Does Not Open It](missions/season-05-episode-03-pixel-does-not-open-it.md) - Mission packet for the third Season 5 episode.
+- [Season 5 Episode 4: The Hidden Ending](missions/season-05-episode-04-hidden-ending.md) - Mission packet for the fourth Season 5 episode.
+- [Season 5 Episode 5: Address Book Bloom](missions/season-05-episode-05-address-book-bloom.md) - Mission packet for the fifth Season 5 episode.
+- [Season 5 Episode 6: The Quarantine Tray](missions/season-05-episode-06-quarantine-tray.md) - Mission packet for the sixth Season 5 episode.
+- [Season 5 Episode 7: The Warning That Worked](missions/season-05-episode-07-warning-that-worked.md) - Mission packet for the seventh Season 5 episode.
+- [Season 5 Episode 8: The Phishmonger's Ribbon](missions/season-05-episode-08-phishmongers-ribbon.md) - Mission packet for the eighth Season 5 episode.
+- [Season 5 Episode 9: The Love Letter Plague](missions/season-05-episode-09-love-letter-plague.md) - Mission packet for the Season 5 finale.
 
 ## Sources
 
@@ -286,6 +307,15 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 4 Episode 7: The Wrong Poster](drafts/season-04-episode-07-wrong-poster.md) - Draft article mirror for the seventh Season 4 episode.
 - [Season 4 Episode 8: Understanding First](drafts/season-04-episode-08-understanding-first.md) - Draft article mirror for the eighth Season 4 episode.
 - [Season 4 Episode 9: The Invisible Chase](drafts/season-04-episode-09-invisible-chase.md) - Draft article mirror for the Season 4 finale.
+- [Season 5 Episode 1: The Pink Envelope](drafts/season-05-episode-01-pink-envelope.md) - Draft article mirror for the Season 5 opener.
+- [Season 5 Episode 2: A Letter For Everybody](drafts/season-05-episode-02-letter-for-everybody.md) - Draft article mirror for the second Season 5 episode.
+- [Season 5 Episode 3: Pixel Does Not Open It](drafts/season-05-episode-03-pixel-does-not-open-it.md) - Draft article mirror for the third Season 5 episode.
+- [Season 5 Episode 4: The Hidden Ending](drafts/season-05-episode-04-hidden-ending.md) - Draft article mirror for the fourth Season 5 episode.
+- [Season 5 Episode 5: Address Book Bloom](drafts/season-05-episode-05-address-book-bloom.md) - Draft article mirror for the fifth Season 5 episode.
+- [Season 5 Episode 6: The Quarantine Tray](drafts/season-05-episode-06-quarantine-tray.md) - Draft article mirror for the sixth Season 5 episode.
+- [Season 5 Episode 7: The Warning That Worked](drafts/season-05-episode-07-warning-that-worked.md) - Draft article mirror for the seventh Season 5 episode.
+- [Season 5 Episode 8: The Phishmonger's Ribbon](drafts/season-05-episode-08-phishmongers-ribbon.md) - Draft article mirror for the eighth Season 5 episode.
+- [Season 5 Episode 9: The Love Letter Plague](drafts/season-05-episode-09-love-letter-plague.md) - Draft article mirror for the Season 5 finale.
 
 ## Reports
 
@@ -303,3 +333,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 4 Continuity Audit](reports/season-04-continuity-audit.md) - Cross-season continuity audit for Season 4.
 - [Season 4 Release Historical Anchor Analysis](reports/season-04-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Published Entity Inventory Season 4](reports/published-entity-inventory-season-04.md) - Reconciliation of Season 4 public-story entities requiring wiki representation.
+- [Season 5 Draft Review](reports/season-05-draft-review.md) - Full private draft review against the Season 5 historical account, documentary treatment, story arc, and production bible.
+- [Season 5 Continuity Audit](reports/season-05-continuity-audit.md) - Cross-season continuity audit for Season 5.
+- [Season 5 Release Historical Anchor Analysis](reports/season-05-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
+- [Published Entity Inventory Season 5](reports/published-entity-inventory-season-05.md) - Reconciliation of Season 5 public-story entities requiring wiki representation.
