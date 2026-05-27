@@ -203,7 +203,7 @@ This points to Season 7's patch-debt story without making Season 6 feel unresolv
 | Story arc | complete |
 | Support canon | complete |
 | Production bible | complete |
-| Mission packets | pending |
+| Mission packets | complete |
 | Article drafts | pending |
 | Draft review | pending |
 | Continuity audit | pending |

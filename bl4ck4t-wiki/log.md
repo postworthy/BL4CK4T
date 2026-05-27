@@ -2,6 +2,25 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] draft | Create Season 6 mission packets
+
+Created all nine Season 6 mission packets for The Day The City Would Not Answer. Each packet records the documentary anchor, opening control, character pressure, story beats, Teaching Tie-In target, transformation notes, safety constraints, and prose-quality warnings before article drafting begins.
+
+Touched areas:
+
+- [missions/season-06-episode-01-spinning-board.md](missions/season-06-episode-01-spinning-board.md)
+- [missions/season-06-episode-02-nothing-missing.md](missions/season-06-episode-02-nothing-missing.md)
+- [missions/season-06-episode-03-queue-district.md](missions/season-06-episode-03-queue-district.md)
+- [missions/season-06-episode-04-service-map.md](missions/season-06-episode-04-service-map.md)
+- [missions/season-06-episode-05-we-do-not-know-yet.md](missions/season-06-episode-05-we-do-not-know-yet.md)
+- [missions/season-06-episode-06-outside-gate.md](missions/season-06-episode-06-outside-gate.md)
+- [missions/season-06-episode-07-flood-prince.md](missions/season-06-episode-07-flood-prince.md)
+- [missions/season-06-episode-08-priority-lanes.md](missions/season-06-episode-08-priority-lanes.md)
+- [missions/season-06-episode-09-city-answers.md](missions/season-06-episode-09-city-answers.md)
+- [missions/README.md](missions/README.md)
+- [production-bibles/season-06-the-day-the-city-would-not-answer.md](production-bibles/season-06-the-day-the-city-would-not-answer.md)
+- [index.md](index.md)
+
 ## [2026-05-27] draft | Create Season 6 production bible
 
 Created the Season 6 production bible for The Day The City Would Not Answer. The bible locks the season promise, source chain, episode control grid, unique opening requirements, Teaching Tie-In controls, quality gate controls, continuity controls, and Season 7 cliffhanger before mission packet development.
