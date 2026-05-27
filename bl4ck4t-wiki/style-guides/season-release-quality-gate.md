@@ -16,6 +16,17 @@ This gate exists to prevent season batches from reading like lightly varied temp
 
 Passing `pnpm tropes:check`, `pnpm wiki:check`, and `pnpm build` is necessary, but not sufficient. A season also needs a manual prose-quality review that confirms each episode earns its place as a story.
 
+## Historical Depth Gate
+
+Before the prose-quality gate can run, the season must pass a historical depth gate:
+
+- The historical account must be substantial enough to support story movement, character pressure, and historical nuance.
+- The documentary treatment must be movement-rich enough that episode drafts do not rely on repeated generic openings.
+- The story-world import must trace each major fictional episode beat back to a documentary movement or clearly marked creative bridge.
+- Thin macro planning pages are not valid substitutes for historical accounts or documentary treatments.
+
+For Seasons 6-10, use `../reports/season-06-10-historical-depth-remediation-plan.md` as the active remediation standard.
+
 ## Hard Stop Conditions
 
 Do not publish if any of these are true:

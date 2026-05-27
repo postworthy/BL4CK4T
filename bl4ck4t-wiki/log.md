@@ -2,6 +2,16 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] research | Add Season 6-10 historical depth remediation plan
+
+Added a historical-depth remediation plan after determining that the Season 6-10 macro planning pages were not deep enough to support high-quality fictional import. The plan requires each season to rebuild from source page, historical account, documentary treatment, historical-depth review, story-world import, production bible, drafts, quality gate, and release validation.
+
+Touched areas:
+
+- [reports/season-06-10-historical-depth-remediation-plan.md](reports/season-06-10-historical-depth-remediation-plan.md)
+- [style-guides/season-release-quality-gate.md](style-guides/season-release-quality-gate.md)
+- [index.md](index.md)
+
 ## [2026-05-27] maintenance | Retract rushed Season 6-10 release and add quality gate
 
 Removed the rushed public Season 6-10 release from the site and restored the public blog to Pilot through Season 5. Added a release retraction report and a Season Release Quality Gate so future season batches require manual prose differentiation, close-reading, and repeated-structure review before publication.

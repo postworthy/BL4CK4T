@@ -322,6 +322,8 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 ## Reports
 
 - [2026-05-26 Wiki Lint Report](reports/2026-05-26-wiki-lint.md) - Structural lint, maturity review, and recommended next attention areas.
+- [Season 6-10 Historical Depth Remediation Plan](reports/season-06-10-historical-depth-remediation-plan.md) - Active plan requiring deeper historical accounts and documentary treatments before rebuilding Seasons 6-10.
+- [Season 6-10 Release Retraction](reports/season-06-10-release-retraction.md) - Quality failure report and corrective action for the removed rushed release.
 - [Season 1 Draft Review](reports/season-01-draft-review.md) - Full private draft review against the Season 1 historical account, documentary treatment, story arc, and production bible.
 - [Season 1 Release Historical Anchor Analysis](reports/season-01-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Season 2 Draft Review](reports/season-02-draft-review.md) - Full private draft review against the Season 2 historical account, documentary treatment, story arc, and production bible.
