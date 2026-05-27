@@ -72,4 +72,8 @@ Pixel objected to losing the magic theory, but only for six seconds.
 
 ## Teaching Tie-In
 
-Trace evidence helps investigators ask better questions. A clue can show timing, movement, or contact without proving identity by itself. Good investigation protects that difference.
+- Concept: trace evidence.
+- Story idea: Mirrorline Arcade gives Shadow clues that suggest a route without proving identity.
+- Key distinction: a trace can show movement or timing without naming a person.
+- Defensive habit: record clues before moving or explaining them.
+- Season thread: Shadow starts turning the chase from rumor into evidence.

@@ -151,5 +151,5 @@ Crunch Charm. Crunch Charm. Crunch Charm.
 - Concept: partial knowledge and rumor spread.
 - Story idea: a zine makes the Echo Grid feel public before anyone really understands it.
 - Key distinction: what a document says can differ from what readers do with it.
-- Team skill: Jinx maps the rumor path while Cipher separates poetic claims from technical ones.
+- Defensive habit: Jinx maps the rumor path while Cipher separates poetic claims from technical ones.
 - Season thread: the zine mutates into the Crunch Charm myth.

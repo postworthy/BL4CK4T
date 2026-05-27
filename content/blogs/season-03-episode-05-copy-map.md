@@ -54,6 +54,8 @@ The copy map did not solve the incident. It made the next move honest.
 
 ## Teaching Tie-In
 
-- Key concept: evidence preservation helps responders act without guessing.
+- Concept: evidence preservation helps responders act without guessing.
+- Story idea: the copy map turns scattered room reports into a usable response picture.
+- Key distinction: confirmed paths, likely paths, ruled-out paths, and unknowns are different.
 - Defensive habit: separate confirmed facts, likely paths, ruled-out ideas, and unknowns.
 - Season thread: the copy map gives Grimalkin enough structure to coordinate response.

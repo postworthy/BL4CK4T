@@ -74,6 +74,8 @@ The printer clicked after everyone had gone silent.
 
 ## Teaching Tie-In
 
-- Key concept: propagation means a process reaches places beyond the expected scope.
+- Concept: propagation means a process reaches places beyond the expected scope.
+- Story idea: the Copycat Sprite repeats past Byte's expected count and reaches old paths.
+- Key distinction: intent does not determine impact once a process escapes its boundary.
 - Defensive habit: separate known facts, feelings, and unknowns during response.
 - Season thread: The Old Stack becomes the first clear path beyond Byte's sandbox.

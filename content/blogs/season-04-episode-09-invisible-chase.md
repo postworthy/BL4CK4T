@@ -64,4 +64,8 @@ BL4CK4T's tiny black pawprint appeared on the seal, and nobody touched it after 
 
 ## Teaching Tie-In
 
-A good incident response changes future practice. Season 4 ends with better reporting, cleaner public correction, and a stronger habit: evidence before story, and people before symbols.
+- Concept: incident aftermath and public correction.
+- Story idea: the city changes how identity claims are reported before names reach the wall.
+- Key distinction: closing a chase should change the next response.
+- Defensive habit: preserve evidence before story and people before symbols.
+- Season thread: Season 4 closes the Caller case and opens the Season 5 pink-envelope clue.

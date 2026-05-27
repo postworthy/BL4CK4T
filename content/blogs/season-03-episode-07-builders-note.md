@@ -76,6 +76,8 @@ The card looked rude. Byte liked it anyway.
 
 ## Teaching Tie-In
 
-- Key concept: good intent does not replace controls, review, or cleanup.
+- Concept: good intent does not replace controls, review, or cleanup.
+- Story idea: Byte writes down what he expected, what happened, what was missing, and what repair requires.
+- Key distinction: responsibility includes cleanup even when the original goal was harmless.
 - Defensive habit: write expected behavior, actual behavior, missing controls, and repair steps.
 - Season thread: Byte moves from gadget-first builder toward responsible engineer.

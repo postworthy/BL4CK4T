@@ -141,5 +141,5 @@ Above them, the red light faded to amber. The thread had left the lab.
 - Concept: evidence preservation.
 - Story idea: the Threadboard orders records without changing the scene.
 - Key distinction: protecting people and preserving evidence can be planned together.
-- Team skill: Byte builds a defensive tool that clarifies the record.
+- Defensive habit: Byte builds a defensive tool that clarifies the record.
 - Season thread: the first external Civic Learning Grid point appears.

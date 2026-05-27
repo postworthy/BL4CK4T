@@ -86,6 +86,8 @@ Grimalkin did not ring the bell. Not yet.
 
 ## Teaching Tie-In
 
-- Key concept: a strong response leaves better practice behind.
+- Concept: a strong response leaves better practice behind.
+- Story idea: the First Bell Desk turns one incident into a standing city habit.
+- Key distinction: closing an incident should leave a handle for the next one.
 - Defensive habit: create a clear place to report, coordinate, and recover.
 - Season thread: Season 3 closes the Copycat Sprite incident and points toward Season 4's chase story.

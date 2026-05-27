@@ -90,5 +90,8 @@ Shadow looked at the cleared lane. "That part was harder."
 
 ## Teaching Tie-In
 
-Evidence can be damaged by attention. When an incident is active, the best help may be reporting what you know, staying clear of sensitive areas, and letting the response team preserve the facts.
-
+- Concept: evidence preservation during public attention.
+- Story idea: the crowd at Mirrorline Arcade erases part of the trace it came to see.
+- Key distinction: curiosity can damage evidence even when people mean well.
+- Defensive habit: report what you know and stay clear of active evidence areas.
+- Season thread: the Chronicle learns that public speed can make the case harder.

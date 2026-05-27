@@ -125,5 +125,5 @@ For the first time since the `-0.75` appeared, Jinx felt the thread loosen in he
 - Concept: case building.
 - Story idea: the strongest case separates known facts, changes, ruled-out theories, and unknowns.
 - Key distinction: uncertainty can make a report more trustworthy when it is stated clearly.
-- Team skill: Jinx presents evidence without overstating it.
+- Defensive habit: Jinx presents evidence without overstating it.
 - Season thread: the Glass Bureau accepts coordinated action.

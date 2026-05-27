@@ -10,10 +10,20 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 WIKI = ROOT / "bl4ck4t-wiki"
+CONTENT = ROOT / "content"
 
 LINK_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
 FRONTMATTER_TYPE_RE = re.compile(r"^type:\s*([A-Za-z0-9_-]+)\s*$", re.MULTILINE)
 H2_RE = re.compile(r"^##\s+(.+?)\s*$", re.MULTILINE)
+TEACHING_TIE_IN_RE = re.compile(
+    r"^## Teaching Tie-In\s*\n+"
+    r"- Concept: .+\n"
+    r"- Story idea: .+\n"
+    r"- Key distinction: .+\n"
+    r"- Defensive habit: .+\n"
+    r"- Season thread: .+(?:\n|$)",
+    re.MULTILINE,
+)
 
 
 def read(path: Path) -> str:
@@ -188,6 +198,22 @@ def validate_same_type_structure(errors: list[str]) -> None:
                     errors.append(f"{path.relative_to(ROOT)}: missing required section ## {marker}")
 
 
+def validate_public_teaching_tie_ins(errors: list[str]) -> None:
+    blogs = CONTENT / "blogs"
+    if not blogs.exists():
+        return
+    for path in sorted(blogs.glob("season-*-episode-*.md")):
+        text = read(path)
+        if "## Teaching Tie-In" not in text:
+            errors.append(f"{path.relative_to(ROOT)}: missing ## Teaching Tie-In")
+            continue
+        if not TEACHING_TIE_IN_RE.search(text):
+            errors.append(
+                f"{path.relative_to(ROOT)}: Teaching Tie-In must use Concept, Story idea, "
+                "Key distinction, Defensive habit, and Season thread bullets in order"
+            )
+
+
 def main() -> int:
     errors: list[str] = []
     if not WIKI.exists():
@@ -199,6 +225,7 @@ def main() -> int:
     validate_drafts(errors)
     validate_missions(errors)
     validate_same_type_structure(errors)
+    validate_public_teaching_tie_ins(errors)
 
     if errors:
         for error in errors:

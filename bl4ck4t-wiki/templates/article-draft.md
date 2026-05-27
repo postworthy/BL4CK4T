@@ -37,6 +37,12 @@ timestamp: YYYY-MM-DDT00:00:00+00:00
 
 ## Teaching Tie-In
 
+- Concept:
+- Story idea:
+- Key distinction:
+- Defensive habit:
+- Season thread:
+
 ## Continuity Checks
 
 - Character consistency:

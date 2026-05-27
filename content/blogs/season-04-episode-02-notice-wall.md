@@ -96,5 +96,8 @@ Only a click.
 
 ## Teaching Tie-In
 
-Repeated claims need a source. A public name, a headline, or a dramatic drawing can help people talk about an event, but those things do not prove what happened.
-
+- Concept: claim classification.
+- Story idea: the City Chronicle gives the Caller a name before the case has proof.
+- Key distinction: repeated claims need a source.
+- Defensive habit: classify claims as seen, guessed, repeated, or unknown.
+- Season thread: the Vanishing Caller nickname enters public canon.

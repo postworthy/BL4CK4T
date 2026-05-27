@@ -62,6 +62,8 @@ By the fourth update, the map stopped growing. Grimalkin wrote `contained` on th
 
 ## Teaching Tie-In
 
-- Key concept: incident response needs roles, timing, and clear handoffs.
+- Concept: incident response needs roles, timing, and clear handoffs.
+- Story idea: Grimalkin turns a tense room into response lanes the team can follow.
+- Key distinction: coordination is active work, not a delay before action.
 - Defensive habit: assign lanes so helpers do not create more confusion.
 - Season thread: Grimalkin's temporary bell desk becomes the seed of a permanent city practice.

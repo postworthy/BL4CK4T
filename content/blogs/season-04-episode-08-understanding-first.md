@@ -90,4 +90,8 @@ Whiskers answered. "You are responsible. That is harder and more useful."
 
 ## Teaching Tie-In
 
-Understanding why someone acted helps responders choose the right next step. It does not erase impact. Accountability works best when it is tied to evidence, harm, repair, and future prevention.
+- Concept: accountability with proportionality.
+- Story idea: Shadow and Jinx reach the Caller without turning the moment into spectacle.
+- Key distinction: understanding motive does not erase impact.
+- Defensive habit: tie accountability to evidence, harm, repair, and prevention.
+- Season thread: the Vanishing Caller becomes a responsible person instead of a myth.

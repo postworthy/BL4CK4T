@@ -72,6 +72,8 @@ Grimalkin shook his head. "Recovery over. Lesson still open."
 
 ## Teaching Tie-In
 
-- Key concept: recovery means returning to a known good state and verifying it.
+- Concept: recovery means returning to a known good state and verifying it.
+- Story idea: restore slips make cleanup visible, ordered, and checkable.
+- Key distinction: looking fixed and being verified are not the same thing.
 - Defensive habit: do not call a system clear until records, tools, and physical checks agree.
 - Season thread: the team is ready to turn the incident into a permanent practice.

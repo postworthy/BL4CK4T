@@ -127,5 +127,5 @@ No one corrected him.
 - Concept: separating message paths from command paths.
 - Story idea: the Hushline shows a cleaner city design after the Echo Grid's old braid causes trouble.
 - Key distinction: a message says something; a command changes where something goes.
-- Team skill: Cipher explains the model, Byte builds it, and Whiskers coordinates the map of old cabinets.
+- Defensive habit: Cipher explains the model, Byte builds it, and Whiskers coordinates the map of old cabinets.
 - Season thread: the finale will turn the Echo Grid lesson into a public listening exhibit and reveal a tiny Season 2 clue.

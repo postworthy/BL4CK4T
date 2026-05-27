@@ -127,5 +127,5 @@ The season had been full of sparks. This was the first one that smelled like smo
 - Concept: models and assumptions.
 - Story idea: the Tonebox makes a hidden system idea visible, then becomes easy for others to misunderstand.
 - Key distinction: a model can explain a system without being the system.
-- Team skill: Byte builds, Cipher labels limits, Whiskers considers impact, and Jinx watches how the audience reacts.
+- Defensive habit: Byte builds, Cipher labels limits, Whiskers considers impact, and Jinx watches how the audience reacts.
 - Season thread: the first false closure appears, setting up the next episode's consequence turn.

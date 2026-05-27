@@ -102,4 +102,8 @@ He looked at both until they felt like the same skill.
 
 ## Teaching Tie-In
 
-Good evidence work labels the state of each claim. Confirmed, likely, ruled out, and unknown are different categories. Keeping them separate prevents a fast story from becoming a false conclusion.
+- Concept: knowledge-state mapping.
+- Story idea: the Chase Map makes the Caller smaller than the myth.
+- Key distinction: confirmed, likely, ruled out, and unknown are different categories.
+- Defensive habit: label every claim by evidence state before acting on it.
+- Season thread: Jinx and Shadow build the tool that can close the chase honestly.

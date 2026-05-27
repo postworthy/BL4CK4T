@@ -2,7 +2,7 @@
 type: style-guide
 status: active
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-05-27
 tags: [style, articles, blog]
 sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
@@ -39,7 +39,23 @@ Do not nerf the mystique of hacking with constant safety reminders. Humanize the
 5. `The Lesson Begins` section for first explanation.
 6. `Trial and Error` section for team exploration.
 7. `Closing Scene` section with reflection and final BL4CK4T message.
-8. Optional `Teaching Tie-In` when a clearer classroom summary is useful.
+8. Required `Teaching Tie-In` for season episodes.
+
+## Teaching Tie-In Format
+
+Every public season episode must end with this exact five-bullet structure:
+
+```markdown
+## Teaching Tie-In
+
+- Concept: ...
+- Story idea: ...
+- Key distinction: ...
+- Defensive habit: ...
+- Season thread: ...
+```
+
+Use `pnpm wiki:check` to enforce this structure for `content/blogs/season-*-episode-*.md`.
 
 ## Publication Rule
 

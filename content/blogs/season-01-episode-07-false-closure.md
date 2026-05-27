@@ -123,5 +123,5 @@ The city still sang, and now the song had weight.
 - Concept: evidence, impact, and containment.
 - Story idea: the Echo Grid mystery becomes serious when a false notice changes how people move through the city.
 - Key distinction: recovery comes before blame.
-- Team skill: Jinx builds the timeline, Shadow adds the small clue, and Whiskers keeps the team focused on helping people first.
+- Defensive habit: Jinx builds the timeline, Shadow adds the small clue, and Whiskers keeps the team focused on helping people first.
 - Season thread: the crowned mark and false closure force the team toward an architectural fix.

@@ -74,6 +74,8 @@ The Copycat Sprite glowed on six screens, cute as a sticker and heavy as a traff
 
 ## Teaching Tie-In
 
-- Key concept: security impact can be delay, downtime, and diverted work.
+- Concept: security impact can be delay, downtime, and diverted work.
+- Story idea: the Copycat Sprite matters because ordinary students lose time and tools.
+- Key distinction: an incident can harm people without destroying files.
 - Defensive habit: name affected users and scope before cleanup.
 - Season thread: the Copycat Sprite becomes a city response problem.

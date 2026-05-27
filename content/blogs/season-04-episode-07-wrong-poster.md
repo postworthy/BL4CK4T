@@ -72,4 +72,8 @@ Shadow watched Oren leave through the east doors. The city had almost chosen the
 
 ## Teaching Tie-In
 
-Proportional response protects both victims and suspects. Suspicion needs evidence, and public accusation can cause harm even when people believe they are helping.
+- Concept: proportionality.
+- Story idea: a wrong poster almost turns a rumor into harm against an innocent student.
+- Key distinction: resemblance and suspicion are not identification.
+- Defensive habit: match public response to evidence, harm, and uncertainty.
+- Season thread: the city learns that restraint can protect people too.

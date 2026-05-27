@@ -76,6 +76,8 @@ Pixel looked at the ninth marker.
 
 ## Teaching Tie-In
 
-- Key concept: self-copying behavior can become a problem when connected systems let it move farther than expected.
+- Concept: self-copying behavior can become a problem when connected systems let it move farther than expected.
+- Story idea: one extra marker turns a finished case into a new kind of incident.
+- Key distinction: unexpected behavior should be recorded before anyone explains it.
 - Defensive habit: pause, record, and check boundaries before rerunning a strange test.
 - Season thread: the ninth marker turns the Season 2 cliffhanger into Byte's Season 3 builder arc.

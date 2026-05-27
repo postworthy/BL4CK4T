@@ -534,3 +534,16 @@ Touched areas:
 - [canon/open-threads.md](canon/open-threads.md)
 - [index.md](index.md)
 - [log.md](log.md)
+
+## [2026-05-27] maintenance | Standardize teaching tie-ins
+
+Normalized public season episode teaching tie-ins to a consistent five-bullet structure: Concept, Story idea, Key distinction, Defensive habit, and Season thread. Updated the article style guide and article draft template, then extended `pnpm wiki:check` so future `content/blogs/season-*-episode-*.md` files must use the same structure before publication.
+
+Touched areas:
+
+- `content/blogs/season-03-*`
+- `content/blogs/season-04-*`
+- [style-guides/article-style-guide.md](style-guides/article-style-guide.md)
+- [templates/article-draft.md](templates/article-draft.md)
+- [../tools/check_bl4ck4t_wiki.py](../tools/check_bl4ck4t_wiki.py)
+- [log.md](log.md)

@@ -80,5 +80,8 @@ That one stayed up all week.
 
 ## Teaching Tie-In
 
-Social engineering often pressures people to trust surface signals: a familiar phrase, a rushed request, a name, or a tone. Good verification checks context, authority, timing, and the normal process.
-
+- Concept: social engineering and identity context.
+- Story idea: a familiar phrase arrives through the wrong process.
+- Key distinction: familiar words do not prove a familiar sender.
+- Defensive habit: check context, authority, timing, and normal process before acting.
+- Season thread: the Caller moves from rumor into concrete harm.

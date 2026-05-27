@@ -94,5 +94,8 @@ Shadow liked it better.
 
 ## Teaching Tie-In
 
-A label is not evidence. When a story spreads fast, separate what was observed, what is guessed, and what people are repeating because the repeated version feels easier.
-
+- Concept: public mythology.
+- Story idea: one added word turns an unknown caller into a city symbol.
+- Key distinction: a label is not evidence.
+- Defensive habit: separate observed facts from guesses and repeated claims.
+- Season thread: the Season 3 anonymous caller becomes a public chase story.
