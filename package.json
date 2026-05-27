@@ -8,6 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
+    "wiki:check": "python3 tools/check_bl4ck4t_wiki.py",
+    "tropes:check": "python3 tools/check_tropes.py",
     "preinstall": "npx only-allow pnpm"
   },
   "dependencies": {
