@@ -48,6 +48,14 @@ Whiskers speaks in steady, direct lines. He often turns scattered team discoveri
 - Rooftop vantage points.
 - Signal markers and team checklists.
 
+## Visual Description For Art
+
+Whiskers should read visually as the team's young field captain: upright posture, attentive ears, and a habit of standing where he can see both the team and the problem. His most reliable canon prop is the field notebook, often opened, closed, or marked with crossed-out certainty during hard calls.
+
+Use clean, practical adventure clothing rather than ornate costume language. A simple hoodie, field vest, or jacket with pockets for notes, checklists, and small signal markers fits his role. Keep his palette steady and readable rather than flashy; his silhouette should communicate readiness, responsibility, and team-first calm.
+
+Avoid locking a specific fur pattern or eye color until public canon establishes one.
+
 ## Lesson Role
 
 Use Whiskers to frame consent, teamwork, and the final defensive takeaway.
@@ -66,6 +74,9 @@ Whiskers should grow from eager field leader into a steadier moral center. His f
 - Season 1: keeps the team focused when the Echo Grid mystery turns into public consequence.
 - Season 2: bridges the team to the Glass Bureau and protects the Ledger Lab case from overstatement.
 - Season 3: keeps Byte's accountability useful rather than shame-driven and keeps affected students centered.
+- Season 4: helps stop public suspicion from becoming a wrong-poster accusation.
+- Season 5: leads warning and response-lane language without shaming people who trusted the Glitter Letter.
+- Season 6: learns to say `we do not know yet` on the Status Wall and turns leadership into truthful public communication.
 
 ## Future Use Notes
 

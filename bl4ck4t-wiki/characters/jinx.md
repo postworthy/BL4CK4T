@@ -47,6 +47,14 @@ Jinx asks the uncomfortable question. She notices what could go wrong and turns 
 - Red-string clue boards.
 - Warning tags.
 
+## Visual Description For Art
+
+Jinx should read as the young investigator: notebook or case cards close at hand, pencil ready, warning tags visible, and a magnifier lens or small camera for evidence detail. Public stories repeatedly tie her to notebooks, cards, maps, and evidence categories.
+
+Her silhouette should be alert and angled toward the clue, often slightly apart from the first rush of action. Use red strings, caution tags, numbered photos, or confidence-level cards as visual accents. The design should show skepticism becoming discipline: sharp eyes, careful hands, and evidence organized before accusation.
+
+Avoid making Jinx look merely suspicious or gloomy. Her visual identity is disciplined curiosity under pressure.
+
 ## Lesson Role
 
 Use Jinx for phishing, social engineering, debt risk, incident clues, and suspicious details.
@@ -65,6 +73,9 @@ Jinx should grow from suspicious clue-hunter into disciplined investigator. Her 
 - Season 1: spots risk around listener marks, false closure consequences, and the `-0.75` clue.
 - Season 2: leads the Ledger Lab investigation and completes her first major evidence-discipline arc.
 - Season 3: applies Season 2 habits to the Copycat Sprite incident by separating knowns, fears, and unknowns.
+- Season 4: builds public-claim categories and the Chase Map.
+- Season 5: leads hold-first message handling and contact-path mapping without blaming recipients.
+- Season 6: builds the Service Map and learns to map people waiting on services, not only systems.
 
 ## Future Use Notes
 

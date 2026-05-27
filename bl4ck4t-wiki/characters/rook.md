@@ -47,6 +47,14 @@ Rook speaks like someone performing for a crowd, but the best lines should hint 
 - Platform gatherings.
 - Loud public gestures.
 
+## Visual Description For Art
+
+Rook should read as a charismatic Row Rebels figure shaped by Signal Row rumor culture. Public Season 1 details support blue scarves in the Row Rebels crowd, Crunch Charms, hand-lettered stickers, crowned pawprint marks, and jacket-back listener marks.
+
+Render Rook with public-facing posture: turned toward a crowd, one paw raised toward a sign, or half-lit by a billboard. Good details include a blue scarf, Row Rebels stickers, a Crunch Charm, or a jacket marked with a listener symbol. The crown mark can appear near Rook, but avoid making it look like a formal royal emblem; it is a street-signature tied to status and spectacle.
+
+Avoid making Rook look like a flat villain. The design should keep insight, insecurity, protest, and recklessness in tension.
+
 ## Lesson Role
 
 Use Rook to explore mixed motives: curiosity, protest, status, and harm in the same person.

@@ -30,6 +30,12 @@ The Script Kitties are the learner crew at the center of BL4CK4T stories. They s
 
 The team learns by splitting a problem into perspectives, testing ideas, comparing results, and turning the solution into a shared lesson.
 
+## Team Visual Direction
+
+The Script Kitties should read as a learner crew, not a uniformed squad. Each member should keep a distinct silhouette tied to role: Whiskers with field notes, Grimalkin with maps and glasses, Pixel with an orange hoodie and hands-on prototypes, Byte with a blue hooded layer and tablet, Cipher with a purple hoodie and notebook, Jinx with case notes and warning tags, and Shadow with hooded edge-of-room observation.
+
+Group art should keep Cybertropolis visible through neon signs, rooftops, old terminals, civic boards, maps, stickers, and pawprint drops. Avoid giving every member identical gear; the team's visual strength is collaborative contrast.
+
 ## Group Voice
 
 The team should sound collaborative. They disagree by testing, asking, and comparing, not by belittling each other.

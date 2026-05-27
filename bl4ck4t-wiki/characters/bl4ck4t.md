@@ -39,6 +39,14 @@ BL4CK4T is anchored in the spirit of Gandalf: mysterious mentor, indirect guidan
 
 BL4CK4T speaks in compact, memorable lines. The voice should feel mysterious but not cruel.
 
+## Visual Description For Art
+
+BL4CK4T should usually be rendered through absence and signal rather than a full visible body. Public canon supports glowing pawprints, black screens, white text, rooftop billboards, sealed marks, city reflections, simulator messages, and compact drops.
+
+The safest visual language is a crisp black or white pawprint mark, a sharp silhouette implied in reflection, or a city surface briefly becoming a message. If a figure is suggested, keep it partial: a shadow at the edge of a billboard glow, a cloak-like outline in glass, or a pawprint appearing where a face would be expected. The image should imply mentorship and mystery without answering what BL4CK4T is.
+
+Avoid definitive facial features, species details, or a fixed body design until canon reveals more.
+
 ## Story Use
 
 Use BL4CK4T to start the mission, raise the right question, and close the story with the lesson's deeper meaning.
@@ -59,6 +67,9 @@ BL4CK4T should remain publicly mysterious while privately serving as the story's
 - Does not solve the team's cases directly.
 - Repeatedly asks the team to listen, count, map, preserve, stop, and reflect.
 - Season 3 confirms BL4CK4T can guide response discipline without becoming the responder.
+- Season 4 uses BL4CK4T drops to press proportionality and identity-claim discipline.
+- Season 5 uses BL4CK4T drops to emphasize hold-first message handling and warning culture.
+- Season 6 uses BL4CK4T drops to name availability, honest uncertainty, attribution discipline, and post-incident learning.
 
 ## Future Use Notes
 

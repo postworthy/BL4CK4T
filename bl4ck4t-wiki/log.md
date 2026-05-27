@@ -2,6 +2,31 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] maintenance | Lint wiki consistency and character visual language
+
+Ran a wiki consistency pass after Season 6 publication. Fixed stale Season 6 status language, updated the Production Bibles README, added the missing Season 6 published entity inventory, created a maintenance lint report, and expanded character profiles with render-ready visual description sections grounded in existing blog and wiki lore.
+
+Touched areas:
+
+- [reports/published-entity-inventory-season-06.md](reports/published-entity-inventory-season-06.md)
+- [reports/2026-05-27-wiki-consistency-and-character-visual-lint.md](reports/2026-05-27-wiki-consistency-and-character-visual-lint.md)
+- [characters/bl4ck4t.md](characters/bl4ck4t.md)
+- [characters/script-kitties.md](characters/script-kitties.md)
+- [characters/whiskers.md](characters/whiskers.md)
+- [characters/grimalkin.md](characters/grimalkin.md)
+- [characters/pixel.md](characters/pixel.md)
+- [characters/byte.md](characters/byte.md)
+- [characters/cipher.md](characters/cipher.md)
+- [characters/jinx.md](characters/jinx.md)
+- [characters/shadow.md](characters/shadow.md)
+- [characters/ms-vale.md](characters/ms-vale.md)
+- [characters/mira.md](characters/mira.md)
+- [characters/rook.md](characters/rook.md)
+- [characters/mr-olan.md](characters/mr-olan.md)
+- [seasons/season-06-the-day-the-city-would-not-answer.md](seasons/season-06-the-day-the-city-would-not-answer.md)
+- [production-bibles/README.md](production-bibles/README.md)
+- [index.md](index.md)
+
 ## [2026-05-27] publish | Release Season 6: The Day The City Would Not Answer
 
 Drafted, validated, and published Season 6 as a single nine-episode public release. Added draft mirrors, public blog posts, the public season page, draft review, continuity audit, historical-anchor analysis, and continuity timeline updates. Season 6 now closes the availability incident and leaves the Season 7 patch-debt red mark.

@@ -49,6 +49,14 @@ Pixel speaks in quick observations, comparisons, and excited questions. Pixel ma
 - Tiny prototype gadgets.
 - Bright visual diagrams.
 
+## Visual Description For Art
+
+Pixel has the strongest public visual baseline among the Script Kitties: the pilot calls Pixel the smallest of the team and gives Pixel a bright orange hoodie. Keep the orange hoodie as the primary recognizer, with chalk dust, sticker sheets, tiny prototype parts, and bright diagrams as secondary cues.
+
+Pixel should look kinetic and curious: leaning toward evidence, bouncing on heels, ears tilted toward sounds, or holding a half-finished demo. Use expressive paws, wide attentive eyes, and a compact silhouette. The design should make wonder visible without making Pixel careless; after Season 3 and Season 5, include small signs of learned restraint such as labeled trays, pause cards, or contained experiment boxes.
+
+Avoid turning Pixel into pure comic relief. Pixel's visual energy should still support careful learning.
+
 ## Lesson Role
 
 Use Pixel for demonstrations, analogies, and safe experiments.
@@ -68,6 +76,9 @@ Pixel should grow from impulsive experimenter into a clear explainer. Pixel's ba
 - Season 1: hears the hidden three-note phrase beneath Signal Row and drives the wonder side of the Echo Grid mystery.
 - Season 2: notices and builds on small oddities, then opens the Season 3 thread when the toy process copies farther than expected.
 - Season 3: learns to stop, record, and respect boundaries when the ninth marker appears.
+- Season 4: helps classify public claims without letting rumor become proof.
+- Season 5: chooses not to open the suspicious self-addressed letter and learns curiosity with containment.
+- Season 6: learns that absence, delay, and silence can be evidence when no object looks broken.
 
 ## Future Use Notes
 

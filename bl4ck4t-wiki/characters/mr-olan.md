@@ -47,6 +47,14 @@ Mr. Olan should sound precise and dry. He respects records more than excitement.
 - Archive desk.
 - Quiet status lights.
 
+## Visual Description For Art
+
+Mr. Olan should look like a careful civic-record librarian: precise, dry, and protective of public summaries. His visual world is the library terminal, archive desk, rain-garden window, public summary slips, and quiet status lights.
+
+Render him with neat stacks of public slips, a terminal screen angled away from casual view, and a posture that suggests he is deciding whether the visitors have brought enough process to deserve access. Clothing should be tidy and understated, with small archive or library details rather than dramatic authority cues.
+
+Avoid using him as a generic elder or city official. His visual identity should stay local to library records and public-terminal stewardship.
+
 ## Lesson Role
 
 Use Mr. Olan for public records, library systems, and the value of local caretakers in cross-system incidents.

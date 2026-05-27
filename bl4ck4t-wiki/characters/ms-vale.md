@@ -49,6 +49,14 @@ Ms. Vale speaks plainly. She prefers forms, records, and useful truth over drama
 - Archive sleeves.
 - Response forms.
 
+## Visual Description For Art
+
+Ms. Vale should look like a practical lab caretaker who has already seen three small problems become paperwork. Public stories connect her to the Ledger Lab, caretaker records, forms, archive sleeves, clear trays, pencils, and response desks.
+
+Render her with a help-counter presence: red folders stacked nearby, a tea mug or pencil at hand, archive sleeves tucked under one arm, and an expression that stays steady even when her pencil stops moving. Her clothing should be functional and worn-in rather than formal, with pockets or a lanyard for lab keys and forms.
+
+Avoid making her a remote authority figure. She is protective, tired, precise, and local to the work.
+
 ## Lesson Role
 
 Use Ms. Vale for evidence handling, caretaker review, student protection, and practical response procedure.
@@ -66,6 +74,8 @@ Ms. Vale should grow into a recurring adult ally who respects the Script Kitties
 
 - Season 2: helps preserve Ledger Lab records, protects Project Orchard, works with the Glass Bureau, and gives Jinx the archived `-0.75` case copy.
 - Season 3: reviews Byte's sandbox plan, opens The Old Stack context, receives the Builder's Note, and helps establish the First Bell Desk.
+- Season 5: provides a clear hold-first tray that helps move the pink envelope into review.
+- Season 6: carries practical forms and blocked-request handling into the availability response.
 
 ## Future Use Notes
 

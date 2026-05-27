@@ -377,3 +377,5 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 6 Draft Review](reports/season-06-draft-review.md) - Full private draft review against the Season 6 historical account, documentary treatment, story arc, and production bible.
 - [Season 6 Continuity Audit](reports/season-06-continuity-audit.md) - Cross-season continuity audit for Season 6.
 - [Season 6 Release Historical Anchor Analysis](reports/season-06-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
+- [Published Entity Inventory Season 6](reports/published-entity-inventory-season-06.md) - Reconciliation of Season 6 public-story entities requiring wiki representation.
+- [Wiki Consistency And Character Visual Lint](reports/2026-05-27-wiki-consistency-and-character-visual-lint.md) - Maintenance pass for Season 6 status consistency and character art-direction language.

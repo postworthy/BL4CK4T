@@ -49,6 +49,14 @@ Byte speaks in practical build steps and quick status checks. Byte often wants t
 - Cable bundles.
 - Simulators and dashboards.
 
+## Visual Description For Art
+
+Byte has a public visual cue from the pilot: the blue-hooded gadgeteer. Keep the blue hoodie or blue hooded layer as Byte's anchor, paired with a tablet, small terminal windows, cable bundles, and safe demo hardware.
+
+Byte should look hands-on and slightly overprepared: pockets with adapters, a tablet already awake, a coil of cable, or a pocket notebook for model checks. His posture can be crouched beside old terminals, leaning over dashboards, or holding a prototype with a visible stop switch. The design should show maker confidence tempered by post-Season 3 accountability.
+
+Avoid making Byte's tools look like offensive gear. His kit should read as classroom-safe demos, repair, modeling, and validation.
+
 ## Lesson Role
 
 Use Byte for safe tooling, demos, toy crypto, network labs, and validation checks.
@@ -68,6 +76,9 @@ Byte should grow from gadget-first builder into thoughtful engineer. The backsto
 - Season 1: builds the Tonebox model and learns that a clear demo can be misunderstood outside its original lesson.
 - Season 2: builds the Threadboard as an evidence-preserving instrument instead of a conclusion-forcing tool.
 - Season 3: completes the first major builder-accountability arc through the Copycat Sprite incident.
+- Season 4: helps distinguish familiar phrases from trustworthy senders.
+- Season 5: makes appearance-versus-behavior mismatch visible without operational detail.
+- Season 6: helps with service-pressure models and learns that response tools must serve people, not elegance.
 
 ## Future Use Notes
 

@@ -48,6 +48,14 @@ Shadow uses short lines. When Shadow speaks, the detail should matter.
 - Small marks.
 - Hidden paths and quiet sensors.
 
+## Visual Description For Art
+
+Shadow has recurring public visual cues around hooded movement, room edges, reflections, and physical inspection. Season 2 explicitly shows Shadow lifting his hood before checking old trust paths; Season 4 centers Shadow's use of trace evidence and reflections.
+
+Render Shadow with a low-profile hood or dark outer layer, placed near edges, windows, reflective glass, service panels, or floor-level clues. The body language should be still but active: crouching near a terminal stand, pointing at a reflected mark, or watching who is affected before speaking. Small light accents can help show observation without turning Shadow into a generic stealth figure.
+
+Avoid using Shadow only as atmosphere. The visual should show a protector who notices material details others miss.
+
 ## Lesson Role
 
 Use Shadow for authenticity clues, stealthy observation, small beginnings, and hidden signals.
@@ -66,6 +74,9 @@ Shadow should grow from silent watcher into trusted protector. The backstory sho
 - Season 1: notices rooftop beacon behavior and sticker-path evidence around the Echo Grid.
 - Season 2: spots physical evidence such as terminal warmth, moved panels, and relay state.
 - Season 3: checks room lights, fans, and physical room state during containment and recovery.
+- Season 4: carries the trust arc around trace evidence, public mythology, and proportionate accountability.
+- Season 5: helps map recipient patterns and trust-path spread.
+- Season 6: watches ordinary-life impact and protects the outside-gate perspective from being flattened into blame.
 
 ## Future Use Notes
 

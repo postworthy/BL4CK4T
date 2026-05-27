@@ -48,6 +48,14 @@ Grimalkin speaks with measured caution. He likes timelines, probabilities, and q
 - Timeline strings.
 - Threat-model cards.
 
+## Visual Description For Art
+
+Grimalkin should look like the team's young planner: composed, slightly guarded, and usually carrying some visible planning surface. Season 6 gives a hard public cue that he adjusts or wears glasses; use glasses as a stable visual marker unless future canon changes it.
+
+Good render cues include folded city maps, card stacks, route overlays, review schedules, and a satchel or case for planning tools. His clothing should feel practical and restrained, with darker or muted tones that let colored map pins, warning cards, and route lines stand out. His posture can lean forward over maps or pause with one paw on a card, suggesting caution before action.
+
+Avoid making him look grim or adult-heavy; he is a young strategist learning trust, not a brooding vigilante.
+
 ## Lesson Role
 
 Use Grimalkin for risk modeling, preparation, patching, backups, and long-term thinking.
@@ -65,6 +73,9 @@ Grimalkin should grow from over-planner into resilient strategist. His backstory
 
 - Season 2: maps ownership paths, old trust paths, and alternate explanations during the Ledger Lab case.
 - Season 3: becomes a proven incident coordinator by creating response lanes, update cadence, and the First Bell Desk.
+- Season 4: supports proportional response and helps keep public suspicion from outrunning evidence.
+- Season 5: helps Whiskers build Message Office response lanes.
+- Season 6: defines priority lanes, fallback desks, and reviewable outside-gate limits.
 
 ## Future Use Notes
 
