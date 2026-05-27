@@ -12,7 +12,8 @@ sources:
 
 ## Active Threads
 
-- Season 6 traffic flood: Season 5 ends with every Message Office lamp blinking under a rush of empty delivery receipts. The thread should lead into availability, overwhelming traffic, civic dependency, and resilience without operational detail.
+- Season 6 traffic flood: Season 5 ends with every Message Office lamp blinking under a rush of empty delivery receipts. The thread now leads into the Queue District, Service Map, Status Wall, Service Bell Tower, Flood Prince, availability, overwhelming traffic, civic dependency, and resilience without operational detail.
+- Season 7 patch-debt bridge: Season 6 should end with one red Service Map mark that did not fail because of the flood. It failed because of an old known flaw left unrepaired.
 - Far Relay and Ledgerjack: Season 2 leaves the broker layer unresolved. Future stories may expand it, but Ledgerjack should remain indirect unless later canon earns a clearer reveal.
 - Row Rebels: Season 1 leaves them as mixed-motive Signal Row kids, not villains. If they return, preserve curiosity, protest, status, and harm in tension.
 - First Bell Desk: Season 3 creates a standing lab incident coordination point. It should remain available alongside the Glass Bureau.

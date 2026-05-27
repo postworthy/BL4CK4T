@@ -2,6 +2,28 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] canon | Import Season 6 historical documentary into BL4CK4T world
+
+Created the Season 6 story-world import for The Day The City Would Not Answer. Added the Service Map, Flood Prince, Queue District, Status Wall, Service Bell Tower, and Season 6 concepts for availability, denial of service, service degradation, civic resilience, and status communication. Updated Season 6, continuity, open threads, and index before production bible work.
+
+Touched areas:
+
+- [story-arcs/season-06-the-day-the-city-would-not-answer-arc.md](story-arcs/season-06-the-day-the-city-would-not-answer-arc.md)
+- [seasons/season-06-the-day-the-city-would-not-answer.md](seasons/season-06-the-day-the-city-would-not-answer.md)
+- [artifacts/service-map.md](artifacts/service-map.md)
+- [villains/flood-prince.md](villains/flood-prince.md)
+- [locations/queue-district.md](locations/queue-district.md)
+- [locations/status-wall.md](locations/status-wall.md)
+- [locations/service-bell-tower.md](locations/service-bell-tower.md)
+- [concepts/availability.md](concepts/availability.md)
+- [concepts/denial-of-service.md](concepts/denial-of-service.md)
+- [concepts/service-degradation.md](concepts/service-degradation.md)
+- [concepts/civic-resilience.md](concepts/civic-resilience.md)
+- [concepts/status-communication.md](concepts/status-communication.md)
+- [canon/continuity-timeline.md](canon/continuity-timeline.md)
+- [canon/open-threads.md](canon/open-threads.md)
+- [index.md](index.md)
+
 ## [2026-05-27] research | Close Season 6 Estonia historical gaps
 
 Closed the main Season 6 historical-account gaps by adding RIA/CERT primary statements from April 30 and May 1, the CERT Estonia 2007 annual summary, the July 2007 Estonian government action-plan notice, RIA's CERT-EE retrospective, Wired's defender narrative, Computerworld's conviction report, and ERR's case-closure report. Promoted the historical account to research-foundation-complete and the documentary treatment to complete for season-level development.

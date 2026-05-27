@@ -119,7 +119,7 @@ This timeline records the current event order from the published blog and privat
 
 ## Open Threads
 
-- Season 6 should pick up the empty delivery receipt traffic flood from Season 5.
+- Season 6 should pick up the empty delivery receipt traffic flood from Season 5. Draft continuity now maps this to the Queue District, Status Wall, Service Bell Tower, Service Map, and Flood Prince.
 - The Row Rebels can return, but future stories should remember that Season 1 treated them as mixed-motive kids, not villains.
 - The Far Relay and Ledgerjack can recur as broader adversary infrastructure, but Season 2 does not establish a captured individual mastermind.
 - The Glass Bureau and shared evidence channel should remain available for later reporting and coordination stories.
@@ -127,3 +127,14 @@ This timeline records the current event order from the published blog and privat
 - The First Bell Desk should remain available for fast lab incident coordination.
 - The Vanishing Caller case is closed; future use should focus on lessons, corrected process, or aftermath rather than reopening the chase.
 - The Glitter Letter incident is closed; future use should focus on message-handling lessons, Quarantine Tray practice, or Message Office aftermath rather than reopening the same outbreak.
+
+## Season 6: The Day The City Would Not Answer - Private Import Continuity
+
+- Season 6 opens from the Season 5 empty delivery receipt flood at the Message Office.
+- The problem is availability pressure, not stolen or altered records.
+- Queue District, Status Wall, Service Bell Tower, and Service Map are introduced as civic response infrastructure.
+- Whiskers' season wound is fear that saying `we do not know yet` will make him look weak.
+- Jinx begins mapping service dependencies, including the people waiting on services.
+- The Flood Prince enters as the Season 6 adversary figure for attention without responsibility.
+- Season 6 must distinguish claims, rumors, evidence, and attribution before blaming anyone.
+- The Season 7 thread should be a red Service Map mark caused by old patch debt, not by the flood itself.

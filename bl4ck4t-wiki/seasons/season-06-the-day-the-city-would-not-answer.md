@@ -1,19 +1,30 @@
 ---
 type: season
-status: planned
+status: drafting
 created: 2026-05-26
 updated: 2026-05-27
 season_number: 6
 tags: [season, estonia, resilience, ddos, civic-dependency]
 sources:
   - ../story-arcs/seasons-06-10-civic-dependency-arc.md
+  - ../historical-accounts/estonia-cyberattacks-2007.md
+  - ../historical-documentary-treatments/estonia-cyberattacks-2007.md
+  - ../story-arcs/season-06-the-day-the-city-would-not-answer-arc.md
 historical_inspiration: [estonia-2007, ddos, cyber-conflict, civic-resilience]
 historical_account: ../historical-accounts/estonia-cyberattacks-2007.md
-primary_lessons: []
+documentary_treatment: ../historical-documentary-treatments/estonia-cyberattacks-2007.md
+story_arc: ../story-arcs/season-06-the-day-the-city-would-not-answer-arc.md
+primary_lessons:
+  - availability
+  - denial-of-service
+  - service-degradation
+  - status-communication
+  - civic-resilience
 featured_characters:
   - ../characters/whiskers.md
   - ../characters/jinx.md
-featured_villains: []
+featured_villains:
+  - ../villains/flood-prince.md
 ---
 
 # Season 6: The Day The City Would Not Answer
@@ -28,15 +39,15 @@ Primary anchor: the 2007 Estonia cyberattacks.
 
 Contextual background: early large-scale DDoS history, including Mafiaboy, may be used in the historical account to explain public recognition of denial-of-service harm. Estonia remains the season-scale anchor because it better supports civic dependency, public-service disruption, attribution uncertainty, and national resilience.
 
-## Historical Account Requirement
+## Source Foundation
 
-- Required account path: `bl4ck4t-wiki/historical-accounts/estonia-cyberattacks-2007.md`
-- Status: not started.
-- No BL4CK4T transformation or episode drafting should proceed until the account is complete.
+- Historical account: [Estonia 2007 Cyberattacks](../historical-accounts/estonia-cyberattacks-2007.md), `research-foundation-complete`.
+- Documentary treatment: [Estonia 2007 Cyberattacks Documentary Treatment](../historical-documentary-treatments/estonia-cyberattacks-2007.md), `complete`.
+- Story import: [Season 6 Story Arc](../story-arcs/season-06-the-day-the-city-would-not-answer-arc.md), `complete`.
 
 ## BL4CK4T Transformation
 
-Season 5 ends with empty delivery receipts flooding the Message Office. Season 6 turns that clue into an availability crisis: blank receipts, frozen kiosks, stalled civic forms, delayed public services, and honest status communication under uncertainty.
+Season 5 ends with empty delivery receipts flooding the Message Office. Season 6 turns that clue into an availability crisis: blank receipts, frozen kiosks, stalled civic forms, delayed public services, restricted outside gates, and honest status communication under uncertainty.
 
 ## Season Theme
 
@@ -54,7 +65,19 @@ Key line to preserve if it fits the eventual story:
 
 ## Core Civic Artifact
 
-Service Map: a map that shows what depends on what, including the people waiting on those services.
+[Service Map](../artifacts/service-map.md): a map that shows what depends on what, including the people waiting on those services.
+
+## New Canon Pages
+
+- [Flood Prince](../villains/flood-prince.md)
+- [Queue District](../locations/queue-district.md)
+- [Status Wall](../locations/status-wall.md)
+- [Service Bell Tower](../locations/service-bell-tower.md)
+- [Availability](../concepts/availability.md)
+- [Denial Of Service](../concepts/denial-of-service.md)
+- [Service Degradation](../concepts/service-degradation.md)
+- [Civic Resilience](../concepts/civic-resilience.md)
+- [Status Communication](../concepts/status-communication.md)
 
 ## Core Lessons
 
@@ -83,13 +106,9 @@ The Flood Prince represents attention without responsibility. He should not be w
 
 ## Source Requirements Before Drafting
 
-- Create a source page for Estonia 2007.
-- Gather primary and near-primary sources for the historical account.
-- Use Mafiaboy only as context unless the historical research supports deeper integration.
-- Add concept pages for DDoS, availability, service degradation, resilience, and status communication after the historical account identifies the right vocabulary.
+- Complete. The season should now move to production bible development before mission packets or episode drafts.
 
 ## Safety Boundaries
 
 - Do not describe attack tooling or replication steps.
 - Emphasize preparation, continuity, public communication, service prioritization, and response.
-

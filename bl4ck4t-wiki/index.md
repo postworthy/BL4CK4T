@@ -43,6 +43,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Pink Envelope](artifacts/pink-envelope.md) - Season 5 suspicious-message clue from the Season 4 finale.
 - [Glitter Letter](artifacts/glitter-letter.md) - Season 5 social-lure message artifact.
 - [Quarantine Tray](artifacts/quarantine-tray.md) - Season 5 hold-first message review artifact.
+- [Service Map](artifacts/service-map.md) - Season 6 dependency and availability response artifact.
 
 ## Characters
 
@@ -91,6 +92,9 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Relay Archives Location](locations/relay-archives-location.md) - Archive-adjacent old relay setting.
 - [Mirrorline Arcade](locations/mirrorline-arcade.md) - Season 4 public passage for reflection, phone, and trace clues.
 - [Letter Lane](locations/letter-lane.md) - Season 5 message district and Message Office setting.
+- [Queue District](locations/queue-district.md) - Season 6 civic-services district for public request handling.
+- [Status Wall](locations/status-wall.md) - Season 6 public service-state board.
+- [Service Bell Tower](locations/service-bell-tower.md) - Season 6 signal point for unreachable or degraded services.
 
 ## Villains
 
@@ -100,6 +104,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Ledgerjack](villains/ledgerjack.md) - Season 2 broker figure connected to account misuse and mismatched records.
 - [Copycat Sprite](villains/copycat-sprite.md) - Season 3 incident force for propagation and containment lessons.
 - [The Vanishing Caller](villains/the-vanishing-caller.md) - Season 4 adversary identity for public mythology, social engineering, and proportionality lessons.
+- [Flood Prince](villains/flood-prince.md) - Season 6 availability adversary for attention without responsibility.
 - [Villain Backlog](villains/villain-backlog.md) - Fictional adversary concepts loosely inspired by real threat patterns.
 
 ## Concepts
@@ -133,6 +138,11 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Attachment Trust](concepts/attachment-trust.md) - Season 5 concept for suspicious-message handling.
 - [File Appearance Deception](concepts/file-appearance-deception.md) - Season 5 concept for name/icon behavior mismatch.
 - [Contact List Spread](concepts/contact-list-spread.md) - Season 5 concept for trust-path amplification.
+- [Availability](concepts/availability.md) - Season 6 concept for services answering when needed.
+- [Denial Of Service](concepts/denial-of-service.md) - Season 6 concept for availability disruption.
+- [Service Degradation](concepts/service-degradation.md) - Season 6 concept for partial or unreliable service.
+- [Civic Resilience](concepts/civic-resilience.md) - Season 6 concept for keeping essential work moving and learning afterward.
+- [Status Communication](concepts/status-communication.md) - Season 6 concept for public updates during disruption.
 
 ## Lessons
 
@@ -149,6 +159,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 3: The Escaped Experiment Arc](story-arcs/season-03-the-escaped-experiment-arc.md) - Documentary-to-world adaptation for the Morris Worm inspired season.
 - [Season 4: The Invisible Chase Arc](story-arcs/season-04-the-invisible-chase-arc.md) - Documentary-to-world adaptation for the hacker-manhunt inspired season.
 - [Season 5: The Love Letter Plague Arc](story-arcs/season-05-the-love-letter-plague-arc.md) - Documentary-to-world adaptation for the ILOVEYOU inspired season.
+- [Season 6: The Day The City Would Not Answer Arc](story-arcs/season-06-the-day-the-city-would-not-answer-arc.md) - Documentary-to-world adaptation for the Estonia 2007 inspired season.
 - [Seasons 6-10: The Civic Dependency Arc](story-arcs/seasons-06-10-civic-dependency-arc.md) - Macro planning arc for availability, maintenance, quiet intrusion, physical safety, and connected-device responsibility.
 
 ## Production Bibles
