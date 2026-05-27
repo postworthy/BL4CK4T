@@ -2,6 +2,17 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] draft | Create Season 6 production bible
+
+Created the Season 6 production bible for The Day The City Would Not Answer. The bible locks the season promise, source chain, episode control grid, unique opening requirements, Teaching Tie-In controls, quality gate controls, continuity controls, and Season 7 cliffhanger before mission packet development.
+
+Touched areas:
+
+- [production-bibles/season-06-the-day-the-city-would-not-answer.md](production-bibles/season-06-the-day-the-city-would-not-answer.md)
+- [production-bibles/README.md](production-bibles/README.md)
+- [seasons/season-06-the-day-the-city-would-not-answer.md](seasons/season-06-the-day-the-city-would-not-answer.md)
+- [index.md](index.md)
+
 ## [2026-05-27] canon | Import Season 6 historical documentary into BL4CK4T world
 
 Created the Season 6 story-world import for The Day The City Would Not Answer. Added the Service Map, Flood Prince, Queue District, Status Wall, Service Bell Tower, and Season 6 concepts for availability, denial of service, service degradation, civic resilience, and status communication. Updated Season 6, continuity, open threads, and index before production bible work.

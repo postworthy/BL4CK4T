@@ -10,10 +10,12 @@ sources:
   - ../historical-accounts/estonia-cyberattacks-2007.md
   - ../historical-documentary-treatments/estonia-cyberattacks-2007.md
   - ../story-arcs/season-06-the-day-the-city-would-not-answer-arc.md
+  - ../production-bibles/season-06-the-day-the-city-would-not-answer.md
 historical_inspiration: [estonia-2007, ddos, cyber-conflict, civic-resilience]
 historical_account: ../historical-accounts/estonia-cyberattacks-2007.md
 documentary_treatment: ../historical-documentary-treatments/estonia-cyberattacks-2007.md
 story_arc: ../story-arcs/season-06-the-day-the-city-would-not-answer-arc.md
+production_bible: ../production-bibles/season-06-the-day-the-city-would-not-answer.md
 primary_lessons:
   - availability
   - denial-of-service
@@ -44,6 +46,7 @@ Contextual background: early large-scale DDoS history, including Mafiaboy, may b
 - Historical account: [Estonia 2007 Cyberattacks](../historical-accounts/estonia-cyberattacks-2007.md), `research-foundation-complete`.
 - Documentary treatment: [Estonia 2007 Cyberattacks Documentary Treatment](../historical-documentary-treatments/estonia-cyberattacks-2007.md), `complete`.
 - Story import: [Season 6 Story Arc](../story-arcs/season-06-the-day-the-city-would-not-answer-arc.md), `complete`.
+- Production bible: [Season 6 Production Bible](../production-bibles/season-06-the-day-the-city-would-not-answer.md), `complete`.
 
 ## BL4CK4T Transformation
 
@@ -106,7 +109,7 @@ The Flood Prince represents attention without responsibility. He should not be w
 
 ## Source Requirements Before Drafting
 
-- Complete. The season should now move to production bible development before mission packets or episode drafts.
+- Complete. The season should now move to mission packet development before episode drafts.
 
 ## Safety Boundaries
 

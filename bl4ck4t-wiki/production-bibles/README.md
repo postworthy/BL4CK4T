@@ -11,3 +11,4 @@ Current status:
 - [Season 3: The Escaped Experiment](season-03-the-escaped-experiment.md) - released production bible.
 - [Season 4: The Invisible Chase](season-04-the-invisible-chase.md) - released production bible.
 - [Season 5: The Love Letter Plague](season-05-the-love-letter-plague.md) - released production bible.
+- [Season 6: The Day The City Would Not Answer](season-06-the-day-the-city-would-not-answer.md) - complete production bible; mission packets pending.

@@ -170,6 +170,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 3: The Escaped Experiment Production Bible](production-bibles/season-03-the-escaped-experiment.md) - Production plan, episode controls, and release gate for Season 3.
 - [Season 4: The Invisible Chase Production Bible](production-bibles/season-04-the-invisible-chase.md) - Production plan, episode controls, and release gate for Season 4.
 - [Season 5: The Love Letter Plague Production Bible](production-bibles/season-05-the-love-letter-plague.md) - Production plan, episode controls, and release gate for Season 5.
+- [Season 6: The Day The City Would Not Answer Production Bible](production-bibles/season-06-the-day-the-city-would-not-answer.md) - Production plan, episode controls, and release gate for Season 6.
 
 ## Historical Accounts
 
