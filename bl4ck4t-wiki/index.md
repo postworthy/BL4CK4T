@@ -168,7 +168,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Morris Worm](historical-accounts/morris-worm.md) - Completed historical research foundation.
 - [Mitnick, Shimomura, And The Hacker-Manhunt Era](historical-accounts/mitnick-shimomura-hacker-manhunt.md) - Completed historical research foundation.
 - [ILOVEYOU / Love Bug](historical-accounts/iloveyou-love-bug.md) - Completed historical research foundation.
-- [Estonia 2007 Cyberattacks](historical-accounts/estonia-cyberattacks-2007.md) - Draft Season 6 historical research foundation.
+- [Estonia 2007 Cyberattacks](historical-accounts/estonia-cyberattacks-2007.md) - Completed Season 6 historical research foundation.
 
 ## Historical Documentary Treatments
 
@@ -178,7 +178,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Morris Worm Documentary Treatment](historical-documentary-treatments/morris-worm.md) - Season 3 documentary movement structure derived from the historical account.
 - [Mitnick, Shimomura, And The Hacker-Manhunt Era Documentary Treatment](historical-documentary-treatments/mitnick-shimomura-hacker-manhunt.md) - Season 4 documentary movement structure derived from the historical account.
 - [ILOVEYOU / Love Bug Documentary Treatment](historical-documentary-treatments/iloveyou-love-bug.md) - Season 5 documentary movement structure derived from the historical account.
-- [Estonia 2007 Cyberattacks Documentary Treatment](historical-documentary-treatments/estonia-cyberattacks-2007.md) - Draft Season 6 documentary movement structure derived from the historical account.
+- [Estonia 2007 Cyberattacks Documentary Treatment](historical-documentary-treatments/estonia-cyberattacks-2007.md) - Completed Season 6 documentary movement structure derived from the historical account.
 
 ## Seasons
 

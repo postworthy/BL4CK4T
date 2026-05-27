@@ -2,6 +2,19 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] research | Close Season 6 Estonia historical gaps
+
+Closed the main Season 6 historical-account gaps by adding RIA/CERT primary statements from April 30 and May 1, the CERT Estonia 2007 annual summary, the July 2007 Estonian government action-plan notice, RIA's CERT-EE retrospective, Wired's defender narrative, Computerworld's conviction report, and ERR's case-closure report. Promoted the historical account to research-foundation-complete and the documentary treatment to complete for season-level development.
+
+Touched areas:
+
+- [sources/real-world/estonia-cyberattacks-2007.md](sources/real-world/estonia-cyberattacks-2007.md)
+- [historical-accounts/estonia-cyberattacks-2007.md](historical-accounts/estonia-cyberattacks-2007.md)
+- [historical-documentary-treatments/estonia-cyberattacks-2007.md](historical-documentary-treatments/estonia-cyberattacks-2007.md)
+- [historical-accounts/README.md](historical-accounts/README.md)
+- [historical-documentary-treatments/README.md](historical-documentary-treatments/README.md)
+- [index.md](index.md)
+
 ## [2026-05-27] research | Draft Season 6 Estonia documentary treatment
 
 Created the draft nonfiction documentary treatment for the 2007 Estonia cyberattacks. The treatment turns the historical account into six factual movements around the Bronze Soldier crisis, Estonia's digital dependence, the first availability disruption, defender triage, attribution uncertainty, and NATO policy aftermath.

@@ -1,6 +1,6 @@
 ---
 type: historical-documentary-treatment
-status: draft
+status: complete
 created: 2026-05-27
 updated: 2026-05-27
 tags: [season-6, estonia, 2007, ddos, availability, cyber-conflict, documentary-treatment]
@@ -13,7 +13,7 @@ historical_account: ../historical-accounts/estonia-cyberattacks-2007.md
 
 This treatment reshapes the draft historical account into a nonfiction documentary sequence. Its purpose is to find the story shape inside the evidence before any fictional adaptation begins. The treatment must preserve the real historical tensions: civic digital dependence, political memory, availability harm, attribution uncertainty, defender triage, and NATO policy aftermath.
 
-This is still a draft because the historical account has open research needs around Estonian CERT/RIA primary material, exact service impacts, day-by-day wave detail, and legal-record confirmation.
+This treatment is complete for season-level story development. Optional archival expansion remains useful for a legal-detail or documentary-script project, but the historical account now has enough primary and near-primary depth to support fictional import.
 
 ## Source Boundary
 
@@ -94,6 +94,8 @@ Guardrail: do not overstate total national paralysis. The historical record supp
   - Some less central intrusion attempts occurred, but the public-facing crisis was availability.
 - Evidence anchors:
   - Ottis facts collected during and after the event.
+  - RIA/CERT April 30 and May 1 statements.
+  - CERT 2007 annual summary.
   - Guardian May 16 and May 18 contemporaneous reports.
 - Visual/audio language:
   - A timeline that begins with political events, then overlays degraded services.
@@ -110,12 +112,17 @@ Guardrail: do not overstate total national paralysis. The historical record supp
 - Narrative question: how do defenders protect a country when they cannot yet prove who is behind the attack?
 - Key beats:
   - Defenders had to keep domestic users connected while hostile traffic arrived from outside Estonia.
+  - CERT's early public status said domestic internet traffic remained up while foreign access to government pages was restricted.
   - Some banks temporarily cut off foreign traffic and later widened access selectively.
+  - Postimees, according to Wired's reported account, blocked international requests to keep the site reachable inside Estonia.
   - Technical teams, banks, ISPs, media, government responders, and outside experts had to coordinate.
   - Public communication mattered because the crisis unfolded alongside political rumor and international accusation.
   - NATO expertise and attention entered the picture while attribution remained unsettled.
 - Evidence anchors:
   - Ottis defender details on foreign traffic filtering.
+  - RIA/CERT April 30 and May 1 statements.
+  - CERT 2007 annual summary.
+  - Wired account of Postimees and international network-operator assistance.
   - Guardian reporting on NATO experts and officials' caution.
   - NATO June 2007 response.
 - Visual/audio language:
@@ -141,6 +148,8 @@ Guardrail: do not overstate total national paralysis. The historical record supp
 - Evidence anchors:
   - Ottis analysis and State Procurature section.
   - Guardian May 18 attribution caution.
+  - Computerworld conviction report.
+  - ERR case-closure report.
   - StratCom/hybrid framing as secondary context.
 - Visual/audio language:
   - Evidence layers: timing, language, targets, forums, official denials, legal requests.
@@ -157,6 +166,7 @@ Guardrail: do not overstate total national paralysis. The historical record supp
 - Narrative question: what changed after a digitally dependent country was pressured through availability?
 - Key beats:
   - NATO defence ministers called for urgent work in June 2007.
+  - The Estonian government approved a July 2007 action plan that concluded the attacks did not paralyze normal daily activities but did reveal significant security risk.
   - NATO approved its first cyber-defence policy in early 2008.
   - Tallinn became home to the Cooperative Cyber Defence Centre of Excellence.
   - Estonia became a reference case for cyber resilience, legal preparedness, public-private coordination, and alliance debate.
@@ -166,6 +176,7 @@ Guardrail: do not overstate total national paralysis. The historical record supp
   - NATO May 2008 CCDCOE article.
   - NATO ACT policy evolution.
   - Czosseck/Ottis/Talihärm policy-afterward analysis.
+  - RIA July 2007 action-plan notice.
 - Visual/audio language:
   - Meeting rooms, policy documents, training exercises, Tallinn as a cyber-policy hub.
   - The screen that would not answer becomes a policy agenda.
@@ -222,9 +233,6 @@ The closing image should return to the opening unanswered screen. This time, the
 
 ## Open Research Needs
 
-- Add Estonian CERT/RIA primary-source detail if accessible.
-- Build a more precise day-by-day attack-wave chronology.
-- Add concrete examples of bank, media, government, and citizen impact.
-- Confirm legal details around Dmitri Galuškevitš through primary or near-primary legal sources.
-- Deepen EU response and NATO policy chronology.
-- Determine which damage estimates are too weak to use.
+- Optional: add Estonian-language newspaper and bank notices for more direct public-experience texture.
+- Optional: retrieve primary court/procurature records for Galushkevich before any legal-detail article.
+- Optional: deepen EU response chronology beyond NATO and contemporaneous reporting.
