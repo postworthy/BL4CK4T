@@ -2,6 +2,40 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-27] publish | Release Season 6: The Day The City Would Not Answer
+
+Drafted, validated, and published Season 6 as a single nine-episode public release. Added draft mirrors, public blog posts, the public season page, draft review, continuity audit, historical-anchor analysis, and continuity timeline updates. Season 6 now closes the availability incident and leaves the Season 7 patch-debt red mark.
+
+Touched areas:
+
+- `content/blogs/season-06-episode-01-spinning-board.md`
+- `content/blogs/season-06-episode-02-nothing-missing.md`
+- `content/blogs/season-06-episode-03-queue-district.md`
+- `content/blogs/season-06-episode-04-service-map.md`
+- `content/blogs/season-06-episode-05-we-do-not-know-yet.md`
+- `content/blogs/season-06-episode-06-outside-gate.md`
+- `content/blogs/season-06-episode-07-flood-prince.md`
+- `content/blogs/season-06-episode-08-priority-lanes.md`
+- `content/blogs/season-06-episode-09-city-answers.md`
+- `content/seasons/season-06-the-day-the-city-would-not-answer.md`
+- [drafts/season-06-episode-01-spinning-board.md](drafts/season-06-episode-01-spinning-board.md)
+- [drafts/season-06-episode-02-nothing-missing.md](drafts/season-06-episode-02-nothing-missing.md)
+- [drafts/season-06-episode-03-queue-district.md](drafts/season-06-episode-03-queue-district.md)
+- [drafts/season-06-episode-04-service-map.md](drafts/season-06-episode-04-service-map.md)
+- [drafts/season-06-episode-05-we-do-not-know-yet.md](drafts/season-06-episode-05-we-do-not-know-yet.md)
+- [drafts/season-06-episode-06-outside-gate.md](drafts/season-06-episode-06-outside-gate.md)
+- [drafts/season-06-episode-07-flood-prince.md](drafts/season-06-episode-07-flood-prince.md)
+- [drafts/season-06-episode-08-priority-lanes.md](drafts/season-06-episode-08-priority-lanes.md)
+- [drafts/season-06-episode-09-city-answers.md](drafts/season-06-episode-09-city-answers.md)
+- [reports/season-06-draft-review.md](reports/season-06-draft-review.md)
+- [reports/season-06-continuity-audit.md](reports/season-06-continuity-audit.md)
+- [reports/season-06-release-historical-anchor-analysis.md](reports/season-06-release-historical-anchor-analysis.md)
+- [seasons/season-06-the-day-the-city-would-not-answer.md](seasons/season-06-the-day-the-city-would-not-answer.md)
+- [production-bibles/season-06-the-day-the-city-would-not-answer.md](production-bibles/season-06-the-day-the-city-would-not-answer.md)
+- [canon/continuity-timeline.md](canon/continuity-timeline.md)
+- [canon/open-threads.md](canon/open-threads.md)
+- [index.md](index.md)
+
 ## [2026-05-27] draft | Create Season 6 mission packets
 
 Created all nine Season 6 mission packets for The Day The City Would Not Answer. Each packet records the documentary anchor, opening control, character pressure, story beats, Teaching Tie-In target, transformation notes, safety constraints, and prose-quality warnings before article drafting begins.

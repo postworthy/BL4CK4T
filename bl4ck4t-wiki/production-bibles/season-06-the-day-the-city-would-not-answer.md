@@ -1,6 +1,6 @@
 ---
 type: production-bible
-status: complete
+status: released
 created: 2026-05-27
 updated: 2026-05-27
 tags: [season-6, production, availability, civic-resilience, status-communication]
@@ -204,10 +204,10 @@ This points to Season 7's patch-debt story without making Season 6 feel unresolv
 | Support canon | complete |
 | Production bible | complete |
 | Mission packets | complete |
-| Article drafts | pending |
-| Draft review | pending |
-| Continuity audit | pending |
-| Historical-anchor analysis | pending |
-| Public promotion | pending |
-| Final TROPES validation | pending |
-| Build validation | pending |
+| Article drafts | complete |
+| Draft review | complete |
+| Continuity audit | complete |
+| Historical-anchor analysis | complete |
+| Public promotion | complete |
+| Final TROPES validation | complete |
+| Build validation | complete |

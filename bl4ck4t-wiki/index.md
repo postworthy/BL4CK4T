@@ -342,6 +342,15 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 5 Episode 7: The Warning That Worked](drafts/season-05-episode-07-warning-that-worked.md) - Draft article mirror for the seventh Season 5 episode.
 - [Season 5 Episode 8: The Phishmonger's Ribbon](drafts/season-05-episode-08-phishmongers-ribbon.md) - Draft article mirror for the eighth Season 5 episode.
 - [Season 5 Episode 9: The Love Letter Plague](drafts/season-05-episode-09-love-letter-plague.md) - Draft article mirror for the Season 5 finale.
+- [Season 6 Episode 1: The Spinning Board](drafts/season-06-episode-01-spinning-board.md) - Draft article mirror for the Season 6 opener.
+- [Season 6 Episode 2: Nothing Missing](drafts/season-06-episode-02-nothing-missing.md) - Draft article mirror for the second Season 6 episode.
+- [Season 6 Episode 3: The Queue District](drafts/season-06-episode-03-queue-district.md) - Draft article mirror for the third Season 6 episode.
+- [Season 6 Episode 4: The Service Map](drafts/season-06-episode-04-service-map.md) - Draft article mirror for the fourth Season 6 episode.
+- [Season 6 Episode 5: We Do Not Know Yet](drafts/season-06-episode-05-we-do-not-know-yet.md) - Draft article mirror for the fifth Season 6 episode.
+- [Season 6 Episode 6: The Outside Gate](drafts/season-06-episode-06-outside-gate.md) - Draft article mirror for the sixth Season 6 episode.
+- [Season 6 Episode 7: The Flood Prince](drafts/season-06-episode-07-flood-prince.md) - Draft article mirror for the seventh Season 6 episode.
+- [Season 6 Episode 8: Priority Lanes](drafts/season-06-episode-08-priority-lanes.md) - Draft article mirror for the eighth Season 6 episode.
+- [Season 6 Episode 9: The City Answers](drafts/season-06-episode-09-city-answers.md) - Draft article mirror for the Season 6 finale.
 
 ## Reports
 
@@ -365,3 +374,6 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 5 Continuity Audit](reports/season-05-continuity-audit.md) - Cross-season continuity audit for Season 5.
 - [Season 5 Release Historical Anchor Analysis](reports/season-05-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Published Entity Inventory Season 5](reports/published-entity-inventory-season-05.md) - Reconciliation of Season 5 public-story entities requiring wiki representation.
+- [Season 6 Draft Review](reports/season-06-draft-review.md) - Full private draft review against the Season 6 historical account, documentary treatment, story arc, and production bible.
+- [Season 6 Continuity Audit](reports/season-06-continuity-audit.md) - Cross-season continuity audit for Season 6.
+- [Season 6 Release Historical Anchor Analysis](reports/season-06-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.

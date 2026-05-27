@@ -1,0 +1,40 @@
+---
+type: article-draft
+status: promoted
+created: 2026-05-27
+updated: 2026-05-27
+target_slug: season-06-episode-01-spinning-board
+tags: [season-6, episode-1, availability]
+sources:
+  - ../missions/season-06-episode-01-spinning-board.md
+canon_pages:
+  - ../production-bibles/season-06-the-day-the-city-would-not-answer.md
+  - ../concepts/availability.md
+  - ../locations/service-bell-tower.md
+---
+
+# Draft: The Spinning Board
+
+## Publication Frontmatter
+
+Promoted to `content/blogs/season-06-episode-01-spinning-board.md`.
+
+## Story Draft
+
+A clinic board hangs on `ANSWERING...` while people wait. Whiskers starts to reach for certainty, Shadow tracks what still works, and the first Service Bell teaches the season's central distinction: a blocked door can harm people even when nothing has been stolen.
+
+## Teaching Tie-In
+
+- Concept: availability.
+- Story idea: the clinic still has its records, but the board cannot answer when people need it.
+- Key distinction: unavailable is different from corrupted.
+- Defensive habit: report service impact clearly, including what still works.
+- Season thread: availability is part of trust.
+
+## Continuity Checks
+
+- Character consistency: Whiskers feels pressure to answer; Shadow watches impact.
+- World consistency: Picks up Season 5 empty receipts without reopening the Glitter Letter.
+- Lesson accuracy: Availability is taught through civic waiting, not operational mechanics.
+- Safety review: No attack steps.
+- TROPES.md validation: passed after public promotion.

@@ -1,6 +1,6 @@
 ---
 type: season
-status: drafting
+status: released
 created: 2026-05-26
 updated: 2026-05-27
 season_number: 6
@@ -27,6 +27,7 @@ featured_characters:
   - ../characters/jinx.md
 featured_villains:
   - ../villains/flood-prince.md
+public_season: ../../content/seasons/season-06-the-day-the-city-would-not-answer.md
 ---
 
 # Season 6: The Day The City Would Not Answer
@@ -109,9 +110,17 @@ The Flood Prince represents attention without responsibility. He should not be w
 
 ## Source Requirements Before Drafting
 
-- Complete. The season should now move to mission packet development before episode drafts.
+- Complete. Season 6 has been drafted, validated, and promoted to public blog posts.
 
 ## Safety Boundaries
 
 - Do not describe attack tooling or replication steps.
 - Emphasize preparation, continuity, public communication, service prioritization, and response.
+
+## Public Release
+
+- Season page: [Season 6: The Day The City Would Not Answer](../../content/seasons/season-06-the-day-the-city-would-not-answer.md).
+- Episodes: `content/blogs/season-06-episode-01-*` through `content/blogs/season-06-episode-09-*`.
+- Draft review: [Season 6 Draft Review](../reports/season-06-draft-review.md).
+- Continuity audit: [Season 6 Continuity Audit](../reports/season-06-continuity-audit.md).
+- Historical-anchor analysis: [Season 6 Release Historical Anchor Analysis](../reports/season-06-release-historical-anchor-analysis.md).

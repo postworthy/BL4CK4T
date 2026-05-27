@@ -13,6 +13,7 @@ sources:
   - ../production-bibles/season-03-the-escaped-experiment.md
   - ../production-bibles/season-04-the-invisible-chase.md
   - ../production-bibles/season-05-the-love-letter-plague.md
+  - ../production-bibles/season-06-the-day-the-city-would-not-answer.md
 ---
 
 # Continuity Timeline
@@ -117,9 +118,22 @@ This timeline records the current event order from the published blog and privat
 - Cipher and Byte make appearance-versus-behavior mismatch visible without exposing harmful mechanics.
 - Jinx carries evidence discipline into humane contact-path mapping.
 
+## Season 6: The Day The City Would Not Answer - Public Hard Continuity
+
+- Season 6 opens from the Season 5 empty delivery receipt flood at the Message Office.
+- The first visible harm is a clinic board that keeps answering with delay while people wait.
+- Pixel and Cipher verify that checked records are intact; the season's harm is availability pressure, not known theft or alteration.
+- Queue District is established as the civic request-handling district where services can be available, degraded, unavailable, fallback-supported, or unknown.
+- Jinx builds the Service Map and revises it to include people waiting on services, not only systems.
+- Whiskers learns to post Status Wall updates that distinguish known facts, unknowns, affected services, next actions, and update timing.
+- The outside gate limits some outside requests to keep local essential services reachable, while Shadow and Grimalkin preserve legitimate outside access through reviewable help paths.
+- The Flood Prince appears through a crown-marked claim, but Cipher and Jinx treat the claim as a claim rather than proof.
+- Grimalkin, Byte, and Whiskers create priority lanes and fallback desks for urgent and essential services.
+- The season closes with the flood fading, the Status Wall and Service Map becoming durable civic practices, and one red Service Map mark pointing to old patch debt for Season 7.
+
 ## Open Threads
 
-- Season 6 should pick up the empty delivery receipt traffic flood from Season 5. Draft continuity now maps this to the Queue District, Status Wall, Service Bell Tower, Service Map, and Flood Prince.
+- Season 7 should pick up the red Service Map mark caused by old patch debt. It is separate from the Season 6 flood.
 - The Row Rebels can return, but future stories should remember that Season 1 treated them as mixed-motive kids, not villains.
 - The Far Relay and Ledgerjack can recur as broader adversary infrastructure, but Season 2 does not establish a captured individual mastermind.
 - The Glass Bureau and shared evidence channel should remain available for later reporting and coordination stories.
@@ -127,14 +141,4 @@ This timeline records the current event order from the published blog and privat
 - The First Bell Desk should remain available for fast lab incident coordination.
 - The Vanishing Caller case is closed; future use should focus on lessons, corrected process, or aftermath rather than reopening the chase.
 - The Glitter Letter incident is closed; future use should focus on message-handling lessons, Quarantine Tray practice, or Message Office aftermath rather than reopening the same outbreak.
-
-## Season 6: The Day The City Would Not Answer - Private Import Continuity
-
-- Season 6 opens from the Season 5 empty delivery receipt flood at the Message Office.
-- The problem is availability pressure, not stolen or altered records.
-- Queue District, Status Wall, Service Bell Tower, and Service Map are introduced as civic response infrastructure.
-- Whiskers' season wound is fear that saying `we do not know yet` will make him look weak.
-- Jinx begins mapping service dependencies, including the people waiting on services.
-- The Flood Prince enters as the Season 6 adversary figure for attention without responsibility.
-- Season 6 must distinguish claims, rumors, evidence, and attribution before blaming anyone.
-- The Season 7 thread should be a red Service Map mark caused by old patch debt, not by the flood itself.
+- The Season 6 flood is closed; future use should focus on Service Map practice, Status Wall communication, fallback desks, or availability lessons rather than replaying the same flood.
