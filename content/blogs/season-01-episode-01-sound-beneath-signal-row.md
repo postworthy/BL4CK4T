@@ -1,6 +1,10 @@
 ---
 title: "The Sound Beneath Signal Row"
 slug: "season-01-episode-01-sound-beneath-signal-row"
+season: "season-01-the-singing-network"
+seasonNumber: 1
+episodeNumber: 1
+episodeTitle: "The Sound Beneath Signal Row"
 description: "Pixel hears a hidden tone under Signal Row, and the Script Kitties find the first clue to an old city signal system."
 longDescription: "Season 1 begins when Pixel hears a strange three-note phrase beneath Signal Row's neon hum. Shadow spots a rooftop beacon answering the sound, Cipher finds structure in the pattern, and the Script Kitties uncover the first trace of the Echo Grid."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

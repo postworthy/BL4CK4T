@@ -1,6 +1,10 @@
 ---
 title: "Script Kitties — Episode 1: The Hidden Code"
 slug: "script-kitties-episode-1-hidden-code"
+season: "pilot-season"
+seasonNumber: 0
+episodeNumber: 1
+episodeTitle: "The Hidden Code"
 description: "The Script Kitties receive their first encrypted drop from BL4CK4T and crack a Caesar cipher—unlocking a path to bigger secrets in Cybertropolis."
 longDescription: "In this pilot chapter, the Script Kitties—Grimalkin, Pixel, Byte, Whiskers, Cipher, Jinx, and Shadow—decode their first message from the unseen mentor BL4CK4T using a Caesar cipher (shift 5). The win foreshadows their next lesson: public–private keys and Diffie–Hellman."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

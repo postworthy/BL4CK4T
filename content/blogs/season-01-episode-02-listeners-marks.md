@@ -1,6 +1,10 @@
 ---
 title: "The Listeners' Marks"
 slug: "season-01-episode-02-listeners-marks"
+season: "season-01-the-singing-network"
+seasonNumber: 1
+episodeNumber: 2
+episodeTitle: "The Listeners' Marks"
 description: "The Script Kitties return to Signal Row and find old marks from listeners who heard the Echo Grid before them."
 longDescription: "Pixel, Jinx, Shadow, Cipher, and Whiskers search Signal Row for traces of the hidden tone. Faded chalk marks and rooftop scratches reveal a secret listener culture, until one fresh mark proves the mystery is still alive."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

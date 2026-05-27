@@ -1,6 +1,10 @@
 ---
 title: "The Hushline"
 slug: "season-01-episode-08-hushline"
+season: "season-01-the-singing-network"
+seasonNumber: 1
+episodeNumber: 8
+episodeTitle: "The Hushline"
 description: "The Script Kitties find the architectural answer to the Echo Grid: a city path that keeps songs and commands apart."
 longDescription: "After the false closure, Cipher, Byte, and Whiskers work with a retired Signal Row maintainer to understand the Hushline. The team builds a split-path model and discovers that the answer to the Echo Grid is not louder music, but a clearer city."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

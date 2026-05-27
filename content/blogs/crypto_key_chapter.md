@@ -1,6 +1,10 @@
 ---
 title: "Keys to the City: Public–Private Crypto"
 slug: "keys-to-the-city"
+season: "pilot-season"
+seasonNumber: 0
+episodeNumber: 2
+episodeTitle: "Keys to the City"
 description: "The Script Kitties learn how public and private keys protect secrets across Cybertropolis."
 longDescription: "In this adventure, BL4CK4T drops a clue that leads the Script Kitties to uncover the magic of public–private cryptography. Through teamwork, they grasp how digital keys lock and unlock secrets, why this underpins the web, and how trust is built online."
 cardImage: "https://bl4ck4t.com/shared-secret.png"

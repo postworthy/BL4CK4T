@@ -1,0 +1,33 @@
+---
+import type { SeasonFrontmatter } from "../../lib/types";
+import { getConfigurationCollection } from "../../lib/utils";
+import Anchor from "../common/Anchor.astro";
+import SeasonSnippet from "../SeasonSnippet.astro";
+
+type Props = {
+  featuredSeasons: Array<SeasonFrontmatter & { episodeCount: number }>;
+};
+
+const { featuredSeasons } = Astro.props;
+const { data: config } = await getConfigurationCollection();
+---
+
+<div class="flex justify-between items-center w-full">
+  <h3 class="font-display text-lg sm:text-xl leading-loose">{config.texts.seasonsName}</h3>
+  <Anchor url="/seasons" class="text-base">{config.texts.viewAll}</Anchor>
+</div>
+<ul class="my-8">
+  {
+    featuredSeasons.map((season) => (
+      <li>
+        <SeasonSnippet
+          title={season.title}
+          description={season.description}
+          url={season.url}
+          episodeCount={season.episodeCount}
+          status={season.status}
+        />
+      </li>
+    ))
+  }
+</ul>

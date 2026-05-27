@@ -2,28 +2,60 @@
 import { getCollection, render } from "astro:content";
 import BlogLayout from "../../layouts/BlogLayout.astro";
 import { getConfigurationCollection } from "../../lib/utils";
+import { episodeLabel, getEpisodesForSeason } from "../../lib/seasons";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
+  const seasons = await getCollection("season");
   const { data: config } = await getConfigurationCollection();
-  return posts.map((article) => ({
-    params: { id: article.data.slug },
-    props: { 
-      article: {
-        ...article,
-        data: {
-          ...article.data,
-          url: `${config.site.baseUrl}/blog/${article.data.slug}`,
+  return Promise.all(posts.map(async (article) => {
+    const season = article.data.season
+      ? seasons.find((entry) => entry.data.slug === article.data.season)
+      : undefined;
+    const episodes = article.data.season ? await getEpisodesForSeason(article.data.season) : [];
+    const episodeIndex = episodes.findIndex((entry) => entry.data.slug === article.data.slug);
+    const previousEpisode = episodeIndex > 0 ? episodes[episodeIndex - 1] : undefined;
+    const nextEpisode = episodeIndex >= 0 && episodeIndex < episodes.length - 1 ? episodes[episodeIndex + 1] : undefined;
+
+    return {
+      params: { id: article.data.slug },
+      props: {
+        article: {
+          ...article,
+          data: {
+            ...article.data,
+            url: `${config.site.baseUrl}/blog/${article.data.slug}`,
+          },
         },
+        seasonNav: season
+          ? {
+              title: season.data.title,
+              url: `${config.site.baseUrl}/seasons/${season.data.slug}`,
+              label: article.data.seasonNumber === 0 ? "Pilot Season" : `Season ${article.data.seasonNumber}`,
+              episodeLabel: episodeLabel(article.data),
+              previous: previousEpisode
+                ? {
+                    title: episodeLabel(previousEpisode.data),
+                    url: `${config.site.baseUrl}/blog/${previousEpisode.data.slug}`,
+                  }
+                : undefined,
+              next: nextEpisode
+                ? {
+                    title: episodeLabel(nextEpisode.data),
+                    url: `${config.site.baseUrl}/blog/${nextEpisode.data.slug}`,
+                  }
+                : undefined,
+            }
+          : undefined,
       },
-    },
+    };
   }));
 }
 
-const { article } = Astro.props;
+const { article, seasonNav } = Astro.props;
 const { Content } = await render(article);
 ---
 
-<BlogLayout frontmatter={article.data}>
+<BlogLayout frontmatter={article.data} seasonNav={seasonNav}>
   <Content />
 </BlogLayout>

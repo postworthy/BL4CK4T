@@ -1,6 +1,10 @@
 ---
 title: "The City Still Sings"
 slug: "season-01-episode-09-city-still-sings"
+season: "season-01-the-singing-network"
+seasonNumber: 1
+episodeNumber: 9
+episodeTitle: "The City Still Sings"
 description: "The Script Kitties close the Echo Grid mystery with a listening exhibit, then Jinx spots a tiny clue that points toward Season 2."
 longDescription: "Season 1 ends as the Script Kitties turn the Echo Grid into a public listening exhibit and give Signal Row a clearer way to sing. After the celebration, Jinx notices a tiny 0.75 discrepancy that opens the next mystery."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

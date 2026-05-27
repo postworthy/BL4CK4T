@@ -4,8 +4,10 @@ import Hero from "../components/home/Hero.astro";
 import Section from "../components/common/Section.astro";
 import FeaturedProjects from "../components/home/FeaturedProjects.astro";
 import FeaturedArticles from "../components/home/FeaturedArticles.astro";
+import FeaturedSeasons from "../components/home/FeaturedSeasons.astro";
 import { getConfigurationCollection } from "../lib/utils";
 import { getCollection } from "astro:content";
+import { getEpisodesForSeason, getPublishedSeasons } from "../lib/seasons";
 
 
 const { data: config } = await getConfigurationCollection();
@@ -18,6 +20,15 @@ const featuredArticles = (await getCollection("blog", (e) => e.data.featured)).m
   ...e.data,
   url: `${config.site.baseUrl}/blog/${e.data.slug}`
 }));
+const featuredSeasons = await Promise.all(
+  (await getPublishedSeasons())
+    .filter((season) => season.data.featured)
+    .map(async (season) => ({
+      ...season.data,
+      url: `${config.site.baseUrl}/seasons/${season.data.slug}`,
+      episodeCount: (await getEpisodesForSeason(season.data.slug)).length,
+    })),
+);
 ---
 
 <Layout>
@@ -56,9 +67,12 @@ const featuredArticles = (await getCollection("blog", (e) => e.data.featured)).m
     <Hero />
   </Section>
   <Section>
-    <FeaturedProjects featuredProjects={featuredProjects} />
+    <FeaturedSeasons featuredSeasons={featuredSeasons} />
   </Section>
   <Section>
     <FeaturedArticles featuredArticles={featuredArticles} />
+  </Section>
+  <Section>
+    <FeaturedProjects featuredProjects={featuredProjects} />
   </Section>
 </Layout>

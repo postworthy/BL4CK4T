@@ -1,6 +1,10 @@
 ---
 title: "The Little Blue Pawprint"
 slug: "season-01-episode-03-little-blue-pawprint"
+season: "season-01-the-singing-network"
+seasonNumber: 1
+episodeNumber: 3
+episodeTitle: "The Little Blue Pawprint"
 description: "A street zine turns the Echo Grid into a citywide rumor, and the Script Kitties watch curiosity spread faster than understanding."
 longDescription: "The Script Kitties trace a handmade zine through Packet Market and Signal Row after it invites readers to 'sing the city awake.' Pixel feels the pull of a larger listener community, while Jinx tracks how rumor twists the Echo Grid into a public dare."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

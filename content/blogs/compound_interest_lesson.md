@@ -1,6 +1,10 @@
 ---
 title: "The Interest of Time"
 slug: "interest-of-time"
+season: "pilot-season"
+seasonNumber: 0
+episodeNumber: 3
+episodeTitle: "The Interest of Time"
 description: "The Script Kitties learn the power of compound interest through BL4CK4T’s quest of self-discovery."
 longDescription: "In this chapter, BL4CK4T sends the Script Kitties on a quest of self-discovery, where each member explores the math and meaning behind compound interest. Through a neon simulator, they learn how patience, time, and steady growth shape not only finances but also their futures."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

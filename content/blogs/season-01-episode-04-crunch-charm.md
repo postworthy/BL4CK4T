@@ -1,6 +1,10 @@
 ---
 title: "The Crunch Charm"
 slug: "season-01-episode-04-crunch-charm"
+season: "season-01-the-singing-network"
+seasonNumber: 1
+episodeNumber: 4
+episodeTitle: "The Crunch Charm"
 description: "The Crunch Charm takes over Signal Row, and the Script Kitties learn that the object is only a shadow of the real mystery."
 longDescription: "Byte and Cipher test the Crunch Charm rumor after Signal Row decides the little blue trinket can talk to the city. The team discovers that the charm is only a symbol, while the Echo Grid's old design remains the deeper secret."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

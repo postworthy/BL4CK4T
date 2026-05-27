@@ -256,3 +256,24 @@ Touched pages:
 - [reports/season-01-release-historical-anchor-analysis.md](reports/season-01-release-historical-anchor-analysis.md)
 - [production-bibles/season-01-the-singing-network.md](production-bibles/season-01-the-singing-network.md)
 - [index.md](index.md)
+
+## [2026-05-27] publish | Make seasons first-class site navigation
+
+Added public season landing content, `/seasons/` routes, homepage season promotion, grouped blog archive sections, and previous/next episode navigation on article pages. Added season and episode metadata to the pilot articles and Season 1 public posts so visitors can browse stories by season while `/blog/` remains the complete article archive.
+
+Touched pages:
+
+- [../content/seasons/pilot-season.md](../content/seasons/pilot-season.md)
+- [../content/seasons/season-01-the-singing-network.md](../content/seasons/season-01-the-singing-network.md)
+- [../content/blogs/script-kitties-episode-1-hidden-code.md](../content/blogs/script-kitties-episode-1-hidden-code.md)
+- [../content/blogs/crypto_key_chapter.md](../content/blogs/crypto_key_chapter.md)
+- [../content/blogs/compound_interest_lesson.md](../content/blogs/compound_interest_lesson.md)
+- [../content/blogs/season-01-episode-01-sound-beneath-signal-row.md](../content/blogs/season-01-episode-01-sound-beneath-signal-row.md)
+- [../content/blogs/season-01-episode-02-listeners-marks.md](../content/blogs/season-01-episode-02-listeners-marks.md)
+- [../content/blogs/season-01-episode-03-little-blue-pawprint.md](../content/blogs/season-01-episode-03-little-blue-pawprint.md)
+- [../content/blogs/season-01-episode-04-crunch-charm.md](../content/blogs/season-01-episode-04-crunch-charm.md)
+- [../content/blogs/season-01-episode-05-row-rebels.md](../content/blogs/season-01-episode-05-row-rebels.md)
+- [../content/blogs/season-01-episode-06-tonebox-demo.md](../content/blogs/season-01-episode-06-tonebox-demo.md)
+- [../content/blogs/season-01-episode-07-false-closure.md](../content/blogs/season-01-episode-07-false-closure.md)
+- [../content/blogs/season-01-episode-08-hushline.md](../content/blogs/season-01-episode-08-hushline.md)
+- [../content/blogs/season-01-episode-09-city-still-sings.md](../content/blogs/season-01-episode-09-city-still-sings.md)

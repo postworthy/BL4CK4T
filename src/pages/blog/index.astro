@@ -1,13 +1,14 @@
 ---
-import { getCollection } from "astro:content";
 import { getConfigurationCollection } from "../../lib/utils";
 import Layout from "../../layouts/Layout.astro";
 import ArticleSnippet from "../../components/ArticleSnippet.astro";
 import Section from "../../components/common/Section.astro";
+import Anchor from "../../components/common/Anchor.astro";
+import { episodeLabel, getPublishedSeasons, getSortedArticles, groupArticlesBySeason } from "../../lib/seasons";
 
-const articles = (await getCollection("blog")).sort(
-  (a, b) => b.data.timestamp.valueOf() - a.data.timestamp.valueOf(),
-);
+const articles = await getSortedArticles();
+const seasons = await getPublishedSeasons();
+const { groups, standalone } = groupArticlesBySeason(articles, seasons);
 
 const { data: config } = await getConfigurationCollection();
 ---
@@ -50,20 +51,52 @@ const { data: config } = await getConfigurationCollection();
         {config.texts.articlesName}
       </h1>
     </div>
-    <ul>
+    <div class="flex flex-col gap-12">
       {
-        articles.map((article) => (
-          <li>
-            <ArticleSnippet
-              title={article.data.title}
-              description={article.data.description}
-              duration={`${article.data.readTime} min`}
-              url={`${config.site.baseUrl}/blog/${article.data.slug}`}
-              timestamp={article.data.timestamp}
-            />
-          </li>
+        groups.map(({ season, articles }) => (
+          <section>
+            <div class="flex flex-col gap-2 mb-8 sm:flex-row sm:items-baseline sm:justify-between">
+              <h2 class="font-display text-xl leading-loose">{season.data.title}</h2>
+              <Anchor url={`${config.site.baseUrl}/seasons/${season.data.slug}`} class="text-base">
+                Season guide
+              </Anchor>
+            </div>
+            <ul>
+              {articles.map((article) => (
+                <li>
+                  <ArticleSnippet
+                    title={episodeLabel(article.data)}
+                    description={article.data.description}
+                    duration={`${article.data.readTime} min`}
+                    url={`${config.site.baseUrl}/blog/${article.data.slug}`}
+                    timestamp={article.data.timestamp}
+                  />
+                </li>
+              ))}
+            </ul>
+          </section>
         ))
       }
-    </ul>
+      {
+        standalone.length > 0 && (
+          <section>
+            <h2 class="font-display text-xl leading-loose mb-8">Standalone Articles</h2>
+            <ul>
+              {standalone.map((article) => (
+                <li>
+                  <ArticleSnippet
+                    title={article.data.title}
+                    description={article.data.description}
+                    duration={`${article.data.readTime} min`}
+                    url={`${config.site.baseUrl}/blog/${article.data.slug}`}
+                    timestamp={article.data.timestamp}
+                  />
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+    </div>
   </Section>
 </Layout>

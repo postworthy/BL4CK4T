@@ -1,6 +1,10 @@
 ---
 title: "The Tonebox Demo"
 slug: "season-01-episode-06-tonebox-demo"
+season: "season-01-the-singing-network"
+seasonNumber: 1
+episodeNumber: 6
+episodeTitle: "The Tonebox Demo"
 description: "Byte and Pixel build a glowing Tonebox model that makes the Echo Grid visible, then learn how quickly a good demo can be misunderstood."
 longDescription: "Inside the Hideout Signal Lab, Byte and Pixel turn the Echo Grid idea into a glowing model city. Cipher keeps the assumptions honest, Whiskers questions what should be shown, and Jinx watches the demo mutate the moment it leaves the room."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

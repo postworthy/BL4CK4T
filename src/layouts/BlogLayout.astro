@@ -1,13 +1,31 @@
 ---
 import { getConfigurationCollection, processArticleDate } from "../lib/utils";
 import type { ArticleFrontmatter } from "../lib/types";
+import Anchor from "../components/common/Anchor.astro";
 import Section from "../components/common/Section.astro";
 import Prose from "../components/Prose.astro";
 import Layout from "./Layout.astro";
 
-type Props = { frontmatter: ArticleFrontmatter };
+type EpisodeLink = {
+  title: string;
+  url: string;
+};
 
-const { frontmatter } = Astro.props;
+type SeasonNav = {
+  title: string;
+  url: string;
+  label: string;
+  episodeLabel: string;
+  previous?: EpisodeLink;
+  next?: EpisodeLink;
+};
+
+type Props = {
+  frontmatter: ArticleFrontmatter;
+  seasonNav?: SeasonNav;
+};
+
+const { frontmatter, seasonNav } = Astro.props;
 const articleDate = processArticleDate(frontmatter.timestamp);
 const { data: config } = await getConfigurationCollection();
 ---
@@ -58,6 +76,16 @@ const { data: config } = await getConfigurationCollection();
   </Fragment>
   <Section class="pt-8">
     <div class="flex flex-col gap-4 mt-8 mb-16">
+      {
+        seasonNav && (
+          <div class="zag-muted flex flex-col gap-2 font-mono text-sm">
+            <Anchor url={seasonNav.url} class="text-base">
+              {seasonNav.title}
+            </Anchor>
+            <span>{seasonNav.episodeLabel}</span>
+          </div>
+        )
+      }
       <h1
         class="text-3xl sm:text-4xl leading-normal sm:leading-normal font-display"
       >
@@ -71,6 +99,30 @@ const { data: config } = await getConfigurationCollection();
     <Prose>
       <slot />
     </Prose>
+    {
+      seasonNav && (seasonNav.previous || seasonNav.next) && (
+        <nav class="zag-border-b border-t-2 border-current mt-12 py-6 grid gap-6 sm:grid-cols-2">
+          <div>
+            {seasonNav.previous ? (
+              <>
+                <p class="zag-muted text-sm mb-2">Previous</p>
+                <Anchor url={seasonNav.previous.url}>{seasonNav.previous.title}</Anchor>
+              </>
+            ) : null}
+          </div>
+          <div class="sm:text-right">
+            {seasonNav.next ? (
+              <>
+                <p class="zag-muted text-sm mb-2">Next</p>
+                <Anchor url={seasonNav.next.url} class="sm:justify-end">
+                  {seasonNav.next.title}
+                </Anchor>
+              </>
+            ) : null}
+          </div>
+        </nav>
+      )
+    }
     <p class="pt-8">~{config.personal.name}</p>
   </Section>
 </Layout>

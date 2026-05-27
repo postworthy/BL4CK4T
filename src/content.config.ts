@@ -210,6 +210,11 @@ const configuration = defineCollection({
       projectsName: z.string().default("Projects"),
 
       /**
+       * The text used when displaying the seasons section on the homepage.
+       */
+      seasonsName: z.string().default("Seasons"),
+
+      /**
        * The text used for the "View All" button in the articles and projects sections.
        */
       viewAll: z.string().default("View All"),
@@ -231,6 +236,7 @@ const configuration = defineCollection({
      */
     menu: z.object({
       home: z.string().default("/"),
+      seasons: z.string().default("/seasons"),
       projects: z.string().default("/projects"),
       blog: z.string().default("/blog"),
       /** Add other menu items here **/
@@ -287,6 +293,26 @@ const blog = defineCollection({
       featured: z.boolean().default(false),
 
       /**
+       * The season slug this post belongs to, if it is part of an ordered season.
+       */
+      season: z.string().optional(),
+
+      /**
+       * The season number shown in navigation.
+       */
+      seasonNumber: z.number().optional(),
+
+      /**
+       * The episode number shown in navigation.
+       */
+      episodeNumber: z.number().optional(),
+
+      /**
+       * The episode title shown in season navigation. Defaults to the post title.
+       */
+      episodeTitle: z.string().optional(),
+
+      /**
        * The timestamp of the blog post, used for sorting and displaying the date.
        */
       timestamp: z.date().transform((val) => new Date(val)),
@@ -303,6 +329,37 @@ const blog = defineCollection({
         slug,
       };
       return newData;
+    }),
+});
+
+/**
+ * Loader and schema for season landing pages.
+ */
+const season = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./content/seasons" }),
+  schema: z
+    .object({
+      title: z.string(),
+      slug: z.string().optional(),
+      seasonNumber: z.number(),
+      description: z.string(),
+      longDescription: z.string().optional(),
+      cardImage: z.string().url().optional(),
+      status: z.enum(["draft", "published"]).default("draft"),
+      featured: z.boolean().default(false),
+      timestamp: z.date().transform((val) => new Date(val)),
+    })
+    .transform((data) => {
+      const slug =
+        data.slug ??
+        data.title
+          .toLowerCase()
+          .replace(/\s+/g, "-")
+          .replace(/[^\w-]/g, "");
+      return {
+        ...data,
+        slug,
+      };
     }),
 });
 
@@ -377,4 +434,4 @@ const project = defineCollection({
     }),
 });
 
-export const collections = { blog, project, configuration };
+export const collections = { blog, project, season, configuration };

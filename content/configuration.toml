@@ -104,11 +104,13 @@ linkedinProfile = "https://www.linkedin.com/in/landonkey"
 [_.texts]
 articlesName = "Articles"
 projectsName = "Projects"
+seasonsName = "Seasons"
 viewAll = "View All"
 noArticles = "No articles found."
 noProjects = "No projects found."
 
 [_.menu]
 home = "/"
+seasons = "/seasons"
 projects = "/projects"
 blog = "/blog"

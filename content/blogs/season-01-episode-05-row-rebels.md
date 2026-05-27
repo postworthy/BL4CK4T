@@ -1,6 +1,10 @@
 ---
 title: "The Row Rebels"
 slug: "season-01-episode-05-row-rebels"
+season: "season-01-the-singing-network"
+seasonNumber: 1
+episodeNumber: 5
+episodeTitle: "The Row Rebels"
 description: "The Script Kitties meet the Row Rebels and discover that curiosity can look different depending on who is holding the charm."
 longDescription: "Whiskers, Jinx, Pixel, Shadow, and Cipher meet a loose group of Signal Row kids who believe the Echo Grid belongs to anyone who can hear it. The encounter turns complicated when fake notices begin confusing people across the district."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

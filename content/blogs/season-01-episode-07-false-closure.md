@@ -1,6 +1,10 @@
 ---
 title: "The False Closure"
 slug: "season-01-episode-07-false-closure"
+season: "season-01-the-singing-network"
+seasonNumber: 1
+episodeNumber: 7
+episodeTitle: "The False Closure"
 description: "A false transit notice sends Signal Row into confusion, and the Script Kitties stop treating the Echo Grid as a puzzle."
 longDescription: "When a public kiosk posts a false closure notice, Jinx and Shadow trace the evidence while Whiskers keeps the team focused on helping the district recover. The Echo Grid mystery becomes real in a way the Script Kitties cannot laugh off."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"

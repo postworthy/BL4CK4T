@@ -1,0 +1,53 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import SeasonSnippet from "../../components/SeasonSnippet.astro";
+import Section from "../../components/common/Section.astro";
+import { getConfigurationCollection } from "../../lib/utils";
+import { getEpisodesForSeason, getPublishedSeasons } from "../../lib/seasons";
+
+const { data: config } = await getConfigurationCollection();
+const seasons = await Promise.all(
+  (await getPublishedSeasons()).map(async (season) => ({
+    ...season,
+    url: `${config.site.baseUrl}/seasons/${season.data.slug}`,
+    episodeCount: (await getEpisodesForSeason(season.data.slug)).length,
+  })),
+);
+---
+
+<Layout>
+  <Fragment slot="head">
+    <title>{`${config.texts.seasonsName} • ${config.personal.name}`}</title>
+    <meta name="description" content="Season guides for the Script Kitty Chronicles." />
+    <meta property="og:title" content={`${config.texts.seasonsName} • ${config.personal.name}`} />
+    <meta property="og:description" content="Season guides for the Script Kitty Chronicles." />
+    <meta property="og:url" content={`${config.site.baseUrl}/seasons`} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href={`${config.site.baseUrl}/seasons`} />
+  </Fragment>
+  <Section class="my-8">
+    <div class="flex flex-col gap-4 pt-8 pb-16">
+      <h1 class="font-display text-3xl sm:text-4xl leading-loose">
+        {config.texts.seasonsName}
+      </h1>
+      <p class="zag-muted">
+        Follow BL4CK4T stories as complete seasonal arcs.
+      </p>
+    </div>
+    <ul>
+      {
+        seasons.map((season) => (
+          <li>
+            <SeasonSnippet
+              title={season.data.title}
+              description={season.data.description}
+              url={season.url}
+              episodeCount={season.episodeCount}
+              status={season.data.status}
+            />
+          </li>
+        ))
+      }
+    </ul>
+  </Section>
+</Layout>

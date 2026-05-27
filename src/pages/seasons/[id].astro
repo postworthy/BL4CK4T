@@ -1,0 +1,70 @@
+---
+import { getCollection, render } from "astro:content";
+import ArticleSnippet from "../../components/ArticleSnippet.astro";
+import Section from "../../components/common/Section.astro";
+import Prose from "../../components/Prose.astro";
+import Layout from "../../layouts/Layout.astro";
+import { episodeLabel, getEpisodesForSeason } from "../../lib/seasons";
+import { getConfigurationCollection } from "../../lib/utils";
+
+export async function getStaticPaths() {
+  const seasons = await getCollection("season", (season) => season.data.status === "published");
+  return seasons.map((season) => ({
+    params: { id: season.data.slug },
+    props: { season },
+  }));
+}
+
+const { season } = Astro.props;
+const { Content } = await render(season);
+const { data: config } = await getConfigurationCollection();
+const episodes = await getEpisodesForSeason(season.data.slug);
+---
+
+<Layout>
+  <Fragment slot="head">
+    <title>{`${season.data.title} • ${config.personal.name}`}</title>
+    <meta name="description" content={season.data.longDescription ?? season.data.description} />
+    <meta property="og:title" content={`${season.data.title} • ${config.personal.name}`} />
+    <meta property="og:description" content={season.data.description} />
+    {season.data.cardImage && <meta property="og:image" content={season.data.cardImage} />}
+    <meta property="og:url" content={`${config.site.baseUrl}/seasons/${season.data.slug}`} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={`${season.data.title} • ${config.personal.name}`} />
+    <meta name="twitter:description" content={season.data.description} />
+    {season.data.cardImage && <meta name="twitter:image" content={season.data.cardImage} />}
+    <link rel="canonical" href={`${config.site.baseUrl}/seasons/${season.data.slug}`} />
+  </Fragment>
+  <Section class="pt-8">
+    <div class="flex flex-col gap-4 mt-8 mb-12">
+      <p class="zag-muted font-mono">
+        {season.data.seasonNumber === 0 ? "Pilot Season" : `Season ${season.data.seasonNumber}`}
+      </p>
+      <h1 class="text-3xl sm:text-4xl leading-normal sm:leading-normal font-display">
+        {season.data.title}
+      </h1>
+      <p class="zag-muted">{season.data.description}</p>
+    </div>
+    <Prose>
+      <Content />
+    </Prose>
+    <div class="mt-12">
+      <h2 class="font-display text-xl leading-loose mb-8">Episodes</h2>
+      <ol>
+        {
+          episodes.map((episode) => (
+            <li>
+              <ArticleSnippet
+                title={episodeLabel(episode.data)}
+                description={episode.data.description}
+                duration={`${episode.data.readTime} min`}
+                url={`${config.site.baseUrl}/blog/${episode.data.slug}`}
+                timestamp={episode.data.timestamp}
+              />
+            </li>
+          ))
+        }
+      </ol>
+    </div>
+  </Section>
+</Layout>
