@@ -12,6 +12,7 @@ sources:
 
 ## Active Threads
 
+- BL4CK4T mystery: BL4CK4T's identity, nature, selection of the Script Kitties, and direct-appearance constraints are intentional mysteries, not unresolved production gaps. Preserve ambiguity unless a future prequel or origin arc is explicitly approved.
 - Season 7 patch-debt bridge: Season 6 ends with one red Service Map mark that did not fail because of the flood. It failed because of an old known flaw left unrepaired.
 - Far Relay and Ledgerjack: Season 2 leaves the broker layer unresolved. Future stories may expand it, but Ledgerjack should remain indirect unless later canon earns a clearer reveal.
 - Row Rebels: Season 1 leaves them as mixed-motive Signal Row kids, not villains. If they return, preserve curiosity, protest, status, and harm in tension.
@@ -30,6 +31,7 @@ sources:
 ## Continuity Warnings
 
 - Do not make BL4CK4T solve missions directly.
+- Do not answer BL4CK4T's identity, origin, or reason for selecting the Script Kitties as incidental exposition.
 - Do not reopen prior season problems as if their fixes failed without a new cause and explicit continuity reason.
 - Do not collapse Glass Bureau, First Bell Desk, and Threadboard into the same function; each handles a different part of response.
 - Do not use the Vanishing Caller as the hidden cause of earlier seasons.

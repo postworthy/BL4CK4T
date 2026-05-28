@@ -56,7 +56,7 @@ BL4CK4T is a neon-cyberpunk learning world where cybersecurity, math, ethics, an
 
 ## Open Worldbuilding Needs
 
-- Character backstories.
+- Character backstories, including why the Script Kitties were selected, remain open by design for future origin or prequel-style expansion.
 - Recurring villain roster.
 - City districts and institutions.
 - Long-running arcs.

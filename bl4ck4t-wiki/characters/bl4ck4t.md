@@ -54,13 +54,17 @@ Use BL4CK4T to start the mission, raise the right question, and close the story 
 
 ## Open Questions
 
-- Is BL4CK4T a person, collective, AI, legend, or something else?
-- Why did BL4CK4T choose the Script Kitties?
-- What constraints prevent BL4CK4T from appearing directly?
+These are intentional mysteries, not production gaps to close during ordinary season work.
+
+- BL4CK4T's nature is deliberately unresolved. Public stories should not answer whether BL4CK4T is a person, collective, AI, legend, or something else.
+- Why BL4CK4T chose the Script Kitties is reserved for future lore expansion and possible prequel-style backstory development.
+- The constraints that prevent BL4CK4T from appearing directly should remain vague unless a future season is explicitly designed to explore them.
+
+Preserve reader interpretation, mystery, and room for later origin stories.
 
 ## Growth Direction
 
-BL4CK4T should remain publicly mysterious while privately serving as the story's challenge architect. Future canon can reveal pieces of origin slowly, but every reveal should preserve the mentor's core function: preparing younger learners to think ethically without doing the thinking for them.
+BL4CK4T should remain publicly mysterious while privately serving as the story's challenge architect. Future canon may reveal pieces of origin slowly only when the story intentionally turns toward backstory. Every reveal should preserve the mentor's core function: preparing younger learners to think ethically without doing the thinking for them.
 
 ## Published Season Canon
 
