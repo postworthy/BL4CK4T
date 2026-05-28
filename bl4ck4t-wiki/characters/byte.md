@@ -8,6 +8,7 @@ sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
   - ../sources/blog-keys-to-the-city.md
   - ../sources/blog-interest-of-time.md
+  - ../assets/Byte-Character.jpeg
 ---
 
 # Byte
@@ -51,9 +52,9 @@ Byte speaks in practical build steps and quick status checks. Byte often wants t
 
 ## Visual Description For Art
 
-Byte has a public visual cue from the pilot: the blue-hooded gadgeteer. Keep the blue hoodie or blue hooded layer as Byte's anchor, paired with a tablet, small terminal windows, cable bundles, and safe demo hardware.
+Byte's character-card baseline is a dark charcoal-gray cat with pointed ears, a pink nose, and bright cyan-blue eyes. His core clothing cue is a saturated cyan-blue hoodie. The card pose is arms crossed with a cool, composed expression, giving him the look of a young gadgeteer who has already built three possible fixes and is waiting to test the right one.
 
-Byte should look hands-on and slightly overprepared: pockets with adapters, a tablet already awake, a coil of cable, or a pocket notebook for model checks. His posture can be crouched beside old terminals, leaning over dashboards, or holding a prototype with a visible stop switch. The design should show maker confidence tempered by post-Season 3 accountability.
+Keep the blue/cyan hooded layer as Byte's anchor, paired with a tablet, small terminal windows, cable bundles, and safe demo hardware. Byte should look hands-on and slightly overprepared: pockets with adapters, a tablet already awake, a coil of cable, or a pocket notebook for model checks. His posture can be crouched beside old terminals, leaning over dashboards, or holding a prototype with a visible stop switch. The design should show maker confidence tempered by post-Season 3 accountability.
 
 Avoid making Byte's tools look like offensive gear. His kit should read as classroom-safe demos, repair, modeling, and validation.
 

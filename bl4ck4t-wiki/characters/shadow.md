@@ -7,6 +7,7 @@ tags: [character, script-kitty, observer]
 sources:
   - ../sources/blog-keys-to-the-city.md
   - ../sources/blog-interest-of-time.md
+  - ../assets/Shadow-Character.jpeg
 ---
 
 # Shadow
@@ -50,9 +51,9 @@ Shadow uses short lines. When Shadow speaks, the detail should matter.
 
 ## Visual Description For Art
 
-Shadow has recurring public visual cues around hooded movement, room edges, reflections, and physical inspection. Season 2 explicitly shows Shadow lifting his hood before checking old trust paths; Season 4 centers Shadow's use of trace evidence and reflections.
+Shadow's character-card baseline is a black or very dark charcoal cat with pointed ears, shaggy/spiky head fur, a pink nose, and bright cyan-blue eyes. His core clothing cue is a teal-green hoodie. The card pose is arms crossed with a watchful, unreadable expression, giving him the presence of a quiet protector who sees the room before entering it.
 
-Render Shadow with a low-profile hood or dark outer layer, placed near edges, windows, reflective glass, service panels, or floor-level clues. The body language should be still but active: crouching near a terminal stand, pointing at a reflected mark, or watching who is affected before speaking. Small light accents can help show observation without turning Shadow into a generic stealth figure.
+Shadow has recurring public visual cues around hooded movement, room edges, reflections, and physical inspection. Season 2 explicitly shows Shadow lifting his hood before checking old trust paths; Season 4 centers Shadow's use of trace evidence and reflections. Render Shadow with the teal-green hoodie or a low-profile hooded outer layer, placed near edges, windows, reflective glass, service panels, or floor-level clues. The body language should be still but active: crouching near a terminal stand, pointing at a reflected mark, or watching who is affected before speaking. Small cyan light accents can help show observation without turning Shadow into a generic stealth figure.
 
 Avoid using Shadow only as atmosphere. The visual should show a protector who notices material details others miss.
 

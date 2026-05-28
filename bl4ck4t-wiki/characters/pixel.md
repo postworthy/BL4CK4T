@@ -8,6 +8,7 @@ sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
   - ../sources/blog-keys-to-the-city.md
   - ../sources/blog-interest-of-time.md
+  - ../assets/Pixel-Character.jpeg
 ---
 
 # Pixel
@@ -51,9 +52,9 @@ Pixel speaks in quick observations, comparisons, and excited questions. Pixel ma
 
 ## Visual Description For Art
 
-Pixel has the strongest public visual baseline among the Script Kitties: the pilot calls Pixel the smallest of the team and gives Pixel a bright orange hoodie. Keep the orange hoodie as the primary recognizer, with chalk dust, sticker sheets, tiny prototype parts, and bright diagrams as secondary cues.
+Pixel's character-card baseline is a compact dark charcoal-gray cat with pointed ears, a pink nose, and bright yellow-green eyes. Pixel is the smallest-looking member of the crew and wears a bright orange hoodie. The card pose is arms crossed but still alert, making Pixel feel like an energetic learner trying to hold still for the portrait.
 
-Pixel should look kinetic and curious: leaning toward evidence, bouncing on heels, ears tilted toward sounds, or holding a half-finished demo. Use expressive paws, wide attentive eyes, and a compact silhouette. The design should make wonder visible without making Pixel careless; after Season 3 and Season 5, include small signs of learned restraint such as labeled trays, pause cards, or contained experiment boxes.
+Keep the orange hoodie as the primary recognizer, with chalk dust, sticker sheets, tiny prototype parts, and bright diagrams as secondary cues. Pixel should look kinetic and curious: leaning toward evidence, bouncing on heels, ears tilted toward sounds, or holding a half-finished demo. Use expressive paws, wide attentive eyes, and a compact silhouette. The design should make wonder visible without making Pixel careless; after Season 3 and Season 5, include small signs of learned restraint such as labeled trays, pause cards, or contained experiment boxes.
 
 Avoid turning Pixel into pure comic relief. Pixel's visual energy should still support careful learning.
 

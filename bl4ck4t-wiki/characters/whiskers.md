@@ -8,6 +8,7 @@ sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
   - ../sources/blog-keys-to-the-city.md
   - ../sources/blog-interest-of-time.md
+  - ../assets/Whiskers-Character.jpeg
 ---
 
 # Whiskers
@@ -50,11 +51,11 @@ Whiskers speaks in steady, direct lines. He often turns scattered team discoveri
 
 ## Visual Description For Art
 
-Whiskers should read visually as the team's young field captain: upright posture, attentive ears, and a habit of standing where he can see both the team and the problem. His most reliable canon prop is the field notebook, often opened, closed, or marked with crossed-out certainty during hard calls.
+Whiskers' character-card baseline is a dark charcoal-gray cat with pointed ears, spiky head fur, a pink nose, and bright yellow-green eyes. His core clothing cue is a bright green hoodie. The card pose is arms crossed, shoulders squared, and expression serious but not harsh, giving him the look of a young field leader who is already thinking about the next call.
 
-Use clean, practical adventure clothing rather than ornate costume language. A simple hoodie, field vest, or jacket with pockets for notes, checklists, and small signal markers fits his role. Keep his palette steady and readable rather than flashy; his silhouette should communicate readiness, responsibility, and team-first calm.
+Whiskers should read visually as the team's young field captain: upright posture, attentive ears, and a habit of standing where he can see both the team and the problem. His most reliable canon prop remains the field notebook, often opened, closed, or marked with crossed-out certainty during hard calls.
 
-Avoid locking a specific fur pattern or eye color until public canon establishes one.
+Use clean, practical adventure clothing layered around the green hoodie rather than ornate costume language. A field vest or jacket with pockets for notes, checklists, and small signal markers can be added when the scene needs gear. Keep his silhouette readable: responsible, ready, team-first, and steady under pressure.
 
 ## Lesson Role
 

@@ -772,3 +772,16 @@ Touched areas:
 - `bl4ck4t-wiki/season-candidates/`
 - [index.md](index.md)
 - [log.md](log.md)
+
+## [2026-05-27] maintenance | Ingest visual assets into wiki style canon
+
+Ingested the uploaded logo, character cards, lesson art, crowd scene, and Season 1-5 posters into the wiki asset layer. Created an asset inventory and an asset-derived visual style guide covering BL4CK4T's sticker/logo identity, Script Kitties hoodie-color canon, Cybertropolis mood, season-poster language, lesson-art motifs, and future art-prompt constraints. Updated the core BL4CK4T and Script Kitties character profiles with card-specific visual details so future artwork can preserve character consistency.
+
+Touched areas:
+
+- [assets/README.md](assets/README.md)
+- `bl4ck4t-wiki/assets/`
+- [style-guides/visual-style-guide.md](style-guides/visual-style-guide.md)
+- `bl4ck4t-wiki/characters/`
+- [index.md](index.md)
+- [log.md](log.md)

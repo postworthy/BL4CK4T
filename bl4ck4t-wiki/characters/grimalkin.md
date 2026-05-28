@@ -8,6 +8,7 @@ sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
   - ../sources/blog-keys-to-the-city.md
   - ../sources/blog-interest-of-time.md
+  - ../assets/Grimalkin-Character.jpeg
 ---
 
 # Grimalkin
@@ -50,9 +51,11 @@ Grimalkin speaks with measured caution. He likes timelines, probabilities, and q
 
 ## Visual Description For Art
 
-Grimalkin should look like the team's young planner: composed, slightly guarded, and usually carrying some visible planning surface. Season 6 gives a hard public cue that he adjusts or wears glasses; use glasses as a stable visual marker unless future canon changes it.
+Grimalkin's character-card baseline is a dark charcoal-gray cat with pointed ears, spiky head fur, a pink nose, and clear yellow eyes. His core clothing cue is an olive-green hoodie, darker and more muted than Whiskers' bright green. The card pose is arms crossed with a guarded, assessing expression, giving him the look of a cautious strategist who is already reviewing what could go wrong.
 
-Good render cues include folded city maps, card stacks, route overlays, review schedules, and a satchel or case for planning tools. His clothing should feel practical and restrained, with darker or muted tones that let colored map pins, warning cards, and route lines stand out. His posture can lean forward over maps or pause with one paw on a card, suggesting caution before action.
+Grimalkin should look like the team's young planner: composed, slightly guarded, and usually carrying some visible planning surface. Season 6 gives a public story cue that he adjusts or wears glasses; use glasses as a situational art cue for reading, planning, and response-room scenes, but do not treat them as required in every portrait because the character card establishes him without glasses.
+
+Good render cues include folded city maps, card stacks, route overlays, review schedules, and a satchel or case for planning tools. His clothing should feel practical and restrained, with the olive hoodie supporting colored map pins, warning cards, and route lines. His posture can lean forward over maps or pause with one paw on a card, suggesting caution before action.
 
 Avoid making him look grim or adult-heavy; he is a young strategist learning trust, not a brooding vigilante.
 

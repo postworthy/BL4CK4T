@@ -6,6 +6,7 @@ updated: 2026-05-27
 tags: [character, script-kitty, investigator]
 sources:
   - ../sources/blog-interest-of-time.md
+  - ../assets/Jinx-Character.jpeg
 ---
 
 # Jinx
@@ -49,9 +50,9 @@ Jinx asks the uncomfortable question. She notices what could go wrong and turns 
 
 ## Visual Description For Art
 
-Jinx should read as the young investigator: notebook or case cards close at hand, pencil ready, warning tags visible, and a magnifier lens or small camera for evidence detail. Public stories repeatedly tie her to notebooks, cards, maps, and evidence categories.
+Jinx's character-card baseline is a black or very dark charcoal cat with pointed ears, a pink nose, yellow eyes, and magenta inner-ear accents. Her core clothing cue is a vivid magenta hoodie. The card pose is arms crossed with a small, knowing smile, making her feel like a young sleuth who has already noticed the detail everyone else missed.
 
-Her silhouette should be alert and angled toward the clue, often slightly apart from the first rush of action. Use red strings, caution tags, numbered photos, or confidence-level cards as visual accents. The design should show skepticism becoming discipline: sharp eyes, careful hands, and evidence organized before accusation.
+Jinx should read as the young investigator: notebook or case cards close at hand, pencil ready, warning tags visible, and a magnifier lens or small camera for evidence detail. Public stories repeatedly tie her to notebooks, cards, maps, and evidence categories. Her silhouette should be alert and angled toward the clue, often slightly apart from the first rush of action. Use red strings, caution tags, numbered photos, or confidence-level cards as visual accents. The design should show skepticism becoming discipline: sharp eyes, careful hands, and evidence organized before accusation.
 
 Avoid making Jinx look merely suspicious or gloomy. Her visual identity is disciplined curiosity under pressure.
 

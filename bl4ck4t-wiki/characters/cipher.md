@@ -8,6 +8,7 @@ sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
   - ../sources/blog-keys-to-the-city.md
   - ../sources/blog-interest-of-time.md
+  - ../assets/Cipher-Character.jpeg
 ---
 
 # Cipher
@@ -51,9 +52,9 @@ Cipher speaks clearly and carefully. She names the concept, explains the rule, a
 
 ## Visual Description For Art
 
-Cipher has a hard public visual anchor: a purple hoodie. Keep that hoodie central, with a cipher notebook, number grids, key diagrams, and small geometric marks as her recurring visual language.
+Cipher's character-card baseline is a dark charcoal-gray cat with pointed ears, a pink nose, and bright cyan-blue eyes. Her core clothing cue is a purple hoodie. The card pose is arms crossed with a slight, composed smile, suggesting a young codebreaker who is serious about proof but still enjoys the elegance of a solved pattern.
 
-Cipher should look precise and focused: hood slightly adjusted, notebook open, pencil or stylus ready, and diagrams arranged cleanly around her. Her expressions should lean thoughtful rather than flashy. Use purple as the main clothing cue, with pale grid lines, key shapes, or small math marks as accents.
+Keep the purple hoodie central, with a cipher notebook, number grids, key diagrams, and small geometric marks as her recurring visual language. Cipher should look precise and focused: hood slightly adjusted, notebook open, pencil or stylus ready, and diagrams arranged cleanly around her. Her expressions should lean thoughtful rather than flashy. Use purple as the main clothing cue, with pale grid lines, key shapes, or small math marks as accents.
 
 Avoid making Cipher look cold or detached. Her precision should feel helpful and imaginative, especially because her hero anchor includes both codebreaking logic and mathematical creativity.
 

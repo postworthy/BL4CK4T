@@ -24,6 +24,11 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season Artifact Checklist](style-guides/season-artifact-checklist.md) - Required artifact, validation, status, index, and log checklist for season production.
 - [Season Release Quality Gate](style-guides/season-release-quality-gate.md) - Required manual prose-quality and episode-differentiation gate before season publication.
 - [Published Canon Extraction Workflow](style-guides/published-canon-extraction-workflow.md) - Required post-release backfill process from public season posts into the wiki.
+- [Visual Style Guide](style-guides/visual-style-guide.md) - Asset-derived visual canon for BL4CK4T, the Script Kitties, Cybertropolis, season posters, and future art prompts.
+
+## Visual Assets
+
+- [Assets README](assets/README.md) - Inventory and usage notes for logo, character cards, lesson art, crowd art, and season-poster references.
 
 ## Artifacts
 

@@ -8,6 +8,7 @@ sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
   - ../sources/blog-keys-to-the-city.md
   - ../sources/blog-interest-of-time.md
+  - ../assets/BL4CK4T.png
 ---
 
 # BL4CK4T
@@ -41,11 +42,11 @@ BL4CK4T speaks in compact, memorable lines. The voice should feel mysterious but
 
 ## Visual Description For Art
 
-BL4CK4T should usually be rendered through absence and signal rather than a full visible body. Public canon supports glowing pawprints, black screens, white text, rooftop billboards, sealed marks, city reflections, simulator messages, and compact drops.
+The site-logo baseline in `../assets/BL4CK4T.png` is a hooded black cat bust on a white field. The figure has a dark-gray hood, black cat ears rising behind the hood, neon yellow-green eyes, a small green nose, a cyan mouth/whisker accent, cable-like hoodie drawstrings, and a curled tail on the viewer's left. Broken circular orbit arcs and tiny star-like speckles surround the figure, giving the mark a sticker-ready blend of mystery, signal, and cyber-magic.
 
-The safest visual language is a crisp black or white pawprint mark, a sharp silhouette implied in reflection, or a city surface briefly becoming a message. If a figure is suggested, keep it partial: a shadow at the edge of a billboard glow, a cloak-like outline in glass, or a pawprint appearing where a face would be expected. The image should imply mentorship and mystery without answering what BL4CK4T is.
+Treat that logo as the stable public emblem and sticker identity. Do not redesign the silhouette, eye color, hooded bust, orbit arcs, or curled-tail signal without explicit approval. For story art, BL4CK4T should usually still be rendered through absence and signal rather than a full visible body: glowing pawprints, black screens, white text, rooftop billboards, sealed marks, city reflections, simulator messages, and compact drops.
 
-Avoid definitive facial features, species details, or a fixed body design until canon reveals more.
+The safest in-world visual language is a crisp black or white pawprint mark, a sharp silhouette implied in reflection, or a city surface briefly becoming a message. If a figure is suggested, keep it partial and logo-adjacent: a hooded cat outline at the edge of a billboard glow, a cloak-like reflection in glass, or the neon eyes and orbit arcs appearing where a face would be expected. The image should imply mentorship and mystery without answering what BL4CK4T is beyond the public emblem.
 
 ## Story Use
 
