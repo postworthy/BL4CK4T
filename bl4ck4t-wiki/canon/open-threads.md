@@ -13,7 +13,7 @@ sources:
 ## Active Threads
 
 - BL4CK4T mystery: BL4CK4T's identity, nature, selection of the Script Kitties, and direct-appearance constraints are intentional mysteries, not unresolved production gaps. Preserve ambiguity unless a future prequel or origin arc is explicitly approved.
-- Season 7 patch-debt bridge: Season 6 ends with one red Service Map mark that did not fail because of the flood. It failed because of an old known flaw left unrepaired.
+- Season 8 quiet-intrusion bridge: Season 7 ends with a source-plan access log showing someone read protected Civic Pages plans before the Red Door fever.
 - Far Relay and Ledgerjack: Season 2 leaves the broker layer unresolved. Future stories may expand it, but Ledgerjack should remain indirect unless later canon earns a clearer reveal.
 - Row Rebels: Season 1 leaves them as mixed-motive Signal Row kids, not villains. If they return, preserve curiosity, protest, status, and harm in tension.
 - First Bell Desk: Season 3 creates a standing lab incident coordination point. It should remain available alongside the Glass Bureau.
@@ -27,6 +27,7 @@ sources:
 - Vanishing Caller: Season 4's chase is closed, but the Notice Wall, Chase Map, and identity-claim reporting pattern can recur.
 - Glitter Letter: Season 5's incident is closed, but the Pink Envelope, Quarantine Tray, and Message Office warning pattern can recur for suspicious-message stories.
 - Season 6 traffic flood: The availability incident is closed, but the Queue District, Service Map, Status Wall, Service Bell Tower, priority lanes, fallback desks, and Flood Prince aftermath can recur.
+- Season 7 patch-debt incident: The Red Door fever is closed, but the Civic Pages District, Patch Bell, Repair Lane, Rollback Room, Consent Ledger, and maintenance practices can recur.
 
 ## Continuity Warnings
 
@@ -37,3 +38,4 @@ sources:
 - Do not use the Vanishing Caller as the hidden cause of earlier seasons.
 - Do not reopen the Glitter Letter incident as if Season 5 failed; future message incidents need a new cause and continuity reason.
 - Do not make the Flood Prince responsible for prior seasons or for Season 7 patch debt.
+- Do not treat the Helpful Ghost as an approved repair method; its lesson is that unauthorized repair breaks consent even when visible symptoms improve.

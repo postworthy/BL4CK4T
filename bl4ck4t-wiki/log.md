@@ -785,3 +785,23 @@ Touched areas:
 - `bl4ck4t-wiki/characters/`
 - [index.md](index.md)
 - [log.md](log.md)
+
+## [2026-05-29] publish | Release Season 7: The Patch Bell War
+
+Completed the Season 7 pipeline for The Patch Bell War. Created the MSBlaster/Welchia historical source page, historical account, and documentary treatment; imported the nonfiction spine into BL4CK4T story canon; added support pages for Civic Pages District, Patch Bell, Repair Lane, Rollback Room, Consent Ledger, Red Clerk, Helpful Ghost, patch debt, verified updates, emergency change, consent-aware repair, and unauthorized repair; created the production bible, mission packets, draft mirrors, draft review, continuity audit, release historical-anchor analysis, public season page, and nine public blog posts. Season 7 publishes as a simultaneous drop and closes the Season 6 red Service Map thread while opening the Season 8 source-plan log thread.
+
+Touched areas:
+
+- [sources/real-world/msblaster-welchia-worm-era.md](sources/real-world/msblaster-welchia-worm-era.md)
+- [historical-accounts/msblaster-welchia-worm-era.md](historical-accounts/msblaster-welchia-worm-era.md)
+- [historical-documentary-treatments/msblaster-welchia-worm-era.md](historical-documentary-treatments/msblaster-welchia-worm-era.md)
+- [story-arcs/season-07-the-patch-bell-war-arc.md](story-arcs/season-07-the-patch-bell-war-arc.md)
+- [production-bibles/season-07-the-patch-bell-war.md](production-bibles/season-07-the-patch-bell-war.md)
+- `bl4ck4t-wiki/missions/season-07-*`
+- `bl4ck4t-wiki/drafts/season-07-*`
+- `content/blogs/season-07-*`
+- [../content/seasons/season-07-the-patch-bell-war.md](../content/seasons/season-07-the-patch-bell-war.md)
+- [canon/continuity-timeline.md](canon/continuity-timeline.md)
+- [canon/open-threads.md](canon/open-threads.md)
+- [index.md](index.md)
+- [log.md](log.md)

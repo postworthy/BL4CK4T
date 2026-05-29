@@ -1,12 +1,17 @@
 ---
 type: season
-status: planned
+status: published
 created: 2026-05-26
-updated: 2026-05-27
+updated: 2026-05-29
 season_number: 7
 tags: [season, msblaster, welchia, patching, worms, civic-dependency]
 sources:
   - ../story-arcs/seasons-06-10-civic-dependency-arc.md
+  - ../sources/real-world/msblaster-welchia-worm-era.md
+  - ../historical-accounts/msblaster-welchia-worm-era.md
+  - ../historical-documentary-treatments/msblaster-welchia-worm-era.md
+  - ../story-arcs/season-07-the-patch-bell-war-arc.md
+  - ../production-bibles/season-07-the-patch-bell-war.md
 historical_inspiration: [msblaster, welchia-nachi, code-red, nimda, sql-slammer, patch-debt]
 historical_account: ../historical-accounts/msblaster-welchia-worm-era.md
 primary_lessons:
@@ -33,8 +38,8 @@ Contextual background: Code Red, Nimda, and SQL Slammer may be used to establish
 ## Historical Account Requirement
 
 - Required account path: `bl4ck4t-wiki/historical-accounts/msblaster-welchia-worm-era.md`
-- Status: not started.
-- No BL4CK4T transformation or episode drafting should proceed until the account is complete.
+- Status: research-foundation-complete.
+- Documentary treatment, BL4CK4T import, production bible, mission packets, drafts, review reports, and public release are complete.
 
 ## BL4CK4T Transformation
 
@@ -99,4 +104,3 @@ The Helpful Ghost represents help without consent. It may repair real harm, but 
 
 - Avoid exploit and worm mechanics.
 - Keep lessons focused on maintenance responsibility, repair channels, isolation, rollback, and consent.
-

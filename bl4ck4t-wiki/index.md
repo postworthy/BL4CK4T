@@ -49,6 +49,10 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Glitter Letter](artifacts/glitter-letter.md) - Season 5 social-lure message artifact.
 - [Quarantine Tray](artifacts/quarantine-tray.md) - Season 5 hold-first message review artifact.
 - [Service Map](artifacts/service-map.md) - Season 6 dependency and availability response artifact.
+- [Patch Bell](artifacts/patch-bell.md) - Season 7 signal for known serious repair decisions.
+- [Repair Lane](artifacts/repair-lane.md) - Season 7 trusted path for verified updates.
+- [Rollback Room](artifacts/rollback-room.md) - Season 7 recovery planning artifact for urgent repair.
+- [Consent Ledger](artifacts/consent-ledger.md) - Season 7 authorization and accountability record.
 
 ## Characters
 
@@ -100,6 +104,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Queue District](locations/queue-district.md) - Season 6 civic-services district for public request handling.
 - [Status Wall](locations/status-wall.md) - Season 6 public service-state board.
 - [Service Bell Tower](locations/service-bell-tower.md) - Season 6 signal point for unreachable or degraded services.
+- [Civic Pages District](locations/civic-pages-district.md) - Season 7 public sign and display infrastructure district.
 
 ## Villains
 
@@ -110,6 +115,8 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Copycat Sprite](villains/copycat-sprite.md) - Season 3 incident force for propagation and containment lessons.
 - [The Vanishing Caller](villains/the-vanishing-caller.md) - Season 4 adversary identity for public mythology, social engineering, and proportionality lessons.
 - [Flood Prince](villains/flood-prince.md) - Season 6 availability adversary for attention without responsibility.
+- [Red Clerk](villains/red-clerk.md) - Season 7 adversary figure for neglect disguised as stability.
+- [Helpful Ghost](villains/helpful-ghost.md) - Season 7 adversary force for help without consent.
 - [Villain Backlog](villains/villain-backlog.md) - Fictional adversary concepts loosely inspired by real threat patterns.
 
 ## Concepts
@@ -148,6 +155,11 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Service Degradation](concepts/service-degradation.md) - Season 6 concept for partial or unreliable service.
 - [Civic Resilience](concepts/civic-resilience.md) - Season 6 concept for keeping essential work moving and learning afterward.
 - [Status Communication](concepts/status-communication.md) - Season 6 concept for public updates during disruption.
+- [Patch Debt](concepts/patch-debt.md) - Season 7 concept for known fixes left unapplied or unowned.
+- [Verified Updates](concepts/verified-updates.md) - Season 7 concept for trusted repair source and authorization checks.
+- [Emergency Change](concepts/emergency-change.md) - Season 7 concept for bounded defensive action under pressure.
+- [Consent-Aware Repair](concepts/consent-aware-repair.md) - Season 7 concept for authorized and accountable repair.
+- [Unauthorized Repair](concepts/unauthorized-repair.md) - Season 7 concept for fixes applied without permission.
 
 ## Lessons
 
@@ -165,6 +177,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 4: The Invisible Chase Arc](story-arcs/season-04-the-invisible-chase-arc.md) - Documentary-to-world adaptation for the hacker-manhunt inspired season.
 - [Season 5: The Love Letter Plague Arc](story-arcs/season-05-the-love-letter-plague-arc.md) - Documentary-to-world adaptation for the ILOVEYOU inspired season.
 - [Season 6: The Day The City Would Not Answer Arc](story-arcs/season-06-the-day-the-city-would-not-answer-arc.md) - Documentary-to-world adaptation for the Estonia 2007 inspired season.
+- [Season 7: The Patch Bell War Arc](story-arcs/season-07-the-patch-bell-war-arc.md) - Documentary-to-world adaptation for the MSBlaster/Welchia inspired season.
 - [Seasons 6-10: The Civic Dependency Arc](story-arcs/seasons-06-10-civic-dependency-arc.md) - Macro planning arc for availability, maintenance, quiet intrusion, physical safety, and connected-device responsibility.
 
 ## Production Bibles
@@ -176,6 +189,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 4: The Invisible Chase Production Bible](production-bibles/season-04-the-invisible-chase.md) - Production plan, episode controls, and release gate for Season 4.
 - [Season 5: The Love Letter Plague Production Bible](production-bibles/season-05-the-love-letter-plague.md) - Production plan, episode controls, and release gate for Season 5.
 - [Season 6: The Day The City Would Not Answer Production Bible](production-bibles/season-06-the-day-the-city-would-not-answer.md) - Production plan, episode controls, and release gate for Season 6.
+- [Season 7: The Patch Bell War Production Bible](production-bibles/season-07-the-patch-bell-war.md) - Production plan, episode controls, and release gate for Season 7.
 
 ## Historical Accounts
 
@@ -186,6 +200,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Mitnick, Shimomura, And The Hacker-Manhunt Era](historical-accounts/mitnick-shimomura-hacker-manhunt.md) - Completed historical research foundation.
 - [ILOVEYOU / Love Bug](historical-accounts/iloveyou-love-bug.md) - Completed historical research foundation.
 - [Estonia 2007 Cyberattacks](historical-accounts/estonia-cyberattacks-2007.md) - Completed Season 6 historical research foundation.
+- [MSBlaster, Welchia/Nachi, And The Early-2000s Worm Era](historical-accounts/msblaster-welchia-worm-era.md) - Completed Season 7 historical research foundation.
 
 ## Historical Documentary Treatments
 
@@ -196,6 +211,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Mitnick, Shimomura, And The Hacker-Manhunt Era Documentary Treatment](historical-documentary-treatments/mitnick-shimomura-hacker-manhunt.md) - Season 4 documentary movement structure derived from the historical account.
 - [ILOVEYOU / Love Bug Documentary Treatment](historical-documentary-treatments/iloveyou-love-bug.md) - Season 5 documentary movement structure derived from the historical account.
 - [Estonia 2007 Cyberattacks Documentary Treatment](historical-documentary-treatments/estonia-cyberattacks-2007.md) - Completed Season 6 documentary movement structure derived from the historical account.
+- [MSBlaster, Welchia/Nachi Documentary Treatment](historical-documentary-treatments/msblaster-welchia-worm-era.md) - Completed Season 7 documentary movement structure derived from the historical account.
 
 ## Seasons
 
@@ -279,6 +295,15 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 6 Episode 7: The Flood Prince](missions/season-06-episode-07-flood-prince.md) - Mission packet for the seventh Season 6 episode.
 - [Season 6 Episode 8: Priority Lanes](missions/season-06-episode-08-priority-lanes.md) - Mission packet for the eighth Season 6 episode.
 - [Season 6 Episode 9: The City Answers](missions/season-06-episode-09-city-answers.md) - Mission packet for the Season 6 finale.
+- [Season 7 Episode 1: The Red Mark](missions/season-07-episode-01-red-mark.md) - Mission packet for the Season 7 opener.
+- [Season 7 Episode 2: The Signs Still Worked](missions/season-07-episode-02-signs-still-worked.md) - Mission packet for the second Season 7 episode.
+- [Season 7 Episode 3: Red Door Fever](missions/season-07-episode-03-red-door-fever.md) - Mission packet for the third Season 7 episode.
+- [Season 7 Episode 4: Restart Weather](missions/season-07-episode-04-restart-weather.md) - Mission packet for the fourth Season 7 episode.
+- [Season 7 Episode 5: The Repair Lane](missions/season-07-episode-05-repair-lane.md) - Mission packet for the fifth Season 7 episode.
+- [Season 7 Episode 6: The Helpful Ghost](missions/season-07-episode-06-helpful-ghost.md) - Mission packet for the sixth Season 7 episode.
+- [Season 7 Episode 7: Bounded Evidence](missions/season-07-episode-07-bounded-evidence.md) - Mission packet for the seventh Season 7 episode.
+- [Season 7 Episode 8: The Consent Ledger](missions/season-07-episode-08-consent-ledger.md) - Mission packet for the eighth Season 7 episode.
+- [Season 7 Episode 9: The Patch Bell](missions/season-07-episode-09-patch-bell.md) - Mission packet for the Season 7 finale.
 
 ## Sources
 
@@ -297,6 +322,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [The Cuckoo's Egg And The Hanover Hackers](sources/real-world/cuckoos-egg-hanover-hackers.md) - Source page for the Season 2 historical account.
 - [Mitnick, Shimomura, And The Hacker-Manhunt Era](sources/real-world/mitnick-shimomura-hacker-manhunt.md) - Source page for the Season 4 historical account.
 - [Estonia 2007 Cyberattacks](sources/real-world/estonia-cyberattacks-2007.md) - Source page for the Season 6 historical account rebuild.
+- [MSBlaster, Welchia/Nachi, And Early-2000s Worm Era](sources/real-world/msblaster-welchia-worm-era.md) - Source page for the Season 7 historical account.
 - [Cyber History Season Brief](sources/creative-briefs/cyber-history-season-brief.md) - User-supplied creative direction for season-level historical arcs.
 
 ## Drafts
@@ -356,6 +382,15 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 6 Episode 7: The Flood Prince](drafts/season-06-episode-07-flood-prince.md) - Draft article mirror for the seventh Season 6 episode.
 - [Season 6 Episode 8: Priority Lanes](drafts/season-06-episode-08-priority-lanes.md) - Draft article mirror for the eighth Season 6 episode.
 - [Season 6 Episode 9: The City Answers](drafts/season-06-episode-09-city-answers.md) - Draft article mirror for the Season 6 finale.
+- [Season 7 Episode 1: The Red Mark](drafts/season-07-episode-01-red-mark.md) - Draft article mirror for the Season 7 opener.
+- [Season 7 Episode 2: The Signs Still Worked](drafts/season-07-episode-02-signs-still-worked.md) - Draft article mirror for the second Season 7 episode.
+- [Season 7 Episode 3: Red Door Fever](drafts/season-07-episode-03-red-door-fever.md) - Draft article mirror for the third Season 7 episode.
+- [Season 7 Episode 4: Restart Weather](drafts/season-07-episode-04-restart-weather.md) - Draft article mirror for the fourth Season 7 episode.
+- [Season 7 Episode 5: The Repair Lane](drafts/season-07-episode-05-repair-lane.md) - Draft article mirror for the fifth Season 7 episode.
+- [Season 7 Episode 6: The Helpful Ghost](drafts/season-07-episode-06-helpful-ghost.md) - Draft article mirror for the sixth Season 7 episode.
+- [Season 7 Episode 7: Bounded Evidence](drafts/season-07-episode-07-bounded-evidence.md) - Draft article mirror for the seventh Season 7 episode.
+- [Season 7 Episode 8: The Consent Ledger](drafts/season-07-episode-08-consent-ledger.md) - Draft article mirror for the eighth Season 7 episode.
+- [Season 7 Episode 9: The Patch Bell](drafts/season-07-episode-09-patch-bell.md) - Draft article mirror for the Season 7 finale.
 
 ## Reports
 
@@ -383,4 +418,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 6 Continuity Audit](reports/season-06-continuity-audit.md) - Cross-season continuity audit for Season 6.
 - [Season 6 Release Historical Anchor Analysis](reports/season-06-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Published Entity Inventory Season 6](reports/published-entity-inventory-season-06.md) - Reconciliation of Season 6 public-story entities requiring wiki representation.
+- [Season 7 Draft Review](reports/season-07-draft-review.md) - Full private draft review against the Season 7 historical account, documentary treatment, story arc, and production bible.
+- [Season 7 Continuity Audit](reports/season-07-continuity-audit.md) - Cross-season continuity audit for Season 7.
+- [Season 7 Release Historical Anchor Analysis](reports/season-07-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Wiki Consistency And Character Visual Lint](reports/2026-05-27-wiki-consistency-and-character-visual-lint.md) - Maintenance pass for Season 6 status consistency and character art-direction language.

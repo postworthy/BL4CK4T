@@ -131,9 +131,23 @@ This timeline records the current event order from the published blog and privat
 - Grimalkin, Byte, and Whiskers create priority lanes and fallback desks for urgent and essential services.
 - The season closes with the flood fading, the Status Wall and Service Map becoming durable civic practices, and one red Service Map mark pointing to old patch debt for Season 7.
 
+## Season 7: The Patch Bell War
+
+- The red Service Map mark from Season 6 leads Pixel and Jinx to the Civic Pages District.
+- The team discovers a known repair notice that was deferred because the signs still worked.
+- The Red Clerk is established as a caretaker whose fear of past broken repairs turned caution into patch debt.
+- Red Door fever spreads across public boards and turns hidden maintenance risk into visible civic disruption.
+- Restart weather affects ordinary work, including school drafts, permit desks, and public notices.
+- Byte and Jinx create the Repair Lane so urgent repairs have trusted source, signature, and rollback records.
+- The Helpful Ghost appears as a silver unauthorized repair force that fixes visible symptoms while leaving the Consent Ledger blank.
+- Cipher learns to act under bounded evidence with scope limits, fallback paths, and rollback planning.
+- Byte rejects clever repair without consent and keeps a blank silver card as a reminder.
+- The city adopts the Patch Bell rule: known serious repairs must be patched, isolated, or risk-accepted openly.
+- Season 7 closes with a source-plan access log that points toward Season 8's quiet-intrusion story.
+
 ## Open Threads
 
-- Season 7 should pick up the red Service Map mark caused by old patch debt. It is separate from the Season 6 flood.
+- Season 8 should pick up the source-plan access log from Season 7. It is a quiet-intrusion thread, not another red-door or patch-debt incident.
 - The Row Rebels can return, but future stories should remember that Season 1 treated them as mixed-motive kids, not villains.
 - The Far Relay and Ledgerjack can recur as broader adversary infrastructure, but Season 2 does not establish a captured individual mastermind.
 - The Glass Bureau and shared evidence channel should remain available for later reporting and coordination stories.
