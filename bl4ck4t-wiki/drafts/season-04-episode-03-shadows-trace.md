@@ -34,3 +34,6 @@ Trace evidence asks better questions before it proves a person.
 - Safety review: No tracking method is taught.
 - TROPES.md validation: passed after public promotion.
 
+## Technical Texture Remediation
+
+- Public copy now adds public route-log texture for booth activity, route-light timing, maintenance badge record, and unknown user identity.

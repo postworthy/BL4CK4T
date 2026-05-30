@@ -22,6 +22,8 @@ It had a pink seal, silver dust, and a tiny folded heart on the back. The front 
 
 Byte rolled in a display board. "Appearance on the left. Behavior on the right."
 
+Cipher added three labels beneath the heart: `attachment name`, `file extension`, and `observed behavior`. "A message can wear one label and still act like another kind of file."
+
 ### The Drop
 
 BL4CK4T's message printed on a blank card.
@@ -41,6 +43,8 @@ One arrow pointed toward the reader. One pointed toward the reader's contacts. O
 "It looks like a letter," Pixel said.
 
 "It behaves like a spreader," Cipher said.
+
+Byte pointed at the behavior column. "Script-like behavior means the letter tries to make the system do work after it is opened. We can say that without showing the steps."
 
 Whiskers looked at the arrows. "Can we say that publicly?"
 
@@ -77,4 +81,3 @@ Cipher considered that an improvement in taste.
 - Key distinction: appearance and behavior can differ.
 - Defensive habit: judge suspicious messages by context and approved review, not by name or look.
 - Season thread: the city learns why the letter cannot be treated like ordinary mail.
-

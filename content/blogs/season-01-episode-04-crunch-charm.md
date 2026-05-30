@@ -64,6 +64,8 @@ Cipher pointed at the sensor. "The charm did not command anything. The model rea
 
 Byte nodded. "The charm is not the key. The keyhole is too eager."
 
+"It has no permission," Cipher said. "No account. No authorization. The old design is the problem because it accepts an ambiguous signal shape as if it belongs on the command path."
+
 Whiskers looked toward the window, where Signal Row flickered beyond the glass. "And the city has old keyholes."
 
 ### Trial and Error

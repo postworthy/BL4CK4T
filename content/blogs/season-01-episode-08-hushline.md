@@ -34,7 +34,7 @@ In the center of the room sat a narrow white box with no stickers on it.
 
 Cipher read the label. "Hushline."
 
-Mira tapped the lid. "The city's better idea. Messages here. Routing there. Two paths. Fewer ghosts."
+Mira tapped the lid. "The city's better idea. Messages here. Routing commands through a separate service path there. Two paths. Fewer ghosts."
 
 The white box clicked once. A paper tag slid out of its side with BL4CK4T's pawprint stamped in the corner.
 
@@ -50,7 +50,7 @@ Mira spread two maps across the bench.
 
 The first map showed the Echo Grid as a braid of blue and silver lines. The blue carried public messages. The silver carried routing instructions. In the old cabinets, the two colors twisted together through the same relay points.
 
-The second map showed the Hushline. Blue lines ran to kiosks and billboards. Silver lines ran through a separate service path, sealed behind maintenance nodes.
+The second map showed the Hushline. Blue lines ran to kiosks and billboards. Silver lines ran through a separate control path, sealed behind maintenance nodes.
 
 Pixel ran one claw above the maps without touching them. "The city still sings."
 

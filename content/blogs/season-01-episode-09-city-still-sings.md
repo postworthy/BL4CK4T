@@ -20,6 +20,8 @@ The Hideout doors rolled up at sunset. Inside, the Tonebox sat on a low table un
 
 When the Echo Grid mode turned on, the paths braided together and the wrong kiosk lit.
 
+An exhibit card beside the glass said it plainly: a public communications network should not let ordinary messages share the same path as routing commands.
+
 Kids gasped. Adults leaned closer. Rook stood near the back with three Row Rebels and pretended not to be proud when younger visitors asked about the old listener marks.
 
 Pixel wore a jacket dusted with chalk. He looked nervous until the first visitor asked, "Can the city really sing?"

@@ -42,6 +42,8 @@ Jinx liked labels that made decisions slower.
 
 Together, she and Cipher lifted the envelope into the tray. The pink paper dimmed when the lid clicked down.
 
+The tray recorded four intake fields before anyone reviewed the message: sender mark, recipient list, arrival time, and attachment status. The sender mark was blank. The recipient list was longer than it should have been.
+
 Pixel exhaled as if he had been holding his breath for the whole city.
 
 "I wanted to know what it said," he admitted.

@@ -27,6 +27,10 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: require consent, source checks, change records, and rollback plans.
 - Season thread: maintenance is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds reachable-cabinet-family spread, repair chatter traffic, unknown patch state, and reverify-all cleanup burden.
+
 ## Continuity Checks
 
 - Character consistency: Byte is tempted by cleverness; Shadow notices missing trail.

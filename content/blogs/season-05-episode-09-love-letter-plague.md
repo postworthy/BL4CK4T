@@ -18,6 +18,8 @@ The last Glitter Letter dimmed in the Quarantine Tray at 4:12.
 
 Nobody cheered at first. The Message Office had learned not to celebrate before checking the side trays, the class lists, the late reports, and the uncertain pile.
 
+They also checked the outbound queue, affected-file review slips, recovery notes, and the filter rules that now held any matching attachment label for review.
+
 Jinx checked them all. "No new bloom," she said, and then the room cheered.
 
 ### The Drop
@@ -33,10 +35,12 @@ Whiskers pinned it beside the warning that had worked.
 The new Message Office rules fit on one page:
 
 - Unexpected message: hold.
+- Matching lure pattern: filter.
 - Emotional pressure: slow down.
 - Known sender, strange context: verify.
 - Opened by mistake: report without shame.
 - Possible spread: warn contacts.
+- After closure: review recovery notes and update the rulebook.
 
 Pixel read the list and nodded. "This still lets people like letters."
 

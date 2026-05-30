@@ -26,6 +26,8 @@ Byte replayed the approved copy once, then stopped. "I do not like this."
 
 "Good," Cipher said. "Discomfort is data when it points at a mismatch."
 
+The message was a social-engineering request: familiar words, urgency, and borrowed authority aimed at opening a cabinet through a helpful person instead of a broken lock.
+
 ### The Drop
 
 BL4CK4T's card appeared under the kiosk glass.
@@ -63,6 +65,8 @@ Cipher checked the kiosk's normal request pattern. Ms. Vale's real requests had 
 Byte put the copied phrase in a red folder labeled `SURFACE MATCH`.
 
 Then he made a green folder labeled `CONTEXT CHECK`.
+
+Ms. Vale confirmed the right process through a separate desk channel, not through the message itself. The independent check mattered more than the familiar phrase.
 
 Shadow, leaning against the door, nodded once. "The green folder wins."
 

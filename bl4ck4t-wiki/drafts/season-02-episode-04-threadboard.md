@@ -43,7 +43,7 @@ Pixel blinked at him. "That name needs a smaller hat."
 
 Jinx pinned the first red thread in place. "Threadboard." Byte considered it. "Acceptable."
 
-The Threadboard began with four columns: time, place, record, and note. Byte added a fifth column for confidence because Cipher insisted that all cards should admit how sure they were. Grimalkin added a side rail for alternate explanations. Shadow asked for a physical-observation tray. Whiskers added a top card with one sentence in block letters.
+The Threadboard began with four columns: time, place, record, and note. Byte added a fifth column for confidence because Cipher insisted that all cards should admit how sure they were. He also gave the board an append-only change trail, so every moved card kept a small audit note about who changed it and when. Grimalkin added a side rail for alternate explanations. Shadow asked for a physical-observation tray. Whiskers added a top card with one sentence in block letters.
 
 `DO NOT MAKE THE RECORD SAY MORE THAN IT SAYS.`
 

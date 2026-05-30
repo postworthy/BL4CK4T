@@ -27,6 +27,10 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: record source, consent, notice, and rollback for important repairs.
 - Season thread: maintenance is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds affected asset, patch version, notification record, verification result, closeout mark, and asset/version/verify controls.
+
 ## Continuity Checks
 
 - Character consistency: Byte rejects shortcut; Jinx turns missing records into evidence.

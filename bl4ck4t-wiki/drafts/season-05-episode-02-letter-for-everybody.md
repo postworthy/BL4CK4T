@@ -31,6 +31,10 @@ The Glitter Letter appears in multiple trays and even reaches Pixel under his ow
 - Defensive habit: Verify strange messages from known people.
 - Season thread: The letter begins spreading through trusted relationships.
 
+## Technical Texture Remediation
+
+- Public copy now distinguishes sender display name from delivery context and clarifies that inconsistency is evidence, not proof of intent.
+
 ## Continuity Checks
 
 - Character consistency: Pixel is curious but listens; Jinx refuses blame without evidence.
@@ -38,4 +42,3 @@ The Glitter Letter appears in multiple trays and even reaches Pixel under his ow
 - Lesson accuracy: Trust is treated as context, not certainty.
 - Safety review: No operational detail.
 - TROPES.md validation: passed after public promotion.
-

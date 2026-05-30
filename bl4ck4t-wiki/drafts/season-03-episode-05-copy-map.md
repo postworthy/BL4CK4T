@@ -31,6 +31,10 @@ Final public copy promoted to `content/blogs/season-03-episode-05-copy-map.md`.
 
 Jinx and Cipher rebuild a dramatic map into confirmed rooms, likely paths, ruled-out paths, and unknowns. The team earns enough structure for coordinated response.
 
+## Technical Texture Remediation
+
+- Public copy now adds timestamps, copy counts, and room-state checks to the Copy Map confirmation criteria.
+
 ## Teaching Tie-In
 
 - Key concept: evidence preservation helps responders act without guessing.

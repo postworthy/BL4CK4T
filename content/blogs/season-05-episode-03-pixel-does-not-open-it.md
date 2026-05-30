@@ -20,6 +20,8 @@ The Quarantine Tray made that difficult. It had a clear lid, three review lamps,
 
 "This tray is insulting," Pixel said, and Jinx answered, "This tray knows you."
 
+The tray was not just a box. It was an isolated review path. It could read the sender mark, recipient list, arrival time, and attachment label without sending the message through ordinary delivery ribbons.
+
 ### The Drop
 
 BL4CK4T's message appeared on the tray glass.
@@ -45,6 +47,7 @@ Cipher labeled the cards: open, copy, confuse. Pixel watched the moths settle an
 Pixel wrote the review steps himself:
 
 - Hold the message.
+- Record sender, recipient, time, and attachment label.
 - Record who received it.
 - Check whether it was expected.
 - Ask a caretaker.

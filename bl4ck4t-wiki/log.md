@@ -2,6 +2,259 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-29] maintenance | Remediate Season 7 technical texture
+
+Applied the Season 7 technical texture audit to the public Season 7 posts and draft records. The changes preserve The Patch Bell War while adding safe technical detail around patch-state records, affected cabinet families, asset inventory, test groups, change windows, exposed public endpoints, restart loops, support queues, verified repair integrity, patch-state shelves, unauthorized repair spread, repair-chatter traffic, monitoring windows, change ownership, consent fields, and durable Patch Bell policy controls.
+
+Touched areas:
+
+- `content/blogs/season-07-episode-01-red-mark.md`
+- `content/blogs/season-07-episode-02-signs-still-worked.md`
+- `content/blogs/season-07-episode-03-red-door-fever.md`
+- `content/blogs/season-07-episode-04-restart-weather.md`
+- `content/blogs/season-07-episode-05-repair-lane.md`
+- `content/blogs/season-07-episode-06-helpful-ghost.md`
+- `content/blogs/season-07-episode-07-bounded-evidence.md`
+- `content/blogs/season-07-episode-08-consent-ledger.md`
+- `content/blogs/season-07-episode-09-patch-bell.md`
+- [drafts/season-07-episode-01-red-mark.md](drafts/season-07-episode-01-red-mark.md)
+- [drafts/season-07-episode-02-signs-still-worked.md](drafts/season-07-episode-02-signs-still-worked.md)
+- [drafts/season-07-episode-03-red-door-fever.md](drafts/season-07-episode-03-red-door-fever.md)
+- [drafts/season-07-episode-04-restart-weather.md](drafts/season-07-episode-04-restart-weather.md)
+- [drafts/season-07-episode-05-repair-lane.md](drafts/season-07-episode-05-repair-lane.md)
+- [drafts/season-07-episode-06-helpful-ghost.md](drafts/season-07-episode-06-helpful-ghost.md)
+- [drafts/season-07-episode-07-bounded-evidence.md](drafts/season-07-episode-07-bounded-evidence.md)
+- [drafts/season-07-episode-08-consent-ledger.md](drafts/season-07-episode-08-consent-ledger.md)
+- [drafts/season-07-episode-09-patch-bell.md](drafts/season-07-episode-09-patch-bell.md)
+- [reports/season-07-technical-texture-audit.md](reports/season-07-technical-texture-audit.md)
+
+## [2026-05-29] maintenance | Audit Season 7 technical texture
+
+Audited the released Season 7 public posts against the Technical Texture Standard and the MSBlaster/Welchia early-2000s worm-era source chain. The audit finds the season historically aligned and narratively coherent, with recommended expansion around patch-state records, asset inventory, exposed services, affected versions, restart loops, verified repair integrity, unauthorized repair spread, traffic burden, emergency-change controls, consent fields, and durable patch-management policy.
+
+Touched areas:
+
+- [reports/season-07-technical-texture-audit.md](reports/season-07-technical-texture-audit.md)
+- [index.md](index.md)
+
+## [2026-05-29] maintenance | Remediate Season 6 technical texture
+
+Applied the Season 6 technical texture audit to the public Season 6 posts and draft records. The changes preserve The Day The City Would Not Answer while adding safe technical detail around service endpoints, request/response gaps, queue depth, route paths, source-path filters, exception queues, false positives, status-update fields, attribution evidence, rate limits, review thresholds, traffic baselines, and resilience after-action practice.
+
+Touched areas:
+
+- `content/blogs/season-06-episode-01-spinning-board.md`
+- `content/blogs/season-06-episode-02-nothing-missing.md`
+- `content/blogs/season-06-episode-03-queue-district.md`
+- `content/blogs/season-06-episode-04-service-map.md`
+- `content/blogs/season-06-episode-05-we-do-not-know-yet.md`
+- `content/blogs/season-06-episode-06-outside-gate.md`
+- `content/blogs/season-06-episode-07-flood-prince.md`
+- `content/blogs/season-06-episode-08-priority-lanes.md`
+- `content/blogs/season-06-episode-09-city-answers.md`
+- [drafts/season-06-episode-01-spinning-board.md](drafts/season-06-episode-01-spinning-board.md)
+- [drafts/season-06-episode-02-nothing-missing.md](drafts/season-06-episode-02-nothing-missing.md)
+- [drafts/season-06-episode-03-queue-district.md](drafts/season-06-episode-03-queue-district.md)
+- [drafts/season-06-episode-04-service-map.md](drafts/season-06-episode-04-service-map.md)
+- [drafts/season-06-episode-05-we-do-not-know-yet.md](drafts/season-06-episode-05-we-do-not-know-yet.md)
+- [drafts/season-06-episode-06-outside-gate.md](drafts/season-06-episode-06-outside-gate.md)
+- [drafts/season-06-episode-07-flood-prince.md](drafts/season-06-episode-07-flood-prince.md)
+- [drafts/season-06-episode-08-priority-lanes.md](drafts/season-06-episode-08-priority-lanes.md)
+- [drafts/season-06-episode-09-city-answers.md](drafts/season-06-episode-09-city-answers.md)
+- [reports/season-06-technical-texture-audit.md](reports/season-06-technical-texture-audit.md)
+
+## [2026-05-29] maintenance | Audit Season 6 technical texture
+
+Audited the released Season 6 public posts against the Technical Texture Standard and the Estonia 2007 cyberattacks source chain. The audit finds the season structurally strong and historically aligned, with recommended expansion around request pressure, response-time thresholds, queue depth, route paths, source-path filtering, false positives, status-update fields, attribution evidence, continuity-plan rules, and resilience aftermath.
+
+Touched areas:
+
+- [reports/season-06-technical-texture-audit.md](reports/season-06-technical-texture-audit.md)
+- [index.md](index.md)
+
+## [2026-05-29] maintenance | Remediate Season 5 technical texture
+
+Applied the Season 5 technical texture audit to the public Season 5 posts and draft records. The changes preserve The Love Letter Plague while adding safe technical detail around message intake, sender display context, isolated review, attachment and file appearance, address-book spread, outbound queues, mail filters, incident advisories, attribution confidence, recovery review, and post-incident rule updates.
+
+Touched areas:
+
+- `content/blogs/season-05-episode-01-pink-envelope.md`
+- `content/blogs/season-05-episode-02-letter-for-everybody.md`
+- `content/blogs/season-05-episode-03-pixel-does-not-open-it.md`
+- `content/blogs/season-05-episode-04-hidden-ending.md`
+- `content/blogs/season-05-episode-05-address-book-bloom.md`
+- `content/blogs/season-05-episode-06-quarantine-tray.md`
+- `content/blogs/season-05-episode-07-warning-that-worked.md`
+- `content/blogs/season-05-episode-08-phishmongers-ribbon.md`
+- `content/blogs/season-05-episode-09-love-letter-plague.md`
+- [drafts/season-05-episode-01-pink-envelope.md](drafts/season-05-episode-01-pink-envelope.md)
+- [drafts/season-05-episode-02-letter-for-everybody.md](drafts/season-05-episode-02-letter-for-everybody.md)
+- [drafts/season-05-episode-03-pixel-does-not-open-it.md](drafts/season-05-episode-03-pixel-does-not-open-it.md)
+- [drafts/season-05-episode-04-hidden-ending.md](drafts/season-05-episode-04-hidden-ending.md)
+- [drafts/season-05-episode-05-address-book-bloom.md](drafts/season-05-episode-05-address-book-bloom.md)
+- [drafts/season-05-episode-06-quarantine-tray.md](drafts/season-05-episode-06-quarantine-tray.md)
+- [drafts/season-05-episode-07-warning-that-worked.md](drafts/season-05-episode-07-warning-that-worked.md)
+- [drafts/season-05-episode-08-phishmongers-ribbon.md](drafts/season-05-episode-08-phishmongers-ribbon.md)
+- [drafts/season-05-episode-09-love-letter-plague.md](drafts/season-05-episode-09-love-letter-plague.md)
+- [reports/season-05-technical-texture-audit.md](reports/season-05-technical-texture-audit.md)
+
+## [2026-05-29] maintenance | Audit Season 5 technical texture
+
+Audited the released Season 5 public posts against the Technical Texture Standard and the ILOVEYOU / Love Bug source chain. The audit finds the season historically aligned but technically softened, with recommended expansion around message metadata, sender display context, attachment and file appearance, address-book spread, outbound queues, mail filters, incident advisories, attribution confidence, and recovery review.
+
+Touched areas:
+
+- [reports/season-05-technical-texture-audit.md](reports/season-05-technical-texture-audit.md)
+- [index.md](index.md)
+
+## [2026-05-29] maintenance | Remediate Season 4 technical texture
+
+Applied the Season 4 technical texture audit to the public Season 4 posts and draft records. The changes preserve The Invisible Chase while adding safe technical detail around call records, Notice Wall source/timestamp fields, route logs, social-engineering request context, independent verification, trace contamination, corroboration, identity claims, and proportional response process.
+
+Touched areas:
+
+- `content/blogs/season-04-episode-01-monster-word.md`
+- `content/blogs/season-04-episode-02-notice-wall.md`
+- `content/blogs/season-04-episode-03-shadows-trace.md`
+- `content/blogs/season-04-episode-04-borrowed-voice.md`
+- `content/blogs/season-04-episode-05-mirrorline-arcade.md`
+- `content/blogs/season-04-episode-06-chase-map.md`
+- `content/blogs/season-04-episode-07-wrong-poster.md`
+- `content/blogs/season-04-episode-08-understanding-first.md`
+- `content/blogs/season-04-episode-09-invisible-chase.md`
+- [drafts/season-04-episode-01-monster-word.md](drafts/season-04-episode-01-monster-word.md)
+- [drafts/season-04-episode-02-notice-wall.md](drafts/season-04-episode-02-notice-wall.md)
+- [drafts/season-04-episode-03-shadows-trace.md](drafts/season-04-episode-03-shadows-trace.md)
+- [drafts/season-04-episode-04-borrowed-voice.md](drafts/season-04-episode-04-borrowed-voice.md)
+- [drafts/season-04-episode-05-mirrorline-arcade.md](drafts/season-04-episode-05-mirrorline-arcade.md)
+- [drafts/season-04-episode-06-chase-map.md](drafts/season-04-episode-06-chase-map.md)
+- [drafts/season-04-episode-07-wrong-poster.md](drafts/season-04-episode-07-wrong-poster.md)
+- [drafts/season-04-episode-08-understanding-first.md](drafts/season-04-episode-08-understanding-first.md)
+- [drafts/season-04-episode-09-invisible-chase.md](drafts/season-04-episode-09-invisible-chase.md)
+- [reports/season-04-technical-texture-audit.md](reports/season-04-technical-texture-audit.md)
+
+## [2026-05-29] maintenance | Audit Season 4 technical texture
+
+Audited the released Season 4 public posts against the Technical Texture Standard and the Mitnick/Shimomura hacker-manhunt source chain. The audit finds the season historically aligned but compressed, with recommended expansion around call records, route logs, source/timestamp fields, social-engineering context checks, trace contamination, corroboration, identity claims, and proportional response process.
+
+Touched areas:
+
+- [reports/season-04-technical-texture-audit.md](reports/season-04-technical-texture-audit.md)
+- [index.md](index.md)
+
+## [2026-05-29] maintenance | Remediate Season 3 technical texture
+
+Applied the Season 3 technical texture audit to the public Season 3 posts and draft records. The changes preserve the Copycat Sprite incident while adding safe technical detail around unexpected copy events, self-copying toy processes, propagation, resource pressure, copy counts, timestamps, status boards, containment criteria, engineering records, known-good-state recovery, and standing incident-response infrastructure.
+
+Touched areas:
+
+- `content/blogs/season-03-episode-01-ninth-marker.md`
+- `content/blogs/season-03-episode-02-sandbox-door.md`
+- `content/blogs/season-03-episode-03-more-than-once.md`
+- `content/blogs/season-03-episode-04-slow-rooms.md`
+- `content/blogs/season-03-episode-05-copy-map.md`
+- `content/blogs/season-03-episode-06-grimalkins-bell.md`
+- `content/blogs/season-03-episode-07-builders-note.md`
+- `content/blogs/season-03-episode-08-clearing-rooms.md`
+- `content/blogs/season-03-episode-09-first-bell.md`
+- [drafts/season-03-episode-01-ninth-marker.md](drafts/season-03-episode-01-ninth-marker.md)
+- [drafts/season-03-episode-02-sandbox-door.md](drafts/season-03-episode-02-sandbox-door.md)
+- [drafts/season-03-episode-03-more-than-once.md](drafts/season-03-episode-03-more-than-once.md)
+- [drafts/season-03-episode-04-slow-rooms.md](drafts/season-03-episode-04-slow-rooms.md)
+- [drafts/season-03-episode-05-copy-map.md](drafts/season-03-episode-05-copy-map.md)
+- [drafts/season-03-episode-06-grimalkins-bell.md](drafts/season-03-episode-06-grimalkins-bell.md)
+- [drafts/season-03-episode-07-builders-note.md](drafts/season-03-episode-07-builders-note.md)
+- [drafts/season-03-episode-08-clearing-rooms.md](drafts/season-03-episode-08-clearing-rooms.md)
+- [drafts/season-03-episode-09-first-bell.md](drafts/season-03-episode-09-first-bell.md)
+- [reports/season-03-technical-texture-audit.md](reports/season-03-technical-texture-audit.md)
+
+## [2026-05-29] maintenance | Audit Season 3 technical texture
+
+Audited the released Season 3 public posts against the Technical Texture Standard and the Morris Worm source chain. The audit finds the season structurally aligned but compressed, with recommended moderate expansion around self-copying process language, copy counts, resource pressure, incident-response mechanics, verified recovery, and durable response infrastructure.
+
+Touched areas:
+
+- [reports/season-03-technical-texture-audit.md](reports/season-03-technical-texture-audit.md)
+- [index.md](index.md)
+
+## [2026-05-29] maintenance | Remediate Season 2 technical texture
+
+Applied the Season 2 technical texture audit to the public Season 2 posts and draft mirrors. The changes preserve the existing detective story while adding safe precision around session-state clues, append-only audit trails, old trust paths as network paths, caretaker-preserved relay records, and small-anomaly incident-response workflow.
+
+Touched areas:
+
+- `content/blogs/season-02-episode-03-borrowed-door.md`
+- `content/blogs/season-02-episode-04-threadboard.md`
+- `content/blogs/season-02-episode-06-old-trust-paths.md`
+- `content/blogs/season-02-episode-07-far-relay.md`
+- `content/blogs/season-02-episode-09-records-changed.md`
+- [drafts/season-02-episode-03-borrowed-door.md](drafts/season-02-episode-03-borrowed-door.md)
+- [drafts/season-02-episode-04-threadboard.md](drafts/season-02-episode-04-threadboard.md)
+- [drafts/season-02-episode-06-old-trust-paths.md](drafts/season-02-episode-06-old-trust-paths.md)
+- [drafts/season-02-episode-07-far-relay.md](drafts/season-02-episode-07-far-relay.md)
+- [drafts/season-02-episode-09-records-changed.md](drafts/season-02-episode-09-records-changed.md)
+- [reports/season-02-technical-texture-audit.md](reports/season-02-technical-texture-audit.md)
+
+## [2026-05-29] maintenance | Audit Season 2 technical texture
+
+Audited the released Season 2 public posts against the Technical Texture Standard and the Cuckoo's Egg source chain. The audit finds Season 2 strong overall, with logs, public summaries, timestamps, endpoints, evidence preservation, ownership, old trust paths, and defender-side case building already visible in the story body. Recommended follow-up is precision tightening rather than broad rewriting.
+
+Touched areas:
+
+- [reports/season-02-technical-texture-audit.md](reports/season-02-technical-texture-audit.md)
+- [index.md](index.md)
+
+## [2026-05-29] canon | Refresh Season 1 wiki after technical texture remediation
+
+Updated Season 1 durable canon after public-post remediation. The wiki now records the Echo Grid as an old civic communications network, the Hushline as separated message/control architecture, the Tonebox as a non-operational trust-boundary demo, and the Crunch Charm/Little Blue Pawprint as myth and rumor artifacts that lack authorization context. Added the reusable Message-Command Separation concept page for future callbacks and teaching notes.
+
+Touched areas:
+
+- [artifacts/echo-grid.md](artifacts/echo-grid.md)
+- [artifacts/hushline.md](artifacts/hushline.md)
+- [artifacts/tonebox.md](artifacts/tonebox.md)
+- [artifacts/crunch-charm.md](artifacts/crunch-charm.md)
+- [artifacts/little-blue-pawprint.md](artifacts/little-blue-pawprint.md)
+- [concepts/message-command-separation.md](concepts/message-command-separation.md)
+- [seasons/season-01-the-singing-network.md](seasons/season-01-the-singing-network.md)
+- [canon/continuity-timeline.md](canon/continuity-timeline.md)
+- [index.md](index.md)
+
+## [2026-05-29] maintenance | Remediate Season 1 technical texture
+
+Applied the Season 1 technical texture audit to the public Season 1 posts and draft mirrors. The revisions preserve the existing story while adding safe cyber terminology and concrete system behavior around communications networks, routing commands, service messages, authorization, notice history, timestamps, propagation checks, and separated control paths.
+
+Touched areas:
+
+- `content/blogs/season-01-episode-01-sound-beneath-signal-row.md`
+- `content/blogs/season-01-episode-02-listeners-marks.md`
+- `content/blogs/season-01-episode-03-little-blue-pawprint.md`
+- `content/blogs/season-01-episode-04-crunch-charm.md`
+- `content/blogs/season-01-episode-05-row-rebels.md`
+- `content/blogs/season-01-episode-06-tonebox-demo.md`
+- `content/blogs/season-01-episode-07-false-closure.md`
+- `content/blogs/season-01-episode-08-hushline.md`
+- `content/blogs/season-01-episode-09-city-still-sings.md`
+- [drafts/season-01-episode-01-sound-beneath-signal-row.md](drafts/season-01-episode-01-sound-beneath-signal-row.md)
+- [drafts/season-01-episode-02-listeners-marks.md](drafts/season-01-episode-02-listeners-marks.md)
+- [drafts/season-01-episode-03-little-blue-pawprint.md](drafts/season-01-episode-03-little-blue-pawprint.md)
+- [drafts/season-01-episode-04-crunch-charm.md](drafts/season-01-episode-04-crunch-charm.md)
+- [drafts/season-01-episode-05-row-rebels.md](drafts/season-01-episode-05-row-rebels.md)
+- [drafts/season-01-episode-06-tonebox-demo.md](drafts/season-01-episode-06-tonebox-demo.md)
+- [drafts/season-01-episode-07-false-closure.md](drafts/season-01-episode-07-false-closure.md)
+- [drafts/season-01-episode-08-hushline.md](drafts/season-01-episode-08-hushline.md)
+- [drafts/season-01-episode-09-city-still-sings.md](drafts/season-01-episode-09-city-still-sings.md)
+- [reports/season-01-technical-texture-audit.md](reports/season-01-technical-texture-audit.md)
+
+## [2026-05-29] maintenance | Audit Season 1 technical texture
+
+Audited the released Season 1 public posts against the Technical Texture Standard and the phone-phreaking source chain. The audit finds that Season 1 is historically sound at the season level, with strongest technical texture in Episodes 1, 6, 8, and 9, but recommends targeted revisions to Episodes 2, 3, 5, and several supporting beats so the cyber mechanism is visible inside the story body before the Teaching Tie-In.
+
+Touched areas:
+
+- [reports/season-01-technical-texture-audit.md](reports/season-01-technical-texture-audit.md)
+- [index.md](index.md)
+
 ## [2026-05-27] maintenance | Lint wiki consistency and character visual language
 
 Ran a wiki consistency pass after Season 6 publication. Fixed stale Season 6 status language, updated the Production Bibles README, added the missing Season 6 published entity inventory, created a maintenance lint report, and expanded character profiles with render-ready visual description sections grounded in existing blog and wiki lore.
@@ -803,5 +1056,22 @@ Touched areas:
 - [../content/seasons/season-07-the-patch-bell-war.md](../content/seasons/season-07-the-patch-bell-war.md)
 - [canon/continuity-timeline.md](canon/continuity-timeline.md)
 - [canon/open-threads.md](canon/open-threads.md)
+- [index.md](index.md)
+- [log.md](log.md)
+
+## [2026-05-29] maintenance | Add technical texture standard
+
+Added a technical texture standard to prevent BL4CK4T-world transformations from drifting too far away from their cybersecurity anchors. The new guidance requires public season episodes to preserve safe cyber vocabulary, system cause/effect, defender-side actions, and recognizable historical-anchor fidelity inside the story body before the Teaching Tie-In. Updated the article style guide, historical import workflow, story draft checklist, season release quality gate, mission template, article draft template, and root agent instructions to apply this standard before future season rewrites and releases.
+
+Touched areas:
+
+- [style-guides/technical-texture-standard.md](style-guides/technical-texture-standard.md)
+- [style-guides/article-style-guide.md](style-guides/article-style-guide.md)
+- [style-guides/historical-documentary-import-workflow.md](style-guides/historical-documentary-import-workflow.md)
+- [style-guides/story-draft-checklist.md](style-guides/story-draft-checklist.md)
+- [style-guides/season-release-quality-gate.md](style-guides/season-release-quality-gate.md)
+- [templates/article-draft.md](templates/article-draft.md)
+- [templates/mission.md](templates/mission.md)
+- [../AGENTS.md](../AGENTS.md)
 - [index.md](index.md)
 - [log.md](log.md)

@@ -64,6 +64,8 @@ Then she made four marks for each service:
 
 `What happens if it stops?`
 
+Cipher added four dependency tags beneath the questions: `shared answer lamp`, `local shelf`, `confirmation service`, and `public window`. A service could depend on more than one, which explained why one slow lamp could make unrelated desks feel connected.
+
 The questions changed the room.
 
 The public notice window had looked less urgent than the clinic board until Shadow pointed out that families outside the city were using it to check whether school events were still open. The lunch counter had looked simple until Grimalkin showed that meal tickets affected attendance records. The Message Office receipts had looked like a mail problem until Cipher connected them to every desk that expected confirmations.
@@ -81,6 +83,8 @@ Within five minutes, everything had a red star.
 "Many do," Whiskers said. "That does not mean they all need the same response first."
 
 Jinx replaced the stars with lanes: urgent, essential, delayed, pausable, unknown. The labels were less exciting. They worked better.
+
+Each lane card now carried a state, impact, dependency, and workaround. The map was no longer just where things were. It was how the city would keep answering if one part slowed.
 
 Pixel added a small circle beside the clinic waiting room. "For people who cannot wait long."
 

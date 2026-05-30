@@ -44,6 +44,8 @@ Cipher pinned each pattern separately.
 
 "This shows style," she said. "It does not explain every letter."
 
+Jinx wrote five fields under the ribbon: source, timing, lure traits, recipient overlap, and confidence. The confidence mark stayed at `likely`, not `proved`.
+
 Byte pointed to the bloom map. "The spread did most of the damage after the lure started."
 
 "Then we stop both," Whiskers said.
@@ -81,4 +83,3 @@ Cipher nodded. "Villain later. Harm now."
 - Key distinction: a villain mark can guide a case without replacing evidence.
 - Defensive habit: focus response on stopping harm before chasing spectacle.
 - Season thread: the lure-maker pattern is visible, but the city still has to finish containment.
-

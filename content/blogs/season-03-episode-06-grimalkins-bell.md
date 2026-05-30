@@ -38,7 +38,9 @@ Pixel blinked. "I get the weirdness lane?"
 
 ### The Lesson Begins
 
-Grimalkin set update times. Every ten minutes, each lane reported one of three words: clear, changed, blocked.
+Grimalkin set update times and drew an intake board on the crate beside the bell. New room reports went on the left. Current status went in the middle. Cleared rooms stayed off the right side until counters, lights, and class tools agreed.
+
+Every ten minutes, each lane reported one of three words: clear, changed, blocked.
 
 The first round was messy.
 
@@ -58,7 +60,9 @@ Whiskers sent waiting students to another lab with a plain explanation.
 
 No monster story. No blame story. Enough truth to help.
 
-By the fourth update, the map stopped growing. Grimalkin wrote `contained` on the board, then circled it only once.
+By the fourth update, the map stopped growing. Counts stayed stable across two rounds. No new room reports arrived. No clear queue changed again.
+
+Only then did Grimalkin write `contained` on the board, then circled it once.
 
 ## Teaching Tie-In
 

@@ -31,6 +31,10 @@ Whiskers and Grimalkin turn Message Office chaos into four response lanes: hold,
 - Defensive habit: Separate intake, warning, containment, and recovery work.
 - Season thread: The response becomes city-wide enough to slow the plague.
 
+## Technical Texture Remediation
+
+- Public copy now maps response lanes to mail filter, intake queue, quarantine review, warning desk, recovery queue, and status board.
+
 ## Continuity Checks
 
 - Character consistency: Whiskers coordinates; Grimalkin turns plans into floor logic.
@@ -38,4 +42,3 @@ Whiskers and Grimalkin turn Message Office chaos into four response lanes: hold,
 - Lesson accuracy: Response roles are clear and non-operational.
 - Safety review: No operational detail.
 - TROPES.md validation: passed after public promotion.
-

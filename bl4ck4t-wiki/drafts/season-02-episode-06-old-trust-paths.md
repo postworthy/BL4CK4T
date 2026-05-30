@@ -42,6 +42,8 @@ The Civic Learning Grid had both kinds. The new map showed the Ledger Lab, libra
 
 The old map showed three extra relay paths in pale gray.
 
+Grimalkin tapped one gray line. "Until a caretaker verifies it is disconnected, restricted, or inactive, an old trust path is still a network path."
+
 Those gray lines crossed every place the Threadboard had begun to glow.
 
 "There," Grimalkin said.

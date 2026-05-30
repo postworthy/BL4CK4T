@@ -31,6 +31,10 @@ Final public copy promoted to `content/blogs/season-03-episode-03-more-than-once
 
 The Copycat Sprite appears on a retired Old Stack terminal that Byte never included in the sandbox. Jinx separates known facts, fears, and unknowns while the team names the first boundary failure.
 
+## Technical Texture Remediation
+
+- Public copy now defines propagation as the process finding a reachable path outside the named sandbox.
+
 ## Teaching Tie-In
 
 - Key concept: propagation means a process reaches places beyond the expected scope.

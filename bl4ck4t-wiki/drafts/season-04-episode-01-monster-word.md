@@ -34,3 +34,6 @@ A label is not evidence.
 - Safety review: No operational detail.
 - TROPES.md validation: passed after public promotion.
 
+## Technical Texture Remediation
+
+- Public copy now clarifies that the First Bell call record confirms a time, line, and message, but not caller identity.

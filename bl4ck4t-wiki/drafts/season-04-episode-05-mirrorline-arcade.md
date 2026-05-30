@@ -34,3 +34,6 @@ Crowds can damage evidence even when people mean well.
 - Safety review: No pursuit tactics.
 - TROPES.md validation: passed after public promotion.
 
+## Technical Texture Remediation
+
+- Public copy now describes trace contamination through overlapping dust marks, disturbed smudges, and unreliable witness timing.

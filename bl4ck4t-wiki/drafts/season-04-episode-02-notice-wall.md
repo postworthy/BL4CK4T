@@ -34,3 +34,6 @@ Repeated claims need sources and classification.
 - Safety review: No real media case copied into fiction.
 - TROPES.md validation: passed after public promotion.
 
+## Technical Texture Remediation
+
+- Public copy now adds `SOURCE` and `TIME` fields to the Notice Wall claim table.

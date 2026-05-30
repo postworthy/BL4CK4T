@@ -31,6 +31,10 @@ Final public copy promoted to `content/blogs/season-03-episode-09-first-bell.md`
 
 The Copycat Sprite incident closes with the First Bell Desk, changed lab practice, and Byte's builder checklist. A strange phone call opens the Season 4 chase thread.
 
+## Technical Texture Remediation
+
+- Public copy now defines the First Bell Desk as standing incident-response infrastructure for lab tests, copied processes, and strange system behavior.
+
 ## Teaching Tie-In
 
 - Key concept: a strong response leaves better practice behind.

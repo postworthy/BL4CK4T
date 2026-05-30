@@ -20,6 +20,8 @@ Jinx considered that a compliment.
 
 Clean maps lied when the case was messy. This one had bent pins, crossed strings, taped labels, and a whole corner reserved for things the team wanted to know but did not.
 
+Every card needed four small fields before it could move to `CONFIRMED`: source, timestamp, confidence, and corroboration. Jinx wrote the fields so neatly that Pixel called them intimidating.
+
 Shadow placed the Mirrorline booth photo under `CONFIRMED`.
 
 Jinx moved it three inches left.

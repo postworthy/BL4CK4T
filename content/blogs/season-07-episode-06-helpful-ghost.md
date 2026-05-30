@@ -28,6 +28,8 @@ Shadow checked the back panel. "No caretaker tag."
 
 They found six more boards with silver pawprints. Each one had stopped showing red doors. Each one had skipped the Repair Lane. Each one left the Consent Ledger blank.
 
+The marks followed the same reachable cabinet family faster than any caretaker route. The traffic lamps around those boards flickered from the extra repair chatter even after the signs looked fixed.
+
 Citizens noticed the fixed signs first.
 
 "If it works, why are you worried?" a shopkeeper asked.
@@ -51,6 +53,8 @@ Jinx added `ROLLBACK UNKNOWN`.
 Cipher added `SOURCE UNKNOWN`.
 
 Grimalkin added `NEW TRUST PROBLEM`.
+
+Shadow added `PATCH STATE UNKNOWN` and `REVERIFY ALL`.
 
 The model no longer looked clever. It looked crowded.
 

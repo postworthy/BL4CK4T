@@ -31,6 +31,10 @@ The Glitter Letter spreads through class lists and friend paths. Jinx and Shadow
 - Defensive habit: Warn contacts without shaming affected people.
 - Season thread: The bloom map gives the response team its shape.
 
+## Technical Texture Remediation
+
+- Public copy now adds recipient-list counts, first-arrival timing, outbound-copy counts, queue pressure, and address-book path language.
+
 ## Continuity Checks
 
 - Character consistency: Jinx corrects a wrong map instead of hiding it; Shadow tracks timing.
@@ -38,4 +42,3 @@ The Glitter Letter spreads through class lists and friend paths. Jinx and Shadow
 - Lesson accuracy: Emphasizes spread paths and humane reporting.
 - Safety review: No operational detail.
 - TROPES.md validation: passed after public promotion.
-

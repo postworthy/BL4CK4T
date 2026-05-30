@@ -44,6 +44,8 @@ Byte wrote.
 
 The Builder's Note had four sections.
 
+It was not only an apology. It was an engineering record: something future builders could read before they trusted a clever test.
+
 Expected: three rooms, eight markers, fixed pace.
 
 Actual: extra marker, old terminal, slow rooms, stalled queues.

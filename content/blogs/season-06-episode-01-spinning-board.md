@@ -24,6 +24,8 @@ Mira from Signal Row sat beside a little student with a wrapped wrist. The stude
 
 At the counter, the clerk tapped the side of the board. "It has your name," she said. "It knows you are here. It just will not finish answering."
 
+The clinic board's service light showed each check-in request arriving, then aging past the response-time mark. It was not silent. It was answering too slowly to be useful.
+
 The Service Bell Tower rang once across Cybertropolis. The sound was low, almost polite, which made everyone look up.
 
 Shadow was already watching the room when Whiskers arrived.
@@ -73,6 +75,8 @@ The student with the wrapped wrist was called by name a minute later, by a perso
 Whiskers stood near the door and wrote the first line for the Status Wall.
 
 `Some civic boards are delayed. Records are not known to be missing. Use staffed desks where posted. Next update soon.`
+
+Under it, he added smaller fields: `affected endpoint`, `observed delay`, `current workaround`, and `next check`.
 
 He did not like the word `some`. He liked exact numbers. He liked being able to point at a thing and say, "This is it."
 

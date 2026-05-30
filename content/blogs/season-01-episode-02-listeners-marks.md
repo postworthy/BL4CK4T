@@ -70,6 +70,8 @@ Whiskers traced the pattern with one claw. "So listeners followed the old system
 
 "Or the old system led listeners around," Pixel said.
 
+Cipher added a second layer to the map: a dot for every kiosk stutter, relay blink, and train-announcement repeat they had seen since the first tone. "The mark is not proof by itself," she said. "It matters when it lines up with a system response."
+
 Jinx took the notebook and pointed to a mark near the edge of the map. "This one bothers me."
 
 The mark sat beside the alley cabinet, the same cabinet with the slow pulse under layers of grime.

@@ -31,6 +31,10 @@ Final public copy promoted to `content/blogs/season-03-episode-06-grimalkins-bel
 
 Grimalkin turns a hallway full of helpers into response lanes, update times, and a temporary bell desk. The map stops growing once the response has rhythm.
 
+## Technical Texture Remediation
+
+- Public copy now adds an intake/status board and makes containment depend on stable counts, no new reports, and no status regressions.
+
 ## Teaching Tie-In
 
 - Key concept: incident response needs roles, timing, and clear handoffs.

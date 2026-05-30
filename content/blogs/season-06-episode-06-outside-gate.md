@@ -30,6 +30,8 @@ Inside Cybertropolis, the same limit kept the school office reachable for local 
 
 Both things were true. That was the problem.
 
+The gate filter had narrowed requests by source path and service priority. It reduced pressure on local desks, but it also caught real outside families in the same net.
+
 ### At The Gate
 
 Shadow found Toma's request in a stack beside the Queue District's outside gate.
@@ -74,6 +76,8 @@ The clerk read the new card and pointed to Toma's request. "That would go there.
 
 They built a small priority slot for outside civic needs: school notices, medical appointment confirmations, family emergency boards, and public safety updates.
 
+Grimalkin named it the exception queue. Every accepted request needed a reason, a timestamp, and a review mark so the temporary filter did not become permanent habit.
+
 Byte wanted to automate the slot immediately.
 
 Grimalkin stopped him. "First we watch what it does."
@@ -99,6 +103,8 @@ A citizen near the front crossed her arms. "So outsiders are the problem?"
 Shadow stepped forward before anyone else answered.
 
 "No," he said. "The pressure is coming through outside paths. That does not make every outside person part of it."
+
+He tapped Toma's card. "This is a false positive: a real request caught by a broad limit."
 
 The crowd stayed tense, but the sentence held.
 

@@ -20,6 +20,8 @@ Pixel expected the room to cheer. The room did paperwork.
 
 Restore slips covered the table. Each one named a room, a counter, a class tool, a caretaker, and a final check.
 
+Ms. Vale wrote `known good state` across the top of the stack. "This is what each room looked like before the test touched it. We recover to this, not to whatever looks quiet first."
+
 Byte picked up the first slip.
 
 "Room three."
@@ -41,6 +43,8 @@ The team moved room by room.
 Room three cleared after Shadow found a stuck fan relay.
 
 Room four cleared after Cipher matched the lesson printer count to the map.
+
+Each slip needed the same agreement: counter normal, class tool working, room light cool, physical check complete. If any one line failed, the room stayed in recovery.
 
 Room five did not clear.
 

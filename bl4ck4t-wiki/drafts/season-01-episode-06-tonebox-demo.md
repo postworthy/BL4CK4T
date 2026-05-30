@@ -92,7 +92,7 @@ Jinx smiled without pleasure. "That pause has a shape."
 
 They rebuilt the demo with fewer moving parts.
 
-Cipher removed labels that looked too much like instructions. Byte replaced the brass dial with a sealed slider that moved only through three positions. Pixel argued for keeping the tiny rooftop beacon because it made the reveal better. Whiskers let him keep it after Cipher added a note: `MODEL ONLY`.
+Cipher removed labels that looked too much like instructions. She stripped out real cabinet numbers, route names, and anything that made the model look like a controller for Signal Row. Byte replaced the brass dial with a sealed slider that moved only through three positions. Pixel argued for keeping the tiny rooftop beacon because it made the reveal better. Whiskers let him keep it after Cipher added a note: `MODEL ONLY`.
 
 The second demo was cleaner.
 
@@ -106,7 +106,7 @@ Pixel clapped before he remembered he was part of the team.
 
 Jinx watched the recording screen. "Or make them want one."
 
-They posted a short clip to the Row Rebels board after cutting out the build table, the wiring, and anything that made the Tonebox look like a recipe. The clip showed only the concept: one path mixed together, then two paths separated.
+They posted a short clip to the Row Rebels board after cutting out the build table, the wiring, and anything that made the Tonebox look like a recipe. The clip showed only the concept: one path mixed together, then two paths separated. It was a trust-boundary demo, not a working city controller.
 
 For five minutes, the replies were thoughtful.
 

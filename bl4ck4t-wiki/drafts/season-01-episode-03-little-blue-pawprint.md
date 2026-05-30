@@ -97,6 +97,10 @@ Cipher flipped through the rest. "There are no real instructions here. No actual
 
 "Mood moves people," Whiskers said.
 
+Cipher held the page beside her Echo Grid notes. "It copied the sound, but not the system context. It never says which part was a public message and which part was routing behavior."
+
+Jinx looked at the line `IF YOU HEAR IT, ANSWER BACK.` "So readers get the dare without the difference."
+
 Pixel looked toward the market aisle. A group of kids near the sticker stall were already humming three random notes at a public kiosk. The kiosk ignored them. They laughed and tried again.
 
 At another table, a maker was cutting blue pawprints out of reflective vinyl. Near the south tube, someone had chalked `SING IT AWAKE` across the pavement.

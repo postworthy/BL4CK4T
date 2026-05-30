@@ -2,7 +2,7 @@
 type: season
 status: published
 created: 2026-05-26
-updated: 2026-05-27
+updated: 2026-05-29
 season_number: 1
 tags: [season, phone-phreaking, hidden-rules]
 sources:
@@ -11,6 +11,7 @@ sources:
   - ../historical-documentary-treatments/phone-phreaking-blue-box-era.md
   - ../story-arcs/season-01-the-singing-network-arc.md
   - ../production-bibles/season-01-the-singing-network.md
+  - ../reports/season-01-technical-texture-audit.md
 historical_inspiration: [phone-phreaking, blue-box-era]
 historical_account: ../historical-accounts/phone-phreaking-blue-box-era.md
 historical_documentary_treatment: ../historical-documentary-treatments/phone-phreaking-blue-box-era.md
@@ -71,9 +72,12 @@ Phone phreaking, blue boxes, telecom signaling, counterculture curiosity, and th
 
 Cybertropolis has an old tone-based signal network under Signal Row. Curious outsiders learn that songs, whistles, and tones can unlock unintended paths, forcing the team to separate wonder from misuse.
 
+Technical-texture clarification after remediation: the Echo Grid is an old civic communications network where public service messages and routing commands once shared a signal path. The Hushline is the later architectural repair that separates user-facing messages from control/routing paths.
+
 ## Season Theme
 
 - Technical theme: hidden protocols and signaling.
+- Architecture theme: public message paths should not share a control path with routing commands.
 - Character theme: Pixel learns that wonder becomes stronger when it is shaped into craft.
 - Ethical theme: discovering a hidden rule changes what the team owes the city.
 
@@ -81,6 +85,7 @@ Cybertropolis has an old tone-based signal network under Signal Row. Curious out
 
 - Systems have hidden rules.
 - Signals can carry control information.
+- Public service messages and routing commands require different trust boundaries.
 - Curiosity becomes stronger when paired with judgment.
 - Social engineering often lives beside technical tricks.
 
@@ -109,4 +114,5 @@ The finale should close the Echo Grid story first, then reveal a tiny `-0.75` di
 
 - Omit real telecom abuse details.
 - Keep the Echo Grid, Tonebox, Crunch Charm, and Hushline fictional.
+- Preserve safe technical texture in future references: communications network, service message, routing command, authorization, notice history, timestamp, propagation check, separated control path.
 - Let story, character, and consequence carry the ethics without lecturing the reader.

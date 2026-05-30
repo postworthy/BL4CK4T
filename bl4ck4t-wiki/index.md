@@ -25,6 +25,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season Release Quality Gate](style-guides/season-release-quality-gate.md) - Required manual prose-quality and episode-differentiation gate before season publication.
 - [Published Canon Extraction Workflow](style-guides/published-canon-extraction-workflow.md) - Required post-release backfill process from public season posts into the wiki.
 - [Visual Style Guide](style-guides/visual-style-guide.md) - Asset-derived visual canon for BL4CK4T, the Script Kitties, Cybertropolis, season posters, and future art prompts.
+- [Technical Texture Standard](style-guides/technical-texture-standard.md) - Required guidance for keeping safe cyber terminology, system cause/effect, and historical-anchor fidelity inside public stories.
 
 ## Visual Assets
 
@@ -126,6 +127,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Diffie-Hellman Key Exchange](concepts/diffie-hellman-key-exchange.md) - Shared-secret lesson scaffold.
 - [Compound Interest](concepts/compound-interest.md) - Math and financial literacy lesson.
 - [Ethical Hacker Mindset](concepts/ethical-hacker-mindset.md) - Defend-first framing for BL4CK4T lessons.
+- [Message-Command Separation](concepts/message-command-separation.md) - Season 1 concept for separating user-facing messages from routing commands and control paths.
 - [Phishing](concepts/phishing.md) - Social engineering and suspicious-message lesson.
 - [Patching](concepts/patching.md) - Updates, known vulnerabilities, and maintenance lesson.
 - [Ransomware](concepts/ransomware.md) - Data-locking extortion and recovery lesson.
@@ -397,28 +399,35 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [2026-05-26 Wiki Lint Report](reports/2026-05-26-wiki-lint.md) - Structural lint, maturity review, and recommended next attention areas.
 - [Season 6-10 Historical Depth Remediation Plan](reports/season-06-10-historical-depth-remediation-plan.md) - Active plan requiring deeper historical accounts and documentary treatments before rebuilding Seasons 6-10.
 - [Season 6-10 Release Retraction](reports/season-06-10-release-retraction.md) - Quality failure report and corrective action for the removed rushed release.
+- [Season 1 Technical Texture Audit](reports/season-01-technical-texture-audit.md) - Public-story audit for strengthening safe cyber terminology and phone-phreaking anchor visibility.
 - [Season 1 Draft Review](reports/season-01-draft-review.md) - Full private draft review against the Season 1 historical account, documentary treatment, story arc, and production bible.
 - [Season 1 Release Historical Anchor Analysis](reports/season-01-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Season 2 Draft Review](reports/season-02-draft-review.md) - Full private draft review against the Season 2 historical account, documentary treatment, story arc, and production bible.
+- [Season 2 Technical Texture Audit](reports/season-02-technical-texture-audit.md) - Public-story audit for tightening Cuckoo's Egg technical texture around logs, account behavior, endpoints, and evidence workflow.
 - [Series Continuity Audit 2026-05-27](reports/series-continuity-audit-2026-05-27.md) - First cross-season continuity audit covering the pilot, Season 1, and private Season 2 draft set.
 - [Season 2 Release Historical Anchor Analysis](reports/season-02-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Season 3 Draft Review](reports/season-03-draft-review.md) - Full private draft review against the Season 3 historical account, documentary treatment, story arc, and production bible.
 - [Season 3 Continuity Audit](reports/season-03-continuity-audit.md) - Cross-season continuity audit for Season 3.
+- [Season 3 Technical Texture Audit](reports/season-03-technical-texture-audit.md) - Public-story audit for strengthening Morris Worm technical texture around self-copying, resource pressure, containment, and recovery.
 - [Season 3 Release Historical Anchor Analysis](reports/season-03-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Published Entity Inventory 2026-05-27](reports/published-entity-inventory-2026-05-27.md) - Audit of public-story entities requiring wiki representation.
 - [Season 4 Draft Review](reports/season-04-draft-review.md) - Full private draft review against the Season 4 historical account, documentary treatment, story arc, and production bible.
 - [Season 4 Continuity Audit](reports/season-04-continuity-audit.md) - Cross-season continuity audit for Season 4.
+- [Season 4 Technical Texture Audit](reports/season-04-technical-texture-audit.md) - Public-story audit for strengthening hacker-manhunt texture around social engineering, trace evidence, identity claims, and proportionality.
 - [Season 4 Release Historical Anchor Analysis](reports/season-04-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Published Entity Inventory Season 4](reports/published-entity-inventory-season-04.md) - Reconciliation of Season 4 public-story entities requiring wiki representation.
 - [Season 5 Draft Review](reports/season-05-draft-review.md) - Full private draft review against the Season 5 historical account, documentary treatment, story arc, and production bible.
 - [Season 5 Continuity Audit](reports/season-05-continuity-audit.md) - Cross-season continuity audit for Season 5.
+- [Season 5 Technical Texture Audit](reports/season-05-technical-texture-audit.md) - Public-story audit for strengthening ILOVEYOU texture around attachment trust, file appearance, address-book spread, mail queues, and incident response.
 - [Season 5 Release Historical Anchor Analysis](reports/season-05-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Published Entity Inventory Season 5](reports/published-entity-inventory-season-05.md) - Reconciliation of Season 5 public-story entities requiring wiki representation.
 - [Season 6 Draft Review](reports/season-06-draft-review.md) - Full private draft review against the Season 6 historical account, documentary treatment, story arc, and production bible.
 - [Season 6 Continuity Audit](reports/season-06-continuity-audit.md) - Cross-season continuity audit for Season 6.
+- [Season 6 Technical Texture Audit](reports/season-06-technical-texture-audit.md) - Public-story audit for strengthening Estonia/DDoS texture around request pressure, traffic filtering, service states, attribution discipline, and resilience aftermath.
 - [Season 6 Release Historical Anchor Analysis](reports/season-06-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Published Entity Inventory Season 6](reports/published-entity-inventory-season-06.md) - Reconciliation of Season 6 public-story entities requiring wiki representation.
 - [Season 7 Draft Review](reports/season-07-draft-review.md) - Full private draft review against the Season 7 historical account, documentary treatment, story arc, and production bible.
 - [Season 7 Continuity Audit](reports/season-07-continuity-audit.md) - Cross-season continuity audit for Season 7.
+- [Season 7 Technical Texture Audit](reports/season-07-technical-texture-audit.md) - Public-story audit for strengthening patch-debt, exposed-service, verified-repair, unauthorized-repair, consent, and patch-management texture.
 - [Season 7 Release Historical Anchor Analysis](reports/season-07-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
 - [Wiki Consistency And Character Visual Lint](reports/2026-05-27-wiki-consistency-and-character-visual-lint.md) - Maintenance pass for Season 6 status consistency and character art-direction language.

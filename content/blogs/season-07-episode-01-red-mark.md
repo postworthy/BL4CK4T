@@ -38,6 +38,8 @@ Pixel relaxed until Jinx pointed at the back of the red card.
 
 The notice had a date old enough that Pixel checked it twice.
 
+Beneath the date, a patch-state record listed the affected cabinet family, the public boards that used it, and one empty field labeled `decision owner`.
+
 "Maybe they fixed it and forgot to clear the card," he said.
 
 Jinx did not answer at once. She followed the line through three map layers, then tapped a small symbol beside a public display cabinet. A red door had been drawn there in pencil.
@@ -51,6 +53,8 @@ They found the matching repair notice in a drawer labeled `LATER`.
 The paper was neat. The warning was clear. The response box had three options: `PATCH`, `ISOLATE`, and `ACCEPT RISK`.
 
 None had been checked.
+
+Jinx found the matching vulnerability notice clipped behind it. The notice did not explain how to break the cabinet. It explained that exposed public boards needed a verified repair before the flaw became someone else's path in.
 
 Pixel stared at the empty boxes. "Can a blank box be a clue?"
 

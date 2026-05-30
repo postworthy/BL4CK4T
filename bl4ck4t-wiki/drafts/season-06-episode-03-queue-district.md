@@ -31,6 +31,10 @@ Jinx and Grimalkin follow one confused request token through the Queue District.
 - Defensive habit: describe impact precisely so people know what to do next.
 - Season thread: availability is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds route-table stamps, retry thresholds, queue depth, and retry count to support the degraded-service classification.
+
 ## Continuity Checks
 
 - Character consistency: Jinx maps states; Grimalkin turns confusion into procedure.

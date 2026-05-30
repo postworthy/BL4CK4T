@@ -27,6 +27,10 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: limit scope, record changes, keep fallback paths, and prepare rollback.
 - Season thread: maintenance is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds monitoring window, test group, rollback trigger, and named change owner to the small-batch repair plan.
+
 ## Continuity Checks
 
 - Character consistency: Cipher acts with controls; Grimalkin prepares rollback.

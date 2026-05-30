@@ -31,6 +31,10 @@ Final public copy promoted to `content/blogs/season-03-episode-04-slow-rooms.md`
 
 The sprite copies do not destroy rooms, yet they stall queues, printers, and classes. Shadow finds physical timing clues while Whiskers keeps the response focused on affected students.
 
+## Technical Texture Remediation
+
+- Public copy now expands resource-pressure impact through occupied counters, waiting queues, caretaker time, unavailable class tools, and no file destruction.
+
 ## Teaching Tie-In
 
 - Key concept: impact can appear as delay, downtime, and diverted work.

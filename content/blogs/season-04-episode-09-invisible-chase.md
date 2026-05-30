@@ -40,7 +40,7 @@ Pixel added that to the Notice Wall, then moved it because Jinx said the quote n
 
 ### Trial And Error
 
-The team updated the First Bell binder with a new identity-claim report form. It asked for the source of the claim, the evidence state, and the possible harm if the claim was published.
+The team updated the First Bell binder with a new identity-claim report form. It asked for the source of the claim, the evidence state, the possible harm if the claim was published, the reviewer, and the decision about whether a name belonged on the Notice Wall at all.
 
 Shadow wrote the last line slowly. He had spent the season learning that unseen things could still leave marks, and visible things could still lie.
 

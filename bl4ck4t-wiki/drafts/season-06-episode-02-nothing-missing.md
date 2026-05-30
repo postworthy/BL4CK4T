@@ -30,6 +30,10 @@ Pixel and Cipher inspect perfect ledgers and blank receipts. The episode reframe
 - Defensive habit: record symptoms and impact, not only missing files.
 - Season thread: availability is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds request accepted, response incomplete, rising queue count, and incomplete-response counts to make denial of service visible without operational detail.
+
 ## Continuity Checks
 
 - Character consistency: Pixel wants visible evidence; Cipher insists on precise claims.

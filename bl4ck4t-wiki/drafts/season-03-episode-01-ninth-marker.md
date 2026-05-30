@@ -31,6 +31,10 @@ Final public copy promoted to `content/blogs/season-03-episode-01-ninth-marker.m
 
 The episode opens with the extra marker from the Season 2 simulator. Pixel notices the strange count, Byte proposes a cleaner test, and BL4CK4T asks the team to count the extra one before explaining it.
 
+## Technical Texture Remediation
+
+- Public copy now frames the ninth marker as an unexpected copy event recorded by the simulator, not only as a visual anomaly.
+
 ## Teaching Tie-In
 
 - Key concept: self-copying behavior can become a problem when connected systems let it move farther than expected.

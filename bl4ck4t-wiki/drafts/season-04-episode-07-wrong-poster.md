@@ -34,3 +34,6 @@ Proportional response protects victims and suspects.
 - Safety review: Avoids accusation mechanics.
 - TROPES.md validation: passed after public promotion.
 
+## Technical Texture Remediation
+
+- Public copy now states that identification requires corroborating records, not resemblance alone.

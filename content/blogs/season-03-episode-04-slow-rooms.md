@@ -32,7 +32,7 @@ The drop arrived on the stalled printer.
 
 Byte read it once, then folded the paper into his notebook.
 
-The Copycat Sprite had not smashed a window. It had filled counters, occupied room slots, and made simple tools take too long. The city still stood. The work did not move.
+The Copycat Sprite had not smashed a window. It had filled counters, occupied room slots, and made simple tools take too long. Each extra copy took a little space on a room counter. Each stuck counter made a queue wait. Each waiting queue pulled a caretaker away from normal work. The city still stood. The work did not move.
 
 Ms. Vale opened a response form.
 
@@ -45,6 +45,8 @@ Shadow walked the hall and called out room states.
 "Room three: fan active, no class. Room four: printer queue stuck. Room five: two markers, light warm. Room six: students waiting."
 
 Jinx logged each one. Cipher added counts. Grimalkin drew doors between rooms.
+
+Ms. Vale added a second list beside Jinx's: affected class tools, delayed lessons, caretaker time, and rooms held out of service. No files were gone. That did not make the incident harmless.
 
 Byte tried to help everywhere at once and helped nowhere for three minutes.
 

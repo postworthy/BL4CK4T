@@ -31,6 +31,10 @@ The Season 4 pink envelope waits on the Notice Wall and becomes the first Season
 - Defensive habit: Hold unexpected attachments before opening.
 - Season thread: The pink envelope becomes the Glitter Letter incident.
 
+## Technical Texture Remediation
+
+- Public copy now adds message-intake fields for sender mark, recipient list, arrival time, and attachment status before review.
+
 ## Continuity Checks
 
 - Character consistency: Jinx slows action; Cipher spots mismatch; Pixel admits curiosity.
@@ -38,4 +42,3 @@ The Season 4 pink envelope waits on the Notice Wall and becomes the first Season
 - Lesson accuracy: Attachment handling is taught through hold-first review.
 - Safety review: No operational detail.
 - TROPES.md validation: passed after public promotion.
-

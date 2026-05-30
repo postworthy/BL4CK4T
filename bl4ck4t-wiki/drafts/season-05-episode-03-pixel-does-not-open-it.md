@@ -31,6 +31,10 @@ Pixel wants to inspect the Glitter Letter, but Jinx helps him put curiosity into
 - Defensive habit: Move suspicious items into a controlled review path.
 - Season thread: Pixel's restraint gives the team time to map the incident.
 
+## Technical Texture Remediation
+
+- Public copy now defines the Quarantine Tray as an isolated review path and adds sender, recipient, time, and attachment-label recording to Pixel's checklist.
+
 ## Continuity Checks
 
 - Character consistency: Pixel remains wonder-led; Jinx channels risk into process.
@@ -38,4 +42,3 @@ Pixel wants to inspect the Glitter Letter, but Jinx helps him put curiosity into
 - Lesson accuracy: Containment is shown as enabling investigation.
 - Safety review: No operational detail.
 - TROPES.md validation: passed after public promotion.
-

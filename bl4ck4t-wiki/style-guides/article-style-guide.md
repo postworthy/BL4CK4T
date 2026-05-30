@@ -21,6 +21,7 @@ BL4CK4T blog posts should read like short cyberpunk classroom adventures. The st
 - Neon, playful, curious, and mission-driven.
 - Beginner-friendly explanations.
 - Team dialogue that makes concepts easier to understand.
+- Safe technical vocabulary woven into the story, not saved only for the Teaching Tie-In.
 - BL4CK4T speaks through short, memorable drops.
 - The ending ties the technical concept to character, ethics, or life skills.
 
@@ -29,6 +30,12 @@ BL4CK4T blog posts should read like short cyberpunk classroom adventures. The st
 The stories should inspire curiosity rather than parent the reader. Keep dangerous operational details out of the narrative by omission and transformation, not by repeatedly warning the audience. When a cyber concept has risk, let character choices, consequences, mystery, and craft carry the meaning.
 
 Do not nerf the mystique of hacking with constant safety reminders. Humanize the characters, preserve the art and intrigue of technical discovery, and make the story compelling enough that the lesson rides inside the plot.
+
+## Technical Texture
+
+Follow [Technical Texture Standard](technical-texture-standard.md) for season drafts and historically inspired articles. Fictional artifacts should make the cyber idea vivid, not replace it. Public prose should include safe terms such as logs, terminals, endpoints, services, messages, attachments, signatures, patches, updates, vulnerabilities, traffic, requests, rollback, quarantine, or incident response when they fit the story.
+
+Write for curious teens, teachers, and adult readers who may be new to cybersecurity. Do not assume prior tool knowledge, but do not strip out ordinary technical language. A reader should be able to name the cybersecurity concept from the story before reaching the Teaching Tie-In.
 
 ## Recommended Article Structure
 

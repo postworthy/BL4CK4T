@@ -76,6 +76,8 @@ Jinx built the timeline on the kiosk glass with removable tags.
 
 Shadow added a small tag between the first and second line. "Beacon blinked at 10:14. I saw it from the corner."
 
+Jinx copied the kiosk notice history before the next refresh could erase it. Cipher compared the kiosk timestamp with the official transit board timestamp and circled the twelve-minute gap.
+
 Jinx turned to him. "You saw it and said nothing?"
 
 Shadow's ears lowered. "I thought it was only another flicker."
@@ -93,6 +95,8 @@ Whiskers looked at the crowded stairwell. "In the city, the wrong place has peop
 ### Trial and Error
 
 They worked in pairs. Whiskers and Pixel redirected confused commuters while the transit board refreshed. Byte and Cipher compared the public notice history with the Tonebox model. Jinx and Shadow traced the sticker path out of the station and into the alley behind the relay cabinet.
+
+Mira's repair desk pinned the official transit notice to the kiosk while Byte checked nearby screens for the same false closure. If the bad message had propagated, they needed to know where it stopped.
 
 The alley held three more crowned marks: old paint, chalk, and cut vinyl, the same material Shadow had found in Packet Market.
 

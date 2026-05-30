@@ -26,6 +26,9 @@ Use this checklist before reporting a draft complete and again before promoting 
 - The lesson is beginner-friendly.
 - The core concept is accurate.
 - The story explains why the concept matters.
+- The story includes enough safe technical vocabulary that the concept is legible before the Teaching Tie-In.
+- Fictional artifacts illuminate the technical concept rather than replacing it.
+- At least one defender-side technical action, observation, or decision appears in the story.
 - The `Teaching Tie-In` is usable by a teacher or mentor.
 
 ## Safety Check

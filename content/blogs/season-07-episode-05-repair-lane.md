@@ -24,6 +24,8 @@ Byte wanted to compare the cards under a lamp. Jinx had already started.
 
 "Same border," she said. "Different source. Different route. One signature missing."
 
+The real notice also carried an integrity mark that matched the caretaker registry. The copy had a loud warning but no matching repair record.
+
 The school secretary folded her paws. "Which one do I trust?"
 
 No one liked how long the room stayed silent.
@@ -31,6 +33,8 @@ No one liked how long the room stayed silent.
 ### Building The Lane
 
 Byte cleared a table in the Civic Pages hall and built the first Repair Lane from ordinary things: a lamp, a stamp tray, a list of approved caretakers, a rollback card, and a public board that showed which repair notices were real.
+
+Jinx added a patch-state shelf beside it: `pending`, `verified`, `installed`, `rolled back`, `watched`.
 
 Jinx added a rule in thick marker.
 
@@ -43,6 +47,8 @@ Pixel tested the board by carrying a fake notice from the far door. The lamp sta
 "Useful," Jinx said.
 
 The real notice lit green when Ms. Vale stamped the caretaker line and Grimalkin attached the rollback card.
+
+Only then did Byte move its patch-state card to `verified`. Installation would need a separate record.
 
 ### Trust Under Pressure
 

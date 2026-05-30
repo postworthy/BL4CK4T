@@ -66,13 +66,15 @@ Whiskers took a breath. "Because people use these signs."
 
 Rook pointed at a kiosk. "People ignore these signs."
 
+"People also trust them," Whiskers said. "A public notice is a service message. Someone has to be allowed to change it, and someone else has to be kept from changing it."
+
 As if offended, the kiosk chirped and changed its notice: `SOUTH TUBE DELAY: PLATFORM C`.
 
 Shadow's ears moved. "That is wrong."
 
 Jinx checked the transit board across the street. "Platform A is delayed. Platform C is clear."
 
-The wrong notice lasted only twelve seconds before correcting itself, but twelve seconds was long enough for three commuters to turn around, two scooters to swerve, and one pastry cart to roll into a trash bin.
+The wrong notice lasted only twelve seconds before correcting itself, but twelve seconds was long enough for three commuters to turn around, two scooters to swerve, and one pastry cart to roll into a trash bin. The false service message had collided with the official transit message, and the crowd had believed the screen before the system could recover.
 
 The Row Rebels laughed at first, until the pastry cart owner stared at the crushed box of moon cakes on the ground. The laughter thinned.
 

@@ -31,6 +31,10 @@ The Message Office closes the Glitter Letter incident by turning the team's resp
 - Defensive habit: Keep simple rules for unexpected, emotional, or mismatched messages.
 - Season thread: Empty receipts introduce the next availability story.
 
+## Technical Texture Remediation
+
+- Public copy now adds outbound-queue checks, affected-file review, recovery notes, filter rules, and post-incident rulebook updates before closure.
+
 ## Continuity Checks
 
 - Character consistency: Everyone contributes through their established Season 5 roles.

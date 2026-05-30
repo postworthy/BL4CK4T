@@ -27,6 +27,10 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: identify exposed systems and isolate affected groups.
 - Season thread: maintenance is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds cabinet-family version, public-facing endpoint, affected-board count, reachable-board count, and exposed-family spread risk.
+
 ## Continuity Checks
 
 - Character consistency: Jinx maps symptoms; Shadow checks physical evidence.

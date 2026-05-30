@@ -33,9 +33,13 @@ Grimalkin drew four paths across the Message Office floor:
 - Warn.
 - Recover.
 
+Then he added desk labels above the lanes: mail filter, intake queue, quarantine review, warning desk, recovery queue, and status board.
+
 ### The Lesson Begins
 
 The first hour was messy. Students brought open letters to the hold lane. Closed letters went to recovery. One student tried to warn everyone by shouting from a cart.
+
+Opened letters went to recovery review because the team had to check affected message paths before ordinary mail could resume.
 
 Whiskers stopped the cart.
 

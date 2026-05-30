@@ -18,6 +18,8 @@ The new desk looked too small for what it meant.
 
 One brass bell. One response binder. One map drawer. Three blank forms: first report, status update, recovery check.
 
+It was small, but it was standing incident-response infrastructure: a known place for lab tests, copied processes, and strange system behavior to become records before they became rumors.
+
 Grimalkin placed the bell in the center.
 
 "The First Bell Desk," Ms. Vale said. "For lab incidents, strange tests, and anything that needs help before it needs rumor."

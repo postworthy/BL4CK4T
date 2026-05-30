@@ -31,6 +31,10 @@ The first public warning makes students hide reports, so Whiskers and Pixel rewr
 - Defensive habit: Write alerts that tell people what to do and why reporting helps.
 - Season thread: Better warnings bring hidden reports back into the response.
 
+## Technical Texture Remediation
+
+- Public copy now frames the improved warning as an advisory with affected message type, action steps, do-not-do guidance, and reporting path.
+
 ## Continuity Checks
 
 - Character consistency: Whiskers revises leadership; Pixel listens to affected students.
@@ -38,4 +42,3 @@ The first public warning makes students hide reports, so Whiskers and Pixel rewr
 - Lesson accuracy: Alert language is treated as response infrastructure.
 - Safety review: No operational detail.
 - TROPES.md validation: passed after public promotion.
-

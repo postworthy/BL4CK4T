@@ -31,6 +31,10 @@ A clinic board hangs on `ANSWERING...` while people wait. Whiskers starts to rea
 - Defensive habit: report service impact clearly, including what still works.
 - Season thread: availability is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now frames the clinic board as a service endpoint with check-in requests aging past a response-time mark and adds Status Wall fields for affected endpoint, observed delay, workaround, and next check.
+
 ## Continuity Checks
 
 - Character consistency: Whiskers feels pressure to answer; Shadow watches impact.

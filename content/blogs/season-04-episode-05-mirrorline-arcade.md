@@ -22,6 +22,8 @@ By 12:07, Mirrorline Arcade had more shoes than floor.
 
 Students crowded around the old payphones. Someone pointed at the wrong booth. Someone else took a rubbing of a smudge that had already been touched by twelve sleeves.
 
+The trace area changed while they watched it. Dust marks overlapped. Smudges spread. Witnesses began reporting times based on when they arrived, not when the booth had blinked.
+
 Shadow watched the route disappear under curiosity.
 
 Whiskers climbed onto a bench and raised both hands.

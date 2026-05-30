@@ -40,6 +40,8 @@ Byte found it in a caretaker-approved summary attached to a failed archive excha
 
 The stamp looked like a broken ledger line folded into a hook.
 
+The mark mattered because it appeared in a relay record the caretakers had preserved. The rumor around the mark could suggest a direction, but it could not prove an actor.
+
 Jinx stared at it until the shape stayed behind her eyes.
 
 "That is not a project label," Byte said.

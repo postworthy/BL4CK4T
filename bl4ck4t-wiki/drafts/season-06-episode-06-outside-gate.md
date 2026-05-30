@@ -31,6 +31,10 @@ An outside reader cannot reach a legitimate school notice while local services r
 - Defensive habit: explain temporary limits, provide help paths, and review restrictions often.
 - Season thread: availability is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds source-path and service-priority filtering, an exception queue with reason, timestamp, and review mark, plus false-positive language for real requests caught by broad limits.
+
 ## Continuity Checks
 
 - Character consistency: Grimalkin handles procedure; Shadow protects the outside perspective.

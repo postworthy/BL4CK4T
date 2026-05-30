@@ -31,6 +31,10 @@ Jinx builds a clean Service Map and Whiskers spots its flaw: it lists systems bu
 - Defensive habit: identify critical dependencies and affected people before a crisis.
 - Season thread: availability is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds dependency tags for shared answer lamps, local shelves, confirmation services, and public windows, plus state, impact, dependency, and workaround fields.
+
 ## Continuity Checks
 
 - Character consistency: Jinx expands evidence discipline; Whiskers begins his leadership turn.

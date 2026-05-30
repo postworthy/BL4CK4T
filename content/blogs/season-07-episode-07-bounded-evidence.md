@@ -50,6 +50,10 @@ Third: record each change in the Consent Ledger.
 
 Fourth: rollback if the restart weather worsened.
 
+Fifth: monitor the test group until the next bell.
+
+Sixth: name Whiskers as the change owner while Cipher held the evidence call.
+
 The Red Clerk read the page. "That is not the full district."
 
 "No," Cipher said. "It is the part we can act on responsibly."

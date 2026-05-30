@@ -18,6 +18,8 @@ Milo lost the last paragraph of his report at 9:14.
 
 His classroom desk blinked, hummed, and restarted before he could press save. The screen returned with the same assignment window and none of the sentence he had been proud of.
 
+The desk log called it a restart loop. Milo called it losing the best sentence.
+
 Pixel stood beside him with a spare notebook. "What was the paragraph about?"
 
 "How bridges hold weight," Milo said.
@@ -31,6 +33,8 @@ By lunch, the Script Kitties stopped calling them restarts and started calling t
 Restart weather moved in patches. One school room lost drafts. A permit desk froze whenever a page board changed. A library checkout stand restarted every time the event sign refreshed. Clinic forms survived because the paper drawer had stayed open since the flood.
 
 Cipher pinned cards in three columns: `LOST WORK`, `DELAYED WORK`, `SAFE FOR NOW`.
+
+She added a count line under each card: affected boards, unsaved-work reports, support-queue tickets, and recovery checks still waiting.
 
 "We still do not know the full path," she said.
 

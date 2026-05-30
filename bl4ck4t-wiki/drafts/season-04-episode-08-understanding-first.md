@@ -34,3 +34,6 @@ Understanding motive is different from excusing impact.
 - Safety review: No operational confession.
 - TROPES.md validation: passed after public promotion.
 
+## Technical Texture Remediation
+
+- Public copy now adds preserved-evidence handoff and restricted caller identity handling until repair and review steps are set.

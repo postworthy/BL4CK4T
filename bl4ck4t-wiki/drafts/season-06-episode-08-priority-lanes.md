@@ -31,6 +31,10 @@ Byte, Grimalkin, and Whiskers build priority lanes and fallback desks. The episo
 - Defensive habit: define critical services, fallback procedures, and review points before a crisis.
 - Season thread: availability is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds rate limit, fallback owner, escalation point, queue-depth review, critical-lane review, and bell-based review thresholds.
+
 ## Continuity Checks
 
 - Character consistency: Byte's builder energy is guided by Grimalkin's process and Whiskers' communication.

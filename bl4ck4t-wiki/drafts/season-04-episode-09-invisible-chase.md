@@ -34,3 +34,6 @@ Good response changes future practice.
 - Safety review: Envelope clue is non-operational.
 - TROPES.md validation: passed after public promotion.
 
+## Technical Texture Remediation
+
+- Public copy now expands the identity-claim report form to include reviewer and publication decision fields before names reach the Notice Wall.

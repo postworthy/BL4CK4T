@@ -2,7 +2,7 @@
 type: canon
 status: active
 created: 2026-05-26
-updated: 2026-05-27
+updated: 2026-05-29
 tags: [timeline, continuity]
 sources:
   - ../sources/blog-script-kitties-episode-1-hidden-code.md
@@ -14,6 +14,7 @@ sources:
   - ../production-bibles/season-04-the-invisible-chase.md
   - ../production-bibles/season-05-the-love-letter-plague.md
   - ../production-bibles/season-06-the-day-the-city-would-not-answer.md
+  - ../reports/season-01-technical-texture-audit.md
 ---
 
 # Continuity Timeline
@@ -31,12 +32,12 @@ This timeline records the current event order from the published blog and privat
 ## Season 1: The Singing Network - Public Hard Continuity
 
 - Season 1 begins after the pilot season with Signal Row entering maintenance mode and Pixel hearing a hidden three-note phrase.
-- The Script Kitties discover the Echo Grid, an old signal layer where public messages and routing instructions can blur together.
+- The Script Kitties discover the Echo Grid, an old civic communications network where public service messages and routing instructions can blur together.
 - The Little Blue Pawprint and Crunch Charm rumors spread through Packet Market and Signal Row, turning partial technical understanding into public myth.
 - The Row Rebels appear as a mixed-motive Signal Row group. Rook becomes associated with curiosity, protest, status, and disruption around the Echo Grid.
 - Byte's Tonebox model makes the Echo Grid visible and shows how quickly a demo can be misunderstood outside its original context.
-- A false closure notice turns the Echo Grid from curiosity into public consequence.
-- Mira and the Hushline establish the architectural answer: separate message paths from command paths so the city can sing without treating every song as an order.
+- A false closure notice turns the Echo Grid from curiosity into public consequence; Jinx preserves notice history, Cipher compares timestamps, and the team checks whether the false service message propagated.
+- Mira and the Hushline establish the architectural answer: separate public message paths from routing-command/control paths so the city can sing without treating every song as an order.
 - The season closes with a public listening exhibit and a clearer Signal Row. The Hushline meter then shows `-0.75`, and Jinx identifies it as a trail into Season 2.
 
 ## Season 2: The Seventy-Five Cent Thread - Public Hard Continuity
@@ -86,7 +87,7 @@ This timeline records the current event order from the published blog and privat
 - The Pink Envelope moves to Letter Lane and becomes the Glitter Letter incident.
 - The Message Office is established as the delivery and reporting setting for city mail, class notes, club notices, and message handling.
 - Jinx and Cipher use the Quarantine Tray to hold the first suspicious message before opening it.
-- Pixel receives a copy that appears to come from himself and chooses not to open it.
+- Pixel receives a copy that appears self-sent and chooses not to open it.
 - Cipher and Byte separate appearance from behavior through the Hidden Ending board.
 - Jinx and Shadow map the Address Book Bloom and correct an early map instead of hiding the mistake.
 - Whiskers and Grimalkin create Message Office response lanes: hold, report, warn, and recover.
@@ -111,7 +112,7 @@ This timeline records the current event order from the published blog and privat
 - Pixel remains curiosity-forward and opens the Season 3 copying-process thread.
 - Byte completes the Season 3 builder arc by adding `How does this fail?` to future build kits.
 - Grimalkin becomes a proven incident coordinator through the First Bell Desk.
-- Shadow completes a Season 4 trust arc by moving from hidden observer to trusted witness.
+- Shadow completes a Season 4 trust arc by becoming a trusted witness after starting as a hidden observer.
 - Jinx extends her Season 2 evidence discipline into public-claim classification and chase-map standards.
 - Pixel completes a Season 5 restraint arc by choosing contained review over instant opening.
 - Whiskers extends leadership into warning language and response-lane design.
@@ -133,7 +134,7 @@ This timeline records the current event order from the published blog and privat
 
 ## Season 7: The Patch Bell War
 
-- The red Service Map mark from Season 6 leads Pixel and Jinx to the Civic Pages District.
+- Season 6's red Service Map mark leads Pixel and Jinx to the Civic Pages District.
 - The team discovers a known repair notice that was deferred because the signs still worked.
 - The Red Clerk is established as a caretaker whose fear of past broken repairs turned caution into patch debt.
 - Red Door fever spreads across public boards and turns hidden maintenance risk into visible civic disruption.

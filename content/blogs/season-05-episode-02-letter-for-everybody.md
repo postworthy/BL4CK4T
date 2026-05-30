@@ -50,6 +50,10 @@ Shadow checked the delivery times. Several letters had arrived before the suppos
 
 "Trusted name," he said. "Bad timing."
 
+Cipher checked the sender field beside Pixel's name. "Display name says Pixel. Delivery context says impossible."
+
+Jinx added the mismatch to the report. "That proves the message is inconsistent. It does not prove Pixel sent it."
+
 ### Trial And Error
 
 Pixel placed his envelope in the Quarantine Tray. The lid clicked, and the glitter stopped moving.
@@ -81,4 +85,3 @@ Pixel pointed to the tray. "Same. This way first."
 - Key distinction: a trusted sender name is not the same as an expected message.
 - Defensive habit: verify context and report suspicious messages even when they look personal.
 - Season thread: the Glitter Letter begins spreading through trusted relationships.
-

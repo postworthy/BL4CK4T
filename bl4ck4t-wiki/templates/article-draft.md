@@ -48,5 +48,6 @@ timestamp: YYYY-MM-DDT00:00:00+00:00
 - Character consistency:
 - World consistency:
 - Lesson accuracy:
+- Technical texture:
 - Safety review:
 - TROPES.md validation:

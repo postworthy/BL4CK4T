@@ -23,6 +23,7 @@ Before the prose-quality gate can run, the season must pass a historical depth g
 - The historical account must be substantial enough to support story movement, character pressure, and historical nuance.
 - The documentary treatment must be movement-rich enough that episode drafts do not rely on repeated generic openings.
 - The story-world import must trace each major fictional episode beat back to a documentary movement or clearly marked creative bridge.
+- The story-world import must preserve safe technical texture from the historical anchor, following [Technical Texture Standard](technical-texture-standard.md).
 - Thin macro planning pages are not valid substitutes for historical accounts or documentary treatments.
 
 For Seasons 6-10, use `../reports/season-06-10-historical-depth-remediation-plan.md` as the active remediation standard.
@@ -37,6 +38,8 @@ Do not publish if any of these are true:
 - Characters appear as role labels only and do not make episode-specific choices.
 - The episode could be summarized by replacing a proper noun in another episode's plot summary.
 - The Teaching Tie-In is technically correct but detached from the episode's actual emotional or narrative turn.
+- The episode can only be understood as a civic metaphor and does not include enough safe technical language to identify the cybersecurity concept.
+- Fictional artifacts replace the historical mechanism so completely that the real anchor is no longer recognizable at a high level.
 - A season reaches public `content/` before every episode has had a close-reading pass.
 
 ## Required Manual Review
@@ -47,9 +50,10 @@ For every episode, record these checks in the season draft review report:
 - Character pressure: which character wants, fears, notices, misunderstands, or changes something specific in this episode?
 - Story consequence: what changes because this episode happened?
 - Historical anchor: what part of the source history is being transformed here?
+- Technical texture: which safe cyber terms, systems, logs, messages, traffic, code, updates, permissions, or response actions appear in the story body?
 - Civic or emotional scale: whose ordinary life is affected, and how is that made concrete?
 - Prose uniqueness: which repeated lines, sentence patterns, or structural shortcuts were removed?
-- Teaching Tie-In fit: how does the lesson arise from the story rather than being appended to it?
+- Teaching Tie-In fit: where does the story itself make the lesson visible before the closing bullets?
 
 ## Batch Comparison Pass
 
@@ -59,6 +63,7 @@ Before publication, compare the full season as a set:
 - Read all BL4CK4T drop moments together and revise any that use the same dramatic mechanics without reason.
 - Read all endings together and revise any that resolve with the same cadence.
 - Read all Teaching Tie-Ins together and confirm they use the standard structure while still reflecting the specific episode.
+- Read all episodes for technical texture and revise any episode where the cyber concept only appears in frontmatter, tags, or Teaching Tie-In.
 - Search for repeated phrases longer than six words across the season and revise unless the phrase is a deliberate refrain.
 
 Useful shell checks:

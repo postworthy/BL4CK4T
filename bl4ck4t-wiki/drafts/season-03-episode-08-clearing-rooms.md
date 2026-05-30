@@ -31,6 +31,10 @@ Final public copy promoted to `content/blogs/season-03-episode-08-clearing-rooms
 
 The team clears the extra sprite markers, verifies room states, restores class tools, and learns that clear is a claim that needs proof.
 
+## Technical Texture Remediation
+
+- Public copy now adds known-good-state recovery and requires counters, tools, lights, and physical checks to agree before clearing a room.
+
 ## Teaching Tie-In
 
 - Key concept: recovery means returning to a known good state and verifying it.

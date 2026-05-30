@@ -22,6 +22,8 @@ Grimalkin adjusted his glasses. "A roster request should pass through the school
 
 Jinx turned the token over. "This one visited weather notices, clinic intake, and lost library cards."
 
+The route table stamped each wrong turn in tiny blue ink. Three retries meant delay. Five meant degradation. Ten meant the request path needed review.
+
 "Ambitious," Pixel said. Jinx turned the token in her paw. "Confused."
 
 ### The District That Answered
@@ -51,6 +53,8 @@ Jinx pinned it beside her cards.
 Together, she and Grimalkin made four labels: `AVAILABLE`, `DEGRADED`, `UNAVAILABLE`, and `UNKNOWN`.
 
 The school roster token belonged under `DEGRADED`. It could travel. It could be received. It could not reliably reach the right answer path.
+
+Jinx added its queue depth and retry count under the label so the word `degraded` had evidence beneath it.
 
 Pixel pointed at the clinic forms moving on the side rail. "Those are available?"
 

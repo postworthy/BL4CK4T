@@ -20,6 +20,8 @@ Pink dots opened across Letter Lane: poetry club, transit model club, library vo
 
 Each dot was a person, and Jinx refused to call them cases.
 
+Shadow added smaller marks beside each dot: recipient-list count, first arrival time, and outbound-copy count. The Message Office queue had begun to fill with copies that looked personal but moved like automation.
+
 ### The Drop
 
 BL4CK4T's message appeared on the map frame.
@@ -37,6 +39,8 @@ Shadow read the delivery times while Jinx drew lines.
 The first version of the map made one student look like the source. The second version showed the letter had reached that student before most of the others.
 
 Jinx crossed out the first version and kept it in the evidence folder anyway.
+
+The corrected map showed an address-book path, not a confession. A contact list had carried trust farther than any one student intended.
 
 "Why keep the wrong one?" Pixel asked.
 

@@ -31,6 +31,10 @@ Final public copy promoted to `content/blogs/season-03-episode-02-sandbox-door.m
 
 Byte builds a cleaner sandbox with labels, expected counts, stop controls, and caretaker review. The run stays inside the drawn boundary, yet the timing line shows that the test definition still missed an important limit.
 
+## Technical Texture Remediation
+
+- Public copy now names the Copycat Sprite as a self-copying toy process and ties count, pace, stop, and cleanup to the test boundary.
+
 ## Teaching Tie-In
 
 - Key concept: safe testing boundaries need limits, stop controls, and expected timing.

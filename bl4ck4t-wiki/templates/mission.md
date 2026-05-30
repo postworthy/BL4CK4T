@@ -47,6 +47,8 @@ Draft canon until a public article is approved.
 ## Public Transformation Notes
 
 - What changes from real-world source to BL4CK4T fiction.
+- Safe technical terms that should survive into the public story.
+- Fictional artifact or metaphor and the real cyber concept it maps to.
 
 ## Safety Constraints
 

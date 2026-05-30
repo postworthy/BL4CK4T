@@ -31,6 +31,10 @@ Final public copy promoted to `content/blogs/season-03-episode-07-builders-note.
 
 Byte writes what the test expected, what happened, what was missing, and how the team will repair the damage. Whiskers keeps accountability focused on usefulness rather than shame.
 
+## Technical Texture Remediation
+
+- Public copy now defines the Builder's Note as an engineering record, not only an apology.
+
 ## Teaching Tie-In
 
 - Key concept: intent does not replace controls, review, or cleanup.

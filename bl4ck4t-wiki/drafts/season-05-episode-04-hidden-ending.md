@@ -31,6 +31,10 @@ Cipher and Byte compare what the Glitter Letter appears to be with how it behave
 - Defensive habit: Treat mismatches as review triggers.
 - Season thread: The team learns the Glitter Letter is built to spread.
 
+## Technical Texture Remediation
+
+- Public copy now names attachment name, file extension, observed behavior, and script-like behavior at a safe conceptual level.
+
 ## Continuity Checks
 
 - Character consistency: Cipher cleans up categories; Byte builds a harmless display model.
@@ -38,4 +42,3 @@ Cipher and Byte compare what the Glitter Letter appears to be with how it behave
 - Lesson accuracy: Explains mechanism at causal level only.
 - Safety review: No operational detail.
 - TROPES.md validation: passed after public promotion.
-

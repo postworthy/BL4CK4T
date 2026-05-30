@@ -31,6 +31,10 @@ Jinx and Cipher find the Phishmonger's ribbon pattern behind the Glitter Letter 
 - Defensive habit: Classify lure features without jumping past proof.
 - Season thread: The team understands the lure while still closing the spread.
 
+## Technical Texture Remediation
+
+- Public copy now documents the ribbon pattern with source, timing, lure traits, recipient overlap, and confidence fields.
+
 ## Continuity Checks
 
 - Character consistency: Jinx and Cipher preserve the Season 4 claim-discipline pattern.
@@ -38,4 +42,3 @@ Jinx and Cipher find the Phishmonger's ribbon pattern behind the Glitter Letter 
 - Lesson accuracy: Attribution is cautious and evidence-led.
 - Safety review: No operational detail.
 - TROPES.md validation: passed after public promotion.
-

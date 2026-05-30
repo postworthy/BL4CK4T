@@ -48,6 +48,8 @@ The second warning took longer:
 
 `If you opened or received a pink Glitter Letter, bring the message or report to the Message Office. You are helping by reporting. Do not forward copies. We will help you warn contacts.`
 
+Whiskers marked it as an advisory instead of a scolding. It named the affected message type, gave action steps, explained what not to do, and told readers where to report.
+
 Whiskers read it aloud.
 
 No one sounded accused.

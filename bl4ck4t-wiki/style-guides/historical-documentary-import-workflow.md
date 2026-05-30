@@ -29,13 +29,26 @@ Before writing the BL4CK4T-world story arc, read:
 
 1. Map the documentary movements to fictional season movements.
 2. Identify the story function of each historical person, institution, system, mechanism, clue, location, and consequence.
-3. Search the wiki for an existing BL4CK4T-world entity that already fits each function.
-4. Reuse existing entities when continuity supports reuse.
-5. Create a new wiki page during import when the story needs a new named character, faction, villain, location, institution, system, artifact, or recurring concept.
-6. Record how each new entity enters the season in the season story arc and production bible.
-7. Update [Continuity Timeline](../canon/continuity-timeline.md) or [Open Threads](../canon/open-threads.md) when the import changes durable canon.
-8. Update [Index](../index.md) and [Log](../log.md).
-9. Run `pnpm wiki:check` before treating the imported story arc as complete.
+3. Record the safe technical texture for each movement: technical terms that should survive into public prose, defender-side actions that can be shown, and operational details that must remain private.
+4. Search the wiki for an existing BL4CK4T-world entity that already fits each function.
+5. Reuse existing entities when continuity supports reuse.
+6. Create a new wiki page during import when the story needs a new named character, faction, villain, location, institution, system, artifact, or recurring concept.
+7. Record how each new entity enters the season in the season story arc and production bible.
+8. Update [Continuity Timeline](../canon/continuity-timeline.md) or [Open Threads](../canon/open-threads.md) when the import changes durable canon.
+9. Update [Index](../index.md) and [Log](../log.md).
+10. Run `pnpm wiki:check` before treating the imported story arc as complete.
+
+## Technical Texture Requirement
+
+Use [Technical Texture Standard](technical-texture-standard.md) during import. The BL4CK4T-world adaptation must preserve enough safe system language and cause/effect that the public story still feels rooted in cybersecurity history.
+
+For each episode-level movement, capture:
+
+- historical mechanism in one sentence;
+- fictional transformation;
+- safe technical terms to include in the story;
+- defender-side action to show on page;
+- details to omit because they would become operationally harmful.
 
 ## Entity Rules
 
@@ -48,3 +61,5 @@ Before writing the BL4CK4T-world story arc, read:
 ## Completion Gate
 
 The import is not complete until the story arc can be read alongside the wiki without creating unresolved names, undefined locations, missing adversary records, or unsupported continuity jumps.
+
+The import is also incomplete if the fictional arc replaces every technical mechanism with metaphor. The story arc must preserve a visible bridge between the historical anchor and the public fiction.

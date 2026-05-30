@@ -34,6 +34,8 @@ Whiskers read the new Civic Pages rule aloud.
 
 Known serious repairs could not disappear into private delay. A caretaker could patch through the Repair Lane. A caretaker could isolate the affected system while planning. A caretaker could accept risk only by writing who owned the decision, why, for how long, and what would be watched.
 
+The rule also required an inventory review, a patch deadline, an exception owner, an expiration date for risk acceptance, and evidence of completion before a card could leave the Patch Bell stand.
+
 The Red Clerk stood beside the Rollback Room key.
 
 "I thought I was protecting the city from bad repairs," he said.

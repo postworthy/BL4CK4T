@@ -58,6 +58,8 @@ Jinx crossed the room. "How recently?"
 
 Cipher checked the terminal row against the public reservation sheet. "Terminal seven had no reservation after four."
 
+The warm case and empty reservation did not prove who had used it. Together, they made a session-state clue: the terminal had behaved as if someone or something was present when the schedule said it should be quiet.
+
 Grimalkin unfolded the map and marked the station. "Could be maintenance."
 
 "Could be," Jinx said, and wrote it down.

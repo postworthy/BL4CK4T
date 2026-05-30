@@ -30,7 +30,9 @@ The printer clicked.
 
 ### The Drop
 
-Byte labeled everything. The Copycat Sprite could enter three toy rooms. It could copy once at each checkpoint. The counter would turn yellow if the number changed early and red if anything appeared outside the square.
+Byte labeled everything. The Copycat Sprite was a self-copying toy process, not city software, and the whole point was to watch the copy count stay boring. It could enter three toy rooms. It could copy once at each checkpoint. The counter would turn yellow if the number changed early and red if anything appeared outside the square.
+
+Cipher added brackets around the labels. "Count, pace, stop, cleanup. All four are the boundary."
 
 Ms. Vale read the plan.
 

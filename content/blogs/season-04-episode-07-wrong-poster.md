@@ -58,6 +58,8 @@ Grimalkin added a second line:
 
 `A close resemblance is not identification.`
 
+Then he added a third: `Identification requires corroborating records.`
+
 The Glass Bureau stamped it.
 
 That stamp mattered. It told the city restraint had authority too.

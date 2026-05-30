@@ -34,6 +34,8 @@ Whiskers softened his voice. "So you waited."
 
 The Red Clerk showed them the winter record. It was real. A rushed update had left three clinic signs blank and sent a permit line through the wrong door.
 
+The winter record also had its own missing boxes: no test group, no change window, no rollback note, and no named risk owner.
+
 Pixel listened from a shelf ladder and compared the record with the red card. "That explains being careful."
 
 Jinx looked up from her notebook. "It does not explain never choosing."
@@ -43,6 +45,8 @@ The Red Clerk's pencil stopped.
 Grimalkin laid three cards on the desk: `PATCH`, `ISOLATE`, `ACCEPT RISK`.
 
 "Which one did you choose?" he asked.
+
+Then he added a smaller checklist beneath them: `inventory`, `test group`, `change window`, `rollback plan`, `owner`.
 
 The clerk's ears flattened. "The system did not fail."
 

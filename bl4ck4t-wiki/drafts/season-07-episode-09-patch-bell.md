@@ -27,6 +27,10 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: turn incident lessons into visible rules, owners, review dates, and records.
 - Season thread: maintenance is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds inventory review, patch deadline, exception owner, risk-acceptance expiration, and evidence of completion to the Patch Bell rule.
+
 ## Continuity Checks
 
 - Character consistency: full team turns response into practice.

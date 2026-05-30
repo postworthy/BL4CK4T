@@ -27,6 +27,10 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: map affected people and protect work with fallback paths.
 - Season thread: maintenance is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds restart-loop language, affected-board counts, unsaved-work reports, support-queue tickets, and pending recovery checks.
+
 ## Continuity Checks
 
 - Character consistency: Cipher names uncertainty; Pixel centers the affected student.

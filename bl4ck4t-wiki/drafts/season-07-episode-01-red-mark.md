@@ -27,6 +27,10 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: track known fixes until patched, isolated, or risk-accepted.
 - Season thread: maintenance is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds patch-state record, affected cabinet family, public board inventory, decision owner, and safe vulnerability-notice language.
+
 ## Continuity Checks
 
 - Character consistency: Pixel makes risk tangible; Jinx traces records.

@@ -78,7 +78,7 @@ Shadow nodded toward the alley behind the relay box. A metal cabinet sat there u
 
 The Hideout archive wall had a habit of producing exactly the wrong document first.
 
-Byte pulled up three maps of city fountains, two repair manuals for vending machines, and one memo about antenna pigeons before Cipher found the first useful diagram. It showed Signal Row as it had looked years earlier, back when half the district still routed civic messages through rooftop relays and public kiosks.
+Byte pulled up three maps of city fountains, two repair manuals for vending machines, and one memo about antenna pigeons before Cipher found the first useful diagram. It showed Signal Row as it had looked years earlier, back when half the district still routed civic messages through an old civic communications network of rooftop relays and public kiosks.
 
 At the bottom of the diagram, someone had written two words in faded blue ink.
 

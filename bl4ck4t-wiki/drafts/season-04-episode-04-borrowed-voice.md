@@ -34,3 +34,6 @@ Familiar words do not prove a familiar sender.
 - Safety review: No impersonation script.
 - TROPES.md validation: passed after public promotion.
 
+## Technical Texture Remediation
+
+- Public copy now names the borrowed phrase as a social-engineering request and shows independent verification through a separate desk channel.

@@ -42,6 +42,8 @@ Under the message were four smaller cards.
 
 Jinx smiled. "Finally, office supplies with standards."
 
+She added two smaller fields beneath each card: `SOURCE` and `TIME`. A claim without a source could still be discussed, but it could not pretend to be evidence.
+
 ### The Lesson Begins
 
 The team took over the bottom half of the Notice Wall.

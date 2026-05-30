@@ -10,6 +10,7 @@ This repo is the public BL4CK4T site plus a private-in-practice worldbuilding wi
 - Existing blog content is soft canon. Preserve established details unless the user approves a continuity revision.
 - Cross-season continuity is mandatory. Before reporting a season draft complete or promoting a season to public blog posts, check it against prior seasons with `bl4ck4t-wiki/canon/cross-season-continuity-standard.md` and update `bl4ck4t-wiki/canon/continuity-timeline.md`.
 - Keep real-world cybersecurity inspiration separated from public-facing fiction. Real sources may inform lessons, villain archetypes, tools, TTPs, and incidents, but public stories should transform them into BL4CK4T-world equivalents.
+- Transformation must preserve technical texture. Public fiction should include safe cybersecurity vocabulary, system cause/effect, and defender-side actions from `bl4ck4t-wiki/style-guides/technical-texture-standard.md`; do not let fictional artifacts replace the underlying cyber concept.
 - Youth-safety and ethics matter. Avoid operationally harmful instructions, real target details, or step-by-step abuse paths in public stories. Frame skills around consent, defense, curiosity, and responsible disclosure.
 - Draft first. Create article drafts under `bl4ck4t-wiki/drafts/` unless the user explicitly asks to publish directly into `content/blogs/`.
 - Run `TROPES.md` validation before any user-facing document is published to the site. User-facing means anything in `content/blogs/`, `content/projects/`, or otherwise visible from the main site.
@@ -64,12 +65,13 @@ This repo is the public BL4CK4T site plus a private-in-practice worldbuilding wi
 5. Before importing a historical documentary treatment into BL4CK4T-world story material, follow `bl4ck4t-wiki/style-guides/historical-documentary-import-workflow.md`.
 6. Only after that historical account is complete may the season decompose the event into fictional villains, districts, artifacts, missions, and episode drafts.
 7. Keep each season focused on one major historical lesson and one emotional growth arc for the Script Kitties.
-8. Create or update support canon pages for new characters, factions, villains, locations, institutions, systems, artifacts, and recurring concepts while the story arc and production bible are being built.
-9. Create a production bible before creating episode mission packets for a historically inspired season.
-10. For Season 1 specifically, do not publish any episode until all episodes and the Season 2 cliffhanger are drafted, vetted, and approved.
-11. For every season after the pilot, create or update a continuity audit under `bl4ck4t-wiki/reports/` before publication.
-12. Before publishing any season, run the quality gate in `bl4ck4t-wiki/style-guides/season-release-quality-gate.md` against all drafts and final public posts.
-13. Do not publish a season arc or production bible as public content by itself; they guide article generation.
+8. During import and drafting, apply `bl4ck4t-wiki/style-guides/technical-texture-standard.md` so each episode keeps safe technical terms and recognizable cybersecurity cause/effect in the story body.
+9. Create or update support canon pages for new characters, factions, villains, locations, institutions, systems, artifacts, and recurring concepts while the story arc and production bible are being built.
+10. Create a production bible before creating episode mission packets for a historically inspired season.
+11. For Season 1 specifically, do not publish any episode until all episodes and the Season 2 cliffhanger are drafted, vetted, and approved.
+12. For every season after the pilot, create or update a continuity audit under `bl4ck4t-wiki/reports/` before publication.
+13. Before publishing any season, run the quality gate in `bl4ck4t-wiki/style-guides/season-release-quality-gate.md` against all drafts and final public posts.
+14. Do not publish a season arc or production bible as public content by itself; they guide article generation.
 
 ## TROPES.md Validation
 

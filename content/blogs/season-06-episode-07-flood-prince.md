@@ -38,6 +38,8 @@ The crowd did not like the question mark.
 
 "Anyone can sign a wall," Cipher said.
 
+Jinx added a second row beneath the boxes: `traffic pattern`, `timing`, `source diversity`, `taunt`, `confidence`, and `alternative explanations`. The crown filled only one field.
+
 ### The Drop
 
 BL4CK4T's pawprint appeared beside Jinx's four boxes with a message: `A MASK CAN CONFESS. A MASK CAN LIE. EITHER WAY, CHECK THE ROOM.`
@@ -57,6 +59,8 @@ More crown marks appeared that afternoon.
 One was copied by a student who thought it looked cool. One was scratched into a bench by someone who had no idea what it meant. One arrived on a blank receipt that might have been real, copied, or planted.
 
 Jinx kept sorting: claim, evidence, inference, unknown. The boxes made the mystery less satisfying and more honest.
+
+The traffic pattern still mattered more than the crown. The repeated requests came through many paths, at uneven times, with enough noise that a single mark could not explain the whole flood.
 
 Pixel watched her move a copied crown into the claim box. "What if the Flood Prince wants us to spend all day arguing about him?"
 

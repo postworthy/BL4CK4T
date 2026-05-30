@@ -38,6 +38,8 @@ Cipher arrived with three cards and placed them on the table: `KNOWN`, `UNKNOWN`
 
 "Plain is allowed to be true," Cipher said.
 
+He added five smaller fields under the cards: `service state`, `scope`, `confidence`, `workaround`, and `next update`.
+
 Whiskers looked at the crossed-out headline. "If I say we do not know yet, it sounds weak."
 
 Cipher sorted service notes into the three piles. "If you guess, it may sound strong for one minute. Then the next fact will make it weaker."
@@ -55,6 +57,8 @@ Whiskers did not like how accurate that felt, but he started again.
 `UNKNOWN: The full source of the pressure and the complete service impact.`
 
 `NEXT ACTION: Use posted fallback desks. Critical services will receive priority lanes. Next update at sunset.`
+
+The clerk copied the fields beneath the update so every card showed who owned the next check and how confident the team was.
 
 The clerk read it once. "You want the unknowns on the public wall?"
 

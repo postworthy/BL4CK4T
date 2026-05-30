@@ -20,6 +20,8 @@ Jinx removed the skull. "Rude," Pixel said, and Jinx shook her head. "Unsupporte
 
 Cipher divided the board into four columns: confirmed rooms, likely paths, ruled-out paths, unknowns.
 
+Jinx added three small fields to every card: timestamp, copy count, and room state. A room did not become confirmed just because a screen showed a marker. It needed a matching count, a matching time, and a physical check from Shadow or a caretaker.
+
 ### The Drop
 
 BL4CK4T's message appeared on the cleanest part of the board: `MAP THE COPIES. SKIP THE BLAME.`

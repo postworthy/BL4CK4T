@@ -31,6 +31,10 @@ Whiskers drafts a false-sounding `under control` notice, then learns to publish 
 - Defensive habit: communicate what is known, what is affected, what is being done, and when the next update comes.
 - Season thread: availability is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds status-update fields for service state, scope, confidence, workaround, next update, owner, and next check.
+
 ## Continuity Checks
 
 - Character consistency: Whiskers' wound and growth are centered.

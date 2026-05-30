@@ -28,6 +28,8 @@ The red light blinked.
 
 Across the room, a retired learning terminal woke under a dust cover.
 
+That was propagation: the process had found a reachable path outside the named sandbox. It did not have to be clever. It only had to keep copying where Byte had not expected it to reach.
+
 ### The Drop
 
 Shadow reached the old terminal first. Its screen showed one blue marker in a room Byte had never drawn.

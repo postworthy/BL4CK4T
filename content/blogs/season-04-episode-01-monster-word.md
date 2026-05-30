@@ -48,6 +48,8 @@ Jinx took out her notebook and drew three boxes.
 
 "The phone call is real," she said. "The word is real. The monster part is a claim."
 
+Cipher checked the First Bell call record. It showed a time, a line, and the message Ms. Vale wrote down. It did not show a face, a name, or proof of who had spoken.
+
 ### The Lesson Begins
 
 By lunch, students had already improved the rumor into a whole story.

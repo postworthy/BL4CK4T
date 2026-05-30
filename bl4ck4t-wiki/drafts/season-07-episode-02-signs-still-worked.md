@@ -27,6 +27,10 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: pair urgent repairs with testing, communication, and rollback planning.
 - Season thread: maintenance is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds missing test group, change window, rollback note, risk owner, inventory, and owner checklist details.
+
 ## Continuity Checks
 
 - Character consistency: Whiskers avoids blame; Grimalkin asks for rollback.

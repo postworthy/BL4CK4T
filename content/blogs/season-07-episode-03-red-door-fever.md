@@ -24,6 +24,8 @@ The nurse stopped mid-number. The kitten beside her mother hugged a paper form t
 
 Jinx drew a square in her notebook and colored it red.
 
+Shadow checked the board record. Same cabinet family. Same affected version. Public-facing endpoint.
+
 ### More Doors
 
 The second door appeared on a weather panel. The third appeared above a library desk. The fourth flashed on a school lunch counter and vanished before the line moved.
@@ -37,6 +39,8 @@ Shadow checked the back of the clinic board. No broken glass. No new sticker. No
 "Same cabinet family," he said.
 
 Jinx added three lines to her map and circled the shared cabinet mark. "The old repair notice was not about one sign."
+
+She wrote two counts beside the circle: affected boards and reachable boards. The first showed what was already red. The second showed how far the fever could travel if the family stayed exposed.
 
 ### The Red Clerk Watches
 

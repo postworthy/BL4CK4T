@@ -31,6 +31,10 @@ The flood fades and Cybertropolis keeps the useful parts of the response: Status
 - Defensive habit: review incidents and turn useful response habits into normal practice.
 - Season thread: availability is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds after-action cards for traffic baseline, filter-rule review, exception-queue notes, missed-workaround list, continuity drills, and safe rollback of emergency filters.
+
 ## Continuity Checks
 
 - Character consistency: Whiskers completes the uncertainty arc; Jinx keeps the Service Map alive.

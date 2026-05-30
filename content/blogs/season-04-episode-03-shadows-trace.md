@@ -24,6 +24,8 @@ The old payphone booth at the center had one blinking route light above it. Gree
 
 Shadow crouched beside the booth. "It was active recently."
 
+Grimalkin checked the public route log beside the booth. It showed booth activity, route-light timing, and a maintenance badge record. It did not show who had stood there.
+
 ### The Drop
 
 BL4CK4T's message appeared on the booth display: `A TRACE IS A QUESTION WITH DUST ON IT.`

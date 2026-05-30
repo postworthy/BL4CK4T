@@ -50,6 +50,8 @@ Pixel picked up one of the blank receipts and held it against the lamp.
 
 Cipher nodded. "The Message Office can receive the question. It cannot finish the answer."
 
+The intake counter showed the same pattern: request accepted, response incomplete, queue count rising. The harm was in the gap between received and answered.
+
 Ms. Vale arrived with a stack of paper forms from the clinic. "Same at the appointment desk," she said. "The names are still there. People cannot submit new ones through the board."
 
 Pixel looked back at the beautiful ledger. For the first time, its neatness made sense. The old world was still arranged. The next action was jammed in the doorway.
@@ -71,6 +73,8 @@ The third filled so quickly that he had to fetch a larger tray.
 Cipher added labels to the new pile: clinic board, lunch counter, public notice window, Message Office receipts, library shelf. Then he drew a line beneath them and wrote:
 
 `No known theft. No known rewrite. Access delayed or incomplete.`
+
+Pixel added a smaller number beside each label: incomplete responses since the last bell.
 
 "That sounds less exciting than a villain," Pixel said.
 

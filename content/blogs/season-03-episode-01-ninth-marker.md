@@ -20,6 +20,8 @@ Pixel stood over the glass with both paws on the table. "Yesterday there were ei
 
 Byte checked the frozen record twice. "The plan expected eight."
 
+The simulator had not drawn a new room by accident. It had recorded one more process marker than the test plan allowed: an unexpected copy event, small enough to fit on the glass and wrong enough to stop the room.
+
 Jinx slid the print strip beside the old `-0.75` sleeve. The number had opened one mystery. The ninth marker was trying to open another.
 
 Whiskers looked around the room. "Nobody touches the controls until we know what we are looking at."

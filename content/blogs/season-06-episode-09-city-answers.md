@@ -24,6 +24,8 @@ Now the bell ledger showed a blank line. Jinx did not call that fixed; she calle
 
 The Script Kitties gathered around the Service Map, which no longer fit on one table. Tape held two corners down. Pixel had drawn small faces beside waiting rooms. Byte had added removable lane markers. Shadow had written outside-gate notes in the margins. Grimalkin had attached a paper schedule for review bells.
 
+Jinx added the after-action cards: traffic baseline, filter-rule review, exception-queue notes, missed-workaround list, and continuity drill schedule.
+
 Whiskers brought the final Status Wall update.
 
 `Most affected civic services have returned to normal or fallback-supported operation. Some causes remain under investigation. The city will keep the Status Wall, Service Map reviews, priority lane rules, and fallback desk drills.`
@@ -41,6 +43,8 @@ BL4CK4T's pawprint appeared on the Service Bell ledger with a two-line note: `RE
 Jinx underlined the second sentence.
 
 The team walked the city before the final bell. At the clinic, the board answered and the paper forms stayed ready in a drawer. At the school office, roster updates showed a fallback note. At the outside gate, the help slot remained posted with a review time. At the Message Office, blank receipts no longer flooded the basket, but Ms. Vale kept the `blocked` tray.
+
+The city did not keep every emergency filter turned on. It kept the lessons: what normal traffic looked like, when to narrow a path, who could approve an exception, and when to undo the limit.
 
 "I used to think a closed incident meant we put everything away," Pixel said.
 

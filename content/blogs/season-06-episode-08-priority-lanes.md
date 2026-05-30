@@ -80,6 +80,8 @@ The board kept three facts visible:
 
 `When delayed lanes will be reviewed`
 
+Byte added three more fields after Grimalkin tapped the pencil twice: `rate limit`, `fallback owner`, and `escalation point`. A lane could not stay prioritized forever without a review threshold.
+
 A lunchroom volunteer read the board, then moved a box of meal cards to the essential lane before anyone asked. A library caretaker offered to pause non-class holds until the next update. The theater group grumbled, then used the delay to paint props.
 
 No one loved the system. More people understood it.
@@ -95,6 +97,8 @@ Byte looked at the green-ribbon pencil. "My model missed the volunteer lunch car
 Whiskers posted the priority rules on the Status Wall and added a line at the bottom.
 
 `If this priority list creates harm we have missed, report it at the fallback desk.`
+
+Under that, Jinx added: `Review when queue depth changes, when a critical lane slows, or at each bell, whichever comes first.`
 
 The Flood Prince's crown mark appeared on a delayed theater slip.
 

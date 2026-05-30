@@ -30,6 +30,8 @@ Below that came more fields:
 
 `What remains unknown?`
 
+Together with the shared evidence channel, the form became the Civic Learning Grid's small-anomaly incident-response workflow: not loud, not glamorous, but ready before the next thread appeared.
+
 Ms. Vale watched from the help counter with a mug of tea and the exhausted pride of someone who had survived a month of meetings.
 
 "Your fingerprints are on that form," she said.

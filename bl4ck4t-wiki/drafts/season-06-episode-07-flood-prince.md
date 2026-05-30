@@ -31,6 +31,10 @@ A crown-marked claim appears and tries to define the incident as harmless attent
 - Defensive habit: separate what is known, alleged, inferred, and unknown.
 - Season thread: availability is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds attribution fields for traffic pattern, timing, source diversity, taunt, confidence, and alternative explanations while keeping the crown mark as a claim.
+
 ## Continuity Checks
 
 - Character consistency: Cipher protects attribution discipline; Jinx sorts evidence; Whiskers names harm.

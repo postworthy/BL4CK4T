@@ -34,3 +34,6 @@ Good evidence work labels the state of each claim.
 - Safety review: No tracking method.
 - TROPES.md validation: passed after public promotion.
 
+## Technical Texture Remediation
+
+- Public copy now adds source, timestamp, confidence, and corroboration fields before evidence can move to `CONFIRMED`.

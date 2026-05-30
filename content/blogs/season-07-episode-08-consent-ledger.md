@@ -18,6 +18,8 @@ The cleanest repair had the emptiest row.
 
 Jinx laid the Consent Ledger open beneath the restored weather board. The board showed the right forecast. The row below it had no owner approval, no change note, no rollback card, and no caretaker signature.
 
+It also had no affected-asset name, no patch version, no notification record, no verification result, and no closeout mark.
+
 Byte held the silver pawprint in his paw.
 
 "It did the part everyone can see," he said.
@@ -41,6 +43,8 @@ That bothered Pixel most at the toy-library board, where younger kittens kept to
 Byte returned to the hideout and rebuilt his repair model.
 
 This time, the green sign could not light until four tabs were attached: `SOURCE`, `CONSENT`, `NOTICE`, `ROLLBACK`.
+
+Jinx added three more tabs before she let him test it: `ASSET`, `VERSION`, `VERIFY`.
 
 The model looked slower than the Helpful Ghost. It also looked calmer.
 

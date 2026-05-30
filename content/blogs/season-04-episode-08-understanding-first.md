@@ -82,6 +82,8 @@ Jinx handed over the Chase Map and the receiver slip.
 
 "Knowns, unknowns, harm, and recommended response," she said.
 
+Ms. Vale sealed the receiver slip in an evidence sleeve. The Glass Bureau clerk marked the Caller identity restricted until the repair path, affected-student notices, and review steps were set.
+
 The Caller looked at the floor.
 
 "Am I still the monster?"

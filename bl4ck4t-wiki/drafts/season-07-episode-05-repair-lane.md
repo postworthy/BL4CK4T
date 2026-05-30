@@ -27,6 +27,10 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: use trusted sources, signatures, public status, and rollback notes.
 - Season thread: maintenance is part of trust.
 
+## Technical Texture Remediation
+
+- Public copy now adds integrity mark verification, matching repair record, patch-state shelf, verified state, and separate installation record.
+
 ## Continuity Checks
 
 - Character consistency: Byte builds; Jinx verifies.
