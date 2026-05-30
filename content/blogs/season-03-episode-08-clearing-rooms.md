@@ -18,7 +18,7 @@ The Copycat Sprite had stopped spreading.
 
 Pixel expected the room to cheer. The room did paperwork.
 
-Restore slips covered the table. Each one named a room, a counter, a class tool, a caretaker, and a final check.
+Restore slips covered the table. Each one named a room, a resource counter, a process-slot check, a trust-path check, a class tool, a caretaker, and a final check.
 
 Ms. Vale wrote `known good state` across the top of the stack. "This is what each room looked like before the test touched it. We recover to this, not to whatever looks quiet first."
 
@@ -44,7 +44,7 @@ Room three cleared after Shadow found a stuck fan relay.
 
 Room four cleared after Cipher matched the lesson printer count to the map.
 
-Each slip needed the same agreement: counter normal, class tool working, room light cool, physical check complete. If any one line failed, the room stayed in recovery.
+Each slip needed the same agreement: resource counter normal, process slots free, class tool working, room light cool, trust path reviewed, physical check complete. If any one line failed, the room stayed in recovery.
 
 Room five did not clear.
 
@@ -58,7 +58,7 @@ Byte lowered the green marker.
 
 ### The Hum Behind The Wall
 
-The hum belonged to a forgotten practice panel still waiting for a copy count that no longer existed. It was not dangerous. It was unfinished.
+The hum belonged to a forgotten practice panel still holding a process slot for a copy count that no longer existed. It was not dangerous. It was unfinished.
 
 Byte added a note to the restore slip and waited for Ms. Vale before resetting the panel.
 
@@ -86,4 +86,4 @@ Grimalkin shook his head. "Recovery over. Lesson still open."
 
 After the Morris Worm spread, affected sites had to do more than stop new copies. They had to understand what had happened, restore usable service, prevent reentry, and decide when systems could be trusted again. Some places disconnected, cleaned, rebuilt, or applied emergency measures. Recovery was labor, not a single dramatic moment.
 
-The restore slips turn that quieter historical work into an episode. A room that looks calm is not automatically recovered, just as a system that stops showing symptoms is not automatically trustworthy. The episode keeps the cleanup concrete: counters, tools, physical checks, and signed records must agree before the team calls anything clear.
+The restore slips turn that quieter historical work into an episode. A room that looks calm is not automatically recovered, just as a system that stops showing symptoms is not automatically trustworthy. The episode keeps the cleanup concrete: resource counters, process slots, trust-path checks, tools, physical checks, and signed records must agree before the team calls anything clear.

@@ -5,8 +5,8 @@ season: "season-07-the-patch-bell-war"
 seasonNumber: 7
 episodeNumber: 6
 episodeTitle: "The Helpful Ghost"
-description: "A silver repair force fixes signs without permission."
-longDescription: "The team finds boards that look repaired, but the Consent Ledger is blank, and Byte has to face why clever repair without permission is still wrong."
+description: "A silver repair force fixes terminals and boards without permission."
+longDescription: "The team finds City Runtime systems that look repaired, but the Consent Ledger is blank, and Byte has to face why clever repair without permission is still wrong."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"
 tags: ["story", "script-kitties", "cybersecurity", "patching", "season-7"]
 readTime: 5
@@ -20,41 +20,29 @@ Yesterday it had flashed a red door every seven minutes. By morning it showed su
 
 Byte leaned closer. "That is clean work."
 
-Shadow checked the back panel. "No caretaker tag."
+Shadow checked the service-room record. "No caretaker tag."
 
 "Still clean," Byte said, softer this time.
 
-### Silver Marks
+### Silver Repairs
 
-They found six more boards with silver pawprints. Each one had stopped showing red doors. Each one had skipped the Repair Lane. Each one left the Consent Ledger blank.
+They found six more silver marks before noon.
 
-The marks followed the same reachable cabinet family faster than any caretaker route. The traffic lamps around those boards flickered from the extra repair chatter even after the signs looked fixed.
+A library checkout terminal stopped restarting. A permit counter held its form. A clinic intake station accepted room numbers again. Two public boards stopped showing red doors. One school desk terminal came back with the correct runtime version and no repair card.
 
-Citizens noticed the fixed signs first.
+Each system looked better, and each one had skipped the Repair Lane. Each one left the Consent Ledger blank.
+
+The silver repairs moved faster than any caretaker route. The service-room lamps flickered from extra update chatter even after the affected terminals looked calm.
 
 "If it works, why are you worried?" a shopkeeper asked.
 
-Jinx turned the ledger around. "Because no one knows what changed."
-
-The shopkeeper looked at the blank row. The fixed board above her store gave the correct hours. That made the argument harder, not easier.
+Jinx turned the blank ledger row toward her. "Because no one knows what changed."
 
 ### Missing Permission
 
-Byte built a small model in the hideout: a red door, a silver pawprint, and a green sign that worked afterward.
+Byte built a small model in the hideout: an old runtime terminal, a silver pawprint, and a green screen that worked afterward.
 
-"It repairs the symptom," he said.
-
-Shadow moved a second card into the model: `OWNER NOT ASKED`.
-
-Byte frowned.
-
-Jinx added `ROLLBACK UNKNOWN`.
-
-Cipher added `SOURCE UNKNOWN`.
-
-Grimalkin added `NEW TRUST PROBLEM`.
-
-Shadow added `PATCH STATE UNKNOWN` and `REVERIFY ALL`.
+"It repairs the symptom," he said. Shadow moved a second card into the model: `OWNER NOT ASKED`. Jinx added `ROLLBACK UNKNOWN`. Cipher added `SOURCE UNKNOWN`. Grimalkin added `NEW TRUST PROBLEM`, and Shadow added `REVERIFY ALL`.
 
 The model no longer looked clever. It looked crowded.
 
@@ -71,7 +59,7 @@ Outside, the fixed weather board kept telling the truth. The blank ledger kept t
 ## Teaching Tie-In
 
 - Concept: unauthorized repair.
-- Story idea: the Helpful Ghost fixes signs but skips approval, records, and rollback.
+- Story idea: the Helpful Ghost fixes runtime symptoms but skips approval, records, and rollback.
 - Key distinction: a working change can still be untrusted if no one authorized or recorded it.
 - Defensive habit: require consent, source checks, change records, and rollback plans for repairs.
 - Season thread: maintenance is part of trust.
@@ -80,4 +68,4 @@ Outside, the fixed weather board kept telling the truth. The blank ledger kept t
 
 Welchia/Nachi is the moral complication at the center of this season's historical anchor. It appeared after Blaster and attempted to remove Blaster and install fixes, but it still spread without authorization and caused disruption. Even if behavior looks helpful, a self-spreading repair that enters systems without consent creates a new security and operations problem.
 
-The Helpful Ghost is built around that tension. The fixed signs make Byte's admiration understandable, and the blank Consent Ledger makes the danger visible. The episode preserves the real lesson: technical success is not the same as trustworthy repair when owners, records, source checks, and rollback paths are missing.
+The Helpful Ghost is built around that tension. The fixed terminals and boards make Byte's admiration understandable, and the blank Consent Ledger makes the danger visible. The episode preserves the real lesson: technical success is not the same as trustworthy repair when owners, records, source checks, and rollback paths are missing.

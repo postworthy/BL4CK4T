@@ -2,7 +2,7 @@
 type: historical-documentary-treatment
 status: complete
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 tags: [season-7, documentary, msblaster, welchia, patching]
 historical_account: ../historical-accounts/msblaster-welchia-worm-era.md
 ---
@@ -93,7 +93,7 @@ A computer restarts before its user can save work. Somewhere else, a public-serv
 ## Recurring Motifs
 
 - Red mark: a known flaw waiting while the system still appears to work.
-- Restart weather: visible disruption from invisible maintenance failure.
+- Restart loops: visible endpoint disruption from invisible maintenance failure.
 - Repair lane: the trusted path between warning and fix.
 - Silver helper: the moral danger of help without consent.
 - Bell: the public signal that maintenance cannot be silently deferred.

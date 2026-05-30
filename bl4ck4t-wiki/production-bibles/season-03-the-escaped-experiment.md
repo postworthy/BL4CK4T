@@ -2,7 +2,7 @@
 type: production-bible
 status: released
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 tags: [season-3, production, containment, byte, morris-worm]
 sources:
   - ../seasons/season-03-the-escaped-experiment.md
@@ -75,7 +75,7 @@ Byte can make the Copycat Sprite run. The season asks whether Byte can make it s
 Use:
 
 - bright lab tension;
-- counters, rooms, maps, bells, and restore slips;
+- resource counters, process slots, trust paths, rooms, maps, bells, and restore slips;
 - suspense built from copying, delay, and uncertainty;
 - practical response work;
 - Byte's maker pride under pressure;
@@ -96,6 +96,18 @@ Avoid:
 ### Copycat Sprite
 
 The Copycat Sprite begins as a toy process inside a learning simulator after Season 2. It should remain fictional, visual, and story-level.
+
+### Resource Counters
+
+Resource Counters are visible capacity indicators for affected learning rooms and lab systems. They should show copy count, queue pressure, tool delay, fan strain, and room availability so the public reader understands that the incident causes resource pressure without needing real worm mechanics.
+
+### Process Slots
+
+Process Slots are the limited running spaces available to learning-room tasks. The Copycat Sprite becomes harmful when extra copies occupy slots that students and caretakers need for ordinary work.
+
+### Trust Paths
+
+Trust Paths are older approved connections between learning systems. They are the clear BL4CK4T-world equivalent for inherited trust relationships and explain how the incident moves beyond Byte's intended sandbox.
 
 ### The Old Stack
 
@@ -119,11 +131,11 @@ The First Bell Desk becomes the city's standing lab incident coordination point.
 
 | Ep | Title | Function | Lead | Lesson | Recurring object |
 | --- | --- | --- | --- | --- | --- |
-| 1 | The Ninth Marker | Pick up Season 2 cliffhanger | Pixel, Byte | unexpected behavior | ninth marker |
-| 2 | The Sandbox Door | Define test boundary | Byte | safe testing | sandbox door |
-| 3 | More Than Once | Boundary failure | Byte, Jinx | propagation | copy counter |
-| 4 | Slow Rooms | Show impact | Shadow, Whiskers | resource pressure | stalled queues |
-| 5 | The Copy Map | Build evidence | Jinx, Cipher | evidence before blame | copy map |
+| 1 | The Ninth Marker | Pick up Season 2 cliffhanger | Pixel, Byte | unexpected behavior | ninth marker and process slot |
+| 2 | The Sandbox Door | Define test boundary | Byte | safe testing | sandbox door and resource counters |
+| 3 | More Than Once | Boundary failure | Byte, Jinx | propagation | trust path and copy counter |
+| 4 | Slow Rooms | Show impact | Shadow, Whiskers | resource pressure | process slots and stalled queues |
+| 5 | The Copy Map | Build evidence | Jinx, Cipher | evidence before blame | copy map and trust-path cards |
 | 6 | Grimalkin's Bell | Coordinate response | Grimalkin | incident response | bell desk |
 | 7 | The Builder's Note | Accountability | Byte | intent and impact | builder note |
 | 8 | Clearing The Rooms | Recovery | full team | rollback and recovery | restore slips |

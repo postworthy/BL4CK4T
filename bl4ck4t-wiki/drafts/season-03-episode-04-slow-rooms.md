@@ -2,7 +2,7 @@
 type: article-draft
 status: published
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 target_slug: season-03-episode-04-slow-rooms
 tags: [season-3, draft, containment]
 sources:
@@ -33,7 +33,7 @@ The sprite copies do not destroy rooms, yet they stall queues, printers, and cla
 
 ## Technical Texture Remediation
 
-- Public copy now expands resource-pressure impact through occupied counters, waiting queues, caretaker time, unavailable class tools, and no file destruction.
+- Public copy now expands resource-pressure impact through occupied process slots, rising resource counters, waiting queues, caretaker time, unavailable class tools, and no file destruction.
 
 ## Teaching Tie-In
 

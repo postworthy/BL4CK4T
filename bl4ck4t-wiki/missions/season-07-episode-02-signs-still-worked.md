@@ -2,10 +2,10 @@
 type: mission
 status: complete
 created: 2026-05-29
-updated: 2026-05-29
-tags: [season-7, episode-2, maintenance]
+updated: 2026-05-30
+tags: [season-7, episode-2, maintenance-risk, city-runtime]
 sources: [../production-bibles/season-07-the-patch-bell-war.md]
-concepts: [../concepts/patch-debt.md]
+concepts: [../concepts/patch-debt.md, ../concepts/city-runtime.md, ../concepts/rollback-and-recovery.md]
 lessons: []
 villains: [../villains/red-clerk.md]
 characters: [../characters/whiskers.md, ../characters/grimalkin.md]
@@ -16,44 +16,32 @@ locations: [../locations/civic-pages-district.md]
 
 ## Summary
 
-The team meets the Red Clerk and learns why he delayed the repair: the signs still worked, and an old update once broke public boards.
-
-## Canon Status
-
-Draft canon until public release.
+The Red Clerk explains that he delayed a known City Runtime repair because visible systems still worked and a past update once caused disruption.
 
 ## Featured Characters
 
-- Whiskers keeps blame from replacing understanding.
-- Grimalkin asks what rollback plan existed.
-
-## Location
-
-- The quiet sign archive beneath Civic Pages.
-
-## Villain Or Conflict
-
-- Red Clerk represents delay justified by fear of change.
+- Whiskers distinguishes public calm from responsible ownership.
+- Grimalkin reframes past repair failure as a reason for rollback planning.
 
 ## Lesson Payload
 
-- Concept: [Patch Debt](../concepts/patch-debt.md).
-- Defensive takeaway: past repair failure should lead to rollback planning, not permanent delay.
-- Teacher note: stable-looking systems can still carry known risk.
-
-## Real-World Inspiration
-
-- Organizations had to move from bulletin awareness to actual patch deployment.
-
-## Public Transformation Notes
-
-- Patch testing and operational caution become old sign archive hesitation.
-
-## Safety Constraints
-
-- No real product procedures.
-- Emphasize change planning and rollback.
+- Concept: [Patch Debt](../concepts/patch-debt.md) and [Rollback And Recovery](../concepts/rollback-and-recovery.md).
+- Defensive takeaway: fear of breaking something should produce rollback planning, not indefinite delay.
+- Teacher note: still working is not the same as still safe.
 
 ## Episode Hook
 
-A room of perfect signs hides a drawer of overdue red cards.
+The Red Clerk opens a perfectly ordered drawer of repair notices labeled `WHEN QUIET`.
+
+## Real-World Inspiration
+
+- Real patch deployment decisions involve compatibility, downtime, testing, and operational risk.
+
+## Public Transformation Notes
+
+- The affected list names desk terminals, service-room machines, and public boards instead of hiding behind vague cabinet-language.
+
+## Safety Constraints
+
+- Avoid exploit detail.
+- Keep the Red Clerk morally complex but wrong.

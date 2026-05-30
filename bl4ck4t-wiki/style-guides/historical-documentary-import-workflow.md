@@ -28,15 +28,68 @@ Before writing the BL4CK4T-world story arc, read:
 ## Import Steps
 
 1. Map the documentary movements to fictional season movements.
-2. Identify the story function of each historical person, institution, system, mechanism, clue, location, and consequence.
-3. Record the safe technical texture for each movement: technical terms that should survive into public prose, defender-side actions that can be shown, and operational details that must remain private.
-4. Search the wiki for an existing BL4CK4T-world entity that already fits each function.
-5. Reuse existing entities when continuity supports reuse.
-6. Create a new wiki page during import when the story needs a new named character, faction, villain, location, institution, system, artifact, or recurring concept.
-7. Record how each new entity enters the season in the season story arc and production bible.
-8. Update [Continuity Timeline](../canon/continuity-timeline.md) or [Open Threads](../canon/open-threads.md) when the import changes durable canon.
-9. Update [Index](../index.md) and [Log](../log.md).
-10. Run `pnpm wiki:check` before treating the imported story arc as complete.
+2. Create a pre-translation import inventory before writing the BL4CK4T-world story arc.
+3. Identify the story function of each historical person, institution, system, mechanism, clue, location, and consequence.
+4. Record the safe technical texture for each movement: technical terms that should survive into public prose, defender-side actions that can be shown, and operational details that must remain private.
+5. Search the wiki for an existing BL4CK4T-world entity that already fits each function.
+6. Reuse existing entities only when continuity and historical clarity both support reuse.
+7. Create a new wiki page during import when the story needs a new named character, faction, villain, location, institution, system, artifact, or recurring concept.
+8. Record how each new entity enters the season in the season story arc and production bible.
+9. Update [Continuity Timeline](../canon/continuity-timeline.md) or [Open Threads](../canon/open-threads.md) when the import changes durable canon.
+10. Update [Index](../index.md) and [Log](../log.md).
+11. Run `pnpm wiki:check` before treating the imported story arc as complete.
+
+## Pre-Translation Import Inventory
+
+Before translating a historical account or documentary treatment into BL4CK4T fiction, create an import inventory under `bl4ck4t-wiki/reports/` or inside the season production-control artifact. This inventory prevents the story from forcing historically important systems into confusing pre-existing metaphors.
+
+The inventory must list candidate imports from the historical story:
+
+- infrastructure and platforms;
+- user-facing systems and ordinary devices;
+- back-end systems and dependencies;
+- logs, records, artifacts, and technical clues;
+- defender roles, institutions, and workflows;
+- adversary patterns and motive classes;
+- legal, policy, or aftermath structures;
+- human-impact settings where the technical event becomes visible.
+
+For each candidate, decide one of four outcomes:
+
+- `reuse`: an existing BL4CK4T entity already maps clearly to the historical function;
+- `create`: the season needs a new first-class BL4CK4T entity or infrastructure layer;
+- `merge`: an existing entity should be expanded because the fit is clear but incomplete;
+- `omit`: the detail is historically real but not needed for the season's story or would create unsafe operational detail.
+
+The import inventory should be complete before episode drafting starts. If drafting later reveals a missing historical system, pause and update the inventory and wiki support pages before continuing.
+
+## Infrastructure Fidelity Rule
+
+Historical fidelity comes before reuse of existing lore. If the real event depends on infrastructure, roles, systems, or behaviors that Cybertropolis does not yet have, introduce the needed BL4CK4T-world element clearly instead of forcing the event through an existing metaphor.
+
+Use existing lore when the fit is direct and easy to explain. Do not stretch a prior artifact, district, or concept merely because it is already available. A new fictional element is better than a strained analogy when the new element makes the historical mechanism clearer.
+
+Before drafting, identify:
+
+- the real systems the historical event affected;
+- the real dependencies that made the event matter;
+- the real defender actions that shaped response;
+- the BL4CK4T-world systems that already map cleanly to those functions;
+- any missing BL4CK4T-world infrastructure that should be introduced.
+
+If a reader would need internal wiki language or several invented bridge terms to understand the analogy, redesign the translation. The public story should make the fictional equivalent feel natural before it becomes plot-critical.
+
+## Analogy Fit Test
+
+For each episode-level movement, answer these questions before drafting or publishing:
+
+- What real historical system, behavior, or consequence is this scene translating?
+- What BL4CK4T-world element represents it?
+- Would a reader understand that element from the episode itself?
+- Are we reusing an existing concept because it truly fits, or because it is convenient?
+- Would a new piece of city infrastructure make the historical idea clearer?
+
+If the answer requires a stretched explanation, introduce clearer infrastructure and add the corresponding wiki support page during the same work.
 
 ## Technical Texture Requirement
 

@@ -2,7 +2,7 @@
 type: villain
 status: active
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 tags: [villain, season-7, unauthorized-repair, consent]
 sources:
   - ../story-arcs/season-07-the-patch-bell-war-arc.md
@@ -16,11 +16,11 @@ lessons: []
 
 ## Summary
 
-The Helpful Ghost is the Season 7 adversary force for help without consent. It appears to repair Red Door fever, but it enters systems without approval, changes what it finds, and disrupts the city's ability to trust its own repair process.
+The Helpful Ghost is the Season 7 adversary force for help without consent. It appears to repair City Runtime symptoms on desk terminals, public boards, and service-room machines, but it enters systems without approval, changes what it finds, and disrupts the city's ability to trust its own repair process.
 
 ## Public Motif
 
-- Silver pawprints beside patched doors.
+- Silver pawprints beside patched terminals, boards, and doors.
 - Quiet fixes with no ledger entry.
 - Repair notices that no caretaker signed.
 
@@ -34,7 +34,7 @@ Welchia/Nachi-style unauthorized self-spreading repair, forced cleanup, and the 
 
 ## Safe Tactic Abstraction
 
-Stories may say the Helpful Ghost enters fictional civic pages and applies fixes without permission. Do not describe real worm mechanics, scanning, payloads, or replication details.
+Stories may say the Helpful Ghost enters fictional runtime systems and applies fixes without permission. Do not describe real worm mechanics, scanning, payloads, or replication details.
 
 ## Defensive Lesson Mapping
 
@@ -44,6 +44,6 @@ Stories may say the Helpful Ghost enters fictional civic pages and applies fixes
 
 ## Episode Hooks
 
-- A public sign is fixed before any caretaker approves the repair.
-- Silver pawprints appear beside boards with blank Consent Ledger rows.
+- A public sign or desk terminal is fixed before any caretaker approves the repair.
+- Silver pawprints appear beside terminals and boards with blank Consent Ledger rows.
 - Byte builds a model that shows the missing source, consent, notice, and rollback pieces.

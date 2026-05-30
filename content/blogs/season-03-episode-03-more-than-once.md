@@ -28,7 +28,7 @@ The red light blinked.
 
 Across the room, a retired learning terminal woke under a dust cover.
 
-That was propagation: the process had found a reachable path outside the named sandbox. It did not have to be clever. It only had to keep copying where Byte had not expected it to reach.
+That was propagation: the process had found an old trust path outside the named sandbox. It did not have to be clever. It only had to keep copying where Byte had not expected it to reach.
 
 ### The Old Terminal Wakes
 
@@ -36,7 +36,7 @@ Shadow reached the old terminal first. Its screen showed one blue marker in a ro
 
 Pixel stared. "That room is not in the square."
 
-Byte's voice went thin. "It should not know that room exists."
+Byte's voice went thin. "It should not know that room exists unless an old trust path still connects it."
 
 Jinx lifted her pencil. "Known: one marker appeared on an old terminal. Known: the drawn sandbox did not include that terminal. Unknown: how it got there."
 
@@ -77,7 +77,7 @@ The printer clicked after everyone had gone silent.
 ## Teaching Tie-In
 
 - Concept: propagation means a process reaches places beyond the expected scope.
-- Story idea: the Copycat Sprite repeats past Byte's expected count and reaches old paths.
+- Story idea: the Copycat Sprite repeats past Byte's expected count and reaches old trust paths.
 - Key distinction: intent does not determine impact once a process escapes its boundary.
 - Defensive habit: separate known facts, feelings, and unknowns during response.
 - Season thread: The Old Stack becomes the first clear path beyond Byte's sandbox.
@@ -86,4 +86,4 @@ The printer clicked after everyone had gone silent.
 
 In the Morris Worm case, repeated copying mattered as much as initial access. The worm included behavior meant to prevent easy suppression, but that choice contributed to more copies than expected and made affected systems slow, unstable, or unusable. The central historical lesson is not magic or malice. It is that propagation can turn a limited idea into a larger incident once it reaches paths the builder did not fully understand.
 
-The retired terminal in The Old Stack carries that idea without reproducing real mechanics. Byte's problem is not only that the Copycat Sprite moved; it moved into a place his plan did not name. Jinx's board of knowns, feelings, and unknowns mirrors the discipline responders need when a spreading incident first becomes visible and nobody yet understands the full path.
+The retired terminal in The Old Stack carries that idea without reproducing real mechanics. Byte's problem is not only that the Copycat Sprite moved; it moved through a trust path his plan did not name. Jinx's board of knowns, feelings, and unknowns mirrors the discipline responders need when a spreading incident first becomes visible and nobody yet understands the full path.

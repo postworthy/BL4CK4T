@@ -18,7 +18,7 @@ The new desk looked too small for what it meant.
 
 One brass bell. One response binder. One map drawer. Three blank forms: first report, status update, recovery check.
 
-It was small, but it was standing incident-response infrastructure: a known place for lab tests, copied processes, and strange system behavior to become records before they became rumors.
+It was small, but it was standing incident-response infrastructure: a known place for lab tests, copied processes, process-slot pressure, trust-path surprises, and strange system behavior to become records before they became rumors.
 
 Grimalkin placed the bell in the center.
 
@@ -52,7 +52,7 @@ Students looked up, saw no one running, and went back to work. That was the poin
 
 Ms. Vale filed the Copycat Sprite packet in the new drawer. The label read:
 
-`Unexpected copying. Contained. Recovered. Practice changed.`
+`Unexpected copying. Trust path reviewed. Contained. Recovered. Practice changed.`
 
 Byte exhaled.
 
@@ -98,4 +98,4 @@ Grimalkin did not ring the bell. Not yet.
 
 The Morris Worm helped push networked computing toward more formal incident-response structures. Its aftermath is tied to the creation of CERT/CC and to a broader realization that connected systems need contact points, advisories, coordination, and practiced response before the next emergency arrives. The lesson was not only technical. It was institutional.
 
-The First Bell Desk is Cybertropolis learning the same habit. Byte's incident does not end with the Copycat Sprite stopped; it ends when the city has a handle for the next strange report. That is why the final bell matters: the season's real inheritance is a repeatable response practice, not a one-time victory.
+The First Bell Desk is Cybertropolis learning the same habit. Byte's incident does not end with the Copycat Sprite stopped; it ends when the city has a handle for the next strange report, including copied processes, resource pressure, and old trust paths. That is why the final bell matters: the season's real inheritance is a repeatable response practice, not a one-time victory.

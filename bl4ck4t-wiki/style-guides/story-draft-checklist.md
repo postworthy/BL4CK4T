@@ -28,6 +28,7 @@ Use this checklist before reporting a draft complete and again before promoting 
 - The story explains why the concept matters.
 - The story includes enough safe technical vocabulary that the concept is legible before the Teaching Tie-In.
 - Fictional artifacts illuminate the technical concept rather than replacing it.
+- Existing lore is reused only when it clearly fits the historical mechanism; otherwise the needed BL4CK4T-world infrastructure has been introduced and wiki-grounded.
 - At least one defender-side technical action, observation, or decision appears in the story.
 - The `Teaching Tie-In` is usable by a teacher or mentor.
 

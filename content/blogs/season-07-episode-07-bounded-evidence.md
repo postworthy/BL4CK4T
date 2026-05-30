@@ -5,8 +5,8 @@ season: "season-07-the-patch-bell-war"
 seasonNumber: 7
 episodeNumber: 7
 episodeTitle: "Bounded Evidence"
-description: "Cipher has to act before every unknown is gone."
-longDescription: "In the Rollback Room, Cipher learns that responsible emergency change can happen under bounded evidence when waiting would create more harm."
+description: "Cipher approves a limited emergency repair before every unknown is gone."
+longDescription: "Cipher learns that responsible defenders sometimes act under bounded evidence when waiting would let harm grow."
 cardImage: "https://bl4ck4t.com/script-kitties-crowd.jpg"
 tags: ["story", "script-kitties", "cybersecurity", "patching", "season-7"]
 readTime: 5
@@ -14,80 +14,66 @@ featured: true
 timestamp: 2026-05-29T00:00:00+00:00
 ---
 
-Cipher wrote three headings on the Rollback Room wall.
+The Rollback Room was quieter than Cipher wanted.
 
-`KNOWN`
+Quiet gave her room to imagine every wrong choice.
 
-`UNKNOWN`
+On the table sat the limited City Runtime repair card. It covered twenty-four desk terminals, seven public boards, four library checkout stands, two permit counters, and one service-room machine that handled update status. The card did not cover every affected system or solve every unknown; it defined a bounded first repair.
 
-`SAFE ENOUGH TO ACT`
+Cipher tapped the heading. "We still do not know why the Helpful Ghost reached some systems first."
 
-The third heading bothered her.
-
-Grimalkin brought restore cards from the shelf and sorted them by district. "We can reverse the school boards. The clinic notices have paper backup. The permit windows need a smaller batch."
-
-Cipher tapped the second heading. "We still do not know why the silver repairs choose some boards."
-
-"Correct," Grimalkin said.
-
-"We still do not know whether every cabinet in the family is affected."
-
-"Also correct."
-
-Pixel, sitting on a crate of old sign glass, lifted one paw. "Milo's desk restarted again."
-
-Cipher looked at the third heading.
+Grimalkin placed the rollback key beside the card. "We know enough to choose a smaller action with a way back."
 
 ### The Small Batch
 
-The repair plan fit on one page because Jinx made Byte rewrite it twice.
+Jinx read the evidence aloud.
 
-First: repair only the school boards with verified caretaker stamps.
+Known affected version. Known user harm. Known public symptoms. Known unsigned repairs. Known rollback shelf. Known owners for the first batch.
 
-Second: keep paper notices posted until the boards hold steady.
+Unknown full path. Unknown Helpful Ghost source. Unknown count of quiet systems.
 
-Third: record each change in the Consent Ledger.
+Pixel, sitting on a crate of old sign glass, lifted one paw. "Milo's desk restarted again."
 
-Fourth: rollback if the restart weather worsened.
+Cipher closed her eyes for one breath.
 
-Fifth: monitor the test group until the next bell.
+Then she wrote the decision sentence herself:
 
-Sixth: name Whiskers as the change owner while Cipher held the evidence call.
-
-The Red Clerk read the page. "That is not the full district."
-
-"No," Cipher said. "It is the part we can act on responsibly."
+`Approve limited runtime repair for listed owners. Notify before change. Roll back if failure grows. Reverify after restart. Continue investigation.`
 
 ### The Call
 
-Whiskers waited beside the Status Wall while Cipher held the repair card.
+Whiskers posted the status note before the repair began.
 
-"Your call," he said.
+`A limited City Runtime repair is starting for named systems. Owners have approved. Rollback is ready. Some unknowns remain. Next update at second bell.`
 
-Cipher wanted one more test. She wanted one more hour. She wanted the unknown column to shrink until it stopped looking back at her.
+The Red Clerk stared at the words `some unknowns remain`.
 
-Then the Service Bell gave one low ring from the school wing.
+"You are admitting that publicly?"
 
-Cipher signed the small-batch repair.
+Cipher looked at the repair card. "Yes."
 
-BL4CK4T's pawprint appeared under her name.
+"What if people think we are not ready?"
 
-`PERFECT CERTAINTY IS RARE. BOUNDED RESPONSIBILITY IS A CHOICE.`
+"We are ready for this step," she said. "Not for every step."
 
-The first school board went dark, then returned with a plain green line: `VERIFIED REPAIR IN PROGRESS. PAPER NOTICES REMAIN ACTIVE.`
+BL4CK4T's pawprint appeared on the rollback shelf.
 
-Cipher exhaled only after Milo's saved draft reopened.
+`PERFECT CERTAINTY IS NOT THE SAME AS RESPONSIBLE CARE.`
+
+The first batch moved through the Repair Lane. No speeches. No silver pawprints. Just signed cards, owner notices, rollback keys, and a room full of cats watching the status lamps like they mattered.
+
+Because they did.
 
 ## Teaching Tie-In
 
 - Concept: emergency change.
 - Story idea: Cipher approves a limited repair with rollback and public notice while some unknowns remain.
-- Key distinction: acting under bounded evidence differs from guessing without controls.
-- Defensive habit: limit scope, record the change, keep fallback paths, and prepare rollback before urgent repair.
+- Key distinction: bounded action is not the same as reckless action.
+- Defensive habit: define scope, evidence, owner approval, rollback, and verification before emergency change.
 - Season thread: maintenance is part of trust.
 
 ## Behind the Signal
 
-Real worm response rarely waits for perfect certainty. During Blaster and related outbreaks, defenders had to patch, isolate, block, communicate, clean, and monitor while systems were already unstable. The responsible path was not blind guessing; it was controlled action under enough evidence, with limits and recovery plans.
+Worm response often forces defenders to act before the whole story is known. Waiting for perfect certainty can leave vulnerable systems exposed, but acting without scope, ownership, rollback, or communication can create new failures. The practical middle is bounded emergency change: act where evidence supports action, keep the scope clear, and keep learning.
 
-Cipher's small-batch repair captures that pressure. She still has unknowns, but she also has verified source, a scoped test group, public notice, fallback paths, rollback, and a named owner. That is the difference between reckless change and emergency change with bounded responsibility.
+Cipher's decision is the fictional version of that pressure. She does not pretend every unknown is solved. She defines the first batch, names the evidence, prepares rollback, informs owners, and keeps the investigation open. That is the defender discipline Season 7 needs her to learn.

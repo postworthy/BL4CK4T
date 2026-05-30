@@ -2,7 +2,7 @@
 type: article-draft
 status: published
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 target_slug: season-03-episode-02-sandbox-door
 tags: [season-3, draft, sandbox]
 sources:
@@ -33,7 +33,7 @@ Byte builds a cleaner sandbox with labels, expected counts, stop controls, and c
 
 ## Technical Texture Remediation
 
-- Public copy now names the Copycat Sprite as a self-copying toy process and ties count, pace, stop, and cleanup to the test boundary.
+- Public copy now names the Copycat Sprite as a self-copying toy process and ties count, pace, process slots, resource counters, stop, and cleanup to the test boundary.
 
 ## Teaching Tie-In
 
@@ -44,7 +44,7 @@ Byte builds a cleaner sandbox with labels, expected counts, stop controls, and c
 
 One reason the Morris Worm became a landmark is that it exposed the difference between experimenting with connected systems and safely containing an experiment. The public record supports that Robert Tappan Morris did not intend to destroy files, but the worm was still designed for wide spread and hidden operation through unauthorized paths. In a networked environment, intent cannot substitute for boundaries, limits, and a way to stop what has begun.
 
-Byte's sandbox turns that historical lesson into story form. The episode does not show how to build a worm or exploit a real system; it shows the safer question that should come first in any test: what is normal, where is the edge, who can stop it, and how will everyone know if the test moves too fast?
+Byte's sandbox turns that historical lesson into story form. The episode does not show how to build a worm or exploit a real system; it shows the safer question that should come first in any test: what is normal, where is the edge, how much shared capacity may the test use, who can stop it, and how will everyone know if the test moves too fast?
 
 ## Continuity Checks
 

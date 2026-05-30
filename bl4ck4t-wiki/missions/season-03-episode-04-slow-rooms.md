@@ -2,10 +2,10 @@
 type: mission
 status: complete
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 tags: [season-3, episode-4, impact]
 sources: [../production-bibles/season-03-the-escaped-experiment.md]
-concepts: [../concepts/containment.md]
+concepts: [../concepts/containment.md, ../concepts/process-slots.md, ../concepts/resource-counters.md]
 lessons: []
 villains: [../villains/copycat-sprite.md]
 characters: [../characters/shadow.md, ../characters/whiskers.md]
@@ -16,7 +16,7 @@ locations: [../locations/the-old-stack.md]
 
 ## Summary
 
-Classrooms and lab queues slow as extra sprites fill harmless-looking counters. Shadow finds physical timing clues while Whiskers protects affected students.
+Classrooms and lab queues slow as extra sprites occupy process slots and push resource counters upward. Shadow finds physical timing clues while Whiskers protects affected students.
 
 ## Canon Status
 
@@ -56,4 +56,4 @@ Slowed systems become slow rooms, stalled queues, and delayed class tools.
 
 ## Episode Hook
 
-A classroom counter ticks upward while every student waits.
+A classroom resource counter ticks upward while every student waits.

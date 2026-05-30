@@ -2,7 +2,7 @@
 type: article-draft
 status: published
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 target_slug: season-03-episode-08-clearing-rooms
 tags: [season-3, draft, recovery]
 sources:
@@ -33,7 +33,7 @@ The team clears the extra sprite markers, verifies room states, restores class t
 
 ## Technical Texture Remediation
 
-- Public copy now adds known-good-state recovery and requires counters, tools, lights, and physical checks to agree before clearing a room.
+- Public copy now adds known-good-state recovery and requires resource counters, process slots, trust-path checks, tools, lights, and physical checks to agree before clearing a room.
 
 ## Teaching Tie-In
 
@@ -44,7 +44,7 @@ The team clears the extra sprite markers, verifies room states, restores class t
 
 After the Morris Worm spread, affected sites had to do more than stop new copies. They had to understand what had happened, restore usable service, prevent reentry, and decide when systems could be trusted again. Some places disconnected, cleaned, rebuilt, or applied emergency measures. Recovery was labor, not a single dramatic moment.
 
-The restore slips turn that quieter historical work into an episode. A room that looks calm is not automatically recovered, just as a system that stops showing symptoms is not automatically trustworthy. The episode keeps the cleanup concrete: counters, tools, physical checks, and signed records must agree before the team calls anything clear.
+The restore slips turn that quieter historical work into an episode. A room that looks calm is not automatically recovered, just as a system that stops showing symptoms is not automatically trustworthy. The episode keeps the cleanup concrete: resource counters, process slots, trust-path checks, tools, physical checks, and signed records must agree before the team calls anything clear.
 
 ## Continuity Checks
 

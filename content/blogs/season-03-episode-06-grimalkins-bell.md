@@ -30,7 +30,7 @@ BL4CK4T answered the bell through the nearest status screen.
 
 Grimalkin took the chalk from Cipher.
 
-"Counters: Byte. Map: Cipher and Jinx. Room state: Shadow. Students and caretakers: Whiskers. Lower hall access: Ms. Vale. Pixel, you watch for changes between updates."
+"Resource counters and process slots: Byte. Map and trust paths: Cipher and Jinx. Room state: Shadow. Students and caretakers: Whiskers. Lower hall access: Ms. Vale. Pixel, you watch for changes between updates."
 
 Pixel blinked. "I get the weirdness lane?"
 
@@ -38,9 +38,9 @@ Pixel blinked. "I get the weirdness lane?"
 
 ### Lanes Before Questions
 
-Grimalkin set update times and drew an intake board on the crate beside the bell. New room reports went on the left. Current status went in the middle. Cleared rooms stayed off the right side until counters, lights, and class tools agreed.
+Grimalkin set update times and drew an intake board on the crate beside the bell. New room reports went on the left. Current status went in the middle. Cleared rooms stayed off the right side until resource counters, process slots, lights, and class tools agreed.
 
-Every ten minutes, each lane reported one of three words: clear, changed, blocked.
+Every ten minutes, each lane reported one of three words: clear, changed, blocked. Byte's lane included counter pressure and slot use before any room could be called clear.
 
 The first round was messy.
 
@@ -52,7 +52,7 @@ Grimalkin rang the bell again.
 
 ### Contained Means Measured
 
-Containment began with signs on doors and caretakers at the stairs. No one entered the lower hall alone. No room was cleared until counters, lights, and class tools agreed.
+Containment began with signs on doors and caretakers at the stairs. No one entered the lower hall alone. No room was cleared until resource counters, process slots, lights, and class tools agreed.
 
 Whiskers sent waiting students to another lab with a plain explanation.
 

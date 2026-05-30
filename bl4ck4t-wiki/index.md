@@ -142,6 +142,9 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Shared-System Accounting](concepts/shared-system-accounting.md) - Season 2 concept for resource ledgers in shared systems.
 - [Civic Learning Grid](concepts/civic-learning-grid.md) - Season 2 shared public learning infrastructure.
 - [Worms And Self-Propagation](concepts/worms-and-self-propagation.md) - Season 3 concept for non-operational propagation lessons.
+- [Resource Counters](concepts/resource-counters.md) - Season 3 concept for visible capacity and resource-pressure storytelling.
+- [Process Slots](concepts/process-slots.md) - Season 3 concept for limited running capacity in learning systems.
+- [Trust Paths](concepts/trust-paths.md) - Season 3 concept for old approved connections that preserve the Morris Worm trust-relationship anchor.
 - [Containment](concepts/containment.md) - Season 3 concept for limiting spread during response.
 - [Safe Testing Boundaries](concepts/safe-testing-boundaries.md) - Season 3 concept for consent-based sandbox testing.
 - [Incident Response](concepts/incident-response.md) - Season 3 concept for organized response work.
@@ -158,6 +161,9 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Civic Resilience](concepts/civic-resilience.md) - Season 6 concept for keeping essential work moving and learning afterward.
 - [Status Communication](concepts/status-communication.md) - Season 6 concept for public updates during disruption.
 - [Patch Debt](concepts/patch-debt.md) - Season 7 concept for known fixes left unapplied or unowned.
+- [City Runtime](concepts/city-runtime.md) - Season 7 common operating layer used by desk terminals, service rooms, public boards, and civic workstations.
+- [Desk Terminals](concepts/desk-terminals.md) - Season 7 ordinary endpoint layer for school, clinic, permit, library, and caretaker work.
+- [Service Rooms](concepts/service-rooms.md) - Season 7 backend machine-room layer for services, update staging, queues, logs, and rollback checks.
 - [Verified Updates](concepts/verified-updates.md) - Season 7 concept for trusted repair source and authorization checks.
 - [Emergency Change](concepts/emergency-change.md) - Season 7 concept for bounded defensive action under pressure.
 - [Consent-Aware Repair](concepts/consent-aware-repair.md) - Season 7 concept for authorized and accountable repair.
@@ -300,7 +306,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 7 Episode 1: The Red Mark](missions/season-07-episode-01-red-mark.md) - Mission packet for the Season 7 opener.
 - [Season 7 Episode 2: The Signs Still Worked](missions/season-07-episode-02-signs-still-worked.md) - Mission packet for the second Season 7 episode.
 - [Season 7 Episode 3: Red Door Fever](missions/season-07-episode-03-red-door-fever.md) - Mission packet for the third Season 7 episode.
-- [Season 7 Episode 4: Restart Weather](missions/season-07-episode-04-restart-weather.md) - Mission packet for the fourth Season 7 episode.
+- [Season 7 Episode 4: The Restarting Desks](missions/season-07-episode-04-restarting-desks.md) - Mission packet for the fourth Season 7 episode.
 - [Season 7 Episode 5: The Repair Lane](missions/season-07-episode-05-repair-lane.md) - Mission packet for the fifth Season 7 episode.
 - [Season 7 Episode 6: The Helpful Ghost](missions/season-07-episode-06-helpful-ghost.md) - Mission packet for the sixth Season 7 episode.
 - [Season 7 Episode 7: Bounded Evidence](missions/season-07-episode-07-bounded-evidence.md) - Mission packet for the seventh Season 7 episode.
@@ -387,7 +393,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 7 Episode 1: The Red Mark](drafts/season-07-episode-01-red-mark.md) - Draft article mirror for the Season 7 opener.
 - [Season 7 Episode 2: The Signs Still Worked](drafts/season-07-episode-02-signs-still-worked.md) - Draft article mirror for the second Season 7 episode.
 - [Season 7 Episode 3: Red Door Fever](drafts/season-07-episode-03-red-door-fever.md) - Draft article mirror for the third Season 7 episode.
-- [Season 7 Episode 4: Restart Weather](drafts/season-07-episode-04-restart-weather.md) - Draft article mirror for the fourth Season 7 episode.
+- [Season 7 Episode 4: The Restarting Desks](drafts/season-07-episode-04-restarting-desks.md) - Draft article mirror for the fourth Season 7 episode.
 - [Season 7 Episode 5: The Repair Lane](drafts/season-07-episode-05-repair-lane.md) - Draft article mirror for the fifth Season 7 episode.
 - [Season 7 Episode 6: The Helpful Ghost](drafts/season-07-episode-06-helpful-ghost.md) - Draft article mirror for the sixth Season 7 episode.
 - [Season 7 Episode 7: Bounded Evidence](drafts/season-07-episode-07-bounded-evidence.md) - Draft article mirror for the seventh Season 7 episode.
@@ -430,4 +436,5 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Season 7 Continuity Audit](reports/season-07-continuity-audit.md) - Cross-season continuity audit for Season 7.
 - [Season 7 Technical Texture Audit](reports/season-07-technical-texture-audit.md) - Public-story audit for strengthening patch-debt, exposed-service, verified-repair, unauthorized-repair, consent, and patch-management texture.
 - [Season 7 Release Historical Anchor Analysis](reports/season-07-release-historical-anchor-analysis.md) - Final release comparison against the historical account and documentary treatment.
+- [Seasons 1-6 Pre-Translation Import Audit](reports/season-01-06-pre-translation-import-audit.md) - Retroactive audit identifying historical systems that should be direct BL4CK4T-world imports before future season rewrites.
 - [Wiki Consistency And Character Visual Lint](reports/2026-05-27-wiki-consistency-and-character-visual-lint.md) - Maintenance pass for Season 6 status consistency and character art-direction language.

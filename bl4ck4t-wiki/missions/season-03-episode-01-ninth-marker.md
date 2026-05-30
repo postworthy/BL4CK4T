@@ -2,10 +2,10 @@
 type: mission
 status: complete
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 tags: [season-3, episode-1, propagation]
 sources: [../production-bibles/season-03-the-escaped-experiment.md]
-concepts: [../concepts/worms-and-self-propagation.md]
+concepts: [../concepts/worms-and-self-propagation.md, ../concepts/process-slots.md, ../concepts/resource-counters.md]
 lessons: []
 villains: [../villains/copycat-sprite.md]
 characters: [../characters/pixel.md, ../characters/byte.md]
@@ -16,7 +16,7 @@ locations: [../locations/ledger-lab.md]
 
 ## Summary
 
-Pixel and Byte revisit the Season 2 toy process after one extra marker appears in the simulator. The team treats the ninth marker as a small clue, not a disaster.
+Pixel and Byte revisit the Season 2 toy process after one extra marker appears in the simulator and occupies an unexpected process slot. The team treats the ninth marker as a small clue, not a disaster.
 
 ## Canon Status
 
@@ -47,7 +47,7 @@ Morris Worm historical account and documentary movement 1.
 
 ## Public Transformation Notes
 
-The worm becomes a fictional marker process in a toy simulator.
+The worm becomes a fictional marker process in a toy simulator, with process slots and resource counters showing capacity impact.
 
 ## Safety Constraints
 

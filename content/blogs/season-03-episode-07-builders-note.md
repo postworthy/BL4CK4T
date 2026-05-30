@@ -46,13 +46,13 @@ The Builder's Note had four sections.
 
 It was not only an apology. It was an engineering record: something future builders could read before they trusted a clever test.
 
-Expected: three rooms, eight markers, fixed pace.
+Expected: three rooms, eight markers, one process slot per copy, fixed pace.
 
-Actual: extra marker, old terminal, slow rooms, stalled queues.
+Actual: extra marker, extra process slot, old trust path, old terminal, slow rooms, stalled queues.
 
-Missing: old-path review, pace limit, lower-hall cleanup plan.
+Missing: old trust-path review, process-slot limit, pace limit, lower-hall cleanup plan.
 
-Repair: containment lanes, room checks, restore slips, caretaker update, new lab rule.
+Repair: containment lanes, resource-counter checks, room checks, restore slips, caretaker update, new lab rule.
 
 Jinx checked each sentence against the board. Cipher removed one phrase that sounded certain without proof. Shadow added the fan clue. Pixel added one sentence that surprised everyone.
 
@@ -79,7 +79,7 @@ The card looked rude. Byte liked it anyway.
 ## Teaching Tie-In
 
 - Concept: good intent does not replace controls, review, or cleanup.
-- Story idea: Byte writes down what he expected, what happened, what was missing, and what repair requires.
+- Story idea: Byte writes down what he expected, what happened, which trust paths and capacity limits were missing, and what repair requires.
 - Key distinction: responsibility includes cleanup even when the original goal was harmless.
 - Defensive habit: write expected behavior, actual behavior, missing controls, and repair steps.
 - Season thread: Byte moves from gadget-first builder toward responsible engineer.

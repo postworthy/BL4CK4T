@@ -2,13 +2,13 @@
 type: mission
 status: complete
 created: 2026-05-29
-updated: 2026-05-29
-tags: [season-7, episode-9, patch-bell]
+updated: 2026-05-30
+tags: [season-7, episode-9, patch-bell, maintenance]
 sources: [../production-bibles/season-07-the-patch-bell-war.md]
-concepts: [../concepts/patch-debt.md, ../concepts/verified-updates.md, ../concepts/consent-aware-repair.md]
+concepts: [../concepts/patching.md, ../concepts/patch-debt.md, ../concepts/city-runtime.md]
 lessons: []
-villains: [../villains/red-clerk.md, ../villains/helpful-ghost.md]
-characters: [../characters/script-kitties.md]
+villains: [../villains/red-clerk.md]
+characters: [../characters/whiskers.md, ../characters/grimalkin.md, ../characters/jinx.md, ../characters/shadow.md]
 locations: [../locations/civic-pages-district.md]
 ---
 
@@ -16,43 +16,33 @@ locations: [../locations/civic-pages-district.md]
 
 ## Summary
 
-The city adopts the Patch Bell rule and discovers a quiet access log that points toward Season 8.
-
-## Canon Status
-
-Draft canon until public release.
+Cybertropolis adopts the Patch Bell rule for known serious flaws and discovers a quiet source-plan access log that points toward Season 8.
 
 ## Featured Characters
 
-- The full team turns response into practice.
-
-## Location
-
-- Civic Pages District and Patch Bell stand.
-
-## Villain Or Conflict
-
-- Red Clerk and Helpful Ghost are resolved as opposing failures.
+- Grimalkin formalizes the rule.
+- Jinx adds ownership.
+- Shadow finds the source-plan log.
 
 ## Lesson Payload
 
-- Concept: [Patch Debt](../concepts/patch-debt.md).
-- Defensive takeaway: known flaws must be patched, isolated, or risk-accepted openly.
-- Teacher note: maintenance is part of trust.
-
-## Real-World Inspiration
-
-- Aftermath of early-2000s worm era and patch-management lessons.
-
-## Public Transformation Notes
-
-- Practice change becomes a city rule.
-
-## Safety Constraints
-
-- Avoid operational details.
-- Emphasize durable habits.
+- Concept: [Patch Debt](../concepts/patch-debt.md) and [Patching](../concepts/patching.md).
+- Defensive takeaway: known serious flaws must be patched, isolated, or risk-accepted openly.
+- Teacher note: maintenance becomes trustworthy when ownership remains visible after the crisis.
 
 ## Episode Hook
 
-The first calm Patch Bell test rings before anything breaks.
+The Patch Bell rings when nothing is on fire because a known repair has reached its decision time.
+
+## Real-World Inspiration
+
+- Post-worm improvements around patching, inventory, emergency change, vendor guidance, and trusted repair.
+
+## Public Transformation Notes
+
+- The Patch Bell becomes the durable civic practice after the City Runtime crisis.
+
+## Safety Constraints
+
+- Do not imply perfect future security.
+- Keep the Season 8 bridge quiet and source-plan focused.

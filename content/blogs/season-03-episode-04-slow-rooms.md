@@ -32,7 +32,7 @@ The drop arrived on the stalled printer.
 
 Byte read it once, then folded the paper into his notebook.
 
-The Copycat Sprite had not smashed a window. It had filled counters, occupied room slots, and made simple tools take too long. Each extra copy took a little space on a room counter. Each stuck counter made a queue wait. Each waiting queue pulled a caretaker away from normal work. The city still stood. The work did not move.
+The Copycat Sprite had not smashed a window. It had pushed resource counters upward, occupied process slots, and made simple tools take too long. Each extra copy took a running slot from a room. Each high counter made a queue wait. Each waiting queue pulled a caretaker away from normal work. The city still stood. The work did not move.
 
 Ms. Vale opened a response form.
 
@@ -42,7 +42,7 @@ Ms. Vale opened a response form.
 
 Shadow walked the hall and called out room states.
 
-"Room three: fan active, no class. Room four: printer queue stuck. Room five: two markers, light warm. Room six: students waiting."
+"Room three: fan active, no class. Room four: printer queue stuck, process slots full. Room five: two markers, resource counter rising, light warm. Room six: students waiting."
 
 Jinx logged each one. Cipher added counts. Grimalkin drew doors between rooms.
 
@@ -76,7 +76,7 @@ The Copycat Sprite glowed on six screens, cute as a sticker and heavy as a traff
 
 ## Teaching Tie-In
 
-- Concept: security impact can be delay, downtime, and diverted work.
+- Concept: security impact can be delay, downtime, resource pressure, and diverted work.
 - Story idea: the Copycat Sprite matters because ordinary students lose time and tools.
 - Key distinction: an incident can harm people without destroying files.
 - Defensive habit: name affected users and scope before cleanup.

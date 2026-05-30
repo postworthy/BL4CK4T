@@ -2,10 +2,10 @@
 type: mission
 status: complete
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 tags: [season-3, episode-9, first-bell]
 sources: [../production-bibles/season-03-the-escaped-experiment.md]
-concepts: [../concepts/incident-response.md, ../concepts/containment.md]
+concepts: [../concepts/incident-response.md, ../concepts/containment.md, ../concepts/process-slots.md, ../concepts/resource-counters.md, ../concepts/trust-paths.md]
 lessons: []
 villains: [../villains/copycat-sprite.md]
 characters: [../characters/byte.md, ../characters/grimalkin.md, ../characters/pixel.md]
@@ -16,7 +16,7 @@ locations: [../locations/ledger-lab.md]
 
 ## Summary
 
-The Copycat Sprite incident closes with new lab rules, the First Bell Desk, and a Season 4 clue about an unseen caller.
+The Copycat Sprite incident closes with new lab rules, the First Bell Desk, and a Season 4 clue about an unseen caller. The desk now has clear handles for copied processes, process-slot pressure, resource counters, and trust-path surprises.
 
 ## Canon Status
 

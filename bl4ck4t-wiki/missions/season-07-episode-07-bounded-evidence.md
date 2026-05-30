@@ -2,12 +2,12 @@
 type: mission
 status: complete
 created: 2026-05-29
-updated: 2026-05-29
-tags: [season-7, episode-7, emergency-change]
+updated: 2026-05-30
+tags: [season-7, episode-7, emergency-change, bounded-evidence]
 sources: [../production-bibles/season-07-the-patch-bell-war.md]
-concepts: [../concepts/emergency-change.md]
+concepts: [../concepts/emergency-change.md, ../concepts/city-runtime.md]
 lessons: []
-villains: [../villains/red-clerk.md, ../villains/helpful-ghost.md]
+villains: []
 characters: [../characters/cipher.md, ../characters/grimalkin.md]
 locations: [../locations/civic-pages-district.md]
 ---
@@ -16,44 +16,32 @@ locations: [../locations/civic-pages-district.md]
 
 ## Summary
 
-Cipher must recommend action before every answer is known, using rollback, scope limits, and visible authorization.
-
-## Canon Status
-
-Draft canon until public release.
+Cipher approves a limited City Runtime repair batch with owner notice, rollback, and verification while some unknowns remain.
 
 ## Featured Characters
 
-- Cipher acts under bounded evidence.
-- Grimalkin designs rollback constraints.
-
-## Location
-
-- Rollback Room.
-
-## Villain Or Conflict
-
-- Delay and unauthorized repair both pressure the team.
+- Cipher learns responsible action under bounded uncertainty.
+- Grimalkin keeps rollback and scope visible.
 
 ## Lesson Payload
 
 - Concept: [Emergency Change](../concepts/emergency-change.md).
-- Defensive takeaway: responsible action can happen before perfect certainty.
-- Teacher note: bounded action is not reckless action.
-
-## Real-World Inspiration
-
-- Emergency patching and mitigation during worm outbreaks.
-
-## Public Transformation Notes
-
-- Incident response becomes fictional rollback-and-repair planning.
-
-## Safety Constraints
-
-- Avoid procedural remediation steps.
-- Emphasize decision discipline.
+- Defensive takeaway: bounded emergency action is not reckless action.
+- Teacher note: define scope and rollback before urgent repair.
 
 ## Episode Hook
 
-Cipher writes `known`, `unknown`, and `safe enough to act` on three separate cards.
+Cipher faces a limited repair card in the Rollback Room while the city keeps interrupting ordinary work.
+
+## Real-World Inspiration
+
+- Defenders responding to active worm disruption before every detail is known.
+
+## Public Transformation Notes
+
+- The episode shows a small approved batch, not a magical universal fix.
+
+## Safety Constraints
+
+- Avoid operational update mechanics.
+- Focus on scope, owner approval, rollback, and re-verification.

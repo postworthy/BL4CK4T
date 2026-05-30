@@ -2,10 +2,10 @@
 type: mission
 status: complete
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 tags: [season-3, episode-2, sandbox]
 sources: [../production-bibles/season-03-the-escaped-experiment.md]
-concepts: [../concepts/safe-testing-boundaries.md]
+concepts: [../concepts/safe-testing-boundaries.md, ../concepts/process-slots.md, ../concepts/resource-counters.md]
 lessons: []
 villains: [../villains/copycat-sprite.md]
 characters: [../characters/byte.md, ../characters/cipher.md]
@@ -16,7 +16,7 @@ locations: [../locations/ledger-lab.md]
 
 ## Summary
 
-Byte builds a cleaner sandbox for the Copycat Sprite and learns that a test boundary needs expected counts, stop controls, and caretaker review.
+Byte builds a cleaner sandbox for the Copycat Sprite and learns that a test boundary needs expected counts, expected pace, process-slot limits, resource counters, stop controls, and caretaker review.
 
 ## Canon Status
 

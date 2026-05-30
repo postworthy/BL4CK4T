@@ -20,7 +20,7 @@ Pixel stood over the glass with both paws on the table. "Yesterday there were ei
 
 Byte checked the frozen record twice. "The plan expected eight."
 
-The simulator had not drawn a new room by accident. It had recorded one more process marker than the test plan allowed: an unexpected copy event, small enough to fit on the glass and wrong enough to stop the room.
+The simulator had not drawn a new room by accident. It had recorded one more process marker than the test plan allowed: an unexpected copy event occupying a process slot outside the expected count, small enough to fit on the glass and wrong enough to stop the room.
 
 Jinx slid the print strip beside the old `-0.75` sleeve. The number had opened one mystery. The ninth marker was trying to open another.
 
@@ -34,7 +34,7 @@ BL4CK4T's drop had no drama in it. That made Pixel more nervous.
 
 ### Count The Extra One
 
-Byte made a copy of the simulator record and taped it to a clean board. Eight expected markers. One extra marker. One empty sandbox room that should have stayed empty.
+Byte made a copy of the simulator record and taped it to a clean board. Eight expected markers. One extra marker. One unexpected process slot. One empty sandbox room that should have stayed empty.
 
 "Maybe the display stuttered," Cipher said.
 
@@ -52,7 +52,7 @@ Ms. Vale brought the team a red folder labeled `Unexpected Behavior`.
 
 "This is not a punishment folder," she said. "It is a thinking folder."
 
-Byte opened it. The first page asked for expected behavior, actual behavior, affected rooms, and stop condition.
+Byte opened it. The first page asked for expected behavior, actual behavior, affected rooms, process slots, resource counters, and stop condition.
 
 Pixel read the last line. "What did you do when it changed?"
 
@@ -78,7 +78,7 @@ Pixel looked at the ninth marker.
 
 ## Teaching Tie-In
 
-- Concept: self-copying behavior can become a problem when connected systems let it move farther than expected.
+- Concept: self-copying behavior can become a problem when connected systems let it move farther than expected and consume shared capacity.
 - Story idea: one extra marker turns a finished case into a new kind of incident.
 - Key distinction: unexpected behavior should be recorded before anyone explains it.
 - Defensive habit: pause, record, and check boundaries before rerunning a strange test.
@@ -88,4 +88,4 @@ Pixel looked at the ninth marker.
 
 Season 3 is anchored in the Morris Worm, released on November 2, 1988, into a young Internet built around universities, research labs, government systems, and Unix machines that often trusted each other more than later networks would. The incident did not become historic because files were erased. It became historic because unexpected self-copying behavior consumed resources, slowed machines, disrupted work, and forced defenders to understand a new kind of network-scale failure.
 
-The ninth marker gives the Script Kitties that first historical feeling in miniature. Before anyone knows whether the extra copy is harmless, dangerous, clever, or accidental, the right move is to stop and count what actually happened. The episode keeps the mechanism safe and fictional while preserving the defender's first discipline from the real event: treat unexpected propagation as evidence before turning it into a story.
+The ninth marker gives the Script Kitties that first historical feeling in miniature. Before anyone knows whether the extra copy is harmless, dangerous, clever, or accidental, the right move is to stop, count what actually happened, and identify what shared capacity the extra copy is using. The episode keeps the mechanism safe and fictional while preserving the defender's first discipline from the real event: treat unexpected propagation as evidence before turning it into a story.

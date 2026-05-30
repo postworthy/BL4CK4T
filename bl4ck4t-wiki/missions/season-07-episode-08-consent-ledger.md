@@ -2,10 +2,10 @@
 type: mission
 status: complete
 created: 2026-05-29
-updated: 2026-05-29
-tags: [season-7, episode-8, consent]
+updated: 2026-05-30
+tags: [season-7, episode-8, consent-aware-repair]
 sources: [../production-bibles/season-07-the-patch-bell-war.md]
-concepts: [../concepts/consent-aware-repair.md]
+concepts: [../concepts/consent-aware-repair.md, ../concepts/city-runtime.md]
 lessons: []
 villains: [../villains/helpful-ghost.md]
 characters: [../characters/byte.md, ../characters/jinx.md]
@@ -16,44 +16,32 @@ locations: [../locations/civic-pages-district.md]
 
 ## Summary
 
-Byte confronts the missing consent behind the Helpful Ghost's repairs and helps Jinx make authorization visible.
-
-## Canon Status
-
-Draft canon until public release.
+Byte and Jinx visit owners of silver-marked runtime systems and record the consent, source, rollback, and verification gaps the Helpful Ghost left behind.
 
 ## Featured Characters
 
-- Byte rejects cleverness without consent.
-- Jinx turns missing records into evidence.
-
-## Location
-
-- Consent Ledger desk.
-
-## Villain Or Conflict
-
-- Helpful Ghost's repairs leave blank ledger rows.
+- Byte learns that ledger records are part of trustworthy repair.
+- Jinx turns missing consent into visible evidence.
 
 ## Lesson Payload
 
 - Concept: [Consent-Aware Repair](../concepts/consent-aware-repair.md).
-- Defensive takeaway: trustworthy repair leaves authorization, notification, and rollback records.
-- Teacher note: working changes still need permission.
-
-## Real-World Inspiration
-
-- Welchia/Nachi moral complication.
-
-## Public Transformation Notes
-
-- Unauthorized cleanup becomes unsigned silver repairs.
-
-## Safety Constraints
-
-- Avoid technical details.
-- Emphasize ethics and records.
+- Defensive takeaway: repair is incomplete without authorization and accountability.
+- Teacher note: trust is what the fix leaves behind.
 
 ## Episode Hook
 
-The cleanest-looking repair has the emptiest row.
+Byte compares complete green repair rows with silver rows that fixed symptoms but left the ledger blank.
+
+## Real-World Inspiration
+
+- Welchia/Nachi's unauthorized repair behavior and defender cleanup burden.
+
+## Public Transformation Notes
+
+- The Consent Ledger records runtime updates across terminals, boards, and service-room machines.
+
+## Safety Constraints
+
+- Avoid worm mechanics.
+- Keep attention on owner consent and verification.

@@ -2,10 +2,10 @@
 type: mission
 status: complete
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 tags: [season-3, episode-5, evidence]
 sources: [../production-bibles/season-03-the-escaped-experiment.md]
-concepts: [../concepts/evidence-preservation.md, ../concepts/worms-and-self-propagation.md]
+concepts: [../concepts/evidence-preservation.md, ../concepts/worms-and-self-propagation.md, ../concepts/process-slots.md, ../concepts/trust-paths.md]
 lessons: []
 villains: [../villains/copycat-sprite.md]
 characters: [../characters/jinx.md, ../characters/cipher.md]
@@ -47,7 +47,7 @@ Morris Worm documentary movements 4 and 5.
 
 ## Public Transformation Notes
 
-Site reports become room cards and copy counts.
+Site reports become room cards, copy counts, process-slot counts, and trust-path cards.
 
 ## Safety Constraints
 

@@ -2,7 +2,7 @@
 type: villain
 status: active
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 tags: [villain, season-7, patch-debt, neglect]
 sources:
   - ../story-arcs/season-07-the-patch-bell-war-arc.md
@@ -16,11 +16,11 @@ lessons: []
 
 ## Summary
 
-The Red Clerk is the Season 7 adversary figure for neglect disguised as stability. He is a caretaker who keeps delaying a known repair because the signs still work and because an old update once broke something important.
+The Red Clerk is the Season 7 adversary figure for neglect disguised as stability. He is a caretaker who keeps delaying a known City Runtime repair because the visible systems still work and because an old update once broke something important.
 
 ## Public Motif
 
-- Red repair notices filed but not acted on.
+- Red City Runtime repair notices filed but not acted on.
 - A cracked-door stamp.
 - Perfectly stacked forms hiding an overdue warning.
 
@@ -44,6 +44,6 @@ The Red Clerk does not teach attack behavior. He postpones known fictional repai
 
 ## Episode Hooks
 
-- The team finds an overdue red repair notice in a drawer labeled `LATER`.
-- The Red Clerk explains a past repair that broke public boards.
+- The team finds an overdue runtime repair notice in a drawer labeled `LATER`.
+- The Red Clerk explains a past repair that broke public boards and made him fear broad runtime updates.
 - The Patch Bell forces him to choose patch, isolate, or risk-accept openly.

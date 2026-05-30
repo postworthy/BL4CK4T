@@ -20,7 +20,7 @@ Jinx removed the skull. "Rude," Pixel said, and Jinx shook her head. "Unsupporte
 
 Cipher divided the board into four columns: confirmed rooms, likely paths, ruled-out paths, unknowns.
 
-Jinx added three small fields to every card: timestamp, copy count, and room state. A room did not become confirmed just because a screen showed a marker. It needed a matching count, a matching time, and a physical check from Shadow or a caretaker.
+Jinx added five small fields to every card: timestamp, copy count, process-slot count, room state, and trust path. A room did not become confirmed just because a screen showed a marker. It needed a matching count, a matching time, a named path, and a physical check from Shadow or a caretaker.
 
 ### Arrows Without Proof
 
@@ -36,7 +36,7 @@ Confirmed rooms got blue cards. Likely paths got yellow cards. Ruled-out paths g
 
 Shadow brought physical clues: warm panels, blinking lights, a fan that kept running after shutdown.
 
-Cipher cleaned the timing sequence. "Room four did not cause room five. Room five lit first."
+Cipher cleaned the timing sequence. "Room four did not cause room five. Room five lit first, and the trust-path card points lower."
 
 Jinx moved the arrow, and Pixel stared at the gray-card column. "I hate how useful being wrong is."
 
@@ -57,7 +57,7 @@ The copy map did not solve the incident. It made the next move honest.
 ## Teaching Tie-In
 
 - Concept: evidence preservation helps responders act without guessing.
-- Story idea: the copy map turns scattered room reports into a usable response picture.
+- Story idea: the copy map turns scattered room reports, slot counts, and trust-path clues into a usable response picture.
 - Key distinction: confirmed paths, likely paths, ruled-out paths, and unknowns are different.
 - Defensive habit: separate confirmed facts, likely paths, ruled-out ideas, and unknowns.
 - Season thread: the copy map gives Grimalkin enough structure to coordinate response.
@@ -66,4 +66,4 @@ The copy map did not solve the incident. It made the next move honest.
 
 During the Morris Worm response, defenders had to piece together what was happening while the network itself was impaired. Technical analysis, site reports, postmortems, and later legal findings helped clarify the sequence, but early responders did not begin with a neat complete picture. They had symptoms, fragments, overloaded systems, and the urgent need to separate what was known from what was guessed.
 
-Jinx and Cipher's copy map is the BL4CK4T version of that work. The colored cards are not decorative; they protect the team from turning fear into false certainty. Confirmed rooms, likely paths, ruled-out ideas, and unknowns let the response move faster because the evidence is cleaner.
+Jinx and Cipher's copy map is the BL4CK4T version of that work. The colored cards are not decorative; they protect the team from turning fear into false certainty. Confirmed rooms, likely trust paths, process-slot pressure, ruled-out ideas, and unknowns let the response move faster because the evidence is cleaner.

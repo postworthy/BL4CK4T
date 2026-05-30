@@ -2,7 +2,7 @@
 type: article-draft
 status: published
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 target_slug: season-03-episode-07-builders-note
 tags: [season-3, draft, accountability]
 sources:
@@ -33,7 +33,7 @@ Byte writes what the test expected, what happened, what was missing, and how the
 
 ## Technical Texture Remediation
 
-- Public copy now defines the Builder's Note as an engineering record, not only an apology.
+- Public copy now defines the Builder's Note as an engineering record that includes expected slots, actual trust-path movement, missing limits, and repair steps, not only an apology.
 
 ## Teaching Tie-In
 

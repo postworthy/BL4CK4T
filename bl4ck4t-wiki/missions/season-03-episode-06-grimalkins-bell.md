@@ -2,10 +2,10 @@
 type: mission
 status: complete
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 tags: [season-3, episode-6, incident-response]
 sources: [../production-bibles/season-03-the-escaped-experiment.md]
-concepts: [../concepts/incident-response.md, ../concepts/containment.md]
+concepts: [../concepts/incident-response.md, ../concepts/containment.md, ../concepts/process-slots.md, ../concepts/resource-counters.md, ../concepts/trust-paths.md]
 lessons: []
 villains: [../villains/copycat-sprite.md]
 characters: [../characters/grimalkin.md, ../characters/whiskers.md]

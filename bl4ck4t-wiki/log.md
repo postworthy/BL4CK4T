@@ -2,6 +2,53 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-30] canon | Import Season 3 process and resource concepts
+
+Added Season 3 candidate imports for Resource Counters, Process Slots, and Trust Paths, then wired them into the Season 3 story arc, production bible, season page, mission packets, draft mirrors, and public episodes. The update makes the Morris Worm translation clearer by giving the Copycat Sprite concrete BL4CK4T-world infrastructure for resource pressure, running capacity, and inherited trust relationships.
+
+Touched areas:
+
+- [concepts/resource-counters.md](concepts/resource-counters.md)
+- [concepts/process-slots.md](concepts/process-slots.md)
+- [concepts/trust-paths.md](concepts/trust-paths.md)
+- [concepts/worms-and-self-propagation.md](concepts/worms-and-self-propagation.md)
+- [story-arcs/season-03-the-escaped-experiment-arc.md](story-arcs/season-03-the-escaped-experiment-arc.md)
+- [production-bibles/season-03-the-escaped-experiment.md](production-bibles/season-03-the-escaped-experiment.md)
+- [seasons/season-03-the-escaped-experiment.md](seasons/season-03-the-escaped-experiment.md)
+- `bl4ck4t-wiki/missions/season-03-*`
+- `bl4ck4t-wiki/drafts/season-03-*`
+- `content/blogs/season-03-*`
+- [../content/seasons/season-03-the-escaped-experiment.md](../content/seasons/season-03-the-escaped-experiment.md)
+- [index.md](index.md)
+- [log.md](log.md)
+
+## [2026-05-30] draft | Rebuild Season 7 runtime infrastructure
+
+Added the infrastructure-fidelity rule and pre-translation import inventory rule to the historical documentary import workflow and root agent instructions. Rebuilt Season 7 around explicit City Runtime, desk-terminal, and service-room infrastructure so the MSBlaster/Welchia historical anchor maps to recognizable endpoints, exposed services, verified updates, unauthorized repair, consent, and patch-management practice without strained cabinet metaphors. Removed the old Season 7 Episode 4 URL instead of preserving a redirect. Added a retroactive Seasons 1-6 import audit to identify historical systems that should become direct BL4CK4T-world entities before future revisions.
+
+Touched areas:
+
+- [style-guides/historical-documentary-import-workflow.md](style-guides/historical-documentary-import-workflow.md)
+- [style-guides/technical-texture-standard.md](style-guides/technical-texture-standard.md)
+- [style-guides/story-draft-checklist.md](style-guides/story-draft-checklist.md)
+- [../AGENTS.md](../AGENTS.md)
+- [concepts/city-runtime.md](concepts/city-runtime.md)
+- [concepts/desk-terminals.md](concepts/desk-terminals.md)
+- [concepts/service-rooms.md](concepts/service-rooms.md)
+- [story-arcs/season-07-the-patch-bell-war-arc.md](story-arcs/season-07-the-patch-bell-war-arc.md)
+- [production-bibles/season-07-the-patch-bell-war.md](production-bibles/season-07-the-patch-bell-war.md)
+- [seasons/season-07-the-patch-bell-war.md](seasons/season-07-the-patch-bell-war.md)
+- `bl4ck4t-wiki/missions/season-07-*`
+- `bl4ck4t-wiki/drafts/season-07-*`
+- `content/blogs/season-07-*`
+- [../content/seasons/season-07-the-patch-bell-war.md](../content/seasons/season-07-the-patch-bell-war.md)
+- [reports/season-07-technical-texture-audit.md](reports/season-07-technical-texture-audit.md)
+- [reports/season-07-release-historical-anchor-analysis.md](reports/season-07-release-historical-anchor-analysis.md)
+- [reports/season-07-continuity-audit.md](reports/season-07-continuity-audit.md)
+- [reports/season-01-06-pre-translation-import-audit.md](reports/season-01-06-pre-translation-import-audit.md)
+- [index.md](index.md)
+- [log.md](log.md)
+
 ## [2026-05-30] maintenance | Convert season episode headings to bespoke style
 
 Replaced formulaic in-story `###` section headings across public Season 1 through Season 6 episodes with bespoke episode-specific headings. Season 7 already used custom narrative section titles, so its public headings were left unchanged. Updated the article style guide, article draft template, and root agent instructions so future season episodes use custom narrative chapter-card headings while preserving standardized `Teaching Tie-In` and `Behind the Signal` sections.
@@ -27,7 +74,7 @@ Touched areas:
 - `content/blogs/season-07-episode-01-red-mark.md`
 - `content/blogs/season-07-episode-02-signs-still-worked.md`
 - `content/blogs/season-07-episode-03-red-door-fever.md`
-- `content/blogs/season-07-episode-04-restart-weather.md`
+- `content/blogs/season-07-episode-04-restarting-desks.md`
 - `content/blogs/season-07-episode-05-repair-lane.md`
 - `content/blogs/season-07-episode-06-helpful-ghost.md`
 - `content/blogs/season-07-episode-07-bounded-evidence.md`
@@ -36,7 +83,7 @@ Touched areas:
 - [drafts/season-07-episode-01-red-mark.md](drafts/season-07-episode-01-red-mark.md)
 - [drafts/season-07-episode-02-signs-still-worked.md](drafts/season-07-episode-02-signs-still-worked.md)
 - [drafts/season-07-episode-03-red-door-fever.md](drafts/season-07-episode-03-red-door-fever.md)
-- [drafts/season-07-episode-04-restart-weather.md](drafts/season-07-episode-04-restart-weather.md)
+- [drafts/season-07-episode-04-restarting-desks.md](drafts/season-07-episode-04-restarting-desks.md)
 - [drafts/season-07-episode-05-repair-lane.md](drafts/season-07-episode-05-repair-lane.md)
 - [drafts/season-07-episode-06-helpful-ghost.md](drafts/season-07-episode-06-helpful-ghost.md)
 - [drafts/season-07-episode-07-bounded-evidence.md](drafts/season-07-episode-07-bounded-evidence.md)
@@ -204,7 +251,7 @@ Touched areas:
 - `content/blogs/season-07-episode-01-red-mark.md`
 - `content/blogs/season-07-episode-02-signs-still-worked.md`
 - `content/blogs/season-07-episode-03-red-door-fever.md`
-- `content/blogs/season-07-episode-04-restart-weather.md`
+- `content/blogs/season-07-episode-04-restarting-desks.md`
 - `content/blogs/season-07-episode-05-repair-lane.md`
 - `content/blogs/season-07-episode-06-helpful-ghost.md`
 - `content/blogs/season-07-episode-07-bounded-evidence.md`
@@ -213,7 +260,7 @@ Touched areas:
 - [drafts/season-07-episode-01-red-mark.md](drafts/season-07-episode-01-red-mark.md)
 - [drafts/season-07-episode-02-signs-still-worked.md](drafts/season-07-episode-02-signs-still-worked.md)
 - [drafts/season-07-episode-03-red-door-fever.md](drafts/season-07-episode-03-red-door-fever.md)
-- [drafts/season-07-episode-04-restart-weather.md](drafts/season-07-episode-04-restart-weather.md)
+- [drafts/season-07-episode-04-restarting-desks.md](drafts/season-07-episode-04-restarting-desks.md)
 - [drafts/season-07-episode-05-repair-lane.md](drafts/season-07-episode-05-repair-lane.md)
 - [drafts/season-07-episode-06-helpful-ghost.md](drafts/season-07-episode-06-helpful-ghost.md)
 - [drafts/season-07-episode-07-bounded-evidence.md](drafts/season-07-episode-07-bounded-evidence.md)

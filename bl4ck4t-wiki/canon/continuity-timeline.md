@@ -138,7 +138,7 @@ This timeline records the current event order from the published blog and privat
 - The team discovers a known repair notice that was deferred because the signs still worked.
 - The Red Clerk is established as a caretaker whose fear of past broken repairs turned caution into patch debt.
 - Red Door fever spreads across public boards and turns hidden maintenance risk into visible civic disruption.
-- Restart weather affects ordinary work, including school drafts, permit desks, and public notices.
+- The City Runtime problem reaches ordinary desk terminals, including school drafts, permit counters, library checkout stands, clinic intake stations, and public notices.
 - Byte and Jinx create the Repair Lane so urgent repairs have trusted source, signature, and rollback records.
 - The Helpful Ghost appears as a silver unauthorized repair force that fixes visible symptoms while leaving the Consent Ledger blank.
 - Cipher learns to act under bounded evidence with scope limits, fallback paths, and rollback planning.

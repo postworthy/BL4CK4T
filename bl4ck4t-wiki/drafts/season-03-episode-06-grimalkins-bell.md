@@ -2,7 +2,7 @@
 type: article-draft
 status: published
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 target_slug: season-03-episode-06-grimalkins-bell
 tags: [season-3, draft, incident-response]
 sources:
@@ -33,7 +33,7 @@ Grimalkin turns a hallway full of helpers into response lanes, update times, and
 
 ## Technical Texture Remediation
 
-- Public copy now adds an intake/status board and makes containment depend on stable counts, no new reports, and no status regressions.
+- Public copy now adds an intake/status board and makes containment depend on stable resource counters, process-slot status, no new reports, and no status regressions.
 
 ## Teaching Tie-In
 

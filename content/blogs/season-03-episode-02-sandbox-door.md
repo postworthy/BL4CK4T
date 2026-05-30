@@ -20,7 +20,7 @@ Pixel leaned over the page. "Why draw the door?"
 
 "Because yesterday I drew rooms and forgot exits," Byte said.
 
-Cipher set three cards beside the sketch: `Expected Count`, `Stop Control`, `Cleanup Plan`.
+Cipher set five cards beside the sketch: `Expected Count`, `Process Slots`, `Resource Counters`, `Stop Control`, `Cleanup Plan`.
 
 "A sandbox is not safe because we call it a sandbox," Cipher said. "It is safe because the boundary is real."
 
@@ -30,9 +30,9 @@ The printer clicked.
 
 ### A Door Drawn In Ink
 
-Byte labeled everything. The Copycat Sprite was a self-copying toy process, not city software, and the whole point was to watch the copy count stay boring. It could enter three toy rooms. It could copy once at each checkpoint. The counter would turn yellow if the number changed early and red if anything appeared outside the square.
+Byte labeled everything. The Copycat Sprite was a self-copying toy process, not city software, and the whole point was to watch the copy count stay boring. It could enter three toy rooms. It could copy once at each checkpoint. It could occupy one process slot per copy. The resource counter would turn yellow if the number changed early and red if anything appeared outside the square.
 
-Cipher added brackets around the labels. "Count, pace, stop, cleanup. All four are the boundary."
+Cipher added brackets around the labels. "Count, slots, counters, stop, cleanup. All five are the boundary."
 
 Ms. Vale read the plan.
 
@@ -72,7 +72,7 @@ Whiskers tapped the stop switch. The blue cats froze.
 
 Pixel did not complain. That worried Byte more than the yellow light.
 
-Byte added a fourth card to the plan.
+Byte added a sixth card to the plan.
 
 `Expected Pace.`
 
@@ -82,7 +82,7 @@ BL4CK4T sent one last line.
 
 ## Teaching Tie-In
 
-- Concept: safe testing boundaries need limits, stop controls, and expected timing.
+- Concept: safe testing boundaries need limits, stop controls, expected timing, process-slot limits, and resource counters.
 - Story idea: Byte rebuilds the test so the team can see where the boundary should be.
 - Key distinction: a cleaner test is still incomplete if it lacks proof that it can stop.
 - Defensive habit: define what normal looks like before running the test.
@@ -92,4 +92,4 @@ BL4CK4T sent one last line.
 
 One reason the Morris Worm became a landmark is that it exposed the difference between experimenting with connected systems and safely containing an experiment. The public record supports that Robert Tappan Morris did not intend to destroy files, but the worm was still designed for wide spread and hidden operation through unauthorized paths. In a networked environment, intent cannot substitute for boundaries, limits, and a way to stop what has begun.
 
-Byte's sandbox turns that historical lesson into story form. The episode does not show how to build a worm or exploit a real system; it shows the safer question that should come first in any test: what is normal, where is the edge, who can stop it, and how will everyone know if the test moves too fast?
+Byte's sandbox turns that historical lesson into story form. The episode does not show how to build a worm or exploit a real system; it shows the safer question that should come first in any test: what is normal, where is the edge, how much shared capacity may the test use, who can stop it, and how will everyone know if the test moves too fast?

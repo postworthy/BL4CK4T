@@ -2,7 +2,7 @@
 type: season
 status: published
 created: 2026-05-26
-updated: 2026-05-29
+updated: 2026-05-30
 season_number: 7
 tags: [season, msblaster, welchia, patching, worms, civic-dependency]
 sources:
@@ -43,7 +43,7 @@ Contextual background: Code Red, Nimda, and SQL Slammer may be used to establish
 
 ## BL4CK4T Transformation
 
-The red mark from Season 6 leads to an old public display system in the Civic Pages District. A known flaw was postponed because the signs still worked. Then the Red Door fever spreads, public pages repaint themselves, desks restart, citizens distrust repair notices, and a Helpful Ghost begins fixing machines without permission.
+The red mark from Season 6 leads to an old City Runtime repair notice. The Runtime is a common operating layer used by desk terminals, service-room machines, public boards, clinic intake stations, library checkout stands, school work surfaces, and permit counters. A known flaw was postponed because the visible systems still worked. Then public boards repaint themselves, desk terminals restart, support queues fill, citizens distrust repair notices, and a Helpful Ghost begins fixing machines without permission.
 
 ## Season Theme
 
@@ -75,11 +75,11 @@ Patch Bell: a civic signal that rings when a known serious flaw must be patched,
 
 ## Planned Story Shape
 
-1. A known flaw is discovered in an old public system.
-2. The Red Clerk insists the update can wait because old repairs once broke something important.
-3. The Red Door fever spreads through visible public pages.
-4. A faster hidden pulse begins moving through backend systems.
-5. Machines restart before people can save work.
+1. A known flaw is discovered in the City Runtime.
+2. The Red Clerk insists the update can wait because old runtime repairs once broke something important.
+3. The Red Door fever spreads through visible public boards.
+4. The team discovers the same runtime also supports desk terminals and service-room machines.
+5. Desk terminals restart before people can save work.
 6. Citizens become afraid of real update notices.
 7. The Script Kitties create a trusted Repair Lane.
 8. The Helpful Ghost begins repairing without permission.

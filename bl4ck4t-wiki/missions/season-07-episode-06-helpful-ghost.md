@@ -2,10 +2,10 @@
 type: mission
 status: complete
 created: 2026-05-29
-updated: 2026-05-29
-tags: [season-7, episode-6, unauthorized-repair]
+updated: 2026-05-30
+tags: [season-7, episode-6, unauthorized-repair, city-runtime]
 sources: [../production-bibles/season-07-the-patch-bell-war.md]
-concepts: [../concepts/unauthorized-repair.md]
+concepts: [../concepts/unauthorized-repair.md, ../concepts/city-runtime.md]
 lessons: []
 villains: [../villains/helpful-ghost.md]
 characters: [../characters/byte.md, ../characters/shadow.md]
@@ -16,24 +16,12 @@ locations: [../locations/civic-pages-district.md]
 
 ## Summary
 
-A silver mark appears beside signs that were fixed without approval, and Byte is tempted to admire the shortcut.
-
-## Canon Status
-
-Draft canon until public release.
+A silver repair force fixes some City Runtime symptoms without approval, leaving working terminals and blank consent records.
 
 ## Featured Characters
 
 - Byte sees the cleverness first.
-- Shadow notices the missing caretaker trail.
-
-## Location
-
-- Repaired but unsigned Civic Pages boards.
-
-## Villain Or Conflict
-
-- Helpful Ghost repairs without consent.
+- Shadow notices missing caretaker trails and service-room side effects.
 
 ## Lesson Payload
 
@@ -41,19 +29,19 @@ Draft canon until public release.
 - Defensive takeaway: a fix without permission creates a second incident.
 - Teacher note: intent does not equal authorization.
 
+## Episode Hook
+
+A weather board is fixed before any caretaker touches it.
+
 ## Real-World Inspiration
 
 - Welchia/Nachi's attempted cleanup and patching without consent.
 
 ## Public Transformation Notes
 
-- A real "helpful worm" becomes a silver repair force.
+- A real "helpful worm" becomes a silver repair force that touches runtime systems without owner consent.
 
 ## Safety Constraints
 
 - No worm mechanics.
-- Emphasize consent and accountability.
-
-## Episode Hook
-
-The board is fixed. The ledger is blank.
+- Emphasize consent, source, rollback, and accountability.

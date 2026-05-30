@@ -2,7 +2,7 @@
 type: artifact
 status: active
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 tags: [season-7, patching, maintenance, civic-resilience]
 sources:
   - ../story-arcs/season-07-the-patch-bell-war-arc.md
@@ -12,12 +12,13 @@ sources:
 
 ## Published Canon
 
-Draft canon until Season 7 publication. The Patch Bell is a civic signal that rings when a known serious flaw must be patched, isolated, or publicly risk-accepted.
+The Patch Bell is a civic signal that rings when a known serious flaw must be patched, isolated, or publicly risk-accepted.
 
 ## Story Function
 
 - Makes maintenance visible before failure.
 - Forces caretakers to treat delay as a decision.
+- Applies to shared city infrastructure such as the City Runtime when many desk terminals, service rooms, or public boards depend on the same repair.
 - Gives Cipher a framework for bounded emergency action.
 - Gives the city a durable habit after the Red Door fever.
 
@@ -29,4 +30,4 @@ Draft canon until Season 7 publication. The Patch Bell is a civic signal that ri
 
 ## Current State
 
-Introduced during Season 7 import. It should become the season's central artifact.
+Introduced during Season 7. It is the season's central maintenance artifact.

@@ -2,7 +2,7 @@
 type: season
 status: published
 created: 2026-05-26
-updated: 2026-05-27
+updated: 2026-05-30
 season_number: 3
 tags: [season, worm, unintended-consequences]
 sources:
@@ -60,7 +60,7 @@ The Morris Worm.
 
 ## BL4CK4T Transformation
 
-A self-copying message sprite created for a lab keeps multiplying through old city tunnels. The conflict is not evil intent; it is uncontrolled spread.
+A self-copying toy process created for a lab keeps multiplying through old trust paths in the Civic Learning Grid. The conflict is not evil intent; it is uncontrolled spread: extra copies occupy process slots, push resource counters upward, slow rooms, and force a city response.
 
 ## Season Theme
 
@@ -86,7 +86,7 @@ A self-copying message sprite created for a lab keeps multiplying through old ci
 ## Completed Source Requirements
 
 - Deepened [Morris Worm](../sources/real-world/morris-worm.md) with historical sources.
-- Added concepts for propagation, containment, safe testing, incident response, and recovery.
+- Added concepts for propagation, containment, safe testing, resource counters, process slots, trust paths, incident response, and recovery.
 - Completed documentary treatment, story arc adaptation, production bible, draft review, continuity audit, and release historical-anchor analysis.
 
 ## Safety Boundaries

@@ -2,7 +2,7 @@
 type: style-guide
 status: active
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 tags: [style, technical-texture, historical-fidelity, seasons]
 ---
 
@@ -19,6 +19,8 @@ Use this standard for all season imports, production bibles, mission packets, dr
 Fictional artifacts should illuminate the technical concept, not replace it.
 
 An episode can use a BL4CK4T-world object such as the Echo Grid, Threadboard, Copy Map, Quarantine Tray, Service Map, or Patch Bell, but the reader should still understand the underlying cybersecurity concept before the Teaching Tie-In.
+
+Historical fidelity comes before reuse of existing lore. If the historical anchor depends on a kind of system that Cybertropolis does not yet have, introduce a clear fictional equivalent and document it in the wiki. Do not force a real event through an existing artifact or district when the analogy becomes strained.
 
 ## Required Technical Texture
 
@@ -84,6 +86,8 @@ During historical documentary import, record:
 
 - historical mechanism in one sentence;
 - BL4CK4T-world transformation;
+- pre-translation import inventory outcome: `reuse`, `create`, `merge`, or `omit`;
+- whether an existing world element truly fits or whether new infrastructure is needed;
 - safe technical terms that must survive into public prose;
 - technical details that must remain private;
 - defender-side actions that can be shown on page.

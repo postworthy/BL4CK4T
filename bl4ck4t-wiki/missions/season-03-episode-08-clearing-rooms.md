@@ -2,10 +2,10 @@
 type: mission
 status: complete
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 tags: [season-3, episode-8, recovery]
 sources: [../production-bibles/season-03-the-escaped-experiment.md]
-concepts: [../concepts/rollback-and-recovery.md, ../concepts/incident-response.md]
+concepts: [../concepts/rollback-and-recovery.md, ../concepts/incident-response.md, ../concepts/process-slots.md, ../concepts/resource-counters.md, ../concepts/trust-paths.md]
 lessons: []
 villains: [../villains/copycat-sprite.md]
 characters: [../characters/byte.md, ../characters/shadow.md, ../characters/cipher.md]

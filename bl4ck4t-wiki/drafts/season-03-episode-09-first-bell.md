@@ -2,7 +2,7 @@
 type: article-draft
 status: published
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-30
 target_slug: season-03-episode-09-first-bell
 tags: [season-3, draft, first-bell]
 sources:
@@ -33,7 +33,7 @@ The Copycat Sprite incident closes with the First Bell Desk, changed lab practic
 
 ## Technical Texture Remediation
 
-- Public copy now defines the First Bell Desk as standing incident-response infrastructure for lab tests, copied processes, and strange system behavior.
+- Public copy now defines the First Bell Desk as standing incident-response infrastructure for lab tests, copied processes, process-slot pressure, trust-path surprises, and strange system behavior.
 
 ## Teaching Tie-In
 
@@ -44,7 +44,7 @@ The Copycat Sprite incident closes with the First Bell Desk, changed lab practic
 
 The Morris Worm helped push networked computing toward more formal incident-response structures. Its aftermath is tied to the creation of CERT/CC and to a broader realization that connected systems need contact points, advisories, coordination, and practiced response before the next emergency arrives. The lesson was not only technical. It was institutional.
 
-The First Bell Desk is Cybertropolis learning the same habit. Byte's incident does not end with the Copycat Sprite stopped; it ends when the city has a handle for the next strange report. That is why the final bell matters: the season's real inheritance is a repeatable response practice, not a one-time victory.
+The First Bell Desk is Cybertropolis learning the same habit. Byte's incident does not end with the Copycat Sprite stopped; it ends when the city has a handle for the next strange report, including copied processes, resource pressure, and old trust paths. That is why the final bell matters: the season's real inheritance is a repeatable response practice, not a one-time victory.
 
 ## Continuity Checks
 
