@@ -77,3 +77,9 @@ For the first time that week, Byte looked proud of something that did less than 
 - Key distinction: urgency increases the need for verification; it does not replace it.
 - Defensive habit: use trusted sources, signatures, public status, and rollback notes before applying important updates.
 - Season thread: maintenance is part of trust.
+
+## Behind the Signal
+
+The early-2000s worm era made emergency update communication a central security problem. Vendors and responders needed to tell people to patch quickly, but rushed users and administrators also needed to know which notices were legitimate, what applied to them, and how to recover if something went wrong. Urgency without a trusted channel can become another source of confusion.
+
+The Repair Lane translates that into a civic ritual. The lamp, caretaker stamp, patch-state shelf, and rollback card are story-world versions of trusted source, integrity check, change state, and recovery plan. The episode's historical lesson is that real repair should be visible enough to verify, especially when everyone feels pressure to move fast.

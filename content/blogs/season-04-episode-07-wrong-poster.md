@@ -24,7 +24,7 @@ Grimalkin caught her wrist before she ripped the rest into confetti. "Evidence f
 
 "Also breathing," Grimalkin said, and Whiskers breathed.
 
-### The Drop
+### A Poster Before Breakfast
 
 BL4CK4T's message appeared on the torn corner: `FEAR LIKES A SHORT TRIAL.`
 
@@ -34,7 +34,7 @@ The clerk looked at the poster, then at the Chase Map copy. "What do you know?"
 
 Whiskers answered before anyone else could. "The poster is wrong."
 
-### The Lesson Begins
+### Records Against A Silhouette
 
 The silhouette matched a student named Oren if someone wanted it to. Oren wore a hood, used Mirrorline Arcade, and had once argued with Lark from the Chronicle about a headline, which was enough for a rumor and nowhere near enough for a claim.
 
@@ -44,7 +44,7 @@ Cipher found the sign-in record. Byte found the queue receipt. Ms. Vale confirme
 
 Whiskers pinned all three beside the torn poster.
 
-### Trial And Error
+### A Correction With Authority
 
 Lark arrived pale. "The Chronicle did not print that," she said.
 
@@ -64,7 +64,7 @@ The Glass Bureau stamped it.
 
 That stamp mattered. It told the city restraint had authority too.
 
-### Closing Scene
+### No One Becomes Evidence
 
 Oren came by after lunch, shoulders tight, eyes on the floor. "Thanks," he said.
 
@@ -79,3 +79,9 @@ Shadow watched Oren leave through the east doors. The city had almost chosen the
 - Key distinction: resemblance and suspicion are not identification.
 - Defensive habit: match public response to evidence, harm, and uncertainty.
 - Season thread: the city learns that restraint can protect people too.
+
+## Behind the Signal
+
+One of the enduring debates around the Mitnick case is proportionality. The record includes real unauthorized conduct and real victims, but the cultural argument also asks whether fear and myth shaped detention, restrictions, and public judgment. A high-fidelity account has to resist both easy extremes: harmless folk hero and impossible supervillain.
+
+The wrong poster brings that debate down to one hallway. Oren is almost turned into an answer because the city wants the chase to end. The episode keeps the lesson direct: restraint is not weakness when identity is uncertain; it is how a community protects people while it keeps investigating harm.

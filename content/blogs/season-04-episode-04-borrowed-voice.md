@@ -28,7 +28,7 @@ Byte replayed the approved copy once, then stopped. "I do not like this."
 
 The message was a social-engineering request: familiar words, urgency, and borrowed authority aimed at opening a cabinet through a helpful person instead of a broken lock.
 
-### The Drop
+### The Familiar Phrase
 
 BL4CK4T's card appeared under the kiosk glass.
 
@@ -40,7 +40,7 @@ Cipher drew three columns: phrase, timing, authority.
 
 "Phrase matches," Cipher said. "Timing fails. Authority unknown."
 
-### The Lesson Begins
+### Phrase Timing Authority
 
 The Caller had not broken the gate open. The message had asked a student helper to unlock a side cabinet "for Ms. Vale." The helper paused because the request felt rushed and oddly formal.
 
@@ -56,7 +56,7 @@ Byte looked relieved and annoyed at the same time.
 
 "Or unsupported," Jinx said from the doorway. "We should keep the word false for when the evidence earns it."
 
-### Trial And Error
+### Surface Match
 
 Cipher checked the kiosk's normal request pattern. Ms. Vale's real requests had a form number, a desk stamp, and a second confirmation from the student lead. This message had urgency, a familiar phrase, and no chain.
 
@@ -70,7 +70,7 @@ Ms. Vale confirmed the right process through a separate desk channel, not throug
 
 Shadow, leaning against the door, nodded once. "The green folder wins."
 
-### Closing Scene
+### The Line That Stays Up
 
 The student helper got a thank-you card from the First Bell Desk.
 
@@ -89,3 +89,9 @@ That one stayed up all week.
 - Key distinction: familiar words do not prove a familiar sender.
 - Defensive habit: check context, authority, timing, and normal process before acting.
 - Season thread: the Caller moves from rumor into concrete harm.
+
+## Behind the Signal
+
+Social engineering is one of the most important historical threads in the Mitnick era. The public sometimes focused on mysterious technical power, but many real-world intrusion stories also involve people, trust, authority, and procedures that can be pressured or imitated. The technical boundary and the human boundary are part of the same system.
+
+The borrowed phrase gives that lesson a safe story shape. The episode does not teach impersonation; it teaches verification. A familiar voice, phrase, or request is only one signal, and the stronger defense is context: timing, authority, normal process, and an independent channel that does not rely on the suspicious message itself.

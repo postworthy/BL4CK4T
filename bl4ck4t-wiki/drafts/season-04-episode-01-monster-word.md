@@ -26,6 +26,12 @@ Shadow and Jinx find the Season 3 phone message copied onto the Notice Wall with
 
 A label is not evidence.
 
+## Behind the Signal
+
+Season 4 is anchored in the Kevin Mitnick and Tsutomu Shimomura hacker-manhunt era, especially the way the 1990s public imagination turned technical cases into larger symbols. Mitnick's real legal record mattered, but so did the reputation that arrived before many people understood the evidence. Newspapers, court claims, hacker-culture responses, and public fear all helped turn one defendant into an archetype.
+
+The `MONSTER` label on the Notice Wall carries that historical problem into Cybertropolis. The Caller may have caused real harm, but the wall is already trying to finish the story before the team knows what happened. This episode asks readers to notice the first dangerous move in a chase story: when a name begins acting like proof.
+
 ## Continuity Checks
 
 - Character consistency: Shadow observes before speaking; Jinx separates claim types.

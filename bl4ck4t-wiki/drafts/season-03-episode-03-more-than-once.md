@@ -40,6 +40,12 @@ The Copycat Sprite appears on a retired Old Stack terminal that Byte never inclu
 - Key concept: propagation means a process reaches places beyond the expected scope.
 - Defensive habit: measure spread through observations, counts, and scope.
 
+## Behind the Signal
+
+In the Morris Worm case, repeated copying mattered as much as initial access. The worm included behavior meant to prevent easy suppression, but that choice contributed to more copies than expected and made affected systems slow, unstable, or unusable. The central historical lesson is not magic or malice. It is that propagation can turn a limited idea into a larger incident once it reaches paths the builder did not fully understand.
+
+The retired terminal in The Old Stack carries that idea without reproducing real mechanics. Byte's problem is not only that the Copycat Sprite moved; it moved into a place his plan did not name. Jinx's board of knowns, feelings, and unknowns mirrors the discipline responders need when a spreading incident first becomes visible and nobody yet understands the full path.
+
 ## Continuity Checks
 
 - Character consistency: Jinx applies Season 2 evidence discipline.

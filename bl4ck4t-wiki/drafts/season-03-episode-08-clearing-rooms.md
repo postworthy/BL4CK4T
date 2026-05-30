@@ -40,6 +40,12 @@ The team clears the extra sprite markers, verifies room states, restores class t
 - Key concept: recovery means returning to a known good state and verifying it.
 - Defensive habit: records, tools, and physical checks should agree before closure.
 
+## Behind the Signal
+
+After the Morris Worm spread, affected sites had to do more than stop new copies. They had to understand what had happened, restore usable service, prevent reentry, and decide when systems could be trusted again. Some places disconnected, cleaned, rebuilt, or applied emergency measures. Recovery was labor, not a single dramatic moment.
+
+The restore slips turn that quieter historical work into an episode. A room that looks calm is not automatically recovered, just as a system that stops showing symptoms is not automatically trustworthy. The episode keeps the cleanup concrete: counters, tools, physical checks, and signed records must agree before the team calls anything clear.
+
 ## Continuity Checks
 
 - Character consistency: Byte follows the recovery plan instead of improvising alone.

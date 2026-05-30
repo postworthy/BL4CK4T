@@ -20,7 +20,7 @@ By morning, half of Cybertropolis had an opinion about it. Some thought it was a
 
 Jinx stood in front of it with both paws behind her back. "Nobody opens it here," she said.
 
-### The Drop
+### The Seal Waits
 
 BL4CK4T's pawprint appeared on the seal, then a line of text shimmered across the paper.
 
@@ -32,7 +32,7 @@ Cipher leaned close without touching it. "The seal is wrong."
 
 "Too eager," Cipher said. "A normal seal holds closed. This one keeps asking to be chosen."
 
-### The Lesson Begins
+### Into The Clear Tray
 
 Ms. Vale brought a clear tray from the First Bell Desk. The label read:
 
@@ -50,7 +50,7 @@ Pixel exhaled as if he had been holding his breath for the whole city.
 
 "So did I," Jinx said. "That is why the tray exists."
 
-### Trial And Error
+### Too Interesting To Rush
 
 Letter Lane smelled like warm paper and lamp oil. Delivery ribbons moved along the ceiling, carrying club notices, project notes, and birthday cards through the Message Office.
 
@@ -60,7 +60,7 @@ Cipher wrote those down. Jinx added a fourth line:
 
 `Too interesting to rush.`
 
-### Closing Scene
+### The Empty Spot
 
 The envelope did not open. That felt like action, even if it looked like waiting.
 
@@ -79,3 +79,9 @@ Jinx smiled. "Boring can save a whole afternoon."
 - Key distinction: wanting to open something is not proof that it is safe.
 - Defensive habit: pause and move unexpected messages into an approved review path.
 - Season thread: Season 5 begins with curiosity contained before the Glitter Letter spreads.
+
+## Behind the Signal
+
+Season 5 is anchored in ILOVEYOU, also called the Love Bug or Love Letter worm, which spread globally in May 2000 through email that felt personal and familiar. Its first power was not technical spectacle. It was the ordinary feeling of receiving a message that seemed to come from someone worth trusting, with an attachment that invited curiosity before caution could catch up.
+
+The pink envelope turns that first moment into a BL4CK4T scene. Nobody knows the full danger yet, and that is exactly why Jinx and Cipher slow the decision down. The episode preserves the historical lesson at a safe level: emotional appeal, unexpected attachment, and familiar messaging channels deserve a review path before anyone opens the beautiful thing.

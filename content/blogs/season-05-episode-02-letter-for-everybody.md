@@ -26,7 +26,7 @@ Pixel stared at it. "I did not send me a love letter."
 
 Shadow looked at the delivery ribbon above them. "It says you did."
 
-### The Drop
+### A Letter From Pixel
 
 BL4CK4T's message appeared on the tray rim.
 
@@ -36,7 +36,7 @@ Pixel turned the envelope over. "It feels rude not to open a letter from myself.
 
 "It feels useful not to," Jinx said.
 
-### The Lesson Begins
+### A Familiar Name
 
 The Message Office clerk brought a list of recipients. Each person had received the letter from someone they knew. Nobody remembered sending it.
 
@@ -54,7 +54,7 @@ Cipher checked the sender field beside Pixel's name. "Display name says Pixel. D
 
 Jinx added the mismatch to the report. "That proves the message is inconsistent. It does not prove Pixel sent it."
 
-### Trial And Error
+### Trusted Name Bad Timing
 
 Pixel placed his envelope in the Quarantine Tray. The lid clicked, and the glitter stopped moving.
 
@@ -66,7 +66,7 @@ Cipher wrote that down. "That is part of the mechanism."
 
 "When a message uses them to make you rush, yes."
 
-### Closing Scene
+### This Way First
 
 By lunch, the Notice Wall had a new warning.
 
@@ -85,3 +85,9 @@ Pixel pointed to the tray. "Same. This way first."
 - Key distinction: a trusted sender name is not the same as an expected message.
 - Defensive habit: verify context and report suspicious messages even when they look personal.
 - Season thread: the Glitter Letter begins spreading through trusted relationships.
+
+## Behind the Signal
+
+ILOVEYOU spread through relationships as much as infrastructure. Recipients often saw mail that appeared to come from a familiar person, which made the message feel safer than an anonymous warning sign would have. That trust path helped the worm move quickly through address books and organizations before many people understood what was happening.
+
+Pixel receiving a letter from himself gives that historical tension a playful but pointed shape. The sender name is familiar, yet the timing and context do not fit. The episode teaches the real defensive question behind the Love Bug: not merely "do I know this sender?" but "was this message expected, consistent, and safe to handle?"

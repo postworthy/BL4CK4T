@@ -22,7 +22,7 @@ The Quarantine Tray made that difficult. It had a clear lid, three review lamps,
 
 The tray was not just a box. It was an isolated review path. It could read the sender mark, recipient list, arrival time, and attachment label without sending the message through ordinary delivery ribbons.
 
-### The Drop
+### The Tray Knows Pixel
 
 BL4CK4T's message appeared on the tray glass.
 
@@ -32,7 +32,7 @@ Pixel folded his arms. "I am standing."
 
 "Not with your paws," Jinx said. "With your process."
 
-### The Lesson Begins
+### A Place To Stand
 
 Byte set up a harmless display model beside the real tray. It showed a paper moth fluttering toward a lamp. When Pixel touched the model envelope, the moth copied itself across three empty cards.
 
@@ -42,7 +42,7 @@ Cipher labeled the cards: open, copy, confuse. Pixel watched the moths settle an
 
 "Exactly," Jinx said. "We can choose something else."
 
-### Trial And Error
+### Slower Than Worse
 
 Pixel wrote the review steps himself:
 
@@ -59,7 +59,7 @@ Shadow, from the doorway, said, "Slower than what?"
 
 Pixel looked at the model moths. "Slower than making it worse."
 
-### Closing Scene
+### Curious Contained
 
 When the next glitter letter arrived, Pixel reached for the tray before anyone spoke.
 
@@ -76,3 +76,9 @@ Pixel printed `CURIOUS. CONTAINED.` and held it up. That, he liked.
 - Key distinction: curiosity is useful when it has boundaries.
 - Defensive habit: hold suspicious messages in an approved place before inspection.
 - Season thread: the Quarantine Tray becomes the team's main response artifact.
+
+## Behind the Signal
+
+In the first hours of the ILOVEYOU outbreak, the smallest user decision could become part of a much larger organizational problem. Opening the attachment was not only a private act; it could trigger behavior that affected contacts, mail systems, files, and responders. The historical story is powerful because curiosity and trust became scale.
+
+Pixel's restraint is the season's answer to that first click. The Quarantine Tray does not shame curiosity; it gives curiosity a safer place to stand. That preserves the historical lesson without operational detail: suspicious messages should be held, recorded, and reviewed through a controlled path before they are allowed to touch ordinary systems.

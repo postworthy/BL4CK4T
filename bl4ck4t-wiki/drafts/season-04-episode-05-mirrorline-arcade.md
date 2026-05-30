@@ -26,6 +26,12 @@ A Chronicle update sends a crowd into Mirrorline Arcade. Whiskers redirects peop
 
 Crowds can damage evidence even when people mean well.
 
+## Behind the Signal
+
+The hacker-manhunt era shows how public attention can change an investigation. Once a case becomes a spectacle, the story can move faster than the evidence, and people who want to help may repeat claims, chase leads, or amplify details before they are ready. Media attention can inform the public, but it can also create pressure around fragile facts.
+
+The crowded Arcade turns that pressure into something visible. The trace is damaged not by malice, but by excitement and proximity. That keeps the episode tied to the historical anchor: in a public chase, preservation is not only a technical task. It is also a communication problem.
+
 ## Continuity Checks
 
 - Character consistency: Whiskers leads with process and care.

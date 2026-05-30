@@ -28,7 +28,7 @@ Pixel wore a jacket dusted with chalk. He looked nervous until the first visitor
 
 Then Pixel smiled.
 
-### The Drop
+### One Last Tone
 
 The exhibit lights dimmed before Pixel could answer.
 
@@ -46,7 +46,7 @@ Byte pressed the exhibit switch. The model ran through the whole story in light:
 
 For the first time all season, the room understood at once.
 
-### The Lesson Begins
+### The Network Remembers
 
 The exhibit became part science fair, part mystery archive, part apology to Signal Row.
 
@@ -66,7 +66,7 @@ Rook gave her a second sticker. "For your notebook."
 
 Jinx took it and pretended not to care.
 
-### Trial and Error
+### The Song Changes Shape
 
 The last demo of the night belonged to Pixel.
 
@@ -90,7 +90,7 @@ Byte whispered back, "He stole half of it from Cipher."
 
 The final visitor left with a lantern sticker, a folded exhibit card, and a promise to stop putting Crunch Charms on public signs. That last part may have been optimistic, but Jinx wrote it down anyway.
 
-### Closing Scene
+### A New Thread Begins
 
 After midnight, the Hideout settled into the kind of quiet that comes after a crowd has filled a room and left its warmth behind.
 
@@ -131,3 +131,9 @@ Jinx was already opening her notebook to a clean page.
 - Key distinction: Season 1 focused on signals and architecture; Season 2 begins with evidence and accounting.
 - Defensive habit: Pixel explains, Cipher clarifies, Byte builds, Jinx notices the anomaly, Shadow confirms the small clue, and Whiskers closes the arc.
 - Season thread: the `-0.75` discrepancy sets up the next season's detective story.
+
+## Behind the Signal
+
+The blue-box era did not end only because people learned a lesson. It faded as technology changed, enforcement pressure grew, and new computing cultures gave curious systems thinkers different places to explore. Its legacy remained in hacker culture: listen closely, learn how the hidden machine works, question authority, and argue about where curiosity crosses into harm.
+
+The Season 1 finale keeps that legacy without treating the old mistake as only a warning sign. Signal Row still sings because infrastructure has memory, beauty, and risk at the same time. The public exhibit lets the city learn from the Echo Grid instead of hiding it, while the tiny `-0.75` clue shifts the series toward a new historical shape: detective work, records, and evidence.

@@ -22,13 +22,13 @@ The City Chronicle printed the correction in plain type:
 
 Lark signed it herself, under the headline and in full view of the wall.
 
-### The Drop
+### The Smaller Correction
 
 BL4CK4T's final Season 4 card arrived under the First Bell Desk bell: `THE BEST CHASE ENDS BY CHANGING HOW THE NEXT CHASE BEGINS.`
 
 Grimalkin rang the bell once, and no one ran. That had become one of the city's better sounds.
 
-### The Lesson Begins
+### The Final Card
 
 The Caller entered a repair path set by Ms. Vale, the Glass Bureau, and the affected students.
 
@@ -38,7 +38,7 @@ No crowd got to watch, and Whiskers approved of that. "Consequences are not thea
 
 Pixel added that to the Notice Wall, then moved it because Jinx said the quote needed context.
 
-### Trial And Error
+### People Before Symbols
 
 The team updated the First Bell binder with a new identity-claim report form. It asked for the source of the claim, the evidence state, the possible harm if the claim was published, the reviewer, and the decision about whether a name belonged on the Notice Wall at all.
 
@@ -50,7 +50,7 @@ Jinx placed the Chase Map in the drawer beside the Copy Map from Season 3 and th
 
 "Evidence before story," Shadow said, and Jinx nodded. "And people before symbols."
 
-### Closing Scene
+### The Pink Envelope Returns
 
 At sunset, repair hours, club meetings, a Chronicle correction, and a First Bell reporting card made the Notice Wall look almost ordinary again. Then Pixel found the envelope: pink, sealed, neat as a secret, and pinned where the monster label had been.
 
@@ -69,3 +69,9 @@ BL4CK4T's tiny black pawprint appeared on the seal, and nobody touched it after 
 - Key distinction: closing a chase should change the next response.
 - Defensive habit: preserve evidence before story and people before symbols.
 - Season thread: Season 4 closes the Caller case and opens the Season 5 pink-envelope clue.
+
+## Behind the Signal
+
+The Mitnick/Shimomura era did not end cleanly with an arrest. The legal process, plea, sentencing, supporter campaigns, later career, and continuing arguments over press mythology all shaped what the case meant. Its legacy includes social engineering awareness and network tracing, but also a warning about what happens when a technical suspect becomes a symbol larger than the evidence.
+
+Season 4 closes by making the city change its process. The corrected notice, identity-claim form, and quiet repair path are fictional answers to a real historical problem: public stories about hackers can create harm if they move faster than proof. The pink envelope then turns the page toward a different kind of trust story, where the next danger will arrive through curiosity, affection, and a message that wants to be opened.

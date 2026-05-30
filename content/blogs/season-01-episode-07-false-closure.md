@@ -22,7 +22,7 @@ Pixel stood near the stairwell, holding the little kitten's dropped umbrella. He
 
 Whiskers looked at the team. "Help first. Evidence second." Jinx nodded once. "Both."
 
-### The Drop
+### The Too-Easy Ending
 
 Shadow found the first clue under the kiosk lip: a crowned pawprint sticker, half-peeled by rain and heat. The jagged tail had been drawn thicker than before, almost like a hook.
 
@@ -38,7 +38,7 @@ Whiskers folded the slip and put it in his field notebook.
 
 "We stabilize the signs," he said. "Then we follow the sticker."
 
-### The Lesson Begins
+### Loose Notes
 
 Jinx built the timeline on the kiosk glass with removable tags.
 
@@ -70,7 +70,7 @@ Byte opened the Tonebox file on his tablet. "In our model, a mixed path can send
 
 Whiskers looked at the crowded stairwell. "In the city, the wrong place has people in it."
 
-### Trial and Error
+### The Door Still Hums
 
 They worked in pairs. Whiskers and Pixel redirected confused commuters while the transit board refreshed. Byte and Cipher compared the public notice history with the Tonebox model. Jinx and Shadow traced the sticker path out of the station and into the alley behind the relay cabinet.
 
@@ -96,7 +96,7 @@ Whiskers looked toward the alley. "At the part of us that thought this was still
 
 Pixel had no answer for that.
 
-### Closing Scene
+### Closure With Teeth
 
 They gathered at the Hideout after the transit board ran clean for an hour.
 
@@ -129,3 +129,9 @@ The city still sang, and now the song had weight.
 - Key distinction: recovery comes before blame.
 - Defensive habit: Jinx builds the timeline, Shadow adds the small clue, and Whiskers keeps the team focused on helping people first.
 - Season thread: the crowned mark and false closure force the team toward an architectural fix.
+
+## Behind the Signal
+
+Phone phreaking stories are often retold as clever play, but the real network carried business, family, emergency, and public communication. Bell and law enforcement treated blue boxing as fraud and unauthorized manipulation because the telephone system was not a private puzzle box. It was shared infrastructure with real operational and financial consequences.
+
+The false closure turns that consequence into a small public harm. No one needs to be injured for the lesson to become serious: people move to the wrong stairs, a morning bends, and the team has to recover before it can argue about blame. That shape mirrors the historical moment when fascination with the trick had to meet responsibility for the system affected by the trick.

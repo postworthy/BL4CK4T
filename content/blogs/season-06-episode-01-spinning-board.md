@@ -40,7 +40,7 @@ Whiskers looked at the board. `ANSWERING...`
 
 Shadow shook his head. "The clinic is working. The board is stuck. The desk is tired. The line is growing. That is different."
 
-### The Drop
+### A Pawprint Above Reception
 
 A strip of black paper slid from behind the clock above the reception desk. BL4CK4T's pawprint glowed once.
 
@@ -62,7 +62,7 @@ Jinx, beside him, answered before Whiskers could. "The Glitter Letter incident i
 
 That helped. It also made the room feel larger.
 
-### The Lesson Begins
+### Paper Still Works
 
 The clinic clerk moved a paper sign onto the counter.
 
@@ -86,7 +86,7 @@ Shadow read the line and nodded. "It says what we know."
 
 "Good," Shadow said. "People can work with that."
 
-### Closing Scene
+### The City Starts Waiting
 
 The Service Bell Tower rang again before noon, this time for a school lunch counter that could not print meal tickets. Then a library request shelf. Then a public notice window.
 
@@ -109,3 +109,9 @@ He wrote, `We are finding out which doors are blocked.`
 - Key distinction: unavailable is different from corrupted.
 - Defensive habit: report service impact clearly, including what still works.
 - Season thread: availability is part of trust.
+
+## Behind the Signal
+
+Season 6 is anchored in the 2007 cyberattacks against Estonia, a landmark case where the central public harm was availability. During a political crisis over the Bronze Soldier monument, Estonian government, media, banking, and other public-facing services were hit by denial-of-service pressure. The historical importance was not mass theft or permanent destruction. It was that a highly digital society suddenly had to ask what happens when public systems cannot reliably answer.
+
+The clinic board gives that national-scale idea a human first scene. The records still exist, the desk can still work by paper, and the board is still trying to answer. The harm lives in the waiting room. That is the Estonia lesson in miniature: when people depend on a digital service, delay and unreachability become real civic impact.

@@ -160,6 +160,12 @@ The old map did not look harmless now. It looked generous, built by people who w
 - Team skill: Grimalkin maps, Cipher tests, Shadow verifies physical details.
 - Season thread: the route narrows to Ledger Lab, library, and old relay.
 
+## Behind the Signal
+
+The computing world behind The Cuckoo's Egg was built around research collaboration, remote access, shared systems, and trust-heavy paths between institutions. Those connections were not foolish in their own time. They helped people work. They also meant that misuse in one place could become a path into another.
+
+Old Trust Paths treats that history with sympathy instead of hindsight. The old route is generous before it is risky. Grimalkin's map shows that security work is not only closing doors; it is understanding why the doors existed and whether they still deserve the trust they carry.
+
 ## Continuity Checks
 
 - Character consistency: Grimalkin maps carefully; Cipher removes a favored theory; Shadow grounds the evidence.

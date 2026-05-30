@@ -31,6 +31,12 @@ Jinx builds a clean Service Map and Whiskers spots its flaw: it lists systems bu
 - Defensive habit: identify critical dependencies and affected people before a crisis.
 - Season thread: availability is part of trust.
 
+## Behind the Signal
+
+Estonia mattered in part because public life already relied heavily on digital services. Online banking, public e-services, media, government information, DNS, ISPs, and ordinary civic routines were connected to daily trust. That dependency meant an outage was not just a technical diagram; it affected citizens trying to bank, read news, get public information, and keep life moving during a tense political moment.
+
+Jinx's first Service Map is wrong for the same reason a purely technical incident map would be incomplete. It shows systems without the people who depend on them. Adding waiting rooms, families, clerks, fallback desks, and outside readers keeps the BL4CK4T story aligned with the historical anchor: resilience begins by knowing what depends on what, and who gets hurt when a service does not answer.
+
 ## Technical Texture Remediation
 
 - Public copy now adds dependency tags for shared answer lamps, local shelves, confirmation services, and public windows, plus state, impact, dependency, and workaround fields.

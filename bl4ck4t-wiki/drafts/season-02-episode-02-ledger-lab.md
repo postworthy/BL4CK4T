@@ -181,6 +181,12 @@ Instead, Jinx looked at the blank space where the mismatch might have been and w
 - Team skill: Byte maps normal events so Jinx can compare the repeated anomaly.
 - Season thread: Project Orchard becomes the first repeated subject tied to `-0.75`.
 
+## Behind the Signal
+
+The real Cuckoo's Egg investigation depended on ordinary system records becoming security evidence. Shared research computers kept accounting data because machine time had value. That meant a usage mismatch could be more than bookkeeping noise if someone understood what normal activity looked like first.
+
+The Ledger Lab turns that idea into a classroom of resource boards, project labels, and baseline behavior. Byte's work is not glamorous, but it is essential: before Jinx can call something abnormal, the team has to understand normal. The historical lesson underneath the scene is that logs do not speak by themselves. Defenders give them meaning by comparing them carefully.
+
 ## Continuity Checks
 
 - Character consistency: Byte teaches through tools; Jinx controls her suspicion; Pixel asks concrete questions.

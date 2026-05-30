@@ -50,7 +50,7 @@ Pixel watched the closed glass. "Can we open it?"
 
 Grimalkin nodded. "That is why we do not call it solved."
 
-### The Drop
+### Signs Reasons Reviews
 
 BL4CK4T's mark appeared on the gate hinge.
 
@@ -72,7 +72,7 @@ Shadow added a fourth.
 
 The clerk read the new card and pointed to Toma's request. "That would go there."
 
-### Trial And Error
+### The Exception Slot
 
 They built a small priority slot for outside civic needs: school notices, medical appointment confirmations, family emergency boards, and public safety updates.
 
@@ -92,7 +92,7 @@ It was not the answer he wanted. It was an answer.
 
 The local clinic lane kept moving. Not perfectly. Enough.
 
-### Closing Scene
+### Toma Writes Back
 
 At the next Status Wall update, Whiskers read the outside-gate notice aloud.
 
@@ -123,3 +123,9 @@ Shadow pinned it beside the sign so nobody could pretend the closed gate affecte
 - Key distinction: outside is not the same as hostile.
 - Defensive habit: explain temporary limits, provide help paths, and review restrictions often.
 - Season thread: availability is part of trust.
+
+## Behind the Signal
+
+One of the most concrete defender stories from Estonia was traffic triage. CERT and later analyses describe temporary restrictions on foreign access to some government pages, and some banks reportedly limited foreign traffic to preserve domestic access before widening it selectively. Those choices were not magic fixes. They were difficult availability tradeoffs made under pressure.
+
+The Outside Gate keeps that complexity visible. A filter can protect local clinic and school services while also catching real people who belong. Toma's request gives the false-positive problem a face, and Shadow's explanation preserves the historical nuance: hostile traffic may arrive through outside paths, but outside does not mean hostile.

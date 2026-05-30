@@ -26,6 +26,12 @@ The City Chronicle names the Vanishing Caller. Jinx and Pixel use BL4CK4T's four
 
 Repeated claims need sources and classification.
 
+## Behind the Signal
+
+The historical Mitnick story became famous partly because it was easy to package: a named hacker, a pursuit, a technical expert, and a public arrest. That shape made the case memorable, but it also compressed uncertainty, legal procedure, victim impact, technical evidence, and media interpretation into a cleaner story than the record can always support.
+
+Jinx's Notice Wall turns that risk into a defender habit. `Seen`, `guessed`, `repeated`, and `unknown` are simple labels, but they slow the machinery that turns a nickname into a verdict. The episode keeps the City Chronicle correctable rather than cruel because the real lesson is not that reporting is bad. The lesson is that public information needs evidence state, source, and time.
+
 ## Continuity Checks
 
 - Character consistency: Jinx leads the evidence discipline.

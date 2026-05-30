@@ -24,7 +24,7 @@ Byte rolled in a display board. "Appearance on the left. Behavior on the right."
 
 Cipher added three labels beneath the heart: `attachment name`, `file extension`, and `observed behavior`. "A message can wear one label and still act like another kind of file."
 
-### The Drop
+### Pretty Things That Lie
 
 BL4CK4T's message printed on a blank card.
 
@@ -32,7 +32,7 @@ BL4CK4T's message printed on a blank card.
 
 Cipher pinned it above the board.
 
-### The Lesson Begins
+### Appearance And Behavior
 
 On the appearance side, Byte placed a paper heart.
 
@@ -50,7 +50,7 @@ Whiskers looked at the arrows. "Can we say that publicly?"
 
 "Yes," Jinx said. "If we say it without teaching the how."
 
-### Trial And Error
+### The Warning Phrase
 
 They tested warning phrases.
 
@@ -64,7 +64,7 @@ Pixel wrote that one on a card and added a tiny tray drawing.
 
 Cipher allowed the drawing after removing two unnecessary sparkles.
 
-### Closing Scene
+### Expected Beats Pretty
 
 The Message Office posted the card by every intake desk.
 
@@ -81,3 +81,9 @@ Cipher considered that an improvement in taste.
 - Key distinction: appearance and behavior can differ.
 - Defensive habit: judge suspicious messages by context and approved review, not by name or look.
 - Season thread: the city learns why the letter cannot be treated like ordinary mail.
+
+## Behind the Signal
+
+The Love Bug exposed how file appearance, desktop defaults, and user expectations could work together against people. The historical point is not that users were foolish. It is that many systems made it too easy for an attachment to look like one kind of thing while behaving like something more dangerous after it was opened.
+
+Cipher and Byte's appearance-versus-behavior board keeps that lesson concrete without showing harmful mechanics. The Glitter Letter can be pretty, personal, and still wrong for the context. The safe takeaway is to judge suspicious attachments by behavior, source, expectation, and review process rather than by a friendly name or decorative surface.

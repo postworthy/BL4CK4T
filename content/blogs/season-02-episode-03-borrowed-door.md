@@ -24,7 +24,7 @@ Jinx walked the center aisle with her notebook. Cipher moved beside the wall clo
 
 Shadow watched the terminals. Most were dark and cool. One was not.
 
-### The Drop
+### A Door With Someone Else's Name
 
 He rested two fingers near the side vent of terminal seven.
 
@@ -66,7 +66,7 @@ The dim resource board flickered once. A white pawprint appeared in the corner f
 
 Then the board returned to gray.
 
-### The Lesson Begins
+### The Account Is Not The Person
 
 Grimalkin placed four cards on an empty desk.
 
@@ -104,7 +104,7 @@ Grimalkin added the slip to the table. "Behavior."
 
 Jinx studied the warm terminal, the slips, and Cipher's timing notes. The clue was no longer only a number on a board. It had a place, a rhythm, and a habit.
 
-### Trial and Error
+### Tracing The Borrowed Path
 
 At 12:17 a.m., the fourth event did not happen.
 
@@ -132,7 +132,7 @@ Ms. Vale nodded. "Good. Student projects are easy to blame and hard to unblame."
 
 That line went into Jinx's notebook too.
 
-### Closing Scene
+### The Door Stays On The Board
 
 Back at the Hideout, Byte had cleared a wall for the evidence board. He had drawn a thin outline of the Ledger Lab and pinned Jinx's first `-0.75` note at the top.
 
@@ -157,3 +157,9 @@ Shadow looked at the warm-terminal card. "Now we do."
 - Key distinction: a familiar project label does not prove the project owner acted.
 - Defensive habit: the Script Kitties preserve alternate explanations.
 - Season thread: the working phrase "Borrowed Door" enters the case.
+
+## Behind the Signal
+
+Stoll's case involved unauthorized activity showing up through accounts and network paths that did not initially reveal a clean identity. A familiar account name or system label could be part of the evidence, but it could not prove the person behind the keyboard. That uncertainty is one reason the defender story is so strong.
+
+Borrowed Door translates that problem into BL4CK4T terms. The team sees behavior, timing, and terminal state before it sees a culprit. Jinx keeps alternate explanations alive because identity in a networked system is not the same as a name on a label. The real history rewards that caution: early certainty would have made the case weaker.

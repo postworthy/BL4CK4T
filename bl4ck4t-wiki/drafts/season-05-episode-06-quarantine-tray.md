@@ -31,6 +31,12 @@ Whiskers and Grimalkin turn Message Office chaos into four response lanes: hold,
 - Defensive habit: Separate intake, warning, containment, and recovery work.
 - Season thread: The response becomes city-wide enough to slow the plague.
 
+## Behind the Signal
+
+During the ILOVEYOU outbreak, organizations had to make fast operational choices: warn users, filter mail, disconnect or restrict systems, clean affected machines, and coordinate reports while messages kept arriving. The incident showed that email security is not only about blocking one message. It is also about having a response system that can absorb fear, volume, and uncertainty.
+
+Whiskers and Grimalkin's lanes turn that response work into choreography. Hold, report, warn, and recover are fictional desk paths, but they reflect the real-world need for ordered intake, containment, communication, and cleanup. The episode's historical bridge is simple: a flood of reports needs structure before helpful people can help well.
+
 ## Technical Texture Remediation
 
 - Public copy now maps response lanes to mail filter, intake queue, quarantine review, warning desk, recovery queue, and status board.

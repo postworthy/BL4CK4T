@@ -38,7 +38,7 @@ The next line was blank.
 
 The line after that was blank too.
 
-### The Drop
+### What Cannot Arrive
 
 BL4CK4T's mark appeared in the margin of the ledger, small enough that Pixel almost missed it.
 
@@ -56,7 +56,7 @@ Ms. Vale arrived with a stack of paper forms from the clinic. "Same at the appoi
 
 Pixel looked back at the beautiful ledger. For the first time, its neatness made sense. The old world was still arranged. The next action was jammed in the doorway.
 
-### Trial And Error
+### The Blocked Tray
 
 Pixel set out three trays.
 
@@ -88,7 +88,7 @@ Ms. Vale looked toward the front room, where clerks were telling visitors to com
 
 "Because people came here to do something," she said. "The city said wait."
 
-### Closing Scene
+### The Perfect Ledger
 
 Whiskers arrived before the next update bell.
 
@@ -117,3 +117,9 @@ Pixel added one more label to the tray.
 - Key distinction: nothing missing does not mean nothing wrong.
 - Defensive habit: record symptoms and impact, not only missing files.
 - Season thread: availability is part of trust.
+
+## Behind the Signal
+
+The Estonia attacks are a strong reminder that cybersecurity is not only about confidentiality or data integrity. Reports and later analyses describe public-facing services under pressure, banks and media coping with disruption, and defenders working to keep essential access alive. A service can be damaged in the public sense even when no one has stolen the database.
+
+Pixel's perfect ledger carries that distinction. Nothing missing does not clear the incident; it simply narrows the question. The blank receipts and incomplete responses show the denial-of-service idea safely: the system receives requests, but people cannot get useful answers when they need them.

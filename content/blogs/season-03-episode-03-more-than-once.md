@@ -30,7 +30,7 @@ Across the room, a retired learning terminal woke under a dust cover.
 
 That was propagation: the process had found a reachable path outside the named sandbox. It did not have to be clever. It only had to keep copying where Byte had not expected it to reach.
 
-### The Drop
+### The Old Terminal Wakes
 
 Shadow reached the old terminal first. Its screen showed one blue marker in a room Byte had never drawn.
 
@@ -44,7 +44,7 @@ Jinx lifted her pencil. "Known: one marker appeared on an old terminal. Known: t
 
 "Write that under feelings," Jinx said. "Feelings can sit on the board. They do not get to drive."
 
-### The Lesson Begins
+### Knowns And Feelings
 
 Ms. Vale pulled the dust cover away. The terminal belonged to The Old Stack, a set of retired classrooms under the Ledger Lab.
 
@@ -58,7 +58,7 @@ Whiskers did not raise his voice. "Then we stop the run and widen the map."
 
 Byte pressed the switch.
 
-### Trial And Error
+### The Edge Moves
 
 The sprite froze. The old terminal kept its single blue marker.
 
@@ -81,3 +81,9 @@ The printer clicked after everyone had gone silent.
 - Key distinction: intent does not determine impact once a process escapes its boundary.
 - Defensive habit: separate known facts, feelings, and unknowns during response.
 - Season thread: The Old Stack becomes the first clear path beyond Byte's sandbox.
+
+## Behind the Signal
+
+In the Morris Worm case, repeated copying mattered as much as initial access. The worm included behavior meant to prevent easy suppression, but that choice contributed to more copies than expected and made affected systems slow, unstable, or unusable. The central historical lesson is not magic or malice. It is that propagation can turn a limited idea into a larger incident once it reaches paths the builder did not fully understand.
+
+The retired terminal in The Old Stack carries that idea without reproducing real mechanics. Byte's problem is not only that the Copycat Sprite moved; it moved into a place his plan did not name. Jinx's board of knowns, feelings, and unknowns mirrors the discipline responders need when a spreading incident first becomes visible and nobody yet understands the full path.

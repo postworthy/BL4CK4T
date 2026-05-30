@@ -31,6 +31,12 @@ The first public warning makes students hide reports, so Whiskers and Pixel rewr
 - Defensive habit: Write alerts that tell people what to do and why reporting helps.
 - Season thread: Better warnings bring hidden reports back into the response.
 
+## Behind the Signal
+
+ILOVEYOU also became a lesson in communication. Advisories and warnings had to reach people quickly, but warnings that sound like blame can make recipients hide mistakes or delay reporting. In a fast-spreading mail incident, that silence can cost defenders time and make the outbreak harder to scope.
+
+Whiskers and Pixel's rewritten warning keeps the season close to that responder reality. The better notice names the message, tells people what to do, and makes reporting feel useful instead of humiliating. That is not softness around security; it is part of containment.
+
 ## Technical Texture Remediation
 
 - Public copy now frames the improved warning as an advisory with affected message type, action steps, do-not-do guidance, and reporting path.

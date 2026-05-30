@@ -15,6 +15,8 @@ This repo is the public BL4CK4T site plus a private-in-practice worldbuilding wi
 - Draft first. Create article drafts under `bl4ck4t-wiki/drafts/` unless the user explicitly asks to publish directly into `content/blogs/`.
 - Run `TROPES.md` validation before any user-facing document is published to the site. User-facing means anything in `content/blogs/`, `content/projects/`, or otherwise visible from the main site.
 - Public season releases must pass a manual prose-quality and episode-differentiation review. Do not publish a season if episode openings, scene beats, narration, Teaching Tie-Ins, or conclusions read as templated variants of each other.
+- Public season episodes should use bespoke narrative `###` headings tied to the episode's concrete artifact, location, pressure point, or turning moment. Avoid final public headings like `The Drop`, `The Lesson Begins`, `Trial and Error`, and `Closing Scene` unless the season bible explicitly approves the exception.
+- Historically anchored public episodes may include a `Behind the Signal` section after the Teaching Tie-In. Keep it in narrative prose, not bullets, and use it to explain the real story behind the fictional episode at a safe high level.
 - Update `bl4ck4t-wiki/index.md` and `bl4ck4t-wiki/log.md` after every ingest, canon update, source filing, draft, or maintenance pass.
 - Do not publish the whole wiki as site navigation unless the user explicitly asks. The site may include subtle source-level easter eggs pointing curious readers toward the idea of a hidden canon layer.
 

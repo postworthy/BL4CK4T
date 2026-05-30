@@ -157,6 +157,12 @@ Jinx was already opening her notebook to a clean page.
 - Team skill: Pixel explains, Cipher clarifies, Byte builds, Jinx notices the anomaly, Shadow confirms the small clue, and Whiskers closes the arc.
 - Season thread: the `-0.75` discrepancy sets up the next season's detective story.
 
+## Behind the Signal
+
+The blue-box era did not end only because people learned a lesson. It faded as technology changed, enforcement pressure grew, and new computing cultures gave curious systems thinkers different places to explore. Its legacy remained in hacker culture: listen closely, learn how the hidden machine works, question authority, and argue about where curiosity crosses into harm.
+
+The Season 1 finale keeps that legacy without treating the old mistake as only a warning sign. Signal Row still sings because infrastructure has memory, beauty, and risk at the same time. The public exhibit lets the city learn from the Echo Grid instead of hiding it, while the tiny `-0.75` clue shifts the series toward a new historical shape: detective work, records, and evidence.
+
 ## Continuity Checks
 
 - Character consistency: Pixel becomes a vivid explainer; Cipher frames the concept; Byte completes the model; Jinx notices the discrepancy; Shadow validates the clue; Whiskers closes the season.

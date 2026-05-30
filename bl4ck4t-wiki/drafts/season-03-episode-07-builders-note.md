@@ -40,6 +40,12 @@ Byte writes what the test expected, what happened, what was missing, and how the
 - Key concept: intent does not replace controls, review, or cleanup.
 - Defensive habit: write expected behavior, actual behavior, missing controls, and repair steps.
 
+## Behind the Signal
+
+The Morris Worm's legal and ethical legacy turns on a difficult distinction. The strongest historical accounts do not treat it as a file-destroying attack, but they also do not treat it as harmless curiosity. The appellate record emphasized intentional unauthorized access, and the broader response showed that a creator can be accountable for the consequences of a connected experiment even when the stated goal was not destruction.
+
+Byte's Builder's Note brings that tension into his character arc. He is not asked to become a villain in his own report, and he is not allowed to hide behind good intentions. The note makes responsibility practical: expected behavior, actual behavior, missing controls, and repair steps become the record future builders can learn from.
+
 ## Continuity Checks
 
 - Character consistency: Byte's MacGyver-style builder ethos matures.

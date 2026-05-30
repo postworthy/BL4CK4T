@@ -31,6 +31,12 @@ The Glitter Letter spreads through class lists and friend paths. Jinx and Shadow
 - Defensive habit: Warn contacts without shaming affected people.
 - Season thread: The bloom map gives the response team its shape.
 
+## Behind the Signal
+
+One reason ILOVEYOU reached global scale was automated spread through address books. Personal and workplace contact lists became distribution paths, so a message that seemed intimate could move at organizational speed. That made the incident a story about software behavior, but also about social trust turning into transport.
+
+The bloom map transforms address-book spread into something readers can see without learning how to reproduce it. Jinx's insistence that affected senders are not automatically culprits matters historically. Many people became part of the spread because their trust paths were used, and shaming them would only make reporting slower and evidence weaker.
+
 ## Technical Texture Remediation
 
 - Public copy now adds recipient-list counts, first-arrival timing, outbound-copy counts, queue pressure, and address-book path language.

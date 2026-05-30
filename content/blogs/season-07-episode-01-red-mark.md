@@ -77,3 +77,9 @@ Jinx closed the drawer with care. "And with whoever decided later was easier."
 - Key distinction: an unknown weakness and a known unfixed weakness create different responsibilities.
 - Defensive habit: track known fixes until they are patched, isolated, or openly risk-accepted.
 - Season thread: maintenance is part of trust.
+
+## Behind the Signal
+
+Season 7 is anchored in the early-2000s worm era, with MSBlaster and Welchia/Nachi as the emotional center. The key historical detail is that Microsoft published MS03-026 in July 2003, before Blaster became a public crisis in August. That timing matters because the story is not only about a flaw. It is about the gap between a known repair and a repair that actually reaches exposed systems.
+
+The red card is Cybertropolis's version of that gap. The warning was present, the affected cabinet family was listed, and the decision field was empty. The episode keeps the real lesson intact: once a serious fix is known, silence becomes a decision, even if nobody writes the decision down.

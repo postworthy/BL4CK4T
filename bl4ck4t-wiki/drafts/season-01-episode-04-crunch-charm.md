@@ -158,6 +158,12 @@ Pixel's charm felt heavier in his pocket.
 - Team skill: Byte and Cipher test the claim with a model and show that other objects can trigger the same effect.
 - Season thread: the Crunch Charm myth has mutated again, and a new mischievous signal figure has appeared.
 
+## Behind the Signal
+
+The Captain Crunch whistle became one of the most famous symbols of phone phreaking, but the real history is more layered than the folklore. John Draper became the public figure attached to the cereal-whistle story, while later historical work credits Sid Bernay with discovering the whistle's phreaking relevance earlier. The whistle matters less as a magic object than as a reminder that simple artifacts can become oversized myths.
+
+The Crunch Charm is built from that tension. Pixel wants the charm to mean something because it is tangible, collectible, and exciting. Cipher and Byte pull the lesson back toward architecture: if several objects can trigger the same response, the object is not the heart of the problem. The real issue lives in the old system's trust boundary.
+
 ## Continuity Checks
 
 - Character consistency: Byte builds the model; Cipher explains the structure; Pixel feels the charm of the charm; Jinx tracks rumor mutation; Whiskers keeps the team focused.

@@ -69,3 +69,9 @@ Pixel helped Milo tape the handwritten paragraph above the desk. The machine cou
 - Key distinction: surviving records do not erase the harm of lost time, lost drafts, and delayed service.
 - Defensive habit: map who is affected and protect work with backups, fallback paths, and clear priorities.
 - Season thread: maintenance is part of trust.
+
+## Behind the Signal
+
+Blaster made maintenance visible to ordinary users through interruption: unstable machines, restarts, support calls, emergency patching, and lost work. The historical record does not require stolen secrets to show impact. A worm that disrupts daily computing can still create real cost for schools, agencies, companies, home users, and help desks.
+
+Milo's lost paragraph keeps that impact human. Restart weather is not a dramatic abstraction; it is the moment a system interrupts someone who was trying to work. Cipher's bounded-action question comes straight out of the historical pressure of worm response: defenders often have to protect people before every unknown is gone.

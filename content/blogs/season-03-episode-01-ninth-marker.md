@@ -32,7 +32,7 @@ The side printer clicked once.
 
 BL4CK4T's drop had no drama in it. That made Pixel more nervous.
 
-### The Drop
+### Count The Extra One
 
 Byte made a copy of the simulator record and taped it to a clean board. Eight expected markers. One extra marker. One empty sandbox room that should have stayed empty.
 
@@ -46,7 +46,7 @@ Byte's ears folded. "My test process only knew the checkpoints."
 
 Jinx wrote that down. `Only knew` was a claim. Claims belonged on paper before they grew teeth.
 
-### The Lesson Begins
+### The Thinking Folder
 
 Ms. Vale brought the team a red folder labeled `Unexpected Behavior`.
 
@@ -60,7 +60,7 @@ Pixel read the last line. "What did you do when it changed?"
 
 Byte nodded. "And now we make a smaller test."
 
-### Trial And Error
+### Finding The Edge
 
 The team did not restart the simulator. They traced the old run. Cipher checked counts. Shadow checked room lights. Jinx checked times. Pixel watched the ninth marker as if it might confess.
 
@@ -83,3 +83,9 @@ Pixel looked at the ninth marker.
 - Key distinction: unexpected behavior should be recorded before anyone explains it.
 - Defensive habit: pause, record, and check boundaries before rerunning a strange test.
 - Season thread: the ninth marker turns the Season 2 cliffhanger into Byte's Season 3 builder arc.
+
+## Behind the Signal
+
+Season 3 is anchored in the Morris Worm, released on November 2, 1988, into a young Internet built around universities, research labs, government systems, and Unix machines that often trusted each other more than later networks would. The incident did not become historic because files were erased. It became historic because unexpected self-copying behavior consumed resources, slowed machines, disrupted work, and forced defenders to understand a new kind of network-scale failure.
+
+The ninth marker gives the Script Kitties that first historical feeling in miniature. Before anyone knows whether the extra copy is harmless, dangerous, clever, or accidental, the right move is to stop and count what actually happened. The episode keeps the mechanism safe and fictional while preserving the defender's first discipline from the real event: treat unexpected propagation as evidence before turning it into a story.

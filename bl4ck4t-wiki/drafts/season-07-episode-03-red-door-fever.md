@@ -27,6 +27,12 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: identify exposed systems and isolate affected groups.
 - Season thread: maintenance is part of trust.
 
+## Behind the Signal
+
+Code Red, Nimda, SQL Slammer, and Blaster all made exposed services harder to ignore. The specific technologies differed, but the repeating pattern was clear: systems reachable across networks could turn delayed maintenance into broad disruption. Public-facing or widely reachable services make patch debt more urgent because the path to impact is already open.
+
+The red doors use that history without showing real exploit mechanics. Jinx does not need to know every detail before she identifies the shared cabinet family, the affected boards, and the reachable boards. That is the defender lesson: scope the exposed group, isolate where needed, and protect public services before the symptoms spread farther.
+
 ## Technical Texture Remediation
 
 - Public copy now adds cabinet-family version, public-facing endpoint, affected-board count, reachable-board count, and exposed-family spread risk.

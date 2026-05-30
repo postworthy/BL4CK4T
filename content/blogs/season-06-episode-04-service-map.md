@@ -46,7 +46,7 @@ Shadow added the library shelf and the readers who could still ask in person. By
 
 The map stopped looking like a tidy machine. It looked like a city.
 
-### The Drop
+### Doors And Waiting Rooms
 
 BL4CK4T's pawprint appeared in the blank corner.
 
@@ -70,7 +70,7 @@ The questions changed the room.
 
 The public notice window had looked less urgent than the clinic board until Shadow pointed out that families outside the city were using it to check whether school events were still open. The lunch counter had looked simple until Grimalkin showed that meal tickets affected attendance records. The Message Office receipts had looked like a mail problem until Cipher connected them to every desk that expected confirmations.
 
-### Trial And Error
+### Lanes Instead Of Stars
 
 Byte tried to mark critical services with red stars.
 
@@ -90,7 +90,7 @@ Pixel added a small circle beside the clinic waiting room. "For people who canno
 
 Jinx kept it.
 
-### Closing Scene
+### The Map Becomes A City
 
 By sunset, the Service Map had smudges, folded corners, and more human names than Jinx expected. She liked it more that way.
 
@@ -113,3 +113,9 @@ The Service Bell Tower rang once. Jinx did not jump this time. She took a green 
 - Key distinction: mapping systems is not the same as mapping impact.
 - Defensive habit: identify critical dependencies and affected people before a crisis.
 - Season thread: availability is part of trust.
+
+## Behind the Signal
+
+Estonia mattered in part because public life already relied heavily on digital services. Online banking, public e-services, media, government information, DNS, ISPs, and ordinary civic routines were connected to daily trust. That dependency meant an outage was not just a technical diagram; it affected citizens trying to bank, read news, get public information, and keep life moving during a tense political moment.
+
+Jinx's first Service Map is wrong for the same reason a purely technical incident map would be incomplete. It shows systems without the people who depend on them. Adding waiting rooms, families, clerks, fallback desks, and outside readers keeps the BL4CK4T story aligned with the historical anchor: resilience begins by knowing what depends on what, and who gets hurt when a service does not answer.

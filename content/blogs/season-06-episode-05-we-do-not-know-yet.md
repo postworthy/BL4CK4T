@@ -44,7 +44,7 @@ Whiskers looked at the crossed-out headline. "If I say we do not know yet, it so
 
 Cipher sorted service notes into the three piles. "If you guess, it may sound strong for one minute. Then the next fact will make it weaker."
 
-### The Drop
+### Known Unknown Next Action
 
 BL4CK4T's pawprint appeared on the back of Whiskers' crossed-out card.
 
@@ -64,7 +64,7 @@ The clerk read it once. "You want the unknowns on the public wall?"
 
 "Yes," Whiskers said, before he could talk himself out of it.
 
-### The Lesson Begins
+### The Wall Tells The Truth
 
 The first reader frowned at the Status Wall.
 
@@ -82,7 +82,7 @@ Jinx brought an updated Service Map and pinned it beside the status cards. Red, 
 
 "Good," Whiskers said. "It has to survive the next update."
 
-### Closing Scene
+### The Reminder Card
 
 At sunset, Whiskers returned to the wall.
 
@@ -105,3 +105,9 @@ Above him, the Status Wall held the four words he had feared most: `WE DO NOT KN
 - Key distinction: honest uncertainty is different from confusion.
 - Defensive habit: communicate what is known, what is affected, what is being done, and when the next update comes.
 - Season thread: availability is part of trust.
+
+## Behind the Signal
+
+In Estonia, defenders and officials had to communicate while the facts were still incomplete. They knew services were under pressure and that the attacks were politically linked to the Bronze Soldier crisis, but public attribution and total impact were harder questions. Responsible communication had to preserve uncertainty while still giving people useful service information.
+
+Whiskers' crossed-out `EVERYTHING IS UNDER CONTROL` is the fictional version of that discipline. The better status update names known impact, unknown causes, current workarounds, and the next update time. That kind of plain public truth can reduce confusion without pretending the investigation is finished.

@@ -40,7 +40,7 @@ The crowd did not like the question mark.
 
 Jinx added a second row beneath the boxes: `traffic pattern`, `timing`, `source diversity`, `taunt`, `confidence`, and `alternative explanations`. The crown filled only one field.
 
-### The Drop
+### A Mask Can Lie
 
 BL4CK4T's pawprint appeared beside Jinx's four boxes with a message: `A MASK CAN CONFESS. A MASK CAN LIE. EITHER WAY, CHECK THE ROOM.`
 
@@ -52,7 +52,7 @@ He walked to the Service Map and placed the taunt beside the clinic waiting room
 
 The room stayed still. That was good. The sentence gave them a way to measure the harm.
 
-### Trial And Error
+### Sorting Crowns
 
 More crown marks appeared that afternoon.
 
@@ -66,7 +66,7 @@ Pixel watched her move a copied crown into the claim box. "What if the Flood Pri
 
 "Then we do not give him the whole day," Jinx said. "We keep the city answering."
 
-### Closing Scene
+### The Boring Accurate Update
 
 At sunset, Whiskers posted the update.
 
@@ -83,3 +83,9 @@ Cipher pinned Jinx's four boxes beside the Status Wall. Pixel added a fifth card
 - Key distinction: a claim is not proof.
 - Defensive habit: separate what is known, alleged, inferred, and unknown.
 - Season thread: availability is part of trust.
+
+## Behind the Signal
+
+Attribution is one of the hardest parts of the Estonia story. Public evidence supports political linkage, Russian-language online mobilization, hostile context, and uncertainty about command. Russian officials denied direct state responsibility, and responsible accounts distinguish grassroots activity, state-tolerated action, information operations, and direct state control instead of collapsing them into one easy answer.
+
+The Flood Prince's crown is built to tempt the city into that easy answer. A taunt may matter, but it is not proof by itself. Jinx's boxes keep the story grounded in the historical standard: separate claims, evidence, inference, and unknowns, then keep defending services while attribution remains under review.

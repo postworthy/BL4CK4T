@@ -30,7 +30,7 @@ Jinx moved it three inches left.
 
 Shadow accepted the correction. He was getting better at letting the map be stricter than his instincts.
 
-### The Drop
+### An Ugly Honest Map
 
 BL4CK4T's message arrived as four blank labels.
 
@@ -48,7 +48,7 @@ On the back was one sentence:
 
 Grimalkin pinned that sentence across the top.
 
-### The Lesson Begins
+### Four Blank Labels
 
 The team sorted everything again.
 
@@ -70,7 +70,7 @@ Pixel held up a rumor about the Caller living under the clock stairs.
 
 Pixel added `BROOMS CLEARED` to the map, which Jinx allowed after a long look.
 
-### Trial And Error
+### The Caller Gets Smaller
 
 The map did something no one expected.
 
@@ -88,7 +88,7 @@ Jinx nodded. "Then the gap gets a label."
 
 She wrote `UNKNOWN HANDOFF`.
 
-### Closing Scene
+### Two Notes After Dark
 
 That night, Shadow stayed after the others left.
 
@@ -109,3 +109,9 @@ He looked at both until they felt like the same skill.
 - Key distinction: confirmed, likely, ruled out, and unknown are different categories.
 - Defensive habit: label every claim by evidence state before acting on it.
 - Season thread: Jinx and Shadow build the tool that can close the chase honestly.
+
+## Behind the Signal
+
+The public Mitnick story often reads like a clean pursuit, but the historical record is more complicated: court documents, law-enforcement claims, participant accounts, technical advisories, supporter arguments, and later reassessments do not all serve the same purpose. A careful account has to keep proven facts, allegations, disputed interpretations, and cultural mythology in separate lanes.
+
+The Chase Map gives Cybertropolis that discipline. Its real power is not the string or the pins; it is the refusal to let a satisfying pattern outrun corroboration. By making the Caller smaller than the myth, the team makes the case more serious, not less, because serious claims deserve clean evidence.

@@ -26,7 +26,7 @@ Someone had written one word under it.
 
 Jinx stared at the word for a long time. "That is a conclusion wearing a costume."
 
-### The Drop
+### A Word On The Wall
 
 BL4CK4T's message appeared on the First Bell Desk printer before anyone touched it.
 
@@ -50,7 +50,7 @@ Jinx took out her notebook and drew three boxes.
 
 Cipher checked the First Bell call record. It showed a time, a line, and the message Ms. Vale wrote down. It did not show a face, a name, or proof of who had spoken.
 
-### The Lesson Begins
+### Three Boxes For One Rumor
 
 By lunch, students had already improved the rumor into a whole story.
 
@@ -64,7 +64,7 @@ Shadow stayed near the wall, half behind a pillar. He watched faces more than pa
 
 That bothered him most.
 
-### Trial And Error
+### The Shape People Chase
 
 The team copied the message into Jinx's boxes.
 
@@ -78,7 +78,7 @@ Shadow finally stepped out from the pillar.
 
 "Whoever added the word wanted us to chase a shape," he said. "Shapes are easy. People are harder."
 
-### Closing Scene
+### The Cleaner Card
 
 That evening, Jinx pinned a clean card beside the rumor.
 
@@ -101,3 +101,9 @@ Shadow liked it better.
 - Key distinction: a label is not evidence.
 - Defensive habit: separate observed facts from guesses and repeated claims.
 - Season thread: the Season 3 anonymous caller becomes a public chase story.
+
+## Behind the Signal
+
+Season 4 is anchored in the Kevin Mitnick and Tsutomu Shimomura hacker-manhunt era, especially the way the 1990s public imagination turned technical cases into larger symbols. Mitnick's real legal record mattered, but so did the reputation that arrived before many people understood the evidence. Newspapers, court claims, hacker-culture responses, and public fear all helped turn one defendant into an archetype.
+
+The `MONSTER` label on the Notice Wall carries that historical problem into Cybertropolis. The Caller may have caused real harm, but the wall is already trying to finish the story before the team knows what happened. This episode asks readers to notice the first dangerous move in a chase story: when a name begins acting like proof.

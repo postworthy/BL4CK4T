@@ -36,7 +36,7 @@ He paused before posting it.
 
 "Careful enough to still be true tomorrow," Whiskers said.
 
-### The Drop
+### What Stays Afterward
 
 BL4CK4T's pawprint appeared on the Service Bell ledger with a two-line note: `RECOVERY IS THE RETURN OF SERVICE. LEARNING IS WHAT STAYS AFTERWARD.`
 
@@ -81,3 +81,9 @@ Whiskers looked at the Status Wall, then at the Service Map, then at the drawer 
 - Key distinction: recovery is not the same as learning.
 - Defensive habit: review incidents and turn useful response habits into normal practice.
 - Season thread: availability is part of trust.
+
+## Behind the Signal
+
+The Estonia attacks changed more than the services affected during those weeks in 2007. Estonia approved action planning after the incident, and NATO treated the case as part of a broader reassessment of cyber defense. Tallinn later became home to NATO's Cooperative Cyber Defence Centre of Excellence. The lasting lesson was institutional: availability, public-private coordination, legal readiness, and alliance policy had to become normal planning concerns.
+
+The City Answers closes Season 6 in that same spirit. The point is not that every question is solved or every attacker is named. The point is that the city keeps the Status Wall, Service Map reviews, priority rules, fallback desks, and recovery habits that proved useful under pressure. The red maintenance card then opens the next lesson: resilience also depends on fixing known weaknesses before a crisis finds them.

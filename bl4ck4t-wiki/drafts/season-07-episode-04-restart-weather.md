@@ -27,6 +27,12 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: map affected people and protect work with fallback paths.
 - Season thread: maintenance is part of trust.
 
+## Behind the Signal
+
+Blaster made maintenance visible to ordinary users through interruption: unstable machines, restarts, support calls, emergency patching, and lost work. The historical record does not require stolen secrets to show impact. A worm that disrupts daily computing can still create real cost for schools, agencies, companies, home users, and help desks.
+
+Milo's lost paragraph keeps that impact human. Restart weather is not a dramatic abstraction; it is the moment a system interrupts someone who was trying to work. Cipher's bounded-action question comes straight out of the historical pressure of worm response: defenders often have to protect people before every unknown is gone.
+
 ## Technical Texture Remediation
 
 - Public copy now adds restart-loop language, affected-board counts, unsaved-work reports, support-queue tickets, and pending recovery checks.

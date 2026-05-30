@@ -22,7 +22,7 @@ Grimalkin placed a brass desk bell on an overturned crate and rang it once.
 
 The hallway went still.
 
-### The Drop
+### The Hallway Wants To Help
 
 BL4CK4T answered the bell through the nearest status screen.
 
@@ -36,7 +36,7 @@ Pixel blinked. "I get the weirdness lane?"
 
 "You get the noticing lane." Pixel stood taller.
 
-### The Lesson Begins
+### Lanes Before Questions
 
 Grimalkin set update times and drew an intake board on the crate beside the bell. New room reports went on the left. Current status went in the middle. Cleared rooms stayed off the right side until counters, lights, and class tools agreed.
 
@@ -50,7 +50,7 @@ Grimalkin rang the bell again.
 
 "One lane. One status. Then questions." The second round worked.
 
-### Trial And Error
+### Contained Means Measured
 
 Containment began with signs on doors and caretakers at the stairs. No one entered the lower hall alone. No room was cleared until counters, lights, and class tools agreed.
 
@@ -71,3 +71,9 @@ Only then did Grimalkin write `contained` on the board, then circled it once.
 - Key distinction: coordination is active work, not a delay before action.
 - Defensive habit: assign lanes so helpers do not create more confusion.
 - Season thread: Grimalkin's temporary bell desk becomes the seed of a permanent city practice.
+
+## Behind the Signal
+
+The Morris Worm arrived before modern incident-response coordination was mature. Administrators, researchers, and government-linked responders had to improvise communication, containment, analysis, and recovery while the very network they used for coordination was congested. The later formation of stronger emergency response practices is part of the incident's historical importance.
+
+Grimalkin's bell makes that coordination visible. The bell does not solve the Copycat Sprite by itself. It creates lanes, timing, handoffs, and a shared status picture so helpful energy stops becoming hallway traffic. That is the historical bridge: response infrastructure is not background paperwork; it is one of the tools that keeps an incident from becoming confusion.

@@ -180,6 +180,12 @@ Shadow looked at the warm-terminal card. "Now we do."
 - Team skill: the Script Kitties preserve alternate explanations.
 - Season thread: the working phrase "Borrowed Door" enters the case.
 
+## Behind the Signal
+
+Stoll's case involved unauthorized activity showing up through accounts and network paths that did not initially reveal a clean identity. A familiar account name or system label could be part of the evidence, but it could not prove the person behind the keyboard. That uncertainty is one reason the defender story is so strong.
+
+Borrowed Door translates that problem into BL4CK4T terms. The team sees behavior, timing, and terminal state before it sees a culprit. Jinx keeps alternate explanations alive because identity in a networked system is not the same as a name on a label. The real history rewards that caution: early certainty would have made the case weaker.
+
 ## Continuity Checks
 
 - Character consistency: Shadow finds physical evidence; Cipher challenges timing assumptions; Grimalkin holds multiple theories; Jinx records before accusing.

@@ -31,6 +31,12 @@ Pixel wants to inspect the Glitter Letter, but Jinx helps him put curiosity into
 - Defensive habit: Move suspicious items into a controlled review path.
 - Season thread: Pixel's restraint gives the team time to map the incident.
 
+## Behind the Signal
+
+In the first hours of the ILOVEYOU outbreak, the smallest user decision could become part of a much larger organizational problem. Opening the attachment was not only a private act; it could trigger behavior that affected contacts, mail systems, files, and responders. The historical story is powerful because curiosity and trust became scale.
+
+Pixel's restraint is the season's answer to that first click. The Quarantine Tray does not shame curiosity; it gives curiosity a safer place to stand. That preserves the historical lesson without operational detail: suspicious messages should be held, recorded, and reviewed through a controlled path before they are allowed to touch ordinary systems.
+
 ## Technical Texture Remediation
 
 - Public copy now defines the Quarantine Tray as an isolated review path and adds sender, recipient, time, and attachment-label recording to Pixel's checklist.

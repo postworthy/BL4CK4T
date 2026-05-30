@@ -28,7 +28,7 @@ The Threadboard began with four columns: time, place, record, and note. Byte add
 
 Jinx read it twice and did not complain.
 
-### The Drop
+### Pins For Small Facts
 
 The first cards went up slowly: the Hushline `-0.75`, the Ledger Lab `-0.75`, Project Orchard summary labels, terminal seven warm after hours, blank print slips, and the three-hour timing with the missed fourth point circled.
 
@@ -58,7 +58,7 @@ Jinx answered fast. "Good evidence protects more people."
 
 Neither of them was wrong, which made the room harder.
 
-### The Lesson Begins
+### The Board Refuses Drama
 
 Byte set down the wire. "We can separate actions." He added two labels to the board: `protect` and `preserve`.
 
@@ -88,7 +88,7 @@ The Threadboard's single dramatic light glowed red.
 
 Pixel whispered, "Worth it."
 
-### Trial and Error
+### Wrong Turns Stay Useful
 
 The external point changed the room.
 
@@ -112,7 +112,7 @@ She hated how much she liked that.
 
 The Threadboard now held enough cards to feel alive. It did not solve the case. It made the case harder to ignore.
 
-### Closing Scene
+### A Map With Edges
 
 Near dawn, Byte powered the Threadboard down to a low glow. The red `-0.75` cards stayed visible in the dark.
 
@@ -143,3 +143,9 @@ Above them, the red light faded to amber. The thread had left the lab.
 - Key distinction: protecting people and preserving evidence can be planned together.
 - Defensive habit: Byte builds a defensive tool that clarifies the record.
 - Season thread: the first external Civic Learning Grid point appears.
+
+## Behind the Signal
+
+One of the most compelling parts of The Cuckoo's Egg is the improvised evidence work. Stoll built and adapted logging so fleeting remote activity could become a timeline other people could understand. The drama came less from a chase scene than from paper, terminals, timestamps, and repeated attention.
+
+The Threadboard is the Script Kitties' version of that craft. It does not solve the case for them. It keeps evidence ordered without flattening uncertainty. By making the record visible, Byte gives Jinx a way to argue from evidence instead of instinct, which is exactly the discipline that made the historical investigation possible.

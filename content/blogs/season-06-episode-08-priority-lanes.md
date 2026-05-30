@@ -44,7 +44,7 @@ Whiskers arrived with a stack of Status Wall cards. "People are asking why some 
 
 "Then we need to say which ones and why," Whiskers said.
 
-### The Drop
+### What Moves First
 
 The green ribbon on the pencil turned black for one second. BL4CK4T's message appeared along the wood.
 
@@ -68,7 +68,7 @@ Pixel carried apology slips to the paused line.
 
 "It would be meaner to pretend the line does not exist," Grimalkin said.
 
-### Trial And Error
+### The Board With Reasons
 
 Byte built a small board that showed which lane was moving and why. He wanted it to sparkle. Jinx made him remove the sparkle because people in delayed lanes did not need decoration.
 
@@ -86,7 +86,7 @@ A lunchroom volunteer read the board, then moved a box of meal cards to the esse
 
 No one loved the system. More people understood it.
 
-### Closing Scene
+### The Crown On The Slip
 
 Near evening, the clinic board answered for the first time in hours. The waiting room did not empty at once. It moved.
 
@@ -115,3 +115,9 @@ Whiskers wrote under it in plain ink.
 - Key distinction: prioritizing is not ignoring everyone else.
 - Defensive habit: define critical services, fallback procedures, and review points before a crisis.
 - Season thread: availability is part of trust.
+
+## Behind the Signal
+
+The Estonia response was full of triage: banks, media, government services, DNS, ISPs, public information, and international access could not all be treated as identical during the attack waves. Defenders had to decide which services needed protection first, what could be temporarily limited, how to keep domestic users connected, and when to review those choices.
+
+Priority Lanes turns that civic triage into a line people can see. The episode is not saying some people matter and others do not. It is showing that continuity planning needs stated priorities, visible reasons, fallback owners, and review points. That is how a city keeps essential services answering without pretending delayed services have been forgotten.

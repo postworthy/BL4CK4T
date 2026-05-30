@@ -31,6 +31,12 @@ The Season 4 pink envelope waits on the Notice Wall and becomes the first Season
 - Defensive habit: Hold unexpected attachments before opening.
 - Season thread: The pink envelope becomes the Glitter Letter incident.
 
+## Behind the Signal
+
+Season 5 is anchored in ILOVEYOU, also called the Love Bug or Love Letter worm, which spread globally in May 2000 through email that felt personal and familiar. Its first power was not technical spectacle. It was the ordinary feeling of receiving a message that seemed to come from someone worth trusting, with an attachment that invited curiosity before caution could catch up.
+
+The pink envelope turns that first moment into a BL4CK4T scene. Nobody knows the full danger yet, and that is exactly why Jinx and Cipher slow the decision down. The episode preserves the historical lesson at a safe level: emotional appeal, unexpected attachment, and familiar messaging channels deserve a review path before anyone opens the beautiful thing.
+
 ## Technical Texture Remediation
 
 - Public copy now adds message-intake fields for sender mark, recipient list, arrival time, and attachment status before review.

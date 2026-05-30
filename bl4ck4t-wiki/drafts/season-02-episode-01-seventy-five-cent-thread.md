@@ -188,6 +188,12 @@ That bothered Jinx more than a message would have. BL4CK4T had already said enou
 - Team skill: the Script Kitties record the mismatch before explaining it.
 - Season thread: `-0.75` moves from the Hushline model into the Ledger Lab.
 
+## Behind the Signal
+
+Season 2 is anchored in The Cuckoo's Egg, the 1980s investigation that began with a tiny accounting mismatch at Lawrence Berkeley Laboratory. Clifford Stoll did not begin with a spy story. He began with records that did not balance, then treated the small mismatch as something worth preserving until the evidence could explain it.
+
+The `-0.75` thread gives Jinx the same kind of first clue. It is deliberately too small to feel dramatic, which is why it matters. The episode asks the reader to sit inside the defender's first discipline: do not turn a strange record into a theory too quickly, but do not throw it away just because it looks small.
+
 ## Continuity Checks
 
 - Character consistency: Jinx leads with suspicion but records alternatives; Whiskers protects process; Pixel brings curiosity.

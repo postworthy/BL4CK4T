@@ -154,6 +154,12 @@ Jinx looked at the first red card. The smallest wrong number in the room had led
 - Team skill: the Script Kitties resist making the adversary more important than the evidence.
 - Season thread: Far Relay and Ledgerjack enter the Season 2 case.
 
+## Behind the Signal
+
+The historical case eventually widened beyond Lawrence Berkeley Laboratory and into West German hacker circles, Cold War espionage reporting, and court proceedings connected to information sold or offered to Soviet intelligence. That larger story is real, but it was not visible in the first accounting mismatch. It emerged through accumulated evidence.
+
+Far Relay gives Season 2 its wider horizon without letting the villain eclipse the case. Ledgerjack is tempting because a named adversary makes the story feel tidy. Jinx's restraint keeps the episode aligned with the historical anchor: a broader adversary layer matters only when the records support it.
+
 ## Continuity Checks
 
 - Character consistency: Jinx rejects overstatement; Whiskers protects victims; Byte keeps the board faithful.

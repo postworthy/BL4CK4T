@@ -26,7 +26,7 @@ Shadow crouched beside the booth. "It was active recently."
 
 Grimalkin checked the public route log beside the booth. It showed booth activity, route-light timing, and a maintenance badge record. It did not show who had stood there.
 
-### The Drop
+### The Arcade Reflects
 
 BL4CK4T's message appeared on the booth display: `A TRACE IS A QUESTION WITH DUST ON IT.`
 
@@ -36,7 +36,7 @@ The dust near the booth was thin in one place. Someone had stood there long enou
 
 Grimalkin opened his notebook. "We record before we move."
 
-### The Lesson Begins
+### Dust Before Answers
 
 Shadow wanted to follow the path at once, but Grimalkin pointed at the notebook, so Shadow described it first.
 
@@ -52,7 +52,7 @@ The Arcade answered with three reflections of the same empty booth.
 
 "It proves someone used or touched this space," Shadow said. "Caller is a theory."
 
-### Trial And Error
+### Three Possible Carts
 
 The route badge belonged to a maintenance cart, not a person. Cipher checked the badge number from the Hideout and found three possible carts.
 
@@ -66,7 +66,7 @@ Shadow followed the route lights to the east exit. A Chronicle flyer had been ta
 
 Grimalkin nodded. "Or wanted another exit ignored."
 
-### Closing Scene
+### The First Chase Map
 
 Back at the Hideout, Shadow added the booth to the first rough Chase Map: confirmed booth activity, likely staged route badge, unknown person at the booth, and ruled-out magic caller who disappears through glass.
 
@@ -79,3 +79,9 @@ Pixel objected to losing the magic theory, but only for six seconds.
 - Key distinction: a trace can show movement or timing without naming a person.
 - Defensive habit: record clues before moving or explaining them.
 - Season thread: Shadow starts turning the chase from rumor into evidence.
+
+## Behind the Signal
+
+The Mitnick/Shimomura account includes technical tracing, compromised systems, phone and network paths, and the hard problem of linking activity to a person. Defender evidence can show timing, routes, accounts, or systems touched, but identity is often harder than a single dramatic clue suggests. Responsible history has to separate trace evidence from chase mythology.
+
+Shadow's work in Mirrorline Arcade follows that same distinction. The route light, dust, badge, and booth record matter because they ask better questions, not because they magically name the Caller. The episode gives trace evidence weight without pretending that one clue can carry the whole case.

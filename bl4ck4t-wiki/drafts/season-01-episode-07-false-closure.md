@@ -152,6 +152,12 @@ The city still sang, and now the song had weight.
 - Team skill: Jinx builds the timeline, Shadow adds the small clue, and Whiskers keeps the team focused on helping people first.
 - Season thread: the crowned mark and false closure force the team toward an architectural fix.
 
+## Behind the Signal
+
+Phone phreaking stories are often retold as clever play, but the real network carried business, family, emergency, and public communication. Bell and law enforcement treated blue boxing as fraud and unauthorized manipulation because the telephone system was not a private puzzle box. It was shared infrastructure with real operational and financial consequences.
+
+The false closure turns that consequence into a small public harm. No one needs to be injured for the lesson to become serious: people move to the wrong stairs, a morning bends, and the team has to recover before it can argue about blame. That shape mirrors the historical moment when fascination with the trick had to meet responsibility for the system affected by the trick.
+
 ## Continuity Checks
 
 - Character consistency: Jinx leads evidence; Shadow's delayed observation becomes growth; Whiskers chooses containment; Pixel feels the consequence; Byte reassesses the Tonebox.

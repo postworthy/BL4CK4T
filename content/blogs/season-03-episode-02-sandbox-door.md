@@ -28,7 +28,7 @@ The printer clicked.
 
 `A DOOR IS A PROMISE. LABEL IT.`
 
-### The Drop
+### A Door Drawn In Ink
 
 Byte labeled everything. The Copycat Sprite was a self-copying toy process, not city software, and the whole point was to watch the copy count stay boring. It could enter three toy rooms. It could copy once at each checkpoint. The counter would turn yellow if the number changed early and red if anything appeared outside the square.
 
@@ -44,7 +44,7 @@ Byte pointed to Whiskers, then Jinx, then Ms. Vale, then the big brass switch on
 
 Byte took that sentence without arguing.
 
-### The Lesson Begins
+### The Sprite Steps Carefully
 
 The sprite appeared as a tiny blue paper-cat on the simulator glass. It padded into the first room and copied once. Two blue cats blinked at Byte.
 
@@ -60,7 +60,7 @@ Byte let out the breath he had been holding.
 
 Then the yellow light blinked.
 
-### Trial And Error
+### Time Joins The Test
 
 Nothing had crossed the drawn door. No extra room glowed. The count remained eight.
 
@@ -87,3 +87,9 @@ BL4CK4T sent one last line.
 - Key distinction: a cleaner test is still incomplete if it lacks proof that it can stop.
 - Defensive habit: define what normal looks like before running the test.
 - Season thread: Byte's sandbox is better than the first run, but still incomplete.
+
+## Behind the Signal
+
+One reason the Morris Worm became a landmark is that it exposed the difference between experimenting with connected systems and safely containing an experiment. The public record supports that Robert Tappan Morris did not intend to destroy files, but the worm was still designed for wide spread and hidden operation through unauthorized paths. In a networked environment, intent cannot substitute for boundaries, limits, and a way to stop what has begun.
+
+Byte's sandbox turns that historical lesson into story form. The episode does not show how to build a worm or exploit a real system; it shows the safer question that should come first in any test: what is normal, where is the edge, who can stop it, and how will everyone know if the test moves too fast?

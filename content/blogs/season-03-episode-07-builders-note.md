@@ -26,7 +26,7 @@ The second line took longer.
 
 Whiskers sat across the table and said nothing. That was one of his better leadership tricks.
 
-### The Drop
+### The Blank Report
 
 The printer woke beside Byte.
 
@@ -40,7 +40,7 @@ Byte read the line and set it at the top of the page.
 
 Byte wrote.
 
-### The Lesson Begins
+### Expected And Actual
 
 The Builder's Note had four sections.
 
@@ -58,7 +58,7 @@ Jinx checked each sentence against the board. Cipher removed one phrase that sou
 
 `I noticed the ninth marker and wanted to run it again. I am glad we stopped.`
 
-### Trial And Error
+### Useful Is Required
 
 Byte carried the note to Ms. Vale.
 
@@ -83,3 +83,9 @@ The card looked rude. Byte liked it anyway.
 - Key distinction: responsibility includes cleanup even when the original goal was harmless.
 - Defensive habit: write expected behavior, actual behavior, missing controls, and repair steps.
 - Season thread: Byte moves from gadget-first builder toward responsible engineer.
+
+## Behind the Signal
+
+The Morris Worm's legal and ethical legacy turns on a difficult distinction. The strongest historical accounts do not treat it as a file-destroying attack, but they also do not treat it as harmless curiosity. The appellate record emphasized intentional unauthorized access, and the broader response showed that a creator can be accountable for the consequences of a connected experiment even when the stated goal was not destruction.
+
+Byte's Builder's Note brings that tension into his character arc. He is not asked to become a villain in his own report, and he is not allowed to hide behind good intentions. The note makes responsibility practical: expected behavior, actual behavior, missing controls, and repair steps become the record future builders can learn from.

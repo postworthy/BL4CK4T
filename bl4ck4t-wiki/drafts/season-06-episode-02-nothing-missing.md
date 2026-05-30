@@ -30,6 +30,12 @@ Pixel and Cipher inspect perfect ledgers and blank receipts. The episode reframe
 - Defensive habit: record symptoms and impact, not only missing files.
 - Season thread: availability is part of trust.
 
+## Behind the Signal
+
+The Estonia attacks are a strong reminder that cybersecurity is not only about confidentiality or data integrity. Reports and later analyses describe public-facing services under pressure, banks and media coping with disruption, and defenders working to keep essential access alive. A service can be damaged in the public sense even when no one has stolen the database.
+
+Pixel's perfect ledger carries that distinction. Nothing missing does not clear the incident; it simply narrows the question. The blank receipts and incomplete responses show the denial-of-service idea safely: the system receives requests, but people cannot get useful answers when they need them.
+
 ## Technical Texture Remediation
 
 - Public copy now adds request accepted, response incomplete, rising queue count, and incomplete-response counts to make denial of service visible without operational detail.

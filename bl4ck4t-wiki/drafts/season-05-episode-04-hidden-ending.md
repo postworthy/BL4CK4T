@@ -31,6 +31,12 @@ Cipher and Byte compare what the Glitter Letter appears to be with how it behave
 - Defensive habit: Treat mismatches as review triggers.
 - Season thread: The team learns the Glitter Letter is built to spread.
 
+## Behind the Signal
+
+The Love Bug exposed how file appearance, desktop defaults, and user expectations could work together against people. The historical point is not that users were foolish. It is that many systems made it too easy for an attachment to look like one kind of thing while behaving like something more dangerous after it was opened.
+
+Cipher and Byte's appearance-versus-behavior board keeps that lesson concrete without showing harmful mechanics. The Glitter Letter can be pretty, personal, and still wrong for the context. The safe takeaway is to judge suspicious attachments by behavior, source, expectation, and review process rather than by a friendly name or decorative surface.
+
 ## Technical Texture Remediation
 
 - Public copy now names attachment name, file extension, observed behavior, and script-like behavior at a safe conceptual level.

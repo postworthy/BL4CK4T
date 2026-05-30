@@ -28,7 +28,7 @@ Byte looked wounded. "You made it a disclaimer?"
 
 "I made it honest," Cipher said.
 
-### The Drop
+### The Box On The Table
 
 The Tonebox lights dimmed without Byte touching the dial. One bulb blinked at the far edge of the model, near the tiny relay cabinet.
 
@@ -46,7 +46,7 @@ Whiskers watched the fading pixels. "It was also a warning."
 
 Jinx did not look up. "I heard that."
 
-### The Lesson Begins
+### A Demo With Walls
 
 The first clean demo worked so well that everyone forgot to breathe.
 
@@ -66,7 +66,7 @@ Byte opened his mouth, then closed it.
 
 Jinx smiled without pleasure. "That pause has a shape."
 
-### Trial and Error
+### The Tone Stays Inside
 
 They rebuilt the demo with fewer moving parts.
 
@@ -98,7 +98,7 @@ Pixel put his charm on the table. "We made the invisible visible."
 
 "Yes," Whiskers said. "Now everyone wants to hold it."
 
-### Closing Scene
+### A Safer Kind Of Wonder
 
 The team pulled the clip down before sunset, but the idea had already escaped the room.
 
@@ -129,3 +129,9 @@ The season had been full of sparks. This was the first one that smelled like smo
 - Key distinction: a model can explain a system without being the system.
 - Defensive habit: Byte builds, Cipher labels limits, Whiskers considers impact, and Jinx watches how the audience reacts.
 - Season thread: the first false closure appears, setting up the next episode's consequence turn.
+
+## Behind the Signal
+
+Blue boxes became famous because they made an invisible telephone-system language feel portable and controllable. The device did not create the weakness by itself. It exposed a deeper architectural problem: control signals meant for network equipment could be imitated through a path reachable by ordinary users.
+
+The Tonebox is the BL4CK4T-world version of that public demonstration. Byte builds a model to teach, not to cause harm, but the crowd's reaction shows how quickly an explanatory tool can become a symbol people misunderstand. The history underneath the episode is the difference between showing that a hidden rule exists and giving people a way to misuse it.

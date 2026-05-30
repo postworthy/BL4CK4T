@@ -36,7 +36,7 @@ Pixel leaned over the monitor. "If every tiny wrong number gets a case file, we 
 
 Jinx wrote the number again, slower. "Then we start with a corner."
 
-### The Drop
+### The Smallest Mismatch
 
 The Hideout lights dimmed. Every screen went black except the side monitor. The red `-0.75` vanished, replaced by a white pawprint and one line.
 
@@ -60,7 +60,7 @@ Whiskers nodded. "Then we do not call it trouble. We call it recorded."
 
 That was how the second season of their lives began: not with sirens, not with a villain's laugh, and not with a glowing citywide alert. It began with a tiny negative number and the decision not to let it disappear.
 
-### The Lesson Begins
+### The Thread Gets A Sleeve
 
 The Ledger Lab opened at eight, smelling like warm dust, printer paper, and lemon cleaner. It sat under the Civic Learning Grid archive stairs, a long room of old terminals, project counters, storage-credit boards, and reservation screens that clicked over with patient little sounds.
 
@@ -104,7 +104,7 @@ Ms. Vale hesitated. "You can see the public project summary. I cannot hand you s
 
 Jinx glanced at him, and he lowered his voice. "If the record matters, we protect it the right way."
 
-### Trial and Error
+### No Theory Yet
 
 The public summary showed almost nothing useful at first. Project Orchard had storage credits, a garden-growth model, two print reservations, and a compute window scheduled for Thursday. The mismatch appeared on Wednesday morning, when the project had no active reservation.
 
@@ -142,7 +142,7 @@ Pixel blinked. "It is?"
 
 "No," Jinx said. "But it is enough to keep it from becoming nothing."
 
-### Closing Scene
+### A Case Begins Small
 
 Back at the Hideout, Byte clipped the Ledger Lab strip beside Jinx's notebook page. He drew a thin red line between the two `-0.75` marks.
 
@@ -165,3 +165,9 @@ That bothered Jinx more than a message would have. BL4CK4T had already said enou
 - Key distinction: a clue is not a conclusion.
 - Defensive habit: the Script Kitties record the mismatch before explaining it.
 - Season thread: `-0.75` moves from the Hushline model into the Ledger Lab.
+
+## Behind the Signal
+
+Season 2 is anchored in The Cuckoo's Egg, the 1980s investigation that began with a tiny accounting mismatch at Lawrence Berkeley Laboratory. Clifford Stoll did not begin with a spy story. He began with records that did not balance, then treated the small mismatch as something worth preserving until the evidence could explain it.
+
+The `-0.75` thread gives Jinx the same kind of first clue. It is deliberately too small to feel dramatic, which is why it matters. The episode asks the reader to sit inside the defender's first discipline: do not turn a strange record into a theory too quickly, but do not throw it away just because it looks small.

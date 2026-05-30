@@ -27,6 +27,12 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: track known fixes until patched, isolated, or risk-accepted.
 - Season thread: maintenance is part of trust.
 
+## Behind the Signal
+
+Season 7 is anchored in the early-2000s worm era, with MSBlaster and Welchia/Nachi as the emotional center. The key historical detail is that Microsoft published MS03-026 in July 2003, before Blaster became a public crisis in August. That timing matters because the story is not only about a flaw. It is about the gap between a known repair and a repair that actually reaches exposed systems.
+
+The red card is Cybertropolis's version of that gap. The warning was present, the affected cabinet family was listed, and the decision field was empty. The episode keeps the real lesson intact: once a serious fix is known, silence becomes a decision, even if nobody writes the decision down.
+
 ## Technical Texture Remediation
 
 - Public copy now adds patch-state record, affected cabinet family, public board inventory, decision owner, and safe vulnerability-notice language.

@@ -26,7 +26,7 @@ Mira pointed at the street outside, where three city workers were peeling crowne
 
 Pixel liked her immediately.
 
-### The Drop
+### The Quiet Line
 
 Mira led them through a curtain of hanging cables into a back room full of cabinet doors, old relay plates, beacon lenses, and maps printed on paper so thick it looked chew-proof.
 
@@ -44,7 +44,7 @@ Mira raised one eyebrow. "Your mysterious friend is dramatic."
 
 "Yes," Jinx said. "We are working on it."
 
-### The Lesson Begins
+### Listening Without Touching
 
 Mira spread two maps across the bench.
 
@@ -64,7 +64,7 @@ Jinx checked the Echo Grid map against her false-closure timeline. "The old rela
 
 Mira nodded. "That cabinet was supposed to be retired. Retired equipment has a bad habit of keeping a job nobody remembers assigning."
 
-### Trial and Error
+### A Signal With Boundaries
 
 The new Tonebox model took the rest of the afternoon.
 
@@ -94,7 +94,7 @@ Jinx accepted their notes after checking them twice.
 
 Rook accepted that after rolling her eyes once.
 
-### Closing Scene
+### The Hush Holds
 
 By dusk, the team had mapped six old cabinets, two forgotten beacon relays, and one kiosk that had been forwarding maintenance pings into a dead alley for so long that moss had grown over the access plate.
 
@@ -129,3 +129,9 @@ No one corrected him.
 - Key distinction: a message says something; a command changes where something goes.
 - Defensive habit: Cipher explains the model, Byte builds it, and Whiskers coordinates the map of old cabinets.
 - Season thread: the finale will turn the Echo Grid lesson into a public listening exhibit and reveal a tiny Season 2 clue.
+
+## Behind the Signal
+
+The long-term technical answer to blue-box-style abuse was architectural separation. As telephone systems moved toward common-channel and out-of-band signaling, the control language no longer traveled in the same user-audible path in the same way. That did not erase every telephone-security problem, but it did address the class of weakness that made blue boxing possible.
+
+The Hushline gives Cybertropolis the same kind of design lesson. The point is not that every old cabinet was foolish; the old design came from older assumptions. The repair is to separate what people can say from what can change the system's behavior. Cipher's model turns the season's mystery into a principle: control paths deserve stronger boundaries than message paths.

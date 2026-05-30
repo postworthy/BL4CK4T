@@ -27,6 +27,12 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: limit scope, record changes, keep fallback paths, and prepare rollback.
 - Season thread: maintenance is part of trust.
 
+## Behind the Signal
+
+Real worm response rarely waits for perfect certainty. During Blaster and related outbreaks, defenders had to patch, isolate, block, communicate, clean, and monitor while systems were already unstable. The responsible path was not blind guessing; it was controlled action under enough evidence, with limits and recovery plans.
+
+Cipher's small-batch repair captures that pressure. She still has unknowns, but she also has verified source, a scoped test group, public notice, fallback paths, rollback, and a named owner. That is the difference between reckless change and emergency change with bounded responsibility.
+
 ## Technical Texture Remediation
 
 - Public copy now adds monitoring window, test group, rollback trigger, and named change owner to the small-batch repair plan.

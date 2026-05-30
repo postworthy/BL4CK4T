@@ -40,6 +40,12 @@ Jinx and Cipher rebuild a dramatic map into confirmed rooms, likely paths, ruled
 - Key concept: evidence preservation helps responders act without guessing.
 - Defensive habit: separate confirmed facts, likely paths, ruled-out ideas, and unknowns.
 
+## Behind the Signal
+
+During the Morris Worm response, defenders had to piece together what was happening while the network itself was impaired. Technical analysis, site reports, postmortems, and later legal findings helped clarify the sequence, but early responders did not begin with a neat complete picture. They had symptoms, fragments, overloaded systems, and the urgent need to separate what was known from what was guessed.
+
+Jinx and Cipher's copy map is the BL4CK4T version of that work. The colored cards are not decorative; they protect the team from turning fear into false certainty. Confirmed rooms, likely paths, ruled-out ideas, and unknowns let the response move faster because the evidence is cleaner.
+
 ## Continuity Checks
 
 - Character consistency: Jinx and Cipher keep the map factual.

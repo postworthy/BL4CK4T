@@ -32,7 +32,7 @@ Byte dimmed the Threadboard until only verified paths remained bright. The wall 
 
 It was less thrilling and much harder to knock down.
 
-### The Drop
+### The Case Folder Thickens
 
 The Glass Bureau review table was round, transparent, and far too clean.
 
@@ -62,7 +62,7 @@ No one spoke for five seconds.
 
 Pixel, who was not supposed to talk, did not talk with visible effort.
 
-### The Lesson Begins
+### Evidence With A Spine
 
 Grimalkin presented the alternate theories. He did not hide them in the back. He made them part of the case.
 
@@ -86,7 +86,7 @@ The reviewer continued. "That made it more useful."
 
 Jinx almost smiled. Almost.
 
-### Trial and Error
+### What The Case Can Say
 
 The action list that came out of the review was not cinematic: preserve related summaries, notify affected project owners, review old trust paths, create a shared evidence channel, check relay records for repeated marks, and assign one Bureau coordinator so the case did not bounce between desks.
 
@@ -108,7 +108,7 @@ Grimalkin folded the old map. "You made it accurate."
 
 That was better: less shiny, maybe, but more durable.
 
-### Closing Scene
+### The Folder Closes Carefully
 
 Back at the Hideout, Jinx returned the loud Ledgerjack card to the board, but she left it on the side rail.
 
@@ -127,3 +127,9 @@ For the first time since the `-0.75` appeared, Jinx felt the thread loosen in he
 - Key distinction: uncertainty can make a report more trustworthy when it is stated clearly.
 - Defensive habit: Jinx presents evidence without overstating it.
 - Season thread: the Glass Bureau accepts coordinated action.
+
+## Behind the Signal
+
+Stoll's public accounts made the defender's case-building work dramatic. The investigation did not succeed because every unknown vanished at once. It succeeded because records, logs, traces, and careful claims accumulated until other people could see what the evidence showed.
+
+Jinx's case presentation follows that model. She does not win by sounding certain. She wins by separating known facts, ruled-out theories, open questions, and requested action. The historical lesson is generous to uncertainty: when uncertainty is named honestly, it can make an investigation stronger.

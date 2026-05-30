@@ -31,6 +31,12 @@ A crown-marked claim appears and tries to define the incident as harmless attent
 - Defensive habit: separate what is known, alleged, inferred, and unknown.
 - Season thread: availability is part of trust.
 
+## Behind the Signal
+
+Attribution is one of the hardest parts of the Estonia story. Public evidence supports political linkage, Russian-language online mobilization, hostile context, and uncertainty about command. Russian officials denied direct state responsibility, and responsible accounts distinguish grassroots activity, state-tolerated action, information operations, and direct state control instead of collapsing them into one easy answer.
+
+The Flood Prince's crown is built to tempt the city into that easy answer. A taunt may matter, but it is not proof by itself. Jinx's boxes keep the story grounded in the historical standard: separate claims, evidence, inference, and unknowns, then keep defending services while attribution remains under review.
+
 ## Technical Texture Remediation
 
 - Public copy now adds attribution fields for traffic pattern, timing, source diversity, taunt, confidence, and alternative explanations while keeping the crown mark as a claim.

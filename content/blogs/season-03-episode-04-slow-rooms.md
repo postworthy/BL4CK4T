@@ -24,7 +24,7 @@ Shadow pointed at a classroom door. A line of younger students waited outside wh
 
 Whiskers shook his head. "Waiting is impact."
 
-### The Drop
+### Delay In The Hallway
 
 The drop arrived on the stalled printer.
 
@@ -38,7 +38,7 @@ Ms. Vale opened a response form.
 
 "Affected users," she said. "Name the people first."
 
-### The Lesson Begins
+### People First On The Form
 
 Shadow walked the hall and called out room states.
 
@@ -58,7 +58,7 @@ Byte swallowed. "Counters."
 
 "Good. Own counters."
 
-### Trial And Error
+### The Lower Hall Waits
 
 The team did not clear anything yet. They measured first.
 
@@ -81,3 +81,9 @@ The Copycat Sprite glowed on six screens, cute as a sticker and heavy as a traff
 - Key distinction: an incident can harm people without destroying files.
 - Defensive habit: name affected users and scope before cleanup.
 - Season thread: the Copycat Sprite becomes a city response problem.
+
+## Behind the Signal
+
+The Morris Worm is often remembered as a non-destructive incident, but non-destructive does not mean harmless. Contemporary and later accounts describe machines slowing, systems halting, administrators disconnecting networks, and people spending emergency time trying to understand and recover. The work stopped even where files survived, and that distinction is one reason the event changed how people thought about network risk.
+
+The slow rooms translate that history into a human-scale classroom problem. A frozen lesson card and waiting students make resource exhaustion and downtime feel concrete without technical overload. The episode's point is the same one defenders learned in 1988: impact can look like delay, lost time, unavailable tools, and people pulled away from ordinary work.

@@ -28,7 +28,7 @@ Byte stood beside the binder with a new card in his pocket.
 
 `How does this fail?`
 
-### The Drop
+### The Desk With A Handle
 
 BL4CK4T's message arrived as the first page in the binder.
 
@@ -44,7 +44,7 @@ Byte looked at the restored room list, the signed slips, and the Builder's Note.
 
 Grimalkin rang the bell once.
 
-### The Lesson Begins
+### Incident Closed
 
 The sound carried through the Ledger Lab without panic.
 
@@ -62,7 +62,7 @@ Pixel grinned. "Your sprite got a drawer."
 
 "Your lesson got a drawer," Whiskers corrected.
 
-### Trial And Error
+### The Phone Rings Twice
 
 The phone rang twice.
 
@@ -93,3 +93,9 @@ Grimalkin did not ring the bell. Not yet.
 - Key distinction: closing an incident should leave a handle for the next one.
 - Defensive habit: create a clear place to report, coordinate, and recover.
 - Season thread: Season 3 closes the Copycat Sprite incident and points toward Season 4's chase story.
+
+## Behind the Signal
+
+The Morris Worm helped push networked computing toward more formal incident-response structures. Its aftermath is tied to the creation of CERT/CC and to a broader realization that connected systems need contact points, advisories, coordination, and practiced response before the next emergency arrives. The lesson was not only technical. It was institutional.
+
+The First Bell Desk is Cybertropolis learning the same habit. Byte's incident does not end with the Copycat Sprite stopped; it ends when the city has a handle for the next strange report. That is why the final bell matters: the season's real inheritance is a repeatable response practice, not a one-time victory.

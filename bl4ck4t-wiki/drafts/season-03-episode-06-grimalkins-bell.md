@@ -40,6 +40,12 @@ Grimalkin turns a hallway full of helpers into response lanes, update times, and
 - Key concept: incident response needs roles, timing, and clear handoffs.
 - Defensive habit: assign lanes so helpers do not create more confusion.
 
+## Behind the Signal
+
+The Morris Worm arrived before modern incident-response coordination was mature. Administrators, researchers, and government-linked responders had to improvise communication, containment, analysis, and recovery while the very network they used for coordination was congested. The later formation of stronger emergency response practices is part of the incident's historical importance.
+
+Grimalkin's bell makes that coordination visible. The bell does not solve the Copycat Sprite by itself. It creates lanes, timing, handoffs, and a shared status picture so helpful energy stops becoming hallway traffic. That is the historical bridge: response infrastructure is not background paperwork; it is one of the tools that keeps an incident from becoming confusion.
+
 ## Continuity Checks
 
 - Character consistency: Grimalkin leads through calm planning.

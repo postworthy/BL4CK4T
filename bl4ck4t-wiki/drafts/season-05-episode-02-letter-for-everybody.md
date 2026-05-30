@@ -31,6 +31,12 @@ The Glitter Letter appears in multiple trays and even reaches Pixel under his ow
 - Defensive habit: Verify strange messages from known people.
 - Season thread: The letter begins spreading through trusted relationships.
 
+## Behind the Signal
+
+ILOVEYOU spread through relationships as much as infrastructure. Recipients often saw mail that appeared to come from a familiar person, which made the message feel safer than an anonymous warning sign would have. That trust path helped the worm move quickly through address books and organizations before many people understood what was happening.
+
+Pixel receiving a letter from himself gives that historical tension a playful but pointed shape. The sender name is familiar, yet the timing and context do not fit. The episode teaches the real defensive question behind the Love Bug: not merely "do I know this sender?" but "was this message expected, consistent, and safe to handle?"
+
 ## Technical Texture Remediation
 
 - Public copy now distinguishes sender display name from delivery context and clarifies that inconsistency is evidence, not proof of intent.

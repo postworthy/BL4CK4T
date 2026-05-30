@@ -27,6 +27,12 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: require consent, source checks, change records, and rollback plans.
 - Season thread: maintenance is part of trust.
 
+## Behind the Signal
+
+Welchia/Nachi is the moral complication at the center of this season's historical anchor. It appeared after Blaster and attempted to remove Blaster and install fixes, but it still spread without authorization and caused disruption. Even if behavior looks helpful, a self-spreading repair that enters systems without consent creates a new security and operations problem.
+
+The Helpful Ghost is built around that tension. The fixed signs make Byte's admiration understandable, and the blank Consent Ledger makes the danger visible. The episode preserves the real lesson: technical success is not the same as trustworthy repair when owners, records, source checks, and rollback paths are missing.
+
 ## Technical Texture Remediation
 
 - Public copy now adds reachable-cabinet-family spread, repair chatter traffic, unknown patch state, and reverify-all cleanup burden.

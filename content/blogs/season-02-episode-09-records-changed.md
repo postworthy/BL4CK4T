@@ -42,7 +42,7 @@ Jinx looked at her paws.
 
 Pixel leaned over the paper. "Good. Actual fingerprints would require another form."
 
-### The Drop
+### A Record Moves
 
 The city had not caught every shadow behind the Far Relay. Nobody pretended it had. What changed was more practical.
 
@@ -64,7 +64,7 @@ Jinx looked at the simulator. "And if it does something else?"
 
 Pixel grinned. "Then we record what we knew first."
 
-### The Lesson Begins
+### The Threadboard Answers
 
 Before the test, the team closed the Season 2 case.
 
@@ -94,7 +94,7 @@ Then Ms. Vale handed her the original summary strip from the first Ledger Lab mi
 
 Jinx took it carefully. The red `-0.75` looked smaller than she remembered. It had not grown. They had.
 
-### Trial and Error
+### After The Last Pin
 
 A blue marker moved through the toy simulator's tiny grid of rooms. At the first checkpoint, it copied itself once. The Threadboard recorded the event, the time, and the expected count.
 
@@ -126,7 +126,7 @@ On the Threadboard, beneath the frozen test count, a white pawprint appeared.
 
 `SOME EXPERIMENTS DO NOT KNOW WHEN TO STOP.`
 
-### Closing Scene
+### The Next Marker
 
 The Ledger Lab was silent after the test ended. No one panicked. That felt like a victory all by itself.
 
@@ -147,3 +147,9 @@ On the simulator, the ninth marker blinked once more before the screen went dark
 - Key distinction: closing a case does not mean every risk in the city is gone.
 - Defensive habit: the Script Kitties turn lessons into practice before the next mystery arrives.
 - Season thread: Jinx's investigator arc closes and the Season 3 copying-process clue appears.
+
+## Behind the Signal
+
+The Cuckoo's Egg changed public memory because it showed system administration as detective work. A small accounting clue became a story about monitoring, institutional coordination, network paths, and espionage concern. Just as important, it showed that a closed investigation can leave new habits behind.
+
+Season 2 closes with that idea. The `-0.75` case is resolved, but the team has learned how to preserve anomalies, state uncertainty, and build a record that others can act on. The ninth-marker clue points to a different historical shape for Season 3, but it grows out of the same discipline: notice the small thing, document it, and let the evidence teach you what kind of story you are in.

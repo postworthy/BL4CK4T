@@ -150,6 +150,12 @@ For the first time since the `-0.75` appeared, Jinx felt the thread loosen in he
 - Team skill: Jinx presents evidence without overstating it.
 - Season thread: the Glass Bureau accepts coordinated action.
 
+## Behind the Signal
+
+Stoll's public accounts made the defender's case-building work dramatic. The investigation did not succeed because every unknown vanished at once. It succeeded because records, logs, traces, and careful claims accumulated until other people could see what the evidence showed.
+
+Jinx's case presentation follows that model. She does not win by sounding certain. She wins by separating known facts, ruled-out theories, open questions, and requested action. The historical lesson is generous to uncertainty: when uncertainty is named honestly, it can make an investigation stronger.
+
 ## Continuity Checks
 
 - Character consistency: Jinx completes a major investigator step; Grimalkin tests alternatives; Byte explains the tool; Whiskers frames action.

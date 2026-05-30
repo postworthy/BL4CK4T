@@ -32,7 +32,7 @@ Whiskers climbed onto a bench and raised both hands.
 
 The Arcade froze badly, but it froze.
 
-### The Drop
+### Too Many Shoes
 
 BL4CK4T's message flashed across the route lights.
 
@@ -44,7 +44,7 @@ Grimalkin moved fast. He drew three lanes with removable tape: exit, waiting are
 
 "If you came to help," Whiskers said, "help by leaving the traces alone."
 
-### The Lesson Begins
+### Lanes In The Crowd
 
 Lark from the Chronicle pushed through with a notebook.
 
@@ -60,7 +60,7 @@ Her shoulders sank.
 
 "You made it public," Whiskers said. "The crowd made it worse. Now we fix what we can."
 
-### Trial And Error
+### The Clue Above The Crowd
 
 Pixel interviewed witnesses from the waiting lane. Byte photographed the remaining route lights. Cipher marked which clues had been changed by the crowd.
 
@@ -74,7 +74,7 @@ Lark wrote a new Chronicle note before anyone asked.
 
 `UPDATE: PUBLIC CROWD MAY HAVE DISTURBED TRACE AREA. PLEASE USE FIRST BELL REPORT LINE INSTEAD OF VISITING ACTIVE SITES.`
 
-### Closing Scene
+### Shadow Steps Forward
 
 The Arcade emptied by degrees.
 
@@ -97,3 +97,9 @@ Shadow looked at the cleared lane. "That part was harder."
 - Key distinction: curiosity can damage evidence even when people mean well.
 - Defensive habit: report what you know and stay clear of active evidence areas.
 - Season thread: the Chronicle learns that public speed can make the case harder.
+
+## Behind the Signal
+
+The hacker-manhunt era shows how public attention can change an investigation. Once a case becomes a spectacle, the story can move faster than the evidence, and people who want to help may repeat claims, chase leads, or amplify details before they are ready. Media attention can inform the public, but it can also create pressure around fragile facts.
+
+The crowded Arcade turns that pressure into something visible. The trace is damaged not by malice, but by excitement and proximity. That keeps the episode tied to the historical anchor: in a public chase, preservation is not only a technical task. It is also a communication problem.

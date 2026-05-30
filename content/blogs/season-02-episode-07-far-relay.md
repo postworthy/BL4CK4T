@@ -34,7 +34,7 @@ Pixel frowned. "That is worse."
 
 Jinx did not disagree.
 
-### The Drop
+### The Signal Leaves Town
 
 The Glass Bureau case stub had grown teeth by then. Three caretakers were sharing public summaries. Ms. Vale had warned Project Orchard's owners. The library had preserved its station notes. Relay Archives had opened a narrow review of the old path.
 
@@ -62,7 +62,7 @@ Jinx let out the breath she had been holding.
 
 Byte nodded. "We trace what the records can support."
 
-### The Lesson Begins
+### Relays And Waiting
 
 The Far Relay was not a place anyone could visit. It was a name caretakers used for a loose channel of traded whispers: old access rumors, copied project notes, half-true claims, and bragging scraps that moved between crews who liked locked doors more than classrooms.
 
@@ -88,7 +88,7 @@ Jinx took it from him, crossed out `mastermind`, and wrote:
 
 "More honest," Jinx said.
 
-### Trial and Error
+### The Trail Gets Longer
 
 The temptation to make the Ledgerjack explain everything was immediate.
 
@@ -110,7 +110,7 @@ Whiskers read it twice. "Now we have possible harm."
 
 "Then we protect the students and keep the case clean."
 
-### Closing Scene
+### Far Still Counts
 
 That night, the Threadboard looked less like a puzzle and more like a city trying to tell the truth under bad lighting.
 
@@ -133,3 +133,9 @@ Jinx looked at the first red card. The smallest wrong number in the room had led
 - Key distinction: a mark can widen a case without proving a mastermind.
 - Defensive habit: the Script Kitties resist making the adversary more important than the evidence.
 - Season thread: Far Relay and Ledgerjack enter the Season 2 case.
+
+## Behind the Signal
+
+The historical case eventually widened beyond Lawrence Berkeley Laboratory and into West German hacker circles, Cold War espionage reporting, and court proceedings connected to information sold or offered to Soviet intelligence. That larger story is real, but it was not visible in the first accounting mismatch. It emerged through accumulated evidence.
+
+Far Relay gives Season 2 its wider horizon without letting the villain eclipse the case. Ledgerjack is tempting because a named adversary makes the story feel tidy. Jinx's restraint keeps the episode aligned with the historical anchor: a broader adversary layer matters only when the records support it.

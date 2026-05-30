@@ -34,7 +34,7 @@ Whiskers held the queue ticket between two claws. It was so transparent they cou
 
 Jinx did not enjoy the symbolism.
 
-### The Drop
+### A Thread With No Desk
 
 Their first meeting lasted nine minutes.
 
@@ -60,7 +60,7 @@ The numbers returned.
 
 Jinx closed her mouth.
 
-### The Lesson Begins
+### The Problem Between Rooms
 
 They took a side table near a wall of filing slots.
 
@@ -96,7 +96,7 @@ At the bottom he wrote:
 
 `shared evidence channel needed`
 
-### Trial and Error
+### Ownership Takes Shape
 
 The second meeting lasted twenty-two minutes.
 
@@ -122,7 +122,7 @@ Pixel would have called it boring.
 
 Jinx wanted to frame it.
 
-### Closing Scene
+### Someone Holds The Thread
 
 Outside the Glass Bureau, the city reflected in a hundred panes behind them. Signal Row glowed in the distance. The Ledger Lab sat somewhere beneath the archive stairs, still counting.
 
@@ -151,3 +151,9 @@ Jinx looked back at the Bureau. Inside, the case stub crossed the desks with the
 - Key distinction: a report should separate knowns, unknowns, and requested action.
 - Defensive habit: Whiskers translates the case without weakening it.
 - Season thread: the Glass Bureau opens a shared case stub.
+
+## Behind the Signal
+
+The Cuckoo's Egg unfolded in a period when computer-intrusion response did not have clean ownership. A small accounting problem could become a lab issue, a network issue, a law-enforcement issue, and an international issue before anyone had a mature playbook for what to do next. The friction was part of the history.
+
+The Glass Bureau scene brings that institutional uncertainty into Cybertropolis. Whiskers has to translate the case without exaggerating it, because a weak report disappears and an overstated report loses trust. The historical echo is clear: defenders often have to make other institutions care before the full shape of the problem is known.

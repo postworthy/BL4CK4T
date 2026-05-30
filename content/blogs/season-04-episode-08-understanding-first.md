@@ -28,7 +28,7 @@ Jinx held it with tweezers and looked at Shadow.
 
 Shadow looked down the empty Arcade. The reflections were gone now that the shops had shut their lights. For once, there was only one of him in the glass.
 
-### The Drop
+### The Folded Slip
 
 BL4CK4T's message appeared on the route display.
 
@@ -42,7 +42,7 @@ Shadow stepped toward the last booth.
 
 "Someone is behind the service door."
 
-### The Lesson Begins
+### A Message On The Route Display
 
 The Caller was smaller than the rumor: a student with ink on their fingers, a cracked route badge in one hand, real harm behind them, and fear doing most of the talking.
 
@@ -60,7 +60,7 @@ Shadow moved where the Caller could see him, not blocking the exit.
 
 "Then tell the truth in the order it happened."
 
-### Trial And Error
+### Truth In Order
 
 The Caller talked.
 
@@ -74,7 +74,7 @@ Shadow understood that more than he liked.
 
 "Being unseen can feel powerful," he said. "It can also make you careless with people who cannot see you back."
 
-### Closing Scene
+### No Crowd At The Door
 
 Whiskers arrived with Ms. Vale and the Glass Bureau clerk. No crowd. No Chronicle flash. No wall of pointing fingers.
 
@@ -97,3 +97,9 @@ Whiskers answered. "You are responsible. That is harder and more useful."
 - Key distinction: understanding motive does not erase impact.
 - Defensive habit: tie accountability to evidence, harm, repair, and prevention.
 - Season thread: the Vanishing Caller becomes a responsible person instead of a myth.
+
+## Behind the Signal
+
+The strongest historical reading of the Mitnick era preserves moral complexity. Mitnick was not a cartoon monster, and the public mythology around him could be exaggerated. At the same time, documented unauthorized access, victim impact, legal process, and accountability cannot be erased by charm, curiosity, or a counter-story.
+
+The Caller scene is built around that balance. Shadow and Jinx listen before judgment because motive helps explain the path of harm. They still preserve evidence and involve the proper process because understanding is not acquittal. That is the season's central historical inheritance: humanize the person without flattening the consequences.

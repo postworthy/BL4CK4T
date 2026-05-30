@@ -26,7 +26,7 @@ Cipher did not look impressed. "That shadow is doing a lot of work."
 
 Byte was already clearing the Hideout workbench. "Then we test the shadow."
 
-### The Drop
+### The Charm On The Rail
 
 The charm clicked against the table as Byte set it under a desk lamp. Around it, the team placed the zine, sticker scraps, Cipher's mark drawings, and Jinx's rumor map. Whiskers pinned a note over the mess: `WHAT DOES THE CHARM ACTUALLY DO?`
 
@@ -42,7 +42,7 @@ Pixel turned the charm over. "So BL4CK4T thinks it matters."
 
 Byte grinned and pulled an empty case from beneath the bench. "Then the myth gets a machine."
 
-### The Lesson Begins
+### A Whistle With A History
 
 Byte called the prototype a Tonebox before anyone had a chance to object. It had a glass top, four colored bulbs, a brass dial salvaged from a broken radio, and a tiny model of Signal Row painted on the base. The model had no connection to the city. It only had Byte's wires, Cipher's labels, and Pixel's stickers, which appeared on the model before anyone remembered approving them.
 
@@ -68,7 +68,7 @@ Byte nodded. "The charm is not the key. The keyhole is too eager."
 
 Whiskers looked toward the window, where Signal Row flickered beyond the glass. "And the city has old keyholes."
 
-### Trial and Error
+### Sugar And Signal
 
 They tried six more objects: a bottle cap, a folded receipt, one of Jinx's warning tags, Pixel's chalk, Shadow's lens cloth, and a noodle coupon shaped like a moon. Every object triggered the model when it crossed the same sensor.
 
@@ -100,7 +100,7 @@ Then someone replied: `So the secret is the shadow.`
 
 Jinx put her head in both paws. "I need a larger notebook."
 
-### Closing Scene
+### What Curiosity Costs
 
 That evening, Crunch Charms sold out across Packet Market.
 
@@ -135,3 +135,9 @@ Pixel's charm felt heavier in his pocket.
 - Key distinction: a visible artifact can distract people from the architecture underneath it.
 - Defensive habit: Byte and Cipher test the claim with a model and show that other objects can trigger the same effect.
 - Season thread: the Crunch Charm myth has mutated again, and a new mischievous signal figure has appeared.
+
+## Behind the Signal
+
+The Captain Crunch whistle became one of the most famous symbols of phone phreaking, but the real history is more layered than the folklore. John Draper became the public figure attached to the cereal-whistle story, while later historical work credits Sid Bernay with discovering the whistle's phreaking relevance earlier. The whistle matters less as a magic object than as a reminder that simple artifacts can become oversized myths.
+
+The Crunch Charm is built from that tension. Pixel wants the charm to mean something because it is tangible, collectible, and exciting. Cipher and Byte pull the lesson back toward architecture: if several objects can trigger the same response, the object is not the heart of the problem. The real issue lives in the old system's trust boundary.

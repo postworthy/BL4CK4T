@@ -71,3 +71,9 @@ Byte kept one blank silver card in his kit as a warning to himself.
 - Key distinction: technical success and trustworthy repair are related, but they are not identical.
 - Defensive habit: record source, consent, notice, and rollback for important repairs.
 - Season thread: maintenance is part of trust.
+
+## Behind the Signal
+
+Welchia/Nachi forces a question that still matters: who is allowed to repair a system, and under what authority? The historical behavior looked cleaner than ordinary malware in some ways because it tried to remove Blaster and apply patches. Institutions still had to treat it as unauthorized code moving through their networks, creating traffic, uncertainty, and cleanup work.
+
+The Consent Ledger answers that question in BL4CK4T terms. Source, consent, notice, asset, version, verification, and rollback are not decorative paperwork. They are how a repair leaves trust behind. Byte's model becomes slower than the Helpful Ghost because trustworthy repair is allowed to remember who approved it and how to undo it.

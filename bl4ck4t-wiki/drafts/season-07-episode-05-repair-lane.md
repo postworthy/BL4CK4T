@@ -27,6 +27,12 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: use trusted sources, signatures, public status, and rollback notes.
 - Season thread: maintenance is part of trust.
 
+## Behind the Signal
+
+The early-2000s worm era made emergency update communication a central security problem. Vendors and responders needed to tell people to patch quickly, but rushed users and administrators also needed to know which notices were legitimate, what applied to them, and how to recover if something went wrong. Urgency without a trusted channel can become another source of confusion.
+
+The Repair Lane translates that into a civic ritual. The lamp, caretaker stamp, patch-state shelf, and rollback card are story-world versions of trusted source, integrity check, change state, and recovery plan. The episode's historical lesson is that real repair should be visible enough to verify, especially when everyone feels pressure to move fast.
+
 ## Technical Texture Remediation
 
 - Public copy now adds integrity mark verification, matching repair record, patch-state shelf, verified state, and separate installation record.

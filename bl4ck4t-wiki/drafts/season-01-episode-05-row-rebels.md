@@ -162,6 +162,12 @@ Whiskers saw it too.
 - Team skill: Jinx and Shadow collect evidence while Whiskers keeps the team from flattening the Rebels into villains.
 - Season thread: the crowned mark points toward a louder copycat and the coming Tonebox problem.
 
+## Behind the Signal
+
+Historical phone phreaking mixed motives that do not fit neatly into hero or villain boxes. Some phreaks were curious explorers. Some were pranksters. Some committed toll fraud. Some treated the Bell System as a monopoly to be challenged, and publications such as YIPL and TAP tied telephone manipulation to countercultural politics and anti-establishment critique.
+
+The Row Rebels carry that moral complexity into Signal Row. Whiskers refuses to treat motive as a shortcut for judgment, because curiosity and protest can still create harm when they touch public infrastructure. The episode keeps the historical ambiguity alive: understanding why someone acted can help the investigation, but impact still has to be measured.
+
 ## Continuity Checks
 
 - Character consistency: Whiskers leads through listening; Jinx tracks evidence; Pixel sympathizes with the Rebels; Shadow spots the mark variant; Cipher checks the symbols.

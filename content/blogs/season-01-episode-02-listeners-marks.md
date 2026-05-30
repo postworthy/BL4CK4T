@@ -38,7 +38,7 @@ Cipher opened her notebook to the page where she had written the three-note spac
 
 Jinx smiled thinly. "Finally, a list I can respect."
 
-### The Drop
+### Marks In The Dust
 
 The nearest kiosk chirped and printed a blank receipt.
 
@@ -50,7 +50,7 @@ The receipt warmed in Pixel's paw, then faded until only the paper texture remai
 
 Whiskers looked up and down Signal Row. "Then we find the fingerprints."
 
-### The Lesson Begins
+### Signals Before Stories
 
 They split the block into sections.
 
@@ -78,7 +78,7 @@ The mark sat beside the alley cabinet, the same cabinet with the slow pulse unde
 
 Shadow had found it on the inside edge of the cabinet door, where rain could not fade it and street dust could not fully cover it. The line was sharp and fresh.
 
-### Trial and Error
+### Following The Smudge
 
 They returned to the cabinet after the lunch crowd thinned.
 
@@ -124,7 +124,7 @@ On the back, someone had written:
 
 `Little Blue Pawprint, issue 1. Find the song.`
 
-### Closing Scene
+### What The Marks Prove
 
 Back at the Hideout, Pixel pinned the sticker beside Cipher's map. The room seemed to tighten around it.
 
@@ -147,3 +147,9 @@ Outside, Signal Row kept talking to itself in signs, chimes, horns, and advertis
 - Key distinction: an old mark, a copied mark, and a fresh mark say different things.
 - Defensive habit: Jinx and Shadow treat small details as evidence before the team decides what they mean.
 - Season thread: the listener marks point toward `The Little Blue Pawprint`, the zine that will spread the Echo Grid rumor.
+
+## Behind the Signal
+
+Phone phreaking was never the work of one lone genius. The historical record points to scattered listeners, blind phreaks with extraordinary ears, electronics hobbyists, students, pranksters, and people who turned telephone lines into social space. They traded stories, handles, discoveries, and rumors through the same network they were exploring.
+
+The listener marks in Signal Row echo that community layer. The Script Kitties are not just studying a machine; they are discovering that other people noticed the machine before them and left traces behind. That matters because technical discovery becomes more complicated when it becomes social. A clue can become a community, and a community can spread a mystery faster than the facts can catch up.

@@ -27,13 +27,13 @@ timestamp: YYYY-MM-DDT00:00:00+00:00
 
 ## Story Draft
 
-### The Drop
+### [Episode-Specific BL4CK4T Prompt Moment]
 
-### The Lesson Begins
+### [Episode-Specific First Explanation]
 
-### Trial and Error
+### [Episode-Specific Complication Or Exploration]
 
-### Closing Scene
+### [Episode-Specific Closing Turn]
 
 ## Teaching Tie-In
 

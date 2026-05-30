@@ -36,7 +36,7 @@ Below the stamp:
 
 Pixel reached for it, and Jinx caught his sleeve. "Photo first." Pixel sighed, but he waited.
 
-### The Drop
+### Blue In The Bell Dust
 
 The table vendor was a gray cat with silver goggles and a voice like a vending machine with opinions.
 
@@ -58,7 +58,7 @@ The receipt faded in his paw. "BL4CK4T knows about the zine," Cipher said.
 
 Jinx looked over the crowded market. "So does everyone else."
 
-### The Lesson Begins
+### The Echo That Should Not Answer
 
 They opened the zine on a crate behind the noodle stand.
 
@@ -84,7 +84,7 @@ At another table, a maker was cutting blue pawprints out of reflective vinyl. Ne
 
 The zine had not explained the Echo Grid. It had given the city a phrase.
 
-### Trial and Error
+### Testing The Tiny Mark
 
 Jinx built the rumor map on the back of an empty noodle box. One arrow pointed to the south tube. Another pointed to the sticker stall. A third pointed to Signal Row. Cipher added marks for places where the zine used poetic language and where readers had turned that language into action.
 
@@ -122,7 +122,7 @@ Shadow pointed. The charms were not simple pawprints anymore. Someone had added 
 
 Pixel frowned. "That was not in issue one." Jinx added a new arrow to the noodle-box map. "Rumors grow legs."
 
-### Closing Scene
+### The Pawprint Stays
 
 The Script Kitties returned to the Hideout with one zine, five sticker scraps, a noodle-box rumor map, and a city that felt louder than it had that morning.
 
@@ -157,3 +157,9 @@ Crunch Charm. Crunch Charm. Crunch Charm.
 - Key distinction: what a document says can differ from what readers do with it.
 - Defensive habit: Jinx maps the rumor path while Cipher separates poetic claims from technical ones.
 - Season thread: the zine mutates into the Crunch Charm myth.
+
+## Behind the Signal
+
+The blue-box era became public in large part because technical knowledge escaped its original context. Bell System engineering papers and insider details were written for legitimate telephone work, but curious readers learned which pieces mattered. Ron Rosenbaum's 1971 Esquire article then gave a wider public a vivid story about phone phreaks, blue boxes, and the strange culture around the telephone network.
+
+The Little Blue Pawprint plays that role inside Cybertropolis. It is not a manual, and it does not give the full truth, but it makes the Echo Grid feel like something anyone might chase. The episode is about the danger of partial knowledge with momentum. Once a hidden system becomes a story people want to join, interpretation becomes part of the incident.

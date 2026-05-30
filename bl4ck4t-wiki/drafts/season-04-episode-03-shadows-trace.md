@@ -26,6 +26,12 @@ Shadow and Grimalkin preserve physical clues in Mirrorline Arcade and refuse to 
 
 Trace evidence asks better questions before it proves a person.
 
+## Behind the Signal
+
+The Mitnick/Shimomura account includes technical tracing, compromised systems, phone and network paths, and the hard problem of linking activity to a person. Defender evidence can show timing, routes, accounts, or systems touched, but identity is often harder than a single dramatic clue suggests. Responsible history has to separate trace evidence from chase mythology.
+
+Shadow's work in Mirrorline Arcade follows that same distinction. The route light, dust, badge, and booth record matter because they ask better questions, not because they magically name the Caller. The episode gives trace evidence weight without pretending that one clue can carry the whole case.
+
 ## Continuity Checks
 
 - Character consistency: Shadow's observation skills lead.

@@ -40,6 +40,12 @@ The episode opens with the extra marker from the Season 2 simulator. Pixel notic
 - Key concept: self-copying behavior can become a problem when connected systems let it move farther than expected.
 - Defensive habit: pause, record, and check boundaries before rerunning a strange test.
 
+## Behind the Signal
+
+Season 3 is anchored in the Morris Worm, released on November 2, 1988, into a young Internet built around universities, research labs, government systems, and Unix machines that often trusted each other more than later networks would. The incident did not become historic because files were erased. It became historic because unexpected self-copying behavior consumed resources, slowed machines, disrupted work, and forced defenders to understand a new kind of network-scale failure.
+
+The ninth marker gives the Script Kitties that first historical feeling in miniature. Before anyone knows whether the extra copy is harmless, dangerous, clever, or accidental, the right move is to stop and count what actually happened. The episode keeps the mechanism safe and fictional while preserving the defender's first discipline from the real event: treat unexpected propagation as evidence before turning it into a story.
+
 ## Continuity Checks
 
 - Character consistency: Pixel carries the Season 2 cliffhanger; Byte begins the builder arc.

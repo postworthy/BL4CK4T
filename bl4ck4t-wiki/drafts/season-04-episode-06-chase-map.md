@@ -26,6 +26,12 @@ Jinx and Shadow build the Chase Map with confirmed, likely, ruled-out, and unkno
 
 Good evidence work labels the state of each claim.
 
+## Behind the Signal
+
+The public Mitnick story often reads like a clean pursuit, but the historical record is more complicated: court documents, law-enforcement claims, participant accounts, technical advisories, supporter arguments, and later reassessments do not all serve the same purpose. A careful account has to keep proven facts, allegations, disputed interpretations, and cultural mythology in separate lanes.
+
+The Chase Map gives Cybertropolis that discipline. Its real power is not the string or the pins; it is the refusal to let a satisfying pattern outrun corroboration. By making the Caller smaller than the myth, the team makes the case more serious, not less, because serious claims deserve clean evidence.
+
 ## Continuity Checks
 
 - Character consistency: Jinx and Shadow co-lead.

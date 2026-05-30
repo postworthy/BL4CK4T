@@ -24,7 +24,7 @@ Pixel whistled. "That sounds like a stage magician."
 
 The Chronicle clipping showed a silhouette, three question marks, and a drawing of a phone with smoke curling from the receiver. It looked exciting. It also said almost nothing.
 
-### The Drop
+### The Headline Arrives
 
 BL4CK4T's card slid from behind the clipping.
 
@@ -44,7 +44,7 @@ Jinx smiled. "Finally, office supplies with standards."
 
 She added two smaller fields beneath each card: `SOURCE` and `TIME`. A claim without a source could still be discussed, but it could not pretend to be evidence.
 
-### The Lesson Begins
+### Four Cards For Claims
 
 The team took over the bottom half of the Notice Wall.
 
@@ -64,7 +64,7 @@ Jinx paused. "Partly repeated. The message says `if they chase me`, not `please 
 
 Pixel wrote the difference twice because it mattered.
 
-### Trial And Error
+### Ink Meets Evidence
 
 The Chronicle editor, a sharp-eyed student named Lark, arrived with ink on one sleeve.
 
@@ -84,7 +84,7 @@ That landed harder than an argument. Lark looked at the cards, then at the headl
 
 Jinx handed her a pin. Lark placed `THE VANISHING CALLER` under `REPEATED`.
 
-### Closing Scene
+### The First Click
 
 By the end of the day, the wall had more questions than claims. That made it look unfinished, but Whiskers called it healthier.
 
@@ -103,3 +103,9 @@ Only a click.
 - Key distinction: repeated claims need a source.
 - Defensive habit: classify claims as seen, guessed, repeated, or unknown.
 - Season thread: the Vanishing Caller nickname enters public canon.
+
+## Behind the Signal
+
+The historical Mitnick story became famous partly because it was easy to package: a named hacker, a pursuit, a technical expert, and a public arrest. That shape made the case memorable, but it also compressed uncertainty, legal procedure, victim impact, technical evidence, and media interpretation into a cleaner story than the record can always support.
+
+Jinx's Notice Wall turns that risk into a defender habit. `Seen`, `guessed`, `repeated`, and `unknown` are simple labels, but they slow the machinery that turns a nickname into a verdict. The episode keeps the City Chronicle correctable rather than cruel because the real lesson is not that reporting is bad. The lesson is that public information needs evidence state, source, and time.

@@ -31,6 +31,12 @@ Whiskers drafts a false-sounding `under control` notice, then learns to publish 
 - Defensive habit: communicate what is known, what is affected, what is being done, and when the next update comes.
 - Season thread: availability is part of trust.
 
+## Behind the Signal
+
+In Estonia, defenders and officials had to communicate while the facts were still incomplete. They knew services were under pressure and that the attacks were politically linked to the Bronze Soldier crisis, but public attribution and total impact were harder questions. Responsible communication had to preserve uncertainty while still giving people useful service information.
+
+Whiskers' crossed-out `EVERYTHING IS UNDER CONTROL` is the fictional version of that discipline. The better status update names known impact, unknown causes, current workarounds, and the next update time. That kind of plain public truth can reduce confusion without pretending the investigation is finished.
+
 ## Technical Texture Remediation
 
 - Public copy now adds status-update fields for service state, scope, confidence, workaround, next update, owner, and next check.

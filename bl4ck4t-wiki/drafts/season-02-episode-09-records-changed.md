@@ -174,6 +174,12 @@ On the simulator, the ninth marker blinked once more before the screen went dark
 - Team skill: the Script Kitties turn lessons into practice before the next mystery arrives.
 - Season thread: Jinx's investigator arc closes and the Season 3 copying-process clue appears.
 
+## Behind the Signal
+
+The Cuckoo's Egg changed public memory because it showed system administration as detective work. A small accounting clue became a story about monitoring, institutional coordination, network paths, and espionage concern. Just as important, it showed that a closed investigation can leave new habits behind.
+
+Season 2 closes with that idea. The `-0.75` case is resolved, but the team has learned how to preserve anomalies, state uncertainty, and build a record that others can act on. The ninth-marker clue points to a different historical shape for Season 3, but it grows out of the same discipline: notice the small thing, document it, and let the evidence teach you what kind of story you are in.
+
 ## Continuity Checks
 
 - Character consistency: Jinx closes with discipline; Pixel opens the next curiosity thread; Whiskers acts after preserving the record; the ensemble receives payoffs.

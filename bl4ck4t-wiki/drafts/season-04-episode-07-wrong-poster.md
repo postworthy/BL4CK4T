@@ -26,6 +26,12 @@ A poster accuses the wrong student. Whiskers, Grimalkin, and the Glass Bureau co
 
 Proportional response protects victims and suspects.
 
+## Behind the Signal
+
+One of the enduring debates around the Mitnick case is proportionality. The record includes real unauthorized conduct and real victims, but the cultural argument also asks whether fear and myth shaped detention, restrictions, and public judgment. A high-fidelity account has to resist both easy extremes: harmless folk hero and impossible supervillain.
+
+The wrong poster brings that debate down to one hallway. Oren is almost turned into an answer because the city wants the chase to end. The episode keeps the lesson direct: restraint is not weakness when identity is uncertain; it is how a community protects people while it keeps investigating harm.
+
 ## Continuity Checks
 
 - Character consistency: Whiskers guards fairness; Grimalkin creates lanes.

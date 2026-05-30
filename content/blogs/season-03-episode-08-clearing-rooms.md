@@ -28,7 +28,7 @@ Byte picked up the first slip.
 
 Shadow nodded. "Fan still running."
 
-### The Drop
+### Restore Slips
 
 BL4CK4T sent the shortest message of the season.
 
@@ -38,7 +38,7 @@ Cipher smiled. "Annoying and correct."
 
 The team moved room by room.
 
-### The Lesson Begins
+### Known Good State
 
 Room three cleared after Shadow found a stuck fan relay.
 
@@ -56,7 +56,7 @@ A low hum came from behind the wall.
 
 Byte lowered the green marker.
 
-### Trial And Error
+### The Hum Behind The Wall
 
 The hum belonged to a forgotten practice panel still waiting for a copy count that no longer existed. It was not dangerous. It was unfinished.
 
@@ -81,3 +81,9 @@ Grimalkin shook his head. "Recovery over. Lesson still open."
 - Key distinction: looking fixed and being verified are not the same thing.
 - Defensive habit: do not call a system clear until records, tools, and physical checks agree.
 - Season thread: the team is ready to turn the incident into a permanent practice.
+
+## Behind the Signal
+
+After the Morris Worm spread, affected sites had to do more than stop new copies. They had to understand what had happened, restore usable service, prevent reentry, and decide when systems could be trusted again. Some places disconnected, cleaned, rebuilt, or applied emergency measures. Recovery was labor, not a single dramatic moment.
+
+The restore slips turn that quieter historical work into an episode. A room that looks calm is not automatically recovered, just as a system that stops showing symptoms is not automatically trustworthy. The episode keeps the cleanup concrete: counters, tools, physical checks, and signed records must agree before the team calls anything clear.

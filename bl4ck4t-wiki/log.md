@@ -2,6 +2,199 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-05-30] maintenance | Convert season episode headings to bespoke style
+
+Replaced formulaic in-story `###` section headings across public Season 1 through Season 6 episodes with bespoke episode-specific headings. Season 7 already used custom narrative section titles, so its public headings were left unchanged. Updated the article style guide, article draft template, and root agent instructions so future season episodes use custom narrative chapter-card headings while preserving standardized `Teaching Tie-In` and `Behind the Signal` sections.
+
+Touched areas:
+
+- `content/blogs/season-01-episode-*`
+- `content/blogs/season-02-episode-*`
+- `content/blogs/season-03-episode-*`
+- `content/blogs/season-04-episode-*`
+- `content/blogs/season-05-episode-*`
+- `content/blogs/season-06-episode-*`
+- [style-guides/article-style-guide.md](style-guides/article-style-guide.md)
+- [templates/article-draft.md](templates/article-draft.md)
+- [../AGENTS.md](../AGENTS.md)
+
+## [2026-05-30] draft | Add Behind the Signal to Season 7
+
+Added narrative `Behind the Signal` companion sections to all Season 7 public posts and draft mirrors. The sections connect each episode to the MSBlaster, Welchia/Nachi, and early-2000s worm-era historical anchor in prose after the Teaching Tie-In, emphasizing patch-before-crisis timing, patch-debt constraints, exposed services, operational disruption, verified repair channels, unauthorized repair, bounded emergency change, consent-aware repair, and durable patch-governance practice.
+
+Touched areas:
+
+- `content/blogs/season-07-episode-01-red-mark.md`
+- `content/blogs/season-07-episode-02-signs-still-worked.md`
+- `content/blogs/season-07-episode-03-red-door-fever.md`
+- `content/blogs/season-07-episode-04-restart-weather.md`
+- `content/blogs/season-07-episode-05-repair-lane.md`
+- `content/blogs/season-07-episode-06-helpful-ghost.md`
+- `content/blogs/season-07-episode-07-bounded-evidence.md`
+- `content/blogs/season-07-episode-08-consent-ledger.md`
+- `content/blogs/season-07-episode-09-patch-bell.md`
+- [drafts/season-07-episode-01-red-mark.md](drafts/season-07-episode-01-red-mark.md)
+- [drafts/season-07-episode-02-signs-still-worked.md](drafts/season-07-episode-02-signs-still-worked.md)
+- [drafts/season-07-episode-03-red-door-fever.md](drafts/season-07-episode-03-red-door-fever.md)
+- [drafts/season-07-episode-04-restart-weather.md](drafts/season-07-episode-04-restart-weather.md)
+- [drafts/season-07-episode-05-repair-lane.md](drafts/season-07-episode-05-repair-lane.md)
+- [drafts/season-07-episode-06-helpful-ghost.md](drafts/season-07-episode-06-helpful-ghost.md)
+- [drafts/season-07-episode-07-bounded-evidence.md](drafts/season-07-episode-07-bounded-evidence.md)
+- [drafts/season-07-episode-08-consent-ledger.md](drafts/season-07-episode-08-consent-ledger.md)
+- [drafts/season-07-episode-09-patch-bell.md](drafts/season-07-episode-09-patch-bell.md)
+
+## [2026-05-30] draft | Add Behind the Signal to Season 6
+
+Added narrative `Behind the Signal` companion sections to all Season 6 public posts and draft mirrors. The sections connect each episode to the Estonia 2007 cyberattacks historical anchor in prose after the Teaching Tie-In, emphasizing availability harm, denial-of-service impact without theft, degraded service language, civic dependency mapping, honest status communication, traffic triage and false positives, attribution discipline, priority lanes, and durable resilience practice.
+
+Touched areas:
+
+- `content/blogs/season-06-episode-01-spinning-board.md`
+- `content/blogs/season-06-episode-02-nothing-missing.md`
+- `content/blogs/season-06-episode-03-queue-district.md`
+- `content/blogs/season-06-episode-04-service-map.md`
+- `content/blogs/season-06-episode-05-we-do-not-know-yet.md`
+- `content/blogs/season-06-episode-06-outside-gate.md`
+- `content/blogs/season-06-episode-07-flood-prince.md`
+- `content/blogs/season-06-episode-08-priority-lanes.md`
+- `content/blogs/season-06-episode-09-city-answers.md`
+- [drafts/season-06-episode-01-spinning-board.md](drafts/season-06-episode-01-spinning-board.md)
+- [drafts/season-06-episode-02-nothing-missing.md](drafts/season-06-episode-02-nothing-missing.md)
+- [drafts/season-06-episode-03-queue-district.md](drafts/season-06-episode-03-queue-district.md)
+- [drafts/season-06-episode-04-service-map.md](drafts/season-06-episode-04-service-map.md)
+- [drafts/season-06-episode-05-we-do-not-know-yet.md](drafts/season-06-episode-05-we-do-not-know-yet.md)
+- [drafts/season-06-episode-06-outside-gate.md](drafts/season-06-episode-06-outside-gate.md)
+- [drafts/season-06-episode-07-flood-prince.md](drafts/season-06-episode-07-flood-prince.md)
+- [drafts/season-06-episode-08-priority-lanes.md](drafts/season-06-episode-08-priority-lanes.md)
+- [drafts/season-06-episode-09-city-answers.md](drafts/season-06-episode-09-city-answers.md)
+
+## [2026-05-30] draft | Add Behind the Signal to Season 5
+
+Added narrative `Behind the Signal` companion sections to all Season 5 public posts and draft mirrors. The sections connect each episode to the ILOVEYOU / Love Bug historical anchor in prose after the Teaching Tie-In, emphasizing personal lures, familiar sender trust, containment before opening, file appearance mismatch, address-book spread, reporting lanes, humane incident warnings, attribution discipline, and lasting email-security habits.
+
+Touched areas:
+
+- `content/blogs/season-05-episode-01-pink-envelope.md`
+- `content/blogs/season-05-episode-02-letter-for-everybody.md`
+- `content/blogs/season-05-episode-03-pixel-does-not-open-it.md`
+- `content/blogs/season-05-episode-04-hidden-ending.md`
+- `content/blogs/season-05-episode-05-address-book-bloom.md`
+- `content/blogs/season-05-episode-06-quarantine-tray.md`
+- `content/blogs/season-05-episode-07-warning-that-worked.md`
+- `content/blogs/season-05-episode-08-phishmongers-ribbon.md`
+- `content/blogs/season-05-episode-09-love-letter-plague.md`
+- [drafts/season-05-episode-01-pink-envelope.md](drafts/season-05-episode-01-pink-envelope.md)
+- [drafts/season-05-episode-02-letter-for-everybody.md](drafts/season-05-episode-02-letter-for-everybody.md)
+- [drafts/season-05-episode-03-pixel-does-not-open-it.md](drafts/season-05-episode-03-pixel-does-not-open-it.md)
+- [drafts/season-05-episode-04-hidden-ending.md](drafts/season-05-episode-04-hidden-ending.md)
+- [drafts/season-05-episode-05-address-book-bloom.md](drafts/season-05-episode-05-address-book-bloom.md)
+- [drafts/season-05-episode-06-quarantine-tray.md](drafts/season-05-episode-06-quarantine-tray.md)
+- [drafts/season-05-episode-07-warning-that-worked.md](drafts/season-05-episode-07-warning-that-worked.md)
+- [drafts/season-05-episode-08-phishmongers-ribbon.md](drafts/season-05-episode-08-phishmongers-ribbon.md)
+- [drafts/season-05-episode-09-love-letter-plague.md](drafts/season-05-episode-09-love-letter-plague.md)
+
+## [2026-05-30] draft | Add Behind the Signal to Season 4
+
+Added narrative `Behind the Signal` companion sections to all Season 4 public posts and draft mirrors. The sections connect each episode to the Mitnick/Shimomura hacker-manhunt historical anchor in prose after the Teaching Tie-In, emphasizing public hacker mythology, claim classification, trace evidence, social engineering, media pressure, proportionality, accountability, and durable correction of identity-related incident process.
+
+Touched areas:
+
+- `content/blogs/season-04-episode-01-monster-word.md`
+- `content/blogs/season-04-episode-02-notice-wall.md`
+- `content/blogs/season-04-episode-03-shadows-trace.md`
+- `content/blogs/season-04-episode-04-borrowed-voice.md`
+- `content/blogs/season-04-episode-05-mirrorline-arcade.md`
+- `content/blogs/season-04-episode-06-chase-map.md`
+- `content/blogs/season-04-episode-07-wrong-poster.md`
+- `content/blogs/season-04-episode-08-understanding-first.md`
+- `content/blogs/season-04-episode-09-invisible-chase.md`
+- [drafts/season-04-episode-01-monster-word.md](drafts/season-04-episode-01-monster-word.md)
+- [drafts/season-04-episode-02-notice-wall.md](drafts/season-04-episode-02-notice-wall.md)
+- [drafts/season-04-episode-03-shadows-trace.md](drafts/season-04-episode-03-shadows-trace.md)
+- [drafts/season-04-episode-04-borrowed-voice.md](drafts/season-04-episode-04-borrowed-voice.md)
+- [drafts/season-04-episode-05-mirrorline-arcade.md](drafts/season-04-episode-05-mirrorline-arcade.md)
+- [drafts/season-04-episode-06-chase-map.md](drafts/season-04-episode-06-chase-map.md)
+- [drafts/season-04-episode-07-wrong-poster.md](drafts/season-04-episode-07-wrong-poster.md)
+- [drafts/season-04-episode-08-understanding-first.md](drafts/season-04-episode-08-understanding-first.md)
+- [drafts/season-04-episode-09-invisible-chase.md](drafts/season-04-episode-09-invisible-chase.md)
+
+## [2026-05-30] draft | Add Behind the Signal to Season 3
+
+Added narrative `Behind the Signal` companion sections to all Season 3 public posts and draft mirrors. The sections connect each episode to the Morris Worm historical anchor in prose after the Teaching Tie-In, emphasizing early Internet trust, self-copying behavior, resource exhaustion, non-destructive impact, improvised response coordination, accountability, recovery, and durable incident-response practice.
+
+Touched areas:
+
+- `content/blogs/season-03-episode-01-ninth-marker.md`
+- `content/blogs/season-03-episode-02-sandbox-door.md`
+- `content/blogs/season-03-episode-03-more-than-once.md`
+- `content/blogs/season-03-episode-04-slow-rooms.md`
+- `content/blogs/season-03-episode-05-copy-map.md`
+- `content/blogs/season-03-episode-06-grimalkins-bell.md`
+- `content/blogs/season-03-episode-07-builders-note.md`
+- `content/blogs/season-03-episode-08-clearing-rooms.md`
+- `content/blogs/season-03-episode-09-first-bell.md`
+- [drafts/season-03-episode-01-ninth-marker.md](drafts/season-03-episode-01-ninth-marker.md)
+- [drafts/season-03-episode-02-sandbox-door.md](drafts/season-03-episode-02-sandbox-door.md)
+- [drafts/season-03-episode-03-more-than-once.md](drafts/season-03-episode-03-more-than-once.md)
+- [drafts/season-03-episode-04-slow-rooms.md](drafts/season-03-episode-04-slow-rooms.md)
+- [drafts/season-03-episode-05-copy-map.md](drafts/season-03-episode-05-copy-map.md)
+- [drafts/season-03-episode-06-grimalkins-bell.md](drafts/season-03-episode-06-grimalkins-bell.md)
+- [drafts/season-03-episode-07-builders-note.md](drafts/season-03-episode-07-builders-note.md)
+- [drafts/season-03-episode-08-clearing-rooms.md](drafts/season-03-episode-08-clearing-rooms.md)
+- [drafts/season-03-episode-09-first-bell.md](drafts/season-03-episode-09-first-bell.md)
+
+## [2026-05-30] draft | Add Behind the Signal to Season 2
+
+Added narrative `Behind the Signal` companion sections to all Season 2 public posts and draft mirrors. The sections connect each episode to The Cuckoo's Egg and Hanover Hackers historical anchor in prose after the Teaching Tie-In, emphasizing small anomalies, logs, account misuse, evidence preservation, institutional ownership, trust paths, escalation, case building, and durable investigative practice.
+
+Touched areas:
+
+- `content/blogs/season-02-episode-01-seventy-five-cent-thread.md`
+- `content/blogs/season-02-episode-02-ledger-lab.md`
+- `content/blogs/season-02-episode-03-borrowed-door.md`
+- `content/blogs/season-02-episode-04-threadboard.md`
+- `content/blogs/season-02-episode-05-nobody-owns-thread.md`
+- `content/blogs/season-02-episode-06-old-trust-paths.md`
+- `content/blogs/season-02-episode-07-far-relay.md`
+- `content/blogs/season-02-episode-08-investigators-case.md`
+- `content/blogs/season-02-episode-09-records-changed.md`
+- [drafts/season-02-episode-01-seventy-five-cent-thread.md](drafts/season-02-episode-01-seventy-five-cent-thread.md)
+- [drafts/season-02-episode-02-ledger-lab.md](drafts/season-02-episode-02-ledger-lab.md)
+- [drafts/season-02-episode-03-borrowed-door.md](drafts/season-02-episode-03-borrowed-door.md)
+- [drafts/season-02-episode-04-threadboard.md](drafts/season-02-episode-04-threadboard.md)
+- [drafts/season-02-episode-05-nobody-owns-thread.md](drafts/season-02-episode-05-nobody-owns-thread.md)
+- [drafts/season-02-episode-06-old-trust-paths.md](drafts/season-02-episode-06-old-trust-paths.md)
+- [drafts/season-02-episode-07-far-relay.md](drafts/season-02-episode-07-far-relay.md)
+- [drafts/season-02-episode-08-investigators-case.md](drafts/season-02-episode-08-investigators-case.md)
+- [drafts/season-02-episode-09-records-changed.md](drafts/season-02-episode-09-records-changed.md)
+
+## [2026-05-30] draft | Add Behind the Signal to Season 1
+
+Added narrative `Behind the Signal` companion sections to all Season 1 public posts and draft mirrors. The sections connect each episode to the phone-phreaking and blue-box historical anchor in prose after the Teaching Tie-In, preserving story flow while giving readers the historical story behind the story. Updated article guidance and agent instructions to keep future `Behind the Signal` sections narrative rather than bullet-driven.
+
+Touched areas:
+
+- `content/blogs/season-01-episode-01-sound-beneath-signal-row.md`
+- `content/blogs/season-01-episode-02-listeners-marks.md`
+- `content/blogs/season-01-episode-03-little-blue-pawprint.md`
+- `content/blogs/season-01-episode-04-crunch-charm.md`
+- `content/blogs/season-01-episode-05-row-rebels.md`
+- `content/blogs/season-01-episode-06-tonebox-demo.md`
+- `content/blogs/season-01-episode-07-false-closure.md`
+- `content/blogs/season-01-episode-08-hushline.md`
+- `content/blogs/season-01-episode-09-city-still-sings.md`
+- [drafts/season-01-episode-01-sound-beneath-signal-row.md](drafts/season-01-episode-01-sound-beneath-signal-row.md)
+- [drafts/season-01-episode-02-listeners-marks.md](drafts/season-01-episode-02-listeners-marks.md)
+- [drafts/season-01-episode-03-little-blue-pawprint.md](drafts/season-01-episode-03-little-blue-pawprint.md)
+- [drafts/season-01-episode-04-crunch-charm.md](drafts/season-01-episode-04-crunch-charm.md)
+- [drafts/season-01-episode-05-row-rebels.md](drafts/season-01-episode-05-row-rebels.md)
+- [drafts/season-01-episode-06-tonebox-demo.md](drafts/season-01-episode-06-tonebox-demo.md)
+- [drafts/season-01-episode-07-false-closure.md](drafts/season-01-episode-07-false-closure.md)
+- [drafts/season-01-episode-08-hushline.md](drafts/season-01-episode-08-hushline.md)
+- [drafts/season-01-episode-09-city-still-sings.md](drafts/season-01-episode-09-city-still-sings.md)
+- [style-guides/article-style-guide.md](style-guides/article-style-guide.md)
+- `AGENTS.md`
+
 ## [2026-05-29] maintenance | Remediate Season 7 technical texture
 
 Applied the Season 7 technical texture audit to the public Season 7 posts and draft records. The changes preserve The Patch Bell War while adding safe technical detail around patch-state records, affected cabinet families, asset inventory, test groups, change windows, exposed public endpoints, restart loops, support queues, verified repair integrity, patch-state shelves, unauthorized repair spread, repair-chatter traffic, monitoring windows, change ownership, consent fields, and durable Patch Bell policy controls.

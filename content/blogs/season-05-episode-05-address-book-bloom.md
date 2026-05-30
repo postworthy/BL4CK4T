@@ -22,7 +22,7 @@ Each dot was a person, and Jinx refused to call them cases.
 
 Shadow added smaller marks beside each dot: recipient-list count, first arrival time, and outbound-copy count. The Message Office queue had begun to fill with copies that looked personal but moved like automation.
 
-### The Drop
+### Beautiful In The Worst Way
 
 BL4CK4T's message appeared on the map frame.
 
@@ -34,7 +34,7 @@ Shadow read the delivery times while Jinx drew lines.
 
 "That is why it worked," Jinx answered.
 
-### The Lesson Begins
+### Friends As Paths
 
 The first version of the map made one student look like the source. The second version showed the letter had reached that student before most of the others.
 
@@ -48,7 +48,7 @@ The corrected map showed an address-book path, not a confession. A contact list 
 
 Whiskers nodded. "Good maps can admit they were corrected."
 
-### Trial And Error
+### The Kinder Warning
 
 The team wrote contact warnings.
 
@@ -64,7 +64,7 @@ The reports doubled.
 
 Jinx stared at the count. "Kindness improved the data."
 
-### Closing Scene
+### The Blue Pin
 
 By evening, the bloom map stopped growing as fast.
 
@@ -85,3 +85,9 @@ Shadow placed a blue pin at the first point where someone had warned a friend in
 - Key distinction: affected senders are not automatically culprits.
 - Defensive habit: warn contacts quickly and kindly when suspicious messages spread.
 - Season thread: the team learns that stopping spread requires trust, not shame.
+
+## Behind the Signal
+
+One reason ILOVEYOU reached global scale was automated spread through address books. Personal and workplace contact lists became distribution paths, so a message that seemed intimate could move at organizational speed. That made the incident a story about software behavior, but also about social trust turning into transport.
+
+The bloom map transforms address-book spread into something readers can see without learning how to reproduce it. Jinx's insistence that affected senders are not automatically culprits matters historically. Many people became part of the spread because their trust paths were used, and shaming them would only make reporting slower and evidence weaker.

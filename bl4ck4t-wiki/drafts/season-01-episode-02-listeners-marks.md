@@ -171,6 +171,12 @@ Outside, Signal Row kept talking to itself in signs, chimes, horns, and advertis
 - Team skill: Jinx and Shadow treat small details as evidence before the team decides what they mean.
 - Season thread: the listener marks point toward `The Little Blue Pawprint`, the zine that will spread the Echo Grid rumor.
 
+## Behind the Signal
+
+Phone phreaking was never the work of one lone genius. The historical record points to scattered listeners, blind phreaks with extraordinary ears, electronics hobbyists, students, pranksters, and people who turned telephone lines into social space. They traded stories, handles, discoveries, and rumors through the same network they were exploring.
+
+The listener marks in Signal Row echo that community layer. The Script Kitties are not just studying a machine; they are discovering that other people noticed the machine before them and left traces behind. That matters because technical discovery becomes more complicated when it becomes social. A clue can become a community, and a community can spread a mystery faster than the facts can catch up.
+
 ## Continuity Checks
 
 - Character consistency: Pixel feels wonder and kinship; Jinx asks evidence questions; Shadow notices physical details; Cipher organizes patterns; Whiskers keeps the investigation moving.

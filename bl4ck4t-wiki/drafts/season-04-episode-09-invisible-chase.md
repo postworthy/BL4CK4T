@@ -26,6 +26,12 @@ The team closes the Caller case with corrected public record, a proportionate re
 
 Good response changes future practice.
 
+## Behind the Signal
+
+The Mitnick/Shimomura era did not end cleanly with an arrest. The legal process, plea, sentencing, supporter campaigns, later career, and continuing arguments over press mythology all shaped what the case meant. Its legacy includes social engineering awareness and network tracing, but also a warning about what happens when a technical suspect becomes a symbol larger than the evidence.
+
+Season 4 closes by making the city change its process. The corrected notice, identity-claim form, and quiet repair path are fictional answers to a real historical problem: public stories about hackers can create harm if they move faster than proof. The pink envelope then turns the page toward a different kind of trust story, where the next danger will arrive through curiosity, affection, and a message that wants to be opened.
+
 ## Continuity Checks
 
 - Character consistency: Full team closes the season.

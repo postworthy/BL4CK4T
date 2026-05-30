@@ -152,6 +152,12 @@ The season had been full of sparks. This was the first one that smelled like smo
 - Team skill: Byte builds, Cipher labels limits, Whiskers considers impact, and Jinx watches how the audience reacts.
 - Season thread: the first false closure appears, setting up the next episode's consequence turn.
 
+## Behind the Signal
+
+Blue boxes became famous because they made an invisible telephone-system language feel portable and controllable. The device did not create the weakness by itself. It exposed a deeper architectural problem: control signals meant for network equipment could be imitated through a path reachable by ordinary users.
+
+The Tonebox is the BL4CK4T-world version of that public demonstration. Byte builds a model to teach, not to cause harm, but the crowd's reaction shows how quickly an explanatory tool can become a symbol people misunderstand. The history underneath the episode is the difference between showing that a hidden rule exists and giving people a way to misuse it.
+
 ## Continuity Checks
 
 - Character consistency: Byte leads the build; Pixel brings wonder; Cipher keeps the model honest; Whiskers asks about consequences; Jinx tracks interpretation.

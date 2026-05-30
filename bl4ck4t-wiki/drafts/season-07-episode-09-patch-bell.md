@@ -27,6 +27,12 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: turn incident lessons into visible rules, owners, review dates, and records.
 - Season thread: maintenance is part of trust.
 
+## Behind the Signal
+
+The early-2000s worm era helped make patching feel like public resilience rather than private housekeeping. After Code Red, Nimda, Slammer, Blaster, and Welchia/Nachi, organizations had stronger reasons to improve asset inventory, emergency change, firewall posture, vendor communication, and incident coordination. The world did not learn to patch perfectly, but maintenance became much harder to dismiss as background work.
+
+The Patch Bell is Cybertropolis turning crisis into practice. Known serious repairs cannot vanish into `LATER`; they must be patched, isolated, or accepted as risk with an owner and an expiration. The quiet source-plan log then opens the next historical shape: loud worm trouble can hide a quieter kind of access.
+
 ## Technical Texture Remediation
 
 - Public copy now adds inventory review, patch deadline, exception owner, risk-acceptance expiration, and evidence of completion to the Patch Bell rule.

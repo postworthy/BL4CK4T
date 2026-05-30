@@ -205,6 +205,12 @@ A small blue pawprint sat under the grime. It was not BL4CK4T's mark. It was old
 - Team skill: the Script Kitties begin with observation, diagrams, and a disconnected model.
 - Season thread: the Echo Grid mystery has started, but the team does not yet know who else has been listening.
 
+## Behind the Signal
+
+Season 1 begins with the real history of phone phreaking and the blue-box era, when curious outsiders learned that older long-distance telephone systems had a hidden language of tones. In those systems, some control signals traveled in the same audible path as ordinary voice. That design made sense for its time, but it also meant the network's control language could leak into the user-facing experience.
+
+Signal Row turns that history into a city district where music, signs, and routing instructions once shared the same old stream. Pixel's first act is not to exploit the tone. He listens, records, and helps the team build a disconnected model. That choice keeps the wonder of discovery while preserving the deeper lesson: finding a hidden rule is the beginning of responsibility, not permission.
+
 ## Continuity Checks
 
 - Character consistency: Pixel hears the tone and leads with wonder; Cipher names structure; Shadow spots the physical clue; Byte builds the model; Whiskers frames the next move.

@@ -26,6 +26,12 @@ Shadow and Jinx reach the Caller. Understanding motive helps choose the response
 
 Understanding motive is different from excusing impact.
 
+## Behind the Signal
+
+The strongest historical reading of the Mitnick era preserves moral complexity. Mitnick was not a cartoon monster, and the public mythology around him could be exaggerated. At the same time, documented unauthorized access, victim impact, legal process, and accountability cannot be erased by charm, curiosity, or a counter-story.
+
+The Caller scene is built around that balance. Shadow and Jinx listen before judgment because motive helps explain the path of harm. They still preserve evidence and involve the proper process because understanding is not acquittal. That is the season's central historical inheritance: humanize the person without flattening the consequences.
+
 ## Continuity Checks
 
 - Character consistency: Shadow chooses trusted visibility.

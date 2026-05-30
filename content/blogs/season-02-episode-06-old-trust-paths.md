@@ -36,7 +36,7 @@ Cipher adjusted the overlay. "Old does not mean active."
 
 Shadow, already by the door, lifted his hood. "Then we check."
 
-### The Drop
+### The Old Path Opens
 
 The library terminal sat beside a window that looked onto a rain garden. It was a public learning station with rounded keys, a scratched screen, and a sticker that said `ASK BEFORE YOU SAVE`.
 
@@ -64,7 +64,7 @@ Grimalkin added the note. "Maintenance. Display flicker. Panel moved."
 
 Jinx looked at the old map again. The gray line from the library ran toward the museum.
 
-### The Lesson Begins
+### Trust That Outlived Its Reason
 
 At the museum kiosk, a group of children were building model bridges on the screen. The kiosk had no visible keyboard, only big buttons and a bright city map.
 
@@ -88,7 +88,7 @@ Shadow found no moved panel at the museum. No warm terminal. No unclaimed slip. 
 
 Jinx moved the museum card herself and set it to gray.
 
-### Trial and Error
+### Walking The Inherited Route
 
 The old research relay sat in a locked cabinet under the archive annex, humming behind a metal grille. Ms. Vale met them there with a caretaker from Relay Archives and the Glass Bureau case stub.
 
@@ -112,7 +112,7 @@ Grimalkin drew the path on the old map. Ledger Lab to library. Library to relay.
 
 The portable Threadboard accepted the new order. The red line no longer looked like a web. It looked like a route.
 
-### Closing Scene
+### A Path Gets Named
 
 Back at the Hideout, Grimalkin replaced the clean city map with the old one. The gray trust paths looked fragile under the Threadboard lights.
 
@@ -139,3 +139,9 @@ The old map did not look harmless now. It looked generous, built by people who w
 - Key distinction: removing a false pattern strengthens the case.
 - Defensive habit: Grimalkin maps, Cipher tests, Shadow verifies physical details.
 - Season thread: the route narrows to Ledger Lab, library, and old relay.
+
+## Behind the Signal
+
+The computing world behind The Cuckoo's Egg was built around research collaboration, remote access, shared systems, and trust-heavy paths between institutions. Those connections were not foolish in their own time. They helped people work. They also meant that misuse in one place could become a path into another.
+
+Old Trust Paths treats that history with sympathy instead of hindsight. The old route is generous before it is risky. Grimalkin's map shows that security work is not only closing doors; it is understanding why the doors existed and whether they still deserve the trust they carry.

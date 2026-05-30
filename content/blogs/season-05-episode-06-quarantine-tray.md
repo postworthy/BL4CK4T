@@ -20,7 +20,7 @@ Pink for new letter. Blue for reported. Amber for unsure. Red for opened. White 
 
 Whiskers looked at the lamps and made one decision. "We need lanes." Grimalkin already had tape.
 
-### The Drop
+### Every Lamp Wants First
 
 BL4CK4T's card appeared under the tape roll.
 
@@ -35,7 +35,7 @@ Grimalkin drew four paths across the Message Office floor:
 
 Then he added desk labels above the lanes: mail filter, intake queue, quarantine review, warning desk, recovery queue, and status board.
 
-### The Lesson Begins
+### Four Lanes On The Floor
 
 The first hour was messy. Students brought open letters to the hold lane. Closed letters went to recovery. One student tried to warn everyone by shouting from a cart.
 
@@ -47,7 +47,7 @@ Whiskers stopped the cart.
 
 The student climbed down and joined the warning lane.
 
-### Trial And Error
+### Shorter Forms Better Cards
 
 Jinx made the report form shorter:
 
@@ -60,7 +60,7 @@ Byte made colored cards for each answer. Cipher removed any card that sounded li
 
 By afternoon, the lamps still blinked, but the room moved with purpose.
 
-### Closing Scene
+### Active Ordered Kind
 
 Ms. Vale walked through the lanes and signed the response board.
 
@@ -79,3 +79,9 @@ Whiskers took it. "I hate that you are right."
 - Key distinction: helping fast is different from helping clearly.
 - Defensive habit: hold, report, warn, and recover through defined paths.
 - Season thread: the city gains the process needed to slow the Love Letter Plague.
+
+## Behind the Signal
+
+During the ILOVEYOU outbreak, organizations had to make fast operational choices: warn users, filter mail, disconnect or restrict systems, clean affected machines, and coordinate reports while messages kept arriving. The incident showed that email security is not only about blocking one message. It is also about having a response system that can absorb fear, volume, and uncertainty.
+
+Whiskers and Grimalkin's lanes turn that response work into choreography. Hold, report, warn, and recover are fictional desk paths, but they reflect the real-world need for ordered intake, containment, communication, and cleanup. The episode's historical bridge is simple: a flood of reports needs structure before helpful people can help well.

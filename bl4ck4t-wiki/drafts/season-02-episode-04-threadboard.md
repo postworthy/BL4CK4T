@@ -165,6 +165,12 @@ Above them, the red light faded to amber. The thread had left the lab.
 - Team skill: Byte builds a defensive tool that clarifies the record.
 - Season thread: the first external Civic Learning Grid point appears.
 
+## Behind the Signal
+
+One of the most compelling parts of The Cuckoo's Egg is the improvised evidence work. Stoll built and adapted logging so fleeting remote activity could become a timeline other people could understand. The drama came less from a chase scene than from paper, terminals, timestamps, and repeated attention.
+
+The Threadboard is the Script Kitties' version of that craft. It does not solve the case for them. It keeps evidence ordered without flattening uncertainty. By making the record visible, Byte gives Jinx a way to argue from evidence instead of instinct, which is exactly the discipline that made the historical investigation possible.
+
 ## Continuity Checks
 
 - Character consistency: Byte builds, Jinx protects evidence, Whiskers protects people, and their tension becomes useful.

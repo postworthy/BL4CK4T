@@ -85,3 +85,9 @@ Cipher exhaled only after Milo's saved draft reopened.
 - Key distinction: acting under bounded evidence differs from guessing without controls.
 - Defensive habit: limit scope, record the change, keep fallback paths, and prepare rollback before urgent repair.
 - Season thread: maintenance is part of trust.
+
+## Behind the Signal
+
+Real worm response rarely waits for perfect certainty. During Blaster and related outbreaks, defenders had to patch, isolate, block, communicate, clean, and monitor while systems were already unstable. The responsible path was not blind guessing; it was controlled action under enough evidence, with limits and recovery plans.
+
+Cipher's small-batch repair captures that pressure. She still has unknowns, but she also has verified source, a scoped test group, public notice, fallback paths, rollback, and a named owner. That is the difference between reckless change and emergency change with bounded responsibility.

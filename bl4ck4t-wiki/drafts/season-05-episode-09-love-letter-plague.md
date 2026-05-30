@@ -31,6 +31,12 @@ The Message Office closes the Glitter Letter incident by turning the team's resp
 - Defensive habit: Keep simple rules for unexpected, emotional, or mismatched messages.
 - Season thread: Empty receipts introduce the next availability story.
 
+## Behind the Signal
+
+ILOVEYOU changed email security because it made several lessons impossible to ignore at once: social lures matter, attachment handling matters, address-book automation matters, filtering matters, user warnings matter, and cybercrime law can lag behind technical harm. The event was not only a famous outbreak. It was a turning point in how everyday messaging became part of security practice.
+
+The season closes with Cybertropolis learning message habits rather than learning to fear messages. That matches the strongest historical lesson. Email and letters still matter; the city simply needs quarantine, verification, contact warnings, reporting culture, and recovery notes ready before the next beautiful message arrives. The blank receipt flood then shifts the series into the next kind of harm: nothing has to be stolen for everything to stop.
+
 ## Technical Texture Remediation
 
 - Public copy now adds outbound-queue checks, affected-file review, recovery notes, filter rules, and post-incident rulebook updates before closure.

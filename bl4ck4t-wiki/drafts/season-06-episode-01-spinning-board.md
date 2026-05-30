@@ -31,6 +31,12 @@ A clinic board hangs on `ANSWERING...` while people wait. Whiskers starts to rea
 - Defensive habit: report service impact clearly, including what still works.
 - Season thread: availability is part of trust.
 
+## Behind the Signal
+
+Season 6 is anchored in the 2007 cyberattacks against Estonia, a landmark case where the central public harm was availability. During a political crisis over the Bronze Soldier monument, Estonian government, media, banking, and other public-facing services were hit by denial-of-service pressure. The historical importance was not mass theft or permanent destruction. It was that a highly digital society suddenly had to ask what happens when public systems cannot reliably answer.
+
+The clinic board gives that national-scale idea a human first scene. The records still exist, the desk can still work by paper, and the board is still trying to answer. The harm lives in the waiting room. That is the Estonia lesson in miniature: when people depend on a digital service, delay and unreachability become real civic impact.
+
 ## Technical Texture Remediation
 
 - Public copy now frames the clinic board as a service endpoint with check-in requests aging past a response-time mark and adds Status Wall fields for affected endpoint, observed delay, workaround, and next check.

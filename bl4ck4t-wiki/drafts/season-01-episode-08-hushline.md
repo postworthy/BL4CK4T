@@ -152,6 +152,12 @@ No one corrected him.
 - Team skill: Cipher explains the model, Byte builds it, and Whiskers coordinates the map of old cabinets.
 - Season thread: the finale will turn the Echo Grid lesson into a public listening exhibit and reveal a tiny Season 2 clue.
 
+## Behind the Signal
+
+The long-term technical answer to blue-box-style abuse was architectural separation. As telephone systems moved toward common-channel and out-of-band signaling, the control language no longer traveled in the same user-audible path in the same way. That did not erase every telephone-security problem, but it did address the class of weakness that made blue boxing possible.
+
+The Hushline gives Cybertropolis the same kind of design lesson. The point is not that every old cabinet was foolish; the old design came from older assumptions. The repair is to separate what people can say from what can change the system's behavior. Cipher's model turns the season's mystery into a principle: control paths deserve stronger boundaries than message paths.
+
 ## Continuity Checks
 
 - Character consistency: Cipher leads the explanation; Byte builds; Whiskers coordinates; Pixel preserves wonder; Jinx checks evidence.

@@ -31,6 +31,12 @@ Byte, Grimalkin, and Whiskers build priority lanes and fallback desks. The episo
 - Defensive habit: define critical services, fallback procedures, and review points before a crisis.
 - Season thread: availability is part of trust.
 
+## Behind the Signal
+
+The Estonia response was full of triage: banks, media, government services, DNS, ISPs, public information, and international access could not all be treated as identical during the attack waves. Defenders had to decide which services needed protection first, what could be temporarily limited, how to keep domestic users connected, and when to review those choices.
+
+Priority Lanes turns that civic triage into a line people can see. The episode is not saying some people matter and others do not. It is showing that continuity planning needs stated priorities, visible reasons, fallback owners, and review points. That is how a city keeps essential services answering without pretending delayed services have been forgotten.
+
 ## Technical Texture Remediation
 
 - Public copy now adds rate limit, fallback owner, escalation point, queue-depth review, critical-lane review, and bell-based review thresholds.

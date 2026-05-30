@@ -26,7 +26,7 @@ Whiskers did not let the room enjoy the name.
 
 "Evidence first."
 
-### The Drop
+### The Neat Ribbon
 
 BL4CK4T's card slid from under the ribbon.
 
@@ -36,7 +36,7 @@ Jinx placed the card beside the Chase Map drawer from Season 4.
 
 "Same habit," she said. "Different case."
 
-### The Lesson Begins
+### A Signature Is A Clue
 
 The Phishmonger's style was everywhere once they knew how to look: urgency hidden in sweetness, almost-official routing marks, a promise that made waiting feel rude.
 
@@ -50,7 +50,7 @@ Byte pointed to the bloom map. "The spread did most of the damage after the lure
 
 "Then we stop both," Whiskers said.
 
-### Trial And Error
+### The Final Public Update
 
 The team prepared the final public update.
 
@@ -66,7 +66,7 @@ Jinx added one more line.
 
 `You are not in trouble for trusting someone. Help us stop the letter.`
 
-### Closing Scene
+### Villain Later Harm Now
 
 At dusk, the ribbon curled in the Quarantine Tray like a sleeping question.
 
@@ -83,3 +83,9 @@ Cipher nodded. "Villain later. Harm now."
 - Key distinction: a villain mark can guide a case without replacing evidence.
 - Defensive habit: focus response on stopping harm before chasing spectacle.
 - Season thread: the lure-maker pattern is visible, but the city still has to finish containment.
+
+## Behind the Signal
+
+The real ILOVEYOU aftermath included investigation, suspected origin stories, legal complications, and later arguments about motive and responsibility. Those details matter, but the first responder priorities were still immediate: stop spread, warn users, preserve evidence, and recover affected systems. Attribution is important, but it cannot replace containment.
+
+The Phishmonger's ribbon gives the team a likely lure-maker pattern without letting the villain become the whole episode. Jinx and Cipher keep the confidence level visible because history asks for the same discipline. A signature is a clue, not permission to stop doing the slower work of evidence and harm reduction.

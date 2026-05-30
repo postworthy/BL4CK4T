@@ -42,7 +42,7 @@ Jinx wrote each phrase on a card and laid them in front of Grimalkin.
 
 "No," Grimalkin said. "And using them as if they do makes people make bad choices."
 
-### The Drop
+### Name The State
 
 A black ticket slid from the number dispenser.
 
@@ -64,7 +64,7 @@ Pixel pointed at the clinic forms moving on the side rail. "Those are available?
 
 The clerk at Window 12 read the cards and looked relieved enough to sit down.
 
-### Trial And Error
+### Following Tokens
 
 For the next hour, Jinx followed tokens.
 
@@ -76,7 +76,7 @@ Grimalkin helped the clerks change their signs: `DELAYED. TRY STAFFED DESK.`, `U
 
 The signs did not make the lines vanish. They made the lines less confused.
 
-### Closing Scene
+### The Gray Tokens
 
 Whiskers arrived with the first Status Wall board under one arm.
 
@@ -99,3 +99,9 @@ Grimalkin nodded toward the growing wall of labels. "Then now we know what to ca
 - Key distinction: degraded is not the same as down.
 - Defensive habit: describe impact precisely so people know what to do next.
 - Season thread: availability is part of trust.
+
+## Behind the Signal
+
+Historical accounts of Estonia in 2007 do not support a simple story where every digital service stopped at once. The better picture is varied: some systems degraded, some became unreachable to some users, some stayed available through defensive measures, and some organizations used temporary limits to preserve service for the people who needed it most. Precision matters because "down" and "degraded" lead to different decisions.
+
+The Queue District turns that nuance into vocabulary the city can use. A token that arrives slowly, takes the wrong path, or works only through a staffed desk is not the same as a dead service. Jinx and Grimalkin's labels mirror the historical defender problem: people need clear service states before they can choose the next safe action.

@@ -22,7 +22,7 @@ They also checked the outbound queue, affected-file review slips, recovery notes
 
 Jinx checked them all. "No new bloom," she said, and then the room cheered.
 
-### The Drop
+### The Last Letter Dims
 
 BL4CK4T's final Season 5 card arrived in the clean tray.
 
@@ -30,7 +30,7 @@ BL4CK4T's final Season 5 card arrived in the clean tray.
 
 Whiskers pinned it beside the warning that had worked.
 
-### The Lesson Begins
+### Rules That Still Like Letters
 
 The new Message Office rules fit on one page:
 
@@ -46,7 +46,7 @@ Pixel read the list and nodded. "This still lets people like letters."
 
 "Good," Jinx said. "The point was never to hate mail."
 
-### Trial And Error
+### What The City Keeps
 
 Cipher filed the hidden-ending cards. Byte saved the harmless display model. Grimalkin rolled up the lane tape but left the marks on the floor. Shadow checked the delivery ribbons one last time.
 
@@ -56,7 +56,7 @@ Ms. Vale signed the closure form.
 
 `Glitter Letter incident. Contained. Reporting improved. Message culture changed.`
 
-### Closing Scene
+### Blank Receipts
 
 At sunset, every Message Office lamp blinked at once.
 
@@ -83,3 +83,9 @@ BL4CK4T's pawprint appeared on the blank paper.
 - Key distinction: stopping one incident does not mean every future message path is safe.
 - Defensive habit: keep clear reporting, quarantine, verification, and contact warnings ready.
 - Season thread: Season 5 closes the Love Letter Plague and opens Season 6's traffic-siege clue.
+
+## Behind the Signal
+
+ILOVEYOU changed email security because it made several lessons impossible to ignore at once: social lures matter, attachment handling matters, address-book automation matters, filtering matters, user warnings matter, and cybercrime law can lag behind technical harm. The event was not only a famous outbreak. It was a turning point in how everyday messaging became part of security practice.
+
+The season closes with Cybertropolis learning message habits rather than learning to fear messages. That matches the strongest historical lesson. Email and letters still matter; the city simply needs quarantine, verification, contact warnings, reporting culture, and recovery notes ready before the next beautiful message arrives. The blank receipt flood then shifts the series into the next kind of harm: nothing has to be stolen for everything to stop.

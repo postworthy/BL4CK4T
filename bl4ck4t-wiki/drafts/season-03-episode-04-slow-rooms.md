@@ -40,6 +40,12 @@ The sprite copies do not destroy rooms, yet they stall queues, printers, and cla
 - Key concept: impact can appear as delay, downtime, and diverted work.
 - Defensive habit: name affected users and scope before cleanup.
 
+## Behind the Signal
+
+The Morris Worm is often remembered as a non-destructive incident, but non-destructive does not mean harmless. Contemporary and later accounts describe machines slowing, systems halting, administrators disconnecting networks, and people spending emergency time trying to understand and recover. The work stopped even where files survived, and that distinction is one reason the event changed how people thought about network risk.
+
+The slow rooms translate that history into a human-scale classroom problem. A frozen lesson card and waiting students make resource exhaustion and downtime feel concrete without technical overload. The episode's point is the same one defenders learned in 1988: impact can look like delay, lost time, unavailable tools, and people pulled away from ordinary work.
+
 ## Continuity Checks
 
 - Character consistency: Shadow notices small physical clues; Whiskers protects people.

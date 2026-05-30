@@ -28,7 +28,7 @@ The Rebels were not a crew so much as a crowd with recurring arguments. Some wor
 
 Whiskers stopped at the edge of the gathering. "We listen first." Pixel looked pleased until Whiskers added, "To them. Not the grid."
 
-### The Drop
+### The Row Pushes Back
 
 A Rebel with a chipped red scooter stood on a crate and pointed at the billboard.
 
@@ -50,7 +50,7 @@ Whiskers folded his arms. "BL4CK4T is not making this easier."
 
 "BL4CK4T rarely does," Cipher said.
 
-### The Lesson Begins
+### Rules Under The Wires
 
 The speaker's name was Rook, and she did not trust the Script Kitties at first.
 
@@ -78,7 +78,7 @@ The wrong notice lasted only twelve seconds before correcting itself, but twelve
 
 The Row Rebels laughed at first, until the pastry cart owner stared at the crushed box of moon cakes on the ground. The laughter thinned.
 
-### Trial and Error
+### Rebels With Reasons
 
 Jinx was already moving. She photographed the kiosk, the transit board, the billboard, and the Rebels nearest the pole. Shadow followed the cable path with his eyes and stopped at a sticker on the base of the kiosk.
 
@@ -108,7 +108,7 @@ Pixel looked at the wrong transit notice, now corrected and ordinary. "The city 
 
 Jinx closed her notebook. "Good. Remember that when the next sign blinks."
 
-### Closing Scene
+### The Line They Do Not Cross
 
 By sunset, the Row Rebels had split into smaller knots. Some argued with Rook. Some peeled crown-mark stickers off kiosks. Some left with their charms tucked out of sight.
 
@@ -139,3 +139,9 @@ Whiskers saw it too.
 - Key distinction: intent explains why someone acted; impact shows what the action did.
 - Defensive habit: Jinx and Shadow collect evidence while Whiskers keeps the team from flattening the Rebels into villains.
 - Season thread: the crowned mark points toward a louder copycat and the coming Tonebox problem.
+
+## Behind the Signal
+
+Historical phone phreaking mixed motives that do not fit neatly into hero or villain boxes. Some phreaks were curious explorers. Some were pranksters. Some committed toll fraud. Some treated the Bell System as a monopoly to be challenged, and publications such as YIPL and TAP tied telephone manipulation to countercultural politics and anti-establishment critique.
+
+The Row Rebels carry that moral complexity into Signal Row. Whiskers refuses to treat motive as a shortcut for judgment, because curiosity and protest can still create harm when they touch public infrastructure. The episode keeps the historical ambiguity alive: understanding why someone acted can help the investigation, but impact still has to be measured.

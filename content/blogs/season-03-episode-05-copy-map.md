@@ -22,7 +22,7 @@ Cipher divided the board into four columns: confirmed rooms, likely paths, ruled
 
 Jinx added three small fields to every card: timestamp, copy count, and room state. A room did not become confirmed just because a screen showed a marker. It needed a matching count, a matching time, and a physical check from Shadow or a caretaker.
 
-### The Drop
+### Arrows Without Proof
 
 BL4CK4T's message appeared on the cleanest part of the board: `MAP THE COPIES. SKIP THE BLAME.`
 
@@ -30,7 +30,7 @@ Byte flinched at the last word. Whiskers noticed and spoke before anyone else co
 
 Byte nodded once, and the team started again.
 
-### The Lesson Begins
+### Blue Yellow Gray White
 
 Confirmed rooms got blue cards. Likely paths got yellow cards. Ruled-out paths got gray cards. Unknowns stayed white.
 
@@ -42,7 +42,7 @@ Jinx moved the arrow, and Pixel stared at the gray-card column. "I hate how usef
 
 "Wrong and recorded is useful," Jinx said.
 
-### Trial And Error
+### The Map Becomes Honest
 
 By afternoon, the copy map showed a narrow route into the lower hall. It also showed three paths the team had stopped worrying about.
 
@@ -61,3 +61,9 @@ The copy map did not solve the incident. It made the next move honest.
 - Key distinction: confirmed paths, likely paths, ruled-out paths, and unknowns are different.
 - Defensive habit: separate confirmed facts, likely paths, ruled-out ideas, and unknowns.
 - Season thread: the copy map gives Grimalkin enough structure to coordinate response.
+
+## Behind the Signal
+
+During the Morris Worm response, defenders had to piece together what was happening while the network itself was impaired. Technical analysis, site reports, postmortems, and later legal findings helped clarify the sequence, but early responders did not begin with a neat complete picture. They had symptoms, fragments, overloaded systems, and the urgent need to separate what was known from what was guessed.
+
+Jinx and Cipher's copy map is the BL4CK4T version of that work. The colored cards are not decorative; they protect the team from turning fear into false certainty. Confirmed rooms, likely paths, ruled-out ideas, and unknowns let the response move faster because the evidence is cleaner.

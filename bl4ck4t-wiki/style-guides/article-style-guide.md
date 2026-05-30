@@ -42,11 +42,15 @@ Write for curious teens, teachers, and adult readers who may be new to cybersecu
 1. Frontmatter matching the existing Astro blog schema.
 2. Title with story flavor.
 3. Opening scene in Cybertropolis or a related location.
-4. `The Drop` section with BL4CK4T's prompt.
-5. `The Lesson Begins` section for first explanation.
-6. `Trial and Error` section for team exploration.
-7. `Closing Scene` section with reflection and final BL4CK4T message.
-8. Required `Teaching Tie-In` for season episodes.
+4. Bespoke narrative `###` sections that match the episode's actual scene turns.
+5. A BL4CK4T prompt/drop moment, titled in language specific to that episode rather than the generic `The Drop`.
+6. A first-explanation section, titled around the episode's concrete artifact, location, or pressure point rather than the generic `The Lesson Begins`.
+7. A team exploration or complication section, titled around what changes in that episode rather than the generic `Trial and Error`.
+8. When the episode needs a final story section, use a bespoke reflective title rather than the generic `Closing Scene`.
+9. Required `Teaching Tie-In` for season episodes.
+10. Optional but recommended `Behind the Signal` narrative companion for historically anchored season episodes.
+
+Do not use formulaic in-story section titles such as `The Drop`, `The Lesson Begins`, `Trial and Error`, or `Closing Scene` in final public season episodes unless a season production bible explicitly approves the exception. The story rhythm can remain familiar, but the visible headings should feel like chapter cards from that specific episode.
 
 ## Teaching Tie-In Format
 
@@ -63,6 +67,12 @@ Every public season episode must end with this exact five-bullet structure:
 ```
 
 Use `pnpm wiki:check` to enforce this structure for `content/blogs/season-*-episode-*.md`.
+
+## Behind The Signal Format
+
+Historically anchored public season episodes may include a `Behind the Signal` section immediately after the Teaching Tie-In. This section explains the story behind the story in clear narrative prose. It should not use numbered lists or worksheet-style bullets.
+
+Write this section like a short documentary companion note: two to four compact paragraphs that name the real historical anchor, explain the safe high-level mechanism or human context, and describe how the episode transformed that history into BL4CK4T-world story material. Keep operationally harmful details out by omission. The purpose is to reward curiosity, not interrupt the fiction or replace the historical account.
 
 ## Publication Rule
 

@@ -181,6 +181,12 @@ Crunch Charm. Crunch Charm. Crunch Charm.
 - Team skill: Jinx maps the rumor path while Cipher separates poetic claims from technical ones.
 - Season thread: the zine mutates into the Crunch Charm myth.
 
+## Behind the Signal
+
+The blue-box era became public in large part because technical knowledge escaped its original context. Bell System engineering papers and insider details were written for legitimate telephone work, but curious readers learned which pieces mattered. Ron Rosenbaum's 1971 Esquire article then gave a wider public a vivid story about phone phreaks, blue boxes, and the strange culture around the telephone network.
+
+The Little Blue Pawprint plays that role inside Cybertropolis. It is not a manual, and it does not give the full truth, but it makes the Echo Grid feel like something anyone might chase. The episode is about the danger of partial knowledge with momentum. Once a hidden system becomes a story people want to join, interpretation becomes part of the incident.
+
 ## Continuity Checks
 
 - Character consistency: Jinx tracks rumor spread; Whiskers tries to stay ahead of the crowd; Pixel feels the pull of shared curiosity; Cipher separates mood from claims; Shadow notices the new charm shape.

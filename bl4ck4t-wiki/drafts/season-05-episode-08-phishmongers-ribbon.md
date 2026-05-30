@@ -31,6 +31,12 @@ Jinx and Cipher find the Phishmonger's ribbon pattern behind the Glitter Letter 
 - Defensive habit: Classify lure features without jumping past proof.
 - Season thread: The team understands the lure while still closing the spread.
 
+## Behind the Signal
+
+The real ILOVEYOU aftermath included investigation, suspected origin stories, legal complications, and later arguments about motive and responsibility. Those details matter, but the first responder priorities were still immediate: stop spread, warn users, preserve evidence, and recover affected systems. Attribution is important, but it cannot replace containment.
+
+The Phishmonger's ribbon gives the team a likely lure-maker pattern without letting the villain become the whole episode. Jinx and Cipher keep the confidence level visible because history asks for the same discipline. A signature is a clue, not permission to stop doing the slower work of evidence and harm reduction.
+
 ## Technical Texture Remediation
 
 - Public copy now documents the ribbon pattern with source, timing, lure traits, recipient overlap, and confidence fields.

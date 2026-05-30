@@ -32,7 +32,7 @@ Pixel looked around at the humming terminals. "That sounds rude."
 
 Jinx pointed her pencil at him. "That is the first helpful thing anyone has said all morning."
 
-### The Drop
+### Inside The Ledger Lab
 
 They started with a blank map.
 
@@ -68,7 +68,7 @@ Byte pulled the summary feed onto the viewing screen. Most corrections matched t
 
 Same value. Same project. Different label.
 
-### The Lesson Begins
+### Rows That Remember
 
 Pixel leaned close to the screen. "Yesterday it said adjustment. Now it says storage-credit adjustment."
 
@@ -96,7 +96,7 @@ The team spent the next hour comparing public summaries with the resource board'
 
 Only Project Orchard kept tugging at the same red thread.
 
-### Trial and Error
+### The Record Talks Back
 
 At 3:17 p.m., the board clicked.
 
@@ -132,7 +132,7 @@ Byte moved the new red card onto the map. Three `-0.75` entries formed a small c
 
 That was when the Ledger Lab felt different. The rules on the walls, the counters, the scraps of paper, the old terminals, the queue tickets: all of it had been background. Now the whole room seemed to be remembering something in pieces.
 
-### Closing Scene
+### A Lab Learns To Listen
 
 At closing time, Ms. Vale gave them permission to photograph the public map they had built on the side board. No private names. No account details. Only categories, times, and the strange repeated amount.
 
@@ -159,3 +159,9 @@ Instead, Jinx looked at the blank space where the mismatch might have been and w
 - Key distinction: a log is evidence, but it still needs context.
 - Defensive habit: Byte maps normal events so Jinx can compare the repeated anomaly.
 - Season thread: Project Orchard becomes the first repeated subject tied to `-0.75`.
+
+## Behind the Signal
+
+The real Cuckoo's Egg investigation depended on ordinary system records becoming security evidence. Shared research computers kept accounting data because machine time had value. That meant a usage mismatch could be more than bookkeeping noise if someone understood what normal activity looked like first.
+
+The Ledger Lab turns that idea into a classroom of resource boards, project labels, and baseline behavior. Byte's work is not glamorous, but it is essential: before Jinx can call something abnormal, the team has to understand normal. The historical lesson underneath the scene is that logs do not speak by themselves. Defenders give them meaning by comparing them carefully.

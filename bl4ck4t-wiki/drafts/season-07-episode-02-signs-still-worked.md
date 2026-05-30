@@ -27,6 +27,12 @@ Final public story text lives in the promoted content file. The draft was review
 - Defensive habit: pair urgent repairs with testing, communication, and rollback planning.
 - Season thread: maintenance is part of trust.
 
+## Behind the Signal
+
+The MSBlaster era should not be flattened into "everyone should have patched faster." Administrators had real constraints: testing, compatibility, inventory, remote users, limited staffing, and fear that an urgent change could break production systems. The patch-debt story is stronger when it admits that maintenance can carry risk.
+
+The Red Clerk gives that fear a human face. His old winter repair record explains caution, but it does not justify endless delay. The historical bridge is the same one defenders faced in 2003: a bad repair experience should produce better testing, rollback, and ownership, not a drawer where known risk waits without a decision.
+
 ## Technical Texture Remediation
 
 - Public copy now adds missing test group, change window, rollback note, risk owner, inventory, and owner checklist details.

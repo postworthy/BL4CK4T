@@ -172,6 +172,12 @@ Jinx looked back at the Bureau. Inside, the case stub crossed the desks with the
 - Team skill: Whiskers translates the case without weakening it.
 - Season thread: the Glass Bureau opens a shared case stub.
 
+## Behind the Signal
+
+The Cuckoo's Egg unfolded in a period when computer-intrusion response did not have clean ownership. A small accounting problem could become a lab issue, a network issue, a law-enforcement issue, and an international issue before anyone had a mature playbook for what to do next. The friction was part of the history.
+
+The Glass Bureau scene brings that institutional uncertainty into Cybertropolis. Whiskers has to translate the case without exaggerating it, because a weak report disappears and an overstated report loses trust. The historical echo is clear: defenders often have to make other institutions care before the full shape of the problem is known.
+
 ## Continuity Checks
 
 - Character consistency: Jinx feels friction and adapts; Whiskers leads through clarity; Grimalkin maps ownership.

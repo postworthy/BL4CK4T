@@ -42,7 +42,7 @@ Shadow pointed. "It answered."
 
 Nobody spoke for a moment. The tone came a third time, and the beacon blinked again.
 
-### The Drop
+### The Room Starts Singing
 
 The billboard above them cracked to life.
 
@@ -74,7 +74,7 @@ Shadow nodded toward the alley behind the relay box. A metal cabinet sat there u
 
 "Some old things stay plugged in," Shadow said.
 
-### The Lesson Begins
+### A Pawprint In The Static
 
 The Hideout archive wall had a habit of producing exactly the wrong document first.
 
@@ -118,7 +118,7 @@ Jinx crossed her arms. "That is messy."
 
 "Both can be true," Whiskers said.
 
-### Trial and Error
+### Tone Trails
 
 Byte flipped the switch. The first bulb glowed green. "Message enters," he said.
 
@@ -164,7 +164,7 @@ Whiskers looked toward the window, where the district's far towers blinked again
 
 "Then we find out what stop means."
 
-### Closing Scene
+### The Split Door
 
 Signal Row slept under a low silver haze. The old relay beacon across the district blinked once, then again, then held dark.
 
@@ -181,3 +181,9 @@ A small blue pawprint sat under the grime. It was not BL4CK4T's mark. It was old
 - Key distinction: a message carries meaning; a command changes what a system does.
 - Defensive habit: the Script Kitties begin with observation, diagrams, and a disconnected model.
 - Season thread: the Echo Grid mystery has started, but the team does not yet know who else has been listening.
+
+## Behind the Signal
+
+Season 1 begins with the real history of phone phreaking and the blue-box era, when curious outsiders learned that older long-distance telephone systems had a hidden language of tones. In those systems, some control signals traveled in the same audible path as ordinary voice. That design made sense for its time, but it also meant the network's control language could leak into the user-facing experience.
+
+Signal Row turns that history into a city district where music, signs, and routing instructions once shared the same old stream. Pixel's first act is not to exploit the tone. He listens, records, and helps the team build a disconnected model. That choice keeps the wonder of discovery while preserving the deeper lesson: finding a hidden rule is the beginning of responsibility, not permission.
