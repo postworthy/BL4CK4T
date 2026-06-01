@@ -147,6 +147,7 @@ On the simulator, the ninth marker blinked once more before the screen went dark
 - Key distinction: closing a case does not mean every risk in the city is gone.
 - Defensive habit: the Script Kitties turn lessons into practice before the next mystery arrives.
 - Season thread: Jinx's investigator arc closes and the Season 3 copying-process clue appears.
+- Field Guide habit: [Improve the city after the case](/field-guide).
 
 ## Behind the Signal
 

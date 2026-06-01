@@ -1,0 +1,60 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Anchor from "../components/common/Anchor.astro";
+import Section from "../components/common/Section.astro";
+import { getConfigurationCollection } from "../lib/utils";
+
+const { data: config } = await getConfigurationCollection();
+
+const modules = [
+  ["Report Without Shame", "Season 5 module for phishing, trusted-sender abuse, and reporting culture."],
+  ["Silence Is Not A Fourth Option", "Season 7 module for patch debt, verified repair, rollback, and risk acceptance."],
+  ["Availability Is Trust", "Season 6 module for service dependency, public status, fallback lanes, and honest uncertainty."],
+];
+---
+
+<Layout>
+  <Fragment slot="head">
+    <title>{`BL4CK4T University • ${config.personal.name}`}</title>
+    <meta name="description" content="BL4CK4T University turns Cybertropolis stories into memorable cybersecurity awareness, culture, and tabletop training." />
+    <meta property="og:title" content={`BL4CK4T University • ${config.personal.name}`} />
+    <meta property="og:description" content="Story-driven cybersecurity training people actually remember." />
+    <meta property="og:url" content={`${config.site.baseUrl}/university`} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href={`${config.site.baseUrl}/university`} />
+  </Fragment>
+  <Section class="pt-12">
+    <div class="flex flex-col gap-5">
+      <p class="zag-muted font-mono">Enterprise and structured learning</p>
+      <h1 class="font-display text-3xl sm:text-4xl leading-normal">
+        Security awareness through story, habit, and choice.
+      </h1>
+      <p class="text-lg">
+        BL4CK4T University turns the canon into training for reporting culture, evidence discipline, patch ownership, availability, and responsible repair.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4">
+        <Anchor url="/newsletter">Request pilot updates</Anchor>
+        <Anchor url="/seasons/season-05-the-love-letter-plague">Read the pilot case</Anchor>
+      </div>
+    </div>
+  </Section>
+  <Section>
+    <h2 class="font-display text-xl leading-loose mb-6">Pilot Modules</h2>
+    <div class="grid gap-4">
+      {modules.map(([title, text]) => (
+        <article class="zag-border-b border-t-2 border-current p-4">
+          <h3 class="font-display text-base leading-relaxed mb-3">{title}</h3>
+          <p class="zag-muted">{text}</p>
+        </article>
+      ))}
+    </div>
+  </Section>
+  <Section>
+    <div class="zag-border-b border-t-2 border-current p-4">
+      <h2 class="font-display text-xl leading-loose mb-4">Enterprise promise</h2>
+      <p class="zag-muted">
+        Compliance should form memory and judgment, not just produce completion records. BL4CK4T modules are designed to make security habits easier to remember under pressure.
+      </p>
+    </div>
+  </Section>
+</Layout>

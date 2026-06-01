@@ -71,6 +71,7 @@ Because they did.
 - Key distinction: bounded action is not the same as reckless action.
 - Defensive habit: define scope, evidence, owner approval, rollback, and verification before emergency change.
 - Season thread: maintenance is part of trust.
+- Field Guide habit: [Recover with consent and care](/field-guide).
 
 ## Behind the Signal
 

@@ -171,6 +171,7 @@ On the simulator, the ninth marker blinked once more before the screen went dark
 - Concept: incident aftermath and anomaly reporting.
 - Story idea: a good investigation changes how future clues are handled.
 - Key distinction: closing a case does not mean every risk in the city is gone.
+- Field Guide habit: Improve the city after the case. Public link: `/field-guide`.
 - Team skill: the Script Kitties turn lessons into practice before the next mystery arrives.
 - Season thread: Jinx's investigator arc closes and the Season 3 copying-process clue appears.
 

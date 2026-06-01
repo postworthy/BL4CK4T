@@ -71,6 +71,7 @@ Only then did Grimalkin write `contained` on the board, then circled it once.
 - Key distinction: coordination is active work, not a delay before action.
 - Defensive habit: assign lanes so helpers do not create more confusion.
 - Season thread: Grimalkin's temporary bell desk becomes the seed of a permanent city practice.
+- Field Guide habit: [Report early, kindly, and clearly](/field-guide).
 
 ## Behind the Signal
 

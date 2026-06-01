@@ -81,6 +81,7 @@ The Copycat Sprite glowed on six screens, cute as a sticker and heavy as a traff
 - Key distinction: an incident can harm people without destroying files.
 - Defensive habit: name affected users and scope before cleanup.
 - Season thread: the Copycat Sprite becomes a city response problem.
+- Field Guide habit: [Know what you protect](/field-guide).
 
 ## Behind the Signal
 

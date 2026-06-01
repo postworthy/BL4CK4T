@@ -71,6 +71,7 @@ Pixel looked at the red card again. It no longer looked small.
 - Key distinction: an unknown weakness and a known unfixed weakness create different responsibilities.
 - Defensive habit: track known fixes until they are patched, isolated, or openly risk-accepted.
 - Season thread: maintenance is part of trust.
+- Field Guide habit: [Know what you protect](/field-guide).
 
 ## Behind the Signal
 

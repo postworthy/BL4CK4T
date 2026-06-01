@@ -28,6 +28,7 @@ Byte, Grimalkin, and Whiskers build priority lanes and fallback desks. The episo
 - Concept: triage and continuity planning.
 - Story idea: the team keeps essential services moving through priority lanes and fallback desks.
 - Key distinction: prioritizing is not ignoring everyone else.
+- Field Guide habit: Know what you protect. Public link: `/field-guide`.
 - Defensive habit: define critical services, fallback procedures, and review points before a crisis.
 - Season thread: availability is part of trust.
 

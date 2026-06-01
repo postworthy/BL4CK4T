@@ -154,6 +154,7 @@ Jinx was already opening her notebook to a clean page.
 - Concept: hidden systems, separated paths, and careful investigation.
 - Story idea: the Script Kitties turn the Echo Grid mystery into an exhibit, then discover a tiny discrepancy that points toward a new kind of case.
 - Key distinction: Season 1 focused on signals and architecture; Season 2 begins with evidence and accounting.
+- Field Guide habit: Improve the city after the case. Public link: `/field-guide`.
 - Team skill: Pixel explains, Cipher clarifies, Byte builds, Jinx notices the anomaly, Shadow confirms the small clue, and Whiskers closes the arc.
 - Season thread: the `-0.75` discrepancy sets up the next season's detective story.
 

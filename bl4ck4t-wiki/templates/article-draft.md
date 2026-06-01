@@ -42,6 +42,7 @@ timestamp: YYYY-MM-DDT00:00:00+00:00
 - Key distinction:
 - Defensive habit:
 - Season thread:
+- Field Guide habit: Habit Name. Public link: `/field-guide`.
 
 ## Continuity Checks
 

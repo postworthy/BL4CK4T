@@ -28,6 +28,7 @@ An outside reader cannot reach a legitimate school notice while local services r
 - Concept: resilience under constrained access.
 - Story idea: narrowing a gate protects some services while creating new access problems.
 - Key distinction: outside is not the same as hostile.
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
 - Defensive habit: explain temporary limits, provide help paths, and review restrictions often.
 - Season thread: availability is part of trust.
 

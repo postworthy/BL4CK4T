@@ -24,6 +24,8 @@ A message repeats Ms. Vale's phrase in the wrong context. Byte and Cipher compar
 
 ## Teaching Tie-In
 
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
+
 Familiar words do not prove a familiar sender.
 
 ## Behind the Signal

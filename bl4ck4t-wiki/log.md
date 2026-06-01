@@ -2,6 +2,105 @@
 
 Append-only chronological record of wiki operations.
 
+## [2026-06-01] publish | Add Field Guide tie-ins to public seasons and episodes
+
+Added a linked `Field Guide habit:` line to every public Season 1-7 episode Teaching Tie-In so each episode can route readers toward `/field-guide` while naming the standards-backed habit it teaches. Added primary Field Guide tie-ins to public season pages and corresponding wiki season pages. Updated the article and mission templates so future episode work includes Field Guide habit and standards-root planning by default.
+
+Touched areas:
+
+- `content/blogs/season-*-episode-*.md`
+- `content/seasons/season-*.md`
+- `bl4ck4t-wiki/drafts/season-*-episode-*.md`
+- `bl4ck4t-wiki/seasons/season-*.md`
+- [templates/article-draft.md](templates/article-draft.md)
+- [templates/mission.md](templates/mission.md)
+- [style-guides/story-draft-checklist.md](style-guides/story-draft-checklist.md)
+- [reports/field-guide-habit-alignment-audit-2026-06-01.md](reports/field-guide-habit-alignment-audit-2026-06-01.md)
+- [log.md](log.md)
+
+## [2026-06-01] maintenance | Audit public seasons against Field Guide habits
+
+Added a Field Guide Habit Alignment Audit for published Seasons 1-7. The audit maps each season and episode range to the standards-backed Field Guide habits, identifies existing alignment strengths, and recommends a future public-copy consistency pass that adds explicit `Field Guide habit:` lines to Teaching Tie-Ins without making the fiction sound like compliance material.
+
+Touched areas:
+
+- [reports/field-guide-habit-alignment-audit-2026-06-01.md](reports/field-guide-habit-alignment-audit-2026-06-01.md)
+- [log.md](log.md)
+
+## [2026-06-01] maintenance | Refine primary navigation
+
+Adjusted the shared site menu so the header and footer both use the same top-level navigation: Home, Seasons, Field Guide, Projects, and Blog. Kept `/start-here` as a campaign landing page and homepage CTA destination rather than a persistent top-nav item. Removed Classroom, Store, and University from the primary menu until those surfaces are ready for stronger public positioning.
+
+Touched areas:
+
+- `content/configuration.toml`
+- `src/content.config.ts`
+- `src/components/Header.astro`
+- `src/components/Footer.astro`
+- [log.md](log.md)
+
+## [2026-06-01] canon | Require standards alignment reminders for future products
+
+Expanded the Cyber Habit Standards Alignment canon page into a standing production reminder: public stories should keep BL4CK4T's approachable voice, while classroom, product, and University derivatives should include explicit standards-alignment notes. Updated the story draft checklist and business model so future content can preserve the two-layer model: Cybertropolis for learners, standards alignment for educators and enterprise buyers.
+
+Touched areas:
+
+- [canon/cyber-habit-standards-alignment.md](canon/cyber-habit-standards-alignment.md)
+- [style-guides/story-draft-checklist.md](style-guides/story-draft-checklist.md)
+- [business/business-model.md](business/business-model.md)
+- [log.md](log.md)
+
+## [2026-06-01] canon | Align Field Guide habits to industry standards
+
+Created a canon standards-alignment page mapping the BL4CK4T Field Guide habits to NIST Cybersecurity Framework 2.0, NIST SP 800-61 incident response, CISA Cybersecurity Performance Goals, and CIS Controls v8. Reworked the public and business-facing habit language so the habits encourage industry-standard thinking in a friendly Script Kitties voice.
+
+The updated habits are: know what you protect, guard the trusted paths, watch for strange signals, keep evidence before story, report early kindly and clearly, recover with consent and care, and improve the city after the case.
+
+Touched areas:
+
+- [canon/cyber-habit-standards-alignment.md](canon/cyber-habit-standards-alignment.md)
+- [business/audience-funnel.md](business/audience-funnel.md)
+- [business/social-media-operating-system.md](business/social-media-operating-system.md)
+- [index.md](index.md)
+- `src/pages/field-guide.astro`
+- `src/pages/store.astro`
+- [log.md](log.md)
+
+## [2026-06-01] maintenance | Refine Field Guide habits
+
+Reworked the Field Guide's seven habits from slogan-only principles into action-oriented defender habits: pause before touching, separate evidence from story, map impact, report early without shame, say what is known, repair through trusted paths, and leave the city stronger. Updated the public Field Guide page, store product language, business funnel, and social media operating system so the habit language is consistent across marketing and monetization surfaces.
+
+Touched areas:
+
+- [business/audience-funnel.md](business/audience-funnel.md)
+- [business/social-media-operating-system.md](business/social-media-operating-system.md)
+- `src/pages/field-guide.astro`
+- `src/pages/store.astro`
+- [log.md](log.md)
+
+## [2026-06-01] maintenance | Add business model and audience-capture site layer
+
+Added a business operating layer under `bl4ck4t-wiki/business/` covering the monetization model, social media operating system, product roadmap, audience funnel, and metrics dashboard. Added public site routes for Start Here, Field Guide, Classroom, Store, Newsletter, and BL4CK4T University so social campaigns have clear audience-capture destinations.
+
+Preserved the ad-free blog reading model and added a small article-level Field Guide CTA. Updated navigation so the site can now route readers toward public canon, owned-audience capture, classroom usage, product waitlists, and enterprise pilot interest.
+
+Touched areas:
+
+- [business/business-model.md](business/business-model.md)
+- [business/social-media-operating-system.md](business/social-media-operating-system.md)
+- [business/product-roadmap.md](business/product-roadmap.md)
+- [business/audience-funnel.md](business/audience-funnel.md)
+- [business/metrics-dashboard-spec.md](business/metrics-dashboard-spec.md)
+- [index.md](index.md)
+- `src/pages/start-here.astro`
+- `src/pages/field-guide.astro`
+- `src/pages/classroom.astro`
+- `src/pages/store.astro`
+- `src/pages/newsletter.astro`
+- `src/pages/university.astro`
+- `src/layouts/BlogLayout.astro`
+- `content/configuration.toml`
+
 ## [2026-05-30] canon | Import Season 3 process and resource concepts
 
 Added Season 3 candidate imports for Resource Counters, Process Slots, and Trust Paths, then wired them into the Season 3 story arc, production bible, season page, mission packets, draft mirrors, and public episodes. The update makes the Morris Worm translation clearer by giving the Copycat Sprite concrete BL4CK4T-world infrastructure for resource pressure, running capacity, and inherited trust relationships.

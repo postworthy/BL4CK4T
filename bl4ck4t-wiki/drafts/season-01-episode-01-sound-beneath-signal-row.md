@@ -202,6 +202,7 @@ A small blue pawprint sat under the grime. It was not BL4CK4T's mark. It was old
 - Concept: hidden signaling and system mapping.
 - Story idea: Signal Row has an old system where messages and routing instructions once shared the same stream.
 - Key distinction: a message carries meaning; a command changes what a system does.
+- Field Guide habit: Watch for strange signals. Public link: `/field-guide`.
 - Team skill: the Script Kitties begin with observation, diagrams, and a disconnected model.
 - Season thread: the Echo Grid mystery has started, but the team does not yet know who else has been listening.
 

@@ -1,0 +1,62 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Anchor from "../components/common/Anchor.astro";
+import Section from "../components/common/Section.astro";
+import { getConfigurationCollection } from "../lib/utils";
+
+const { data: config } = await getConfigurationCollection();
+
+const resources = [
+  ["Season 5 discussion", "Use The Love Letter Plague to teach phishing, trusted-sender abuse, and reporting without shame."],
+  ["Case board practice", "Have students separate known facts, unknowns, ruled-out ideas, affected people, and next actions."],
+  ["Cyber club starter", "Run a short club sequence around Hushline, Threadboard, Quarantine Tray, and Patch Bell habits."],
+  ["Library case night", "Turn one BL4CK4T episode into a 60-90 minute mystery students solve together."],
+];
+---
+
+<Layout>
+  <Fragment slot="head">
+    <title>{`Classroom • ${config.personal.name}`}</title>
+    <meta name="description" content="BL4CK4T classroom, homeschool, library, and cyber club resources for safe story-driven cybersecurity learning." />
+    <meta property="og:title" content={`Classroom • ${config.personal.name}`} />
+    <meta property="og:description" content="Story-driven cybersecurity resources for learners." />
+    <meta property="og:url" content={`${config.site.baseUrl}/classroom`} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href={`${config.site.baseUrl}/classroom`} />
+  </Fragment>
+  <Section class="pt-12">
+    <div class="flex flex-col gap-5">
+      <p class="zag-muted font-mono">For teachers, parents, homeschoolers, and librarians</p>
+      <h1 class="font-display text-3xl sm:text-4xl leading-normal">
+        Teach cyber habits through story.
+      </h1>
+      <p class="text-lg">
+        BL4CK4T gives learners a safe world for practicing evidence discipline, digital responsibility, systems thinking, and moral repair without operationally harmful instructions.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4">
+        <Anchor url="/field-guide">Get the Field Guide</Anchor>
+        <Anchor url="/seasons">Browse seasons</Anchor>
+      </div>
+    </div>
+  </Section>
+  <Section>
+    <h2 class="font-display text-xl leading-loose mb-6">Starter Uses</h2>
+    <div class="grid gap-4 sm:grid-cols-2">
+      {resources.map(([title, text]) => (
+        <article class="zag-border-b border-t-2 border-current p-4">
+          <h3 class="font-display text-base leading-relaxed mb-3">{title}</h3>
+          <p class="zag-muted">{text}</p>
+        </article>
+      ))}
+    </div>
+  </Section>
+  <Section>
+    <div class="zag-border-b border-t-2 border-current p-4">
+      <h2 class="font-display text-xl leading-loose mb-4">First classroom product</h2>
+      <p class="zag-muted mb-4">
+        The first planned classroom case file is Season 5: The Love Letter Plague, focused on phishing, trust, containment, and warnings that do not shame the reporter.
+      </p>
+      <Anchor url="/newsletter">Get classroom release notes</Anchor>
+    </div>
+  </Section>
+</Layout>

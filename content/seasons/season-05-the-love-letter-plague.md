@@ -12,3 +12,4 @@ timestamp: 2026-05-27T00:00:00+00:00
 
 The Love Letter Plague begins with a message everyone wants to open. The Script Kitties have to protect curiosity, warn without shame, and teach Cybertropolis that trust is strongest when it knows how to pause.
 
+Field Guide tie-in: [Report early, kindly, and clearly](/field-guide).

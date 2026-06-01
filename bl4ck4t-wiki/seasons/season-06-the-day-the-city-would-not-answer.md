@@ -53,6 +53,10 @@ Contextual background: early large-scale DDoS history, including Mafiaboy, may b
 
 Season 5 ends with empty delivery receipts flooding the Message Office. Season 6 turns that clue into an availability crisis: blank receipts, frozen kiosks, stalled civic forms, delayed public services, restricted outside gates, and honest status communication under uncertainty.
 
+## Field Guide Tie-In
+
+- Primary habit: Know what you protect. Public tie-in: `/field-guide`.
+
 ## Season Theme
 
 - Technical theme: availability, DDoS, degraded service, resilience, dependency mapping.

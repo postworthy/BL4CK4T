@@ -83,6 +83,7 @@ Cipher pinned Jinx's four boxes beside the Status Wall. Pixel added a fifth card
 - Key distinction: a claim is not proof.
 - Defensive habit: separate what is known, alleged, inferred, and unknown.
 - Season thread: availability is part of trust.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

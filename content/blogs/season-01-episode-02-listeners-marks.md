@@ -147,6 +147,7 @@ Outside, Signal Row kept talking to itself in signs, chimes, horns, and advertis
 - Key distinction: an old mark, a copied mark, and a fresh mark say different things.
 - Defensive habit: Jinx and Shadow treat small details as evidence before the team decides what they mean.
 - Season thread: the listener marks point toward `The Little Blue Pawprint`, the zine that will spread the Echo Grid rumor.
+- Field Guide habit: [Watch for strange signals](/field-guide).
 
 ## Behind the Signal
 

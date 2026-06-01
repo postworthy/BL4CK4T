@@ -63,6 +63,7 @@ Outside, the fixed weather board kept telling the truth. The blank ledger kept t
 - Key distinction: a working change can still be untrusted if no one authorized or recorded it.
 - Defensive habit: require consent, source checks, change records, and rollback plans for repairs.
 - Season thread: maintenance is part of trust.
+- Field Guide habit: [Recover with consent and care](/field-guide).
 
 ## Behind the Signal
 

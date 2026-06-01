@@ -28,6 +28,7 @@ The first public warning makes students hide reports, so Whiskers and Pixel rewr
 - Concept: Report-friendly warnings.
 - Story idea: A warning that shames will teach people to hide.
 - Key distinction: Accountability is not humiliation.
+- Field Guide habit: Report early, kindly, and clearly. Public link: `/field-guide`.
 - Defensive habit: Write alerts that tell people what to do and why reporting helps.
 - Season thread: Better warnings bring hidden reports back into the response.
 

@@ -28,6 +28,7 @@ The Message Office closes the Glitter Letter incident by turning the team's resp
 - Concept: Community-scale message hygiene.
 - Story idea: A city that reports together spreads less fear.
 - Key distinction: Closing an incident also means changing future practice.
+- Field Guide habit: Improve the city after the case. Public link: `/field-guide`.
 - Defensive habit: Keep simple rules for unexpected, emotional, or mismatched messages.
 - Season thread: Empty receipts introduce the next availability story.
 

@@ -103,6 +103,7 @@ Only a click.
 - Key distinction: repeated claims need a source.
 - Defensive habit: classify claims as seen, guessed, repeated, or unknown.
 - Season thread: the Vanishing Caller nickname enters public canon.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

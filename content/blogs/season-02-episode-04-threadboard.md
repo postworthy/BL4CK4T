@@ -143,6 +143,7 @@ Above them, the red light faded to amber. The thread had left the lab.
 - Key distinction: protecting people and preserving evidence can be planned together.
 - Defensive habit: Byte builds a defensive tool that clarifies the record.
 - Season thread: the first external Civic Learning Grid point appears.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

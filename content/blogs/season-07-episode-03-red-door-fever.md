@@ -73,6 +73,7 @@ The waiting room moved before anyone found a speech.
 - Key distinction: a flaw becomes more urgent when the affected system is exposed to many users or requests.
 - Defensive habit: identify reachable systems, isolate affected groups, and keep fallback paths available.
 - Season thread: maintenance is part of trust.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

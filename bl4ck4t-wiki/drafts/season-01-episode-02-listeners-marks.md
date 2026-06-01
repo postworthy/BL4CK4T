@@ -168,6 +168,7 @@ Outside, Signal Row kept talking to itself in signs, chimes, horns, and advertis
 - Concept: discovery communities and evidence sorting.
 - Story idea: the Script Kitties find traces of earlier listeners and learn that technical mysteries become social once people leave marks.
 - Key distinction: an old mark, a copied mark, and a fresh mark say different things.
+- Field Guide habit: Watch for strange signals. Public link: `/field-guide`.
 - Team skill: Jinx and Shadow treat small details as evidence before the team decides what they mean.
 - Season thread: the listener marks point toward `The Little Blue Pawprint`, the zine that will spread the Echo Grid rumor.
 

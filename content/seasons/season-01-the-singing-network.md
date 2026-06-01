@@ -11,3 +11,5 @@ timestamp: 2026-05-27T00:00:00+00:00
 ---
 
 Signal Row sings after midnight. The Script Kitties follow the sound into old city infrastructure, public rumors, and a lesson about the difference between messages and commands.
+
+Field Guide tie-in: [Guard the trusted paths](/field-guide).

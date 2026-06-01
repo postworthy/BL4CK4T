@@ -24,6 +24,8 @@ A Chronicle update sends a crowd into Mirrorline Arcade. Whiskers redirects peop
 
 ## Teaching Tie-In
 
+- Field Guide habit: Report early, kindly, and clearly. Public link: `/field-guide`.
+
 Crowds can damage evidence even when people mean well.
 
 ## Behind the Signal

@@ -127,6 +127,7 @@ For the first time since the `-0.75` appeared, Jinx felt the thread loosen in he
 - Key distinction: uncertainty can make a report more trustworthy when it is stated clearly.
 - Defensive habit: Jinx presents evidence without overstating it.
 - Season thread: the Glass Bureau accepts coordinated action.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

@@ -28,6 +28,7 @@ Rebuilt so the Helpful Ghost touches City Runtime terminals and boards, not only
 - Concept: unauthorized repair.
 - Story idea: the Helpful Ghost fixes runtime symptoms but skips approval, records, and rollback.
 - Key distinction: a working change can still be untrusted if no one authorized or recorded it.
+- Field Guide habit: Recover with consent and care. Public link: `/field-guide`.
 - Defensive habit: require consent, source checks, change records, and rollback plans for repairs.
 - Season thread: maintenance is part of trust.
 

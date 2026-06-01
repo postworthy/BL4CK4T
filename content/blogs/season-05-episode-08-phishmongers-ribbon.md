@@ -83,6 +83,7 @@ Cipher nodded. "Villain later. Harm now."
 - Key distinction: a villain mark can guide a case without replacing evidence.
 - Defensive habit: focus response on stopping harm before chasing spectacle.
 - Season thread: the lure-maker pattern is visible, but the city still has to finish containment.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

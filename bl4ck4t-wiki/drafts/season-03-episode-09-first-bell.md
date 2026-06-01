@@ -38,6 +38,7 @@ The Copycat Sprite incident closes with the First Bell Desk, changed lab practic
 ## Teaching Tie-In
 
 - Key concept: a strong response leaves better practice behind.
+- Field Guide habit: Improve the city after the case. Public link: `/field-guide`.
 - Defensive habit: create a clear place to report, coordinate, and recover.
 
 ## Behind the Signal

@@ -38,6 +38,7 @@ The Copycat Sprite appears on a retired Old Stack terminal that Byte never inclu
 ## Teaching Tie-In
 
 - Key concept: propagation means a process reaches places beyond the expected scope.
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
 - Defensive habit: measure spread through observations, counts, and scope.
 
 ## Behind the Signal

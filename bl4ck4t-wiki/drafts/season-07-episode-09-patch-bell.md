@@ -28,6 +28,7 @@ Rebuilt to close the City Runtime crisis with a durable maintenance rule and pre
 - Concept: post-incident maintenance.
 - Story idea: the city adopts the Patch Bell so known serious repairs must be patched, isolated, or openly risk-accepted.
 - Key distinction: the goal is not perfect patching; the goal is visible ownership and responsible action.
+- Field Guide habit: Improve the city after the case. Public link: `/field-guide`.
 - Defensive habit: keep inventories, review dates, rollback plans, consent records, and trusted repair channels after the crisis ends.
 - Season thread: maintenance is part of trust.
 

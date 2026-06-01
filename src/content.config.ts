@@ -237,6 +237,7 @@ const configuration = defineCollection({
     menu: z.object({
       home: z.string().default("/"),
       seasons: z.string().default("/seasons"),
+      fieldGuide: z.string().default("/field-guide"),
       projects: z.string().default("/projects"),
       blog: z.string().default("/blog"),
       /** Add other menu items here **/

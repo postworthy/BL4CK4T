@@ -11,3 +11,5 @@ timestamp: 2026-05-27T00:00:00+00:00
 ---
 
 The Ledger Lab counts the things everyone else forgets to count. When Jinx finds a mismatch too small to scare anyone, the Script Kitties learn that a good investigation does not make the mystery louder. It makes the record clearer.
+
+Field Guide tie-in: [Keep evidence before story](/field-guide).

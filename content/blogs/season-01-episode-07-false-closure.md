@@ -129,6 +129,7 @@ The city still sang, and now the song had weight.
 - Key distinction: recovery comes before blame.
 - Defensive habit: Jinx builds the timeline, Shadow adds the small clue, and Whiskers keeps the team focused on helping people first.
 - Season thread: the crowned mark and false closure force the team toward an architectural fix.
+- Field Guide habit: [Recover with consent and care](/field-guide).
 
 ## Behind the Signal
 

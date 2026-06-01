@@ -28,6 +28,7 @@ The flood fades and Cybertropolis keeps the useful parts of the response: Status
 - Concept: post-incident improvement.
 - Story idea: the city keeps the tools it built under pressure.
 - Key distinction: recovery is not the same as learning.
+- Field Guide habit: Improve the city after the case. Public link: `/field-guide`.
 - Defensive habit: review incidents and turn useful response habits into normal practice.
 - Season thread: availability is part of trust.
 

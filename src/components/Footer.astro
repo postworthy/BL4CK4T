@@ -4,6 +4,13 @@ import Anchor from "./common/Anchor.astro";
 import Section from "./common/Section.astro";
 
 const { data: config } = await getConfigurationCollection();
+const menuLabels: Record<string, string> = {
+  home: "Home",
+  seasons: "Seasons",
+  fieldGuide: "Field Guide",
+  projects: "Projects",
+  blog: "Blog",
+};
 
 const date = new Date();
 const year = date.getFullYear();
@@ -14,11 +21,11 @@ const year = date.getFullYear();
     <div
       class="zag-border-b zag-transition pb-4 flex flex-col sm:flex-row sm:flex-nowrap gap-8 sm:items-center"
     >
-      <ul class="flex flex-col gap-2">
+      <ul class="flex flex-col gap-2 sm:min-w-44">
         {
           Object.entries(config.menu).map((i) => (
             <li>
-              <Anchor url={i[1]}>{i[0]}</Anchor>
+              <Anchor url={i[1]}>{menuLabels[i[0]] ?? i[0]}</Anchor>
             </li>
           ))
         }

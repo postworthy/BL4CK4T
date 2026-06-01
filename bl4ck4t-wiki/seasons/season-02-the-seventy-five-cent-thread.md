@@ -56,6 +56,10 @@ Jinx finds a tiny resource discrepancy in a school lab. What looks like bookkeep
 - Release mode: simultaneous drop.
 - Release validation: [Season 2 Release Historical Anchor Analysis](../reports/season-02-release-historical-anchor-analysis.md).
 
+## Field Guide Tie-In
+
+- Primary habit: Keep evidence before story. Public tie-in: `/field-guide`.
+
 ## Season Theme
 
 - Technical theme: logging, intrusion detection, and evidence.

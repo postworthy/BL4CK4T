@@ -185,6 +185,7 @@ That bothered Jinx more than a message would have. BL4CK4T had already said enou
 - Concept: anomaly investigation.
 - Story idea: a small mismatch becomes worth preserving because it appears in two places.
 - Key distinction: a clue is not a conclusion.
+- Field Guide habit: Watch for strange signals. Public link: `/field-guide`.
 - Team skill: the Script Kitties record the mismatch before explaining it.
 - Season thread: `-0.75` moves from the Hushline model into the Ledger Lab.
 

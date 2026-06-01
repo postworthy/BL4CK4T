@@ -83,6 +83,7 @@ Pixel looked at the ninth marker.
 - Key distinction: unexpected behavior should be recorded before anyone explains it.
 - Defensive habit: pause, record, and check boundaries before rerunning a strange test.
 - Season thread: the ninth marker turns the Season 2 cliffhanger into Byte's Season 3 builder arc.
+- Field Guide habit: [Watch for strange signals](/field-guide).
 
 ## Behind the Signal
 

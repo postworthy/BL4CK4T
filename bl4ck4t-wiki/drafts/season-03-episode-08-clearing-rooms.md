@@ -38,6 +38,7 @@ The team clears the extra sprite markers, verifies room states, restores class t
 ## Teaching Tie-In
 
 - Key concept: recovery means returning to a known good state and verifying it.
+- Field Guide habit: Recover with consent and care. Public link: `/field-guide`.
 - Defensive habit: records, tools, and physical checks should agree before closure.
 
 ## Behind the Signal

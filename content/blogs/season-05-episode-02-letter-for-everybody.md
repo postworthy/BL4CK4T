@@ -85,6 +85,7 @@ Pixel pointed to the tray. "Same. This way first."
 - Key distinction: a trusted sender name is not the same as an expected message.
 - Defensive habit: verify context and report suspicious messages even when they look personal.
 - Season thread: the Glitter Letter begins spreading through trusted relationships.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

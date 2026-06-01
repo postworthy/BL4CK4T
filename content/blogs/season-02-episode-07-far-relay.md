@@ -133,6 +133,7 @@ Jinx looked at the first red card. The smallest wrong number in the room had led
 - Key distinction: a mark can widen a case without proving a mastermind.
 - Defensive habit: the Script Kitties resist making the adversary more important than the evidence.
 - Season thread: Far Relay and Ledgerjack enter the Season 2 case.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

@@ -151,6 +151,7 @@ Jinx looked back at the Bureau. Inside, the case stub crossed the desks with the
 - Key distinction: a report should separate knowns, unknowns, and requested action.
 - Defensive habit: Whiskers translates the case without weakening it.
 - Season thread: the Glass Bureau opens a shared case stub.
+- Field Guide habit: [Report early, kindly, and clearly](/field-guide).
 
 ## Behind the Signal
 

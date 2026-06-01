@@ -25,6 +25,8 @@ Use this checklist before reporting a draft complete and again before promoting 
 
 - The lesson is beginner-friendly.
 - The core concept is accurate.
+- The lesson can be mapped to a Field Guide habit in [Cyber Habit Standards Alignment](../canon/cyber-habit-standards-alignment.md).
+- The Teaching Tie-In includes a linked `Field Guide habit:` line pointing readers toward `/field-guide`.
 - The story explains why the concept matters.
 - The story includes enough safe technical vocabulary that the concept is legible before the Teaching Tie-In.
 - Fictional artifacts illuminate the technical concept rather than replacing it.
@@ -43,6 +45,7 @@ Use this checklist before reporting a draft complete and again before promoting 
 
 - Draft has complete Astro-compatible frontmatter in its `Publication Frontmatter` block.
 - Public article title, slug, description, tags, read time, and timestamp are chosen before publication.
+- Any classroom, product, or BL4CK4T University derivative planned from the story has an explicit standards-alignment note in its supporting wiki page or product brief.
 - Season drafts have been compared against neighboring episodes for repeated openings, repeated scene beats, repeated drop mechanics, and same-shaped endings.
 - The season draft review report records the manual checks from [Season Release Quality Gate](season-release-quality-gate.md) before public promotion.
 - `TROPES.md` validation has been run against the draft or public markdown file.

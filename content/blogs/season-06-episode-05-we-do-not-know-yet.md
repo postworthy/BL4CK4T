@@ -105,6 +105,7 @@ Above him, the Status Wall held the four words he had feared most: `WE DO NOT KN
 - Key distinction: honest uncertainty is different from confusion.
 - Defensive habit: communicate what is known, what is affected, what is being done, and when the next update comes.
 - Season thread: availability is part of trust.
+- Field Guide habit: [Report early, kindly, and clearly](/field-guide).
 
 ## Behind the Signal
 

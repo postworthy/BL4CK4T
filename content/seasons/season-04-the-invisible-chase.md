@@ -12,3 +12,4 @@ timestamp: 2026-05-27T00:00:00+00:00
 
 The Vanishing Caller turns one phone message into a city chase. The Script Kitties have to solve the case without letting fear choose the suspect, the story, or the ending.
 
+Field Guide tie-in: [Keep evidence before story](/field-guide).

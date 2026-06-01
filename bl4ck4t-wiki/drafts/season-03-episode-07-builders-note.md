@@ -38,6 +38,7 @@ Byte writes what the test expected, what happened, what was missing, and how the
 ## Teaching Tie-In
 
 - Key concept: intent does not replace controls, review, or cleanup.
+- Field Guide habit: Recover with consent and care. Public link: `/field-guide`.
 - Defensive habit: write expected behavior, actual behavior, missing controls, and repair steps.
 
 ## Behind the Signal

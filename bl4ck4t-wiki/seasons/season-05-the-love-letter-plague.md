@@ -42,6 +42,10 @@ ILOVEYOU / The Love Bug.
 
 The Phishmonger returns with a self-sending glitter letter. The team must teach the city how to pause before opening what looks personal and urgent.
 
+## Field Guide Tie-In
+
+- Primary habit: Report early, kindly, and clearly. Public tie-in: `/field-guide`.
+
 ## Season Theme
 
 - Technical theme: social malware and unsafe attachments.

@@ -76,6 +76,7 @@ Pixel printed `CURIOUS. CONTAINED.` and held it up. That, he liked.
 - Key distinction: curiosity is useful when it has boundaries.
 - Defensive habit: hold suspicious messages in an approved place before inspection.
 - Season thread: the Quarantine Tray becomes the team's main response artifact.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

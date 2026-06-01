@@ -28,6 +28,7 @@ Rebuilt to inspect silver-marked runtime systems and record source, owner, rollb
 - Concept: consent-aware repair.
 - Story idea: the Consent Ledger shows that the Helpful Ghost repaired visible symptoms while skipping permission and accountability.
 - Key distinction: repair is not complete until owners, source, version, rollback, notice, and verification are recorded.
+- Field Guide habit: Recover with consent and care. Public link: `/field-guide`.
 - Defensive habit: make consent and accountability part of the repair process, not paperwork after the fact.
 - Season thread: maintenance is part of trust.
 

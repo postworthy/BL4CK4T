@@ -1,0 +1,137 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Anchor from "../components/common/Anchor.astro";
+import Section from "../components/common/Section.astro";
+import { getConfigurationCollection } from "../lib/utils";
+
+const { data: config } = await getConfigurationCollection();
+
+const issueSections = [
+  ["Opening signal", "One short principle from Cybertropolis, written so it can be remembered under pressure."],
+  ["Case note", "A new episode, season focus, character moment, or artifact from the BL4CK4T canon."],
+  ["Behind the Signal", "A safe explanation of the real cybersecurity idea behind the story, without operational misuse details."],
+  ["Field Guide prompt", "A question families, teachers, cyber clubs, or teams can use right away."],
+  ["Build log", "A concise update on posters, case decks, classroom resources, store releases, or BL4CK4T University pilots."],
+];
+
+const audienceTracks = [
+  ["Fans", "Story drops, character notes, posters, artifact previews, and new doorways into Cybertropolis."],
+  ["Families", "Friendly cyber habits, discussion prompts, and ways to talk about trust, mistakes, and reporting without fear."],
+  ["Educators", "Classroom uses, cyber club ideas, printable resource updates, vocabulary, and case-night planning notes."],
+  ["Professionals", "Security culture reflections, reporting behavior, incident communication, patch ownership, and University pilot progress."],
+];
+
+const sampleSubjects = [
+  "Curious. Contained.",
+  "The warning that worked",
+  "Availability is trust",
+  "A clue is not a verdict",
+  "Silence is not a fourth option",
+];
+---
+
+<Layout>
+  <Fragment slot="head">
+    <title>{`Newsletter • ${config.personal.name}`}</title>
+    <meta name="description" content="Join BL4CK4T Field Notes for story updates, cyber habits, artifact drops, classroom resources, and product launches." />
+    <meta property="og:title" content={`BL4CK4T Field Notes • ${config.personal.name}`} />
+    <meta property="og:description" content="Signals from Cybertropolis." />
+    <meta property="og:url" content={`${config.site.baseUrl}/newsletter`} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href={`${config.site.baseUrl}/newsletter`} />
+  </Fragment>
+  <Section class="pt-12">
+    <div class="flex flex-col gap-5">
+      <p class="zag-muted font-mono">Owned signal</p>
+      <h1 class="font-display text-3xl sm:text-4xl leading-normal">
+        BL4CK4T Field Notes: signals from Cybertropolis.
+      </h1>
+      <p class="text-lg">
+        Field Notes is for people who want more than quick posts: story drops, cyber habits, artifact previews, classroom resources, product news, and BL4CK4T University pilot notes.
+      </p>
+      <p class="zag-muted">
+        Social media moves quickly. The newsletter is the quieter place where readers, parents, educators, cyber professionals, and future partners can keep up with the world as it grows.
+      </p>
+      <div class="zag-border-b border-t-2 border-current p-4">
+        <h2 class="font-display text-base leading-relaxed mb-3">Join the Field Notes list</h2>
+        <p class="zag-muted mb-4">
+          The list opens soon. Early subscribers will get the printable BL4CK4T Field Guide first, followed by story notes, classroom prompts, artifact previews, and launch updates.
+        </p>
+        <p class="zag-muted">
+          Start here if you want the seven cyber habits in a format you can read, teach, share, or bring into a cyber club.
+        </p>
+      </div>
+      <div class="flex flex-col sm:flex-row gap-4">
+        <Anchor url="/field-guide">Read the Field Guide</Anchor>
+        <Anchor url="/start-here">Choose a doorway</Anchor>
+      </div>
+    </div>
+  </Section>
+  <Section>
+    <h2 class="font-display text-xl leading-loose mb-6">What Goes Out</h2>
+    <div class="grid gap-3">
+      {issueSections.map(([title, text]) => (
+        <article class="zag-border-b border-t-2 border-current p-4">
+          <h3 class="font-display text-base leading-relaxed mb-3">{title}</h3>
+          <p class="zag-muted">{text}</p>
+        </article>
+      ))}
+    </div>
+  </Section>
+  <Section>
+    <h2 class="font-display text-xl leading-loose mb-6">Who It Serves</h2>
+    <div class="grid gap-4 sm:grid-cols-2">
+      {audienceTracks.map(([title, text]) => (
+        <article class="zag-border-b border-t-2 border-current p-4">
+          <h3 class="font-display text-base leading-relaxed mb-3">{title}</h3>
+          <p class="zag-muted">{text}</p>
+        </article>
+      ))}
+    </div>
+  </Section>
+  <Section>
+    <div class="zag-border-b border-t-2 border-current p-4">
+      <h2 class="font-display text-xl leading-loose mb-4">Sample Field Note</h2>
+      <p class="font-display text-base leading-relaxed mb-3">Subject: Curious. Contained.</p>
+      <p class="zag-muted mb-4">
+        Pixel's curiosity is not the problem. The problem is curiosity without a container. In The Love Letter Plague, the Quarantine Tray gives curiosity a safe place to wait while the team checks the message, protects the sender, and warns the city without shame.
+      </p>
+      <p class="zag-muted">
+        Field Guide prompt: What should someone do when a message looks exciting, comes from someone trusted, and still feels wrong?
+      </p>
+    </div>
+  </Section>
+  <Section>
+    <h2 class="font-display text-xl leading-loose mb-6">Likely Subject Lines</h2>
+    <ul class="grid gap-3">
+      {sampleSubjects.map((subject) => (
+        <li class="zag-border-b border-t-2 border-current p-4">{subject}</li>
+      ))}
+    </ul>
+  </Section>
+  <Section>
+    <div class="grid gap-4 sm:grid-cols-3">
+      <article class="zag-border-b border-t-2 border-current p-4">
+        <h2 class="font-display text-base leading-relaxed mb-3">Weekly rhythm</h2>
+        <p class="zag-muted">One useful signal per week once the list opens, with extra notes only for major releases.</p>
+      </article>
+      <article class="zag-border-b border-t-2 border-current p-4">
+        <h2 class="font-display text-base leading-relaxed mb-3">Clean promise</h2>
+        <p class="zag-muted">No fear-driven messages, no clutter, and no display ads interrupting the public story experience.</p>
+      </article>
+      <article class="zag-border-b border-t-2 border-current p-4">
+        <h2 class="font-display text-base leading-relaxed mb-3">Where it leads</h2>
+        <p class="zag-muted">Field Guide first, then classroom resources, case decks, store releases, and University pilot opportunities.</p>
+      </article>
+    </div>
+  </Section>
+  <Section>
+    <div class="zag-border-b border-t-2 border-current p-4">
+      <h2 class="font-display text-xl leading-loose mb-4">Start with the Field Guide</h2>
+      <p class="zag-muted mb-4">
+        The first notes will introduce the seven habits, then point readers toward the season that best matches their role: Season 5 for reporting culture, Season 6 for availability, Season 7 for patch ownership, and Season 4 for evidence discipline.
+      </p>
+      <Anchor url="/field-guide">Read the seven habits</Anchor>
+    </div>
+  </Section>
+</Layout>

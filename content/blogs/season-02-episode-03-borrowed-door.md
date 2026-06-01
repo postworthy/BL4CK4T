@@ -157,6 +157,7 @@ Shadow looked at the warm-terminal card. "Now we do."
 - Key distinction: a familiar project label does not prove the project owner acted.
 - Defensive habit: the Script Kitties preserve alternate explanations.
 - Season thread: the working phrase "Borrowed Door" enters the case.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

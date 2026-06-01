@@ -28,6 +28,7 @@ The Season 4 pink envelope waits on the Notice Wall and becomes the first Season
 - Concept: Attachment trust.
 - Story idea: A sweet message still needs a handling process.
 - Key distinction: Wanting to open something is not the same as knowing it is expected.
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
 - Defensive habit: Hold unexpected attachments before opening.
 - Season thread: The pink envelope becomes the Glitter Letter incident.
 

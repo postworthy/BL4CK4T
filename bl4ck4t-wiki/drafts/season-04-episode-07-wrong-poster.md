@@ -24,6 +24,8 @@ A poster accuses the wrong student. Whiskers, Grimalkin, and the Glass Bureau co
 
 ## Teaching Tie-In
 
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
+
 Proportional response protects victims and suspects.
 
 ## Behind the Signal

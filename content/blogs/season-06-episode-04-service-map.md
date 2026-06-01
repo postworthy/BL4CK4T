@@ -113,6 +113,7 @@ The Service Bell Tower rang once. Jinx did not jump this time. She took a green 
 - Key distinction: mapping systems is not the same as mapping impact.
 - Defensive habit: identify critical dependencies and affected people before a crisis.
 - Season thread: availability is part of trust.
+- Field Guide habit: [Know what you protect](/field-guide).
 
 ## Behind the Signal
 

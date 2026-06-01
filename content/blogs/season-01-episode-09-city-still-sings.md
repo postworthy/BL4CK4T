@@ -131,6 +131,7 @@ Jinx was already opening her notebook to a clean page.
 - Key distinction: Season 1 focused on signals and architecture; Season 2 begins with evidence and accounting.
 - Defensive habit: Pixel explains, Cipher clarifies, Byte builds, Jinx notices the anomaly, Shadow confirms the small clue, and Whiskers closes the arc.
 - Season thread: the `-0.75` discrepancy sets up the next season's detective story.
+- Field Guide habit: [Improve the city after the case](/field-guide).
 
 ## Behind the Signal
 

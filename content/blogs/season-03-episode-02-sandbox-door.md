@@ -87,6 +87,7 @@ BL4CK4T sent one last line.
 - Key distinction: a cleaner test is still incomplete if it lacks proof that it can stop.
 - Defensive habit: define what normal looks like before running the test.
 - Season thread: Byte's sandbox is better than the first run, but still incomplete.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

@@ -79,6 +79,7 @@ Jinx smiled. "Boring can save a whole afternoon."
 - Key distinction: wanting to open something is not proof that it is safe.
 - Defensive habit: pause and move unexpected messages into an approved review path.
 - Season thread: Season 5 begins with curiosity contained before the Glitter Letter spreads.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

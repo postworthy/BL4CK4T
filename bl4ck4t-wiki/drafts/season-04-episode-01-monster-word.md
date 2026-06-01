@@ -24,6 +24,8 @@ Shadow and Jinx find the Season 3 phone message copied onto the Notice Wall with
 
 ## Teaching Tie-In
 
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
+
 A label is not evidence.
 
 ## Behind the Signal

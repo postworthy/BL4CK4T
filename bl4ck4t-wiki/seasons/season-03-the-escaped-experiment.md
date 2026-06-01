@@ -62,6 +62,10 @@ The Morris Worm.
 
 A self-copying toy process created for a lab keeps multiplying through old trust paths in the Civic Learning Grid. The conflict is not evil intent; it is uncontrolled spread: extra copies occupy process slots, push resource counters upward, slow rooms, and force a city response.
 
+## Field Guide Tie-In
+
+- Primary habit: Recover with consent and care. Public tie-in: `/field-guide`.
+
 ## Season Theme
 
 - Technical theme: propagation, containment, and incident response.

@@ -109,6 +109,7 @@ He looked at both until they felt like the same skill.
 - Key distinction: confirmed, likely, ruled out, and unknown are different categories.
 - Defensive habit: label every claim by evidence state before acting on it.
 - Season thread: Jinx and Shadow build the tool that can close the chase honestly.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

@@ -85,6 +85,7 @@ Shadow placed a blue pin at the first point where someone had warned a friend in
 - Key distinction: affected senders are not automatically culprits.
 - Defensive habit: warn contacts quickly and kindly when suspicious messages spread.
 - Season thread: the team learns that stopping spread requires trust, not shame.
+- Field Guide habit: [Report early, kindly, and clearly](/field-guide).
 
 ## Behind the Signal
 

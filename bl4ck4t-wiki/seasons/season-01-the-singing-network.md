@@ -74,6 +74,10 @@ Cybertropolis has an old tone-based signal network under Signal Row. Curious out
 
 Technical-texture clarification after remediation: the Echo Grid is an old civic communications network where public service messages and routing commands once shared a signal path. The Hushline is the later architectural repair that separates user-facing messages from control/routing paths.
 
+## Field Guide Tie-In
+
+- Primary habit: Guard the trusted paths. Public tie-in: `/field-guide`.
+
 ## Season Theme
 
 - Technical theme: hidden protocols and signaling.

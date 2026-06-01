@@ -28,6 +28,7 @@ Rebuilt to define the City Runtime affected-system list and clarify the Red Cler
 - Concept: maintenance risk.
 - Story idea: the Red Clerk delayed a known runtime repair because the visible systems still worked and a past update had caused pain.
 - Key distinction: fear of breaking something justifies rollback planning, not indefinite delay.
+- Field Guide habit: Know what you protect. Public link: `/field-guide`.
 - Defensive habit: every serious repair notice needs an owner, a decision, and a review time.
 - Season thread: maintenance is part of trust.
 

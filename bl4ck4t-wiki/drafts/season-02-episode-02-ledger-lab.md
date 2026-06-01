@@ -178,6 +178,7 @@ Instead, Jinx looked at the blank space where the mismatch might have been and w
 - Concept: shared-system accounting and logs.
 - Story idea: normal noise has to be understood before abnormal behavior can be named.
 - Key distinction: a log is evidence, but it still needs context.
+- Field Guide habit: Watch for strange signals. Public link: `/field-guide`.
 - Team skill: Byte maps normal events so Jinx can compare the repeated anomaly.
 - Season thread: Project Orchard becomes the first repeated subject tied to `-0.75`.
 

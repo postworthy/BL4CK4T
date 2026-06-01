@@ -24,6 +24,8 @@ Jinx and Shadow build the Chase Map with confirmed, likely, ruled-out, and unkno
 
 ## Teaching Tie-In
 
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
+
 Good evidence work labels the state of each claim.
 
 ## Behind the Signal

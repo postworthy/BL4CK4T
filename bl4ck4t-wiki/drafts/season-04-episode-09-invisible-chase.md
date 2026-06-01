@@ -24,6 +24,8 @@ The team closes the Caller case with corrected public record, a proportionate re
 
 ## Teaching Tie-In
 
+- Field Guide habit: Improve the city after the case. Public link: `/field-guide`.
+
 Good response changes future practice.
 
 ## Behind the Signal

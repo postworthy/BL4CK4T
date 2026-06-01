@@ -24,6 +24,8 @@ Shadow and Grimalkin preserve physical clues in Mirrorline Arcade and refuse to 
 
 ## Teaching Tie-In
 
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
+
 Trace evidence asks better questions before it proves a person.
 
 ## Behind the Signal

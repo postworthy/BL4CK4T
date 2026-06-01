@@ -28,6 +28,7 @@ The Glitter Letter spreads through class lists and friend paths. Jinx and Shadow
 - Concept: Contact-list spread.
 - Story idea: Trust is a path that can be abused.
 - Key distinction: Being in the path is not the same as causing the harm.
+- Field Guide habit: Report early, kindly, and clearly. Public link: `/field-guide`.
 - Defensive habit: Warn contacts without shaming affected people.
 - Season thread: The bloom map gives the response team its shape.
 

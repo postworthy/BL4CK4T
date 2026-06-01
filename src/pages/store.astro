@@ -1,0 +1,51 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Anchor from "../components/common/Anchor.astro";
+import Section from "../components/common/Section.astro";
+import { getConfigurationCollection } from "../lib/utils";
+
+const { data: config } = await getConfigurationCollection();
+
+const products = [
+  ["Season poster pack", "Poster prints for the public seasons, starting with the visual language already established in the wiki assets."],
+  ["Script Kitties character cards", "Collectible cards for Pixel, Byte, Jinx, Whiskers, Shadow, Grimalkin, Cipher, and BL4CK4T."],
+  ["Principle sticker sheet", "Know What You Protect, Guard The Trusted Paths, Evidence Before Story, Report Early, Recover With Care, and more."],
+  ["Field notebook", "An in-world investigator notebook for known facts, unknowns, ruled-out ideas, affected people, evidence, and next actions."],
+  ["Case decks", "Playable learning decks beginning with The Love Letter Plague."],
+];
+---
+
+<Layout>
+  <Fragment slot="head">
+    <title>{`Store • ${config.personal.name}`}</title>
+    <meta name="description" content="The BL4CK4T store will sell artifacts from Cybertropolis: posters, stickers, character cards, notebooks, case files, and case decks." />
+    <meta property="og:title" content={`Store • ${config.personal.name}`} />
+    <meta property="og:description" content="Artifacts from Cybertropolis." />
+    <meta property="og:url" content={`${config.site.baseUrl}/store`} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href={`${config.site.baseUrl}/store`} />
+  </Fragment>
+  <Section class="pt-12">
+    <div class="flex flex-col gap-5">
+      <p class="zag-muted font-mono">Artifact shop</p>
+      <h1 class="font-display text-3xl sm:text-4xl leading-normal">
+        Hold a piece of Cybertropolis.
+      </h1>
+      <p class="text-lg">
+        BL4CK4T products should feel like they came from the canon: posters, stickers, field notebooks, case files, and decks that help fans and learners remember the principles.
+      </p>
+      <Anchor url="/newsletter">Join the store launch list</Anchor>
+    </div>
+  </Section>
+  <Section>
+    <h2 class="font-display text-xl leading-loose mb-6">Planned Products</h2>
+    <div class="grid gap-4">
+      {products.map(([title, text]) => (
+        <article class="zag-border-b border-t-2 border-current p-4">
+          <h3 class="font-display text-base leading-relaxed mb-3">{title}</h3>
+          <p class="zag-muted">{text}</p>
+        </article>
+      ))}
+    </div>
+  </Section>
+</Layout>

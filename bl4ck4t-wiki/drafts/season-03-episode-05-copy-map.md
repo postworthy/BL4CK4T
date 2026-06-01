@@ -38,6 +38,7 @@ Jinx and Cipher rebuild a dramatic map into confirmed rooms, likely trust paths,
 ## Teaching Tie-In
 
 - Key concept: evidence preservation helps responders act without guessing.
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
 - Defensive habit: separate confirmed facts, likely trust paths, ruled-out ideas, and unknowns.
 
 ## Behind the Signal

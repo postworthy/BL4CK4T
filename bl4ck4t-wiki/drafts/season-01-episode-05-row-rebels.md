@@ -159,6 +159,7 @@ Whiskers saw it too.
 - Concept: ethical hacker mindset and public impact.
 - Story idea: the Row Rebels have mixed motives, and the Script Kitties must separate curiosity, protest, status, and disruption.
 - Key distinction: intent explains why someone acted; impact shows what the action did.
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
 - Team skill: Jinx and Shadow collect evidence while Whiskers keeps the team from flattening the Rebels into villains.
 - Season thread: the crowned mark points toward a louder copycat and the coming Tonebox problem.
 

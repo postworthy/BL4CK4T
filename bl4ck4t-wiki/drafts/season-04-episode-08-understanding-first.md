@@ -24,6 +24,8 @@ Shadow and Jinx reach the Caller. Understanding motive helps choose the response
 
 ## Teaching Tie-In
 
+- Field Guide habit: Recover with consent and care. Public link: `/field-guide`.
+
 Understanding motive is different from excusing impact.
 
 ## Behind the Signal

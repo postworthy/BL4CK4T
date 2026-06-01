@@ -92,8 +92,8 @@ cardImage = "https://bl4ck4t.com/BL4CK4T.png"
 title = "<BL4CK4T/>"
 subtitle = "The Script Kitty Chronicles"
 image = "https://bl4ck4t.com/BL4CK4T.png"
-ctaText = "View Projects"
-ctaUrl = "/projects"
+ctaText = "Start Here"
+ctaUrl = "/start-here"
 
 [_.personal]
 name = "BL4CK4T"
@@ -112,5 +112,6 @@ noProjects = "No projects found."
 [_.menu]
 home = "/"
 seasons = "/seasons"
+fieldGuide = "/field-guide"
 projects = "/projects"
 blog = "/blog"

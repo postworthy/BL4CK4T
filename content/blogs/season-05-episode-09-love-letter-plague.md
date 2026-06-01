@@ -83,6 +83,7 @@ BL4CK4T's pawprint appeared on the blank paper.
 - Key distinction: stopping one incident does not mean every future message path is safe.
 - Defensive habit: keep clear reporting, quarantine, verification, and contact warnings ready.
 - Season thread: Season 5 closes the Love Letter Plague and opens Season 6's traffic-siege clue.
+- Field Guide habit: [Improve the city after the case](/field-guide).
 
 ## Behind the Signal
 

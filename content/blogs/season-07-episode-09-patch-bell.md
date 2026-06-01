@@ -69,6 +69,7 @@ That made the log feel colder.
 - Key distinction: the goal is not perfect patching; the goal is visible ownership and responsible action.
 - Defensive habit: keep inventories, review dates, rollback plans, consent records, and trusted repair channels after the crisis ends.
 - Season thread: maintenance is part of trust.
+- Field Guide habit: [Improve the city after the case](/field-guide).
 
 ## Behind the Signal
 

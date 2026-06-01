@@ -45,6 +45,10 @@ Contextual background: Code Red, Nimda, and SQL Slammer may be used to establish
 
 The red mark from Season 6 leads to an old City Runtime repair notice. The Runtime is a common operating layer used by desk terminals, service-room machines, public boards, clinic intake stations, library checkout stands, school work surfaces, and permit counters. A known flaw was postponed because the visible systems still worked. Then public boards repaint themselves, desk terminals restart, support queues fill, citizens distrust repair notices, and a Helpful Ghost begins fixing machines without permission.
 
+## Field Guide Tie-In
+
+- Primary habit: Recover with consent and care. Public tie-in: `/field-guide`.
+
 ## Season Theme
 
 - Technical theme: patch debt, worm speed, exposed services, verified repair channels, rollback.

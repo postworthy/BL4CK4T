@@ -159,6 +159,7 @@ Instead, Jinx looked at the blank space where the mismatch might have been and w
 - Key distinction: a log is evidence, but it still needs context.
 - Defensive habit: Byte maps normal events so Jinx can compare the repeated anomaly.
 - Season thread: Project Orchard becomes the first repeated subject tied to `-0.75`.
+- Field Guide habit: [Watch for strange signals](/field-guide).
 
 ## Behind the Signal
 

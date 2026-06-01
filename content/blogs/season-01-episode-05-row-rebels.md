@@ -139,6 +139,7 @@ Whiskers saw it too.
 - Key distinction: intent explains why someone acted; impact shows what the action did.
 - Defensive habit: Jinx and Shadow collect evidence while Whiskers keeps the team from flattening the Rebels into villains.
 - Season thread: the crowned mark points toward a louder copycat and the coming Tonebox problem.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

@@ -4,6 +4,13 @@ import Anchor from "./common/Anchor.astro";
 import ThemeToggle from "./ThemeToggle.astro";
 
 const { data: config } = await getConfigurationCollection();
+const menuLabels: Record<string, string> = {
+  home: "Home",
+  seasons: "Seasons",
+  fieldGuide: "Field Guide",
+  projects: "Projects",
+  blog: "Blog",
+};
 ---
 
 <header class="zag-bg zag-border-b zag-transition sticky top-0 w-full z-10">
@@ -26,11 +33,11 @@ const { data: config } = await getConfigurationCollection();
     class="zag-bg zag-border-b zag-transition fixed sm:relative inset-x-0 top-0 h-auto sm:px-4 flex justify-between flex-col gap-8 py-4 text-xl sm:flex-row max-w-2xl mx-auto sm:pt-4 sm:border-none"
   >
     <div
-      class="flex flex-col font-mono font-medium gap-4 sm:flex-row px-4 sm:px-0 mt-16 sm:mt-0"
+      class="flex flex-col font-mono font-medium gap-4 sm:flex-row sm:flex-wrap px-4 sm:px-0 mt-16 sm:mt-0"
     >
       {
         Object.entries(config.menu).map((i) => (
-          <Anchor url={i[1]}>{i[0]}</Anchor>
+          <Anchor url={i[1]}>{menuLabels[i[0]] ?? i[0]}</Anchor>
         ))
       }
     </div>

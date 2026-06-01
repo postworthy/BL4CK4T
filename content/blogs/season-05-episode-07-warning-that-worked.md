@@ -73,6 +73,7 @@ Whiskers pinned the new warning higher. "Then kindness stays."
 - Key distinction: a warning should guide action, not assign shame.
 - Defensive habit: tell people what happened, what to do, and why reporting helps.
 - Season thread: the city learns that message culture is part of containment.
+- Field Guide habit: [Report early, kindly, and clearly](/field-guide).
 
 ## Behind the Signal
 

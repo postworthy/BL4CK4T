@@ -157,6 +157,7 @@ The old map did not look harmless now. It looked generous, built by people who w
 - Concept: trust paths in connected systems.
 - Story idea: old connections can keep carrying risk after everyone forgets them.
 - Key distinction: removing a false pattern strengthens the case.
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
 - Team skill: Grimalkin maps, Cipher tests, Shadow verifies physical details.
 - Season thread: the route narrows to Ledger Lab, library, and old relay.
 

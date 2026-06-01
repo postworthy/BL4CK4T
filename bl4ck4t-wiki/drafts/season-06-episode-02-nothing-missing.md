@@ -27,6 +27,7 @@ Pixel and Cipher inspect perfect ledgers and blank receipts. The episode reframe
 - Concept: denial of service.
 - Story idea: the records are safe, but the city cannot use them normally.
 - Key distinction: nothing missing does not mean nothing wrong.
+- Field Guide habit: Watch for strange signals. Public link: `/field-guide`.
 - Defensive habit: record symptoms and impact, not only missing files.
 - Season thread: availability is part of trust.
 

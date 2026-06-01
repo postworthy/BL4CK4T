@@ -28,6 +28,7 @@ Pixel wants to inspect the Glitter Letter, but Jinx helps him put curiosity into
 - Concept: Containment for suspicious messages.
 - Story idea: Curiosity needs a place to stand.
 - Key distinction: Investigating is not the same as opening.
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
 - Defensive habit: Move suspicious items into a controlled review path.
 - Season thread: Pixel's restraint gives the team time to map the incident.
 

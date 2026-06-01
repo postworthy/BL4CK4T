@@ -69,6 +69,7 @@ Byte kept one blank silver card in his kit as a warning to himself.
 - Key distinction: repair is not complete until owners, source, version, rollback, notice, and verification are recorded.
 - Defensive habit: make consent and accountability part of the repair process, not paperwork after the fact.
 - Season thread: maintenance is part of trust.
+- Field Guide habit: [Recover with consent and care](/field-guide).
 
 ## Behind the Signal
 

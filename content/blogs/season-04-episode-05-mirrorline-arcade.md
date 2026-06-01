@@ -97,6 +97,7 @@ Shadow looked at the cleared lane. "That part was harder."
 - Key distinction: curiosity can damage evidence even when people mean well.
 - Defensive habit: report what you know and stay clear of active evidence areas.
 - Season thread: the Chronicle learns that public speed can make the case harder.
+- Field Guide habit: [Report early, kindly, and clearly](/field-guide).
 
 ## Behind the Signal
 

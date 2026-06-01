@@ -28,6 +28,7 @@ Rebuilt around verified City Runtime repair cards for terminals, boards, and ser
 - Concept: verified updates.
 - Story idea: the Repair Lane helps the city tell real urgent runtime repairs from confusing or fake notices.
 - Key distinction: urgency does not replace source, signature, owner, rollback, and verification.
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
 - Defensive habit: use trusted update channels and give people a clear way to confirm repair instructions.
 - Season thread: maintenance is part of trust.
 

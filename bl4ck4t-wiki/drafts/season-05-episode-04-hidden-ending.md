@@ -28,6 +28,7 @@ Cipher and Byte compare what the Glitter Letter appears to be with how it behave
 - Concept: File appearance deception.
 - Story idea: A pretty label does not prove honest behavior.
 - Key distinction: Name and icon are claims; behavior is evidence.
+- Field Guide habit: Watch for strange signals. Public link: `/field-guide`.
 - Defensive habit: Treat mismatches as review triggers.
 - Season thread: The team learns the Glitter Letter is built to spread.
 

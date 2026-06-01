@@ -129,6 +129,7 @@ No one corrected him.
 - Key distinction: a message says something; a command changes where something goes.
 - Defensive habit: Cipher explains the model, Byte builds it, and Whiskers coordinates the map of old cabinets.
 - Season thread: the finale will turn the Echo Grid lesson into a public listening exhibit and reveal a tiny Season 2 clue.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

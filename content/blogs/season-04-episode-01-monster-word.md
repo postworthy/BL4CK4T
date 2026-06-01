@@ -101,6 +101,7 @@ Shadow liked it better.
 - Key distinction: a label is not evidence.
 - Defensive habit: separate observed facts from guesses and repeated claims.
 - Season thread: the Season 3 anonymous caller becomes a public chase story.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

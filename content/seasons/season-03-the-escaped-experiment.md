@@ -11,3 +11,5 @@ timestamp: 2026-05-27T00:00:00+00:00
 ---
 
 The Copycat Sprite begins as a toy process. One extra marker turns it into a city lesson about safe testing, old trust paths, shared capacity, containment, response, and the kind of accountability that makes builders better.
+
+Field Guide tie-in: [Recover with consent and care](/field-guide).

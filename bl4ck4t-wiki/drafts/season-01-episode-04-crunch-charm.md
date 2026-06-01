@@ -155,6 +155,7 @@ Pixel's charm felt heavier in his pocket.
 - Concept: symbol versus system behavior.
 - Story idea: the Crunch Charm is a public myth, while the Echo Grid's real issue sits in how the old system interprets signals.
 - Key distinction: a visible artifact can distract people from the architecture underneath it.
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
 - Team skill: Byte and Cipher test the claim with a model and show that other objects can trigger the same effect.
 - Season thread: the Crunch Charm myth has mutated again, and a new mischievous signal figure has appeared.
 

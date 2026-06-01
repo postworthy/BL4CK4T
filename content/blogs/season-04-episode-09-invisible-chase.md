@@ -69,6 +69,7 @@ BL4CK4T's tiny black pawprint appeared on the seal, and nobody touched it after 
 - Key distinction: closing a chase should change the next response.
 - Defensive habit: preserve evidence before story and people before symbols.
 - Season thread: Season 4 closes the Caller case and opens the Season 5 pink-envelope clue.
+- Field Guide habit: [Improve the city after the case](/field-guide).
 
 ## Behind the Signal
 

@@ -1,0 +1,173 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Anchor from "../components/common/Anchor.astro";
+import Section from "../components/common/Section.astro";
+import { getConfigurationCollection } from "../lib/utils";
+
+const { data: config } = await getConfigurationCollection();
+
+const habits = [
+  {
+    title: "Know what you protect",
+    principle: "Name the promise before the puzzle.",
+    story: "In Cybertropolis, the Script Kitties do not protect abstract machines. They protect clinics, classrooms, libraries, messages, repair lanes, and people waiting for answers.",
+    practice: "Identify the important assets, owners, dependencies, and human impact before deciding what matters most.",
+    prompt: "What would break trust if it stopped answering?",
+    artifact: "Service Map",
+  },
+  {
+    title: "Guard the trusted paths",
+    principle: "A trusted path should stay worthy of trust.",
+    story: "A song, envelope, update bell, or borrowed voice becomes dangerous when the city treats it as safe without checking the path it used.",
+    practice: "Protect accounts, updates, message channels, permissions, and source verification before pressure arrives.",
+    prompt: "How do we know this message, command, or repair came through the right doorway?",
+    artifact: "Hushline",
+  },
+  {
+    title: "Watch for strange signals",
+    principle: "Small does not mean empty.",
+    story: "A 75-cent mismatch, a repeated mark, a silent queue, or one extra copy can be the first useful clue if someone pays attention without panic.",
+    practice: "Notice changes in timing, logs, availability, repeats, mismatches, and user reports. Record the signal before explaining it away.",
+    prompt: "What changed, when did it change, and who noticed first?",
+    artifact: "Threadboard",
+  },
+  {
+    title: "Keep evidence before story",
+    principle: "A clue is not a verdict.",
+    story: "When Cybertropolis wants a culprit too quickly, the Script Kitties slow the chase by separating facts, guesses, unknowns, and ruled-out ideas.",
+    practice: "Preserve evidence, mark uncertainty, avoid blame-first language, and update conclusions when new facts arrive.",
+    prompt: "What do we know, what do we think, and what have we ruled out?",
+    artifact: "Chase Map",
+  },
+  {
+    title: "Report early, kindly, and clearly",
+    principle: "The first report protects the next person.",
+    story: "In The Love Letter Plague, the city learns that shame makes incidents hide. A useful warning tells people what to do without turning trust into a crime.",
+    practice: "Report suspicious activity quickly, include clear facts, avoid shaming the reporter, and help others take the next safe step.",
+    prompt: "What warning would help someone act without making them afraid to speak?",
+    artifact: "Quarantine Tray",
+  },
+  {
+    title: "Recover with consent and care",
+    principle: "Helpful repair without consent is still risk.",
+    story: "The Patch Bell War teaches that even a fix can become an incident when it changes systems without permission, verification, or a way back.",
+    practice: "Contain harm, restore known-good service, verify the source of repairs, preserve rollback, and get the right consent.",
+    prompt: "Who is allowed to repair this, and how will we know the repair worked?",
+    artifact: "Consent Ledger",
+  },
+  {
+    title: "Improve the city after the case",
+    principle: "Leave the city better than you found it.",
+    story: "Every season leaves behind something useful: a map, bell, tray, board, lane, checklist, or kinder way to ask for help.",
+    practice: "Turn lessons learned into durable habits, safer defaults, clearer ownership, practice runs, and better communication.",
+    prompt: "What should Cybertropolis keep after this case is over?",
+    artifact: "Patch Bell",
+  },
+];
+
+const seasonMap = [
+  ["Season 1: The Singing Network", "Guard the trusted paths", "/seasons/season-01-the-singing-network"],
+  ["Season 2: The Seventy-Five-Cent Thread", "Watch for strange signals", "/seasons/season-02-the-seventy-five-cent-thread"],
+  ["Season 3: The Escaped Experiment", "Recover with consent and care", "/seasons/season-03-the-escaped-experiment"],
+  ["Season 4: The Invisible Chase", "Keep evidence before story", "/seasons/season-04-the-invisible-chase"],
+  ["Season 5: The Love Letter Plague", "Report early, kindly, and clearly", "/seasons/season-05-the-love-letter-plague"],
+  ["Season 6: The Day the City Would Not Answer", "Know what you protect", "/seasons/season-06-the-day-the-city-would-not-answer"],
+  ["Season 7: The Patch Bell War", "Recover with consent and care", "/seasons/season-07-the-patch-bell-war"],
+];
+
+const uses = [
+  ["Young readers", "Use the habits as a Script Kitties field kit: pause, notice, sort clues, ask for help, and repair with care."],
+  ["Parents", "Turn each habit into a short conversation about trust, messages, updates, mistakes, and asking for help without fear."],
+  ["Teachers and clubs", "Use the prompts as discussion starters, exit tickets, case-board labels, or 10-minute activities after an episode."],
+  ["Security teams", "Use the friendly language as a bridge into NIST-aligned security culture, reporting behavior, incident response, and recovery practice."],
+];
+---
+
+<Layout>
+  <Fragment slot="head">
+    <title>{`Field Guide • ${config.personal.name}`}</title>
+    <meta name="description" content="The BL4CK4T Field Guide introduces seven cyber habits for young defenders, parents, teachers, and cyber clubs." />
+    <meta property="og:title" content={`The BL4CK4T Field Guide • ${config.personal.name}`} />
+    <meta property="og:description" content="Seven cyber habits for young defenders." />
+    <meta property="og:url" content={`${config.site.baseUrl}/field-guide`} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href={`${config.site.baseUrl}/field-guide`} />
+  </Fragment>
+  <Section class="pt-12">
+    <div class="flex flex-col gap-5">
+      <p class="zag-muted font-mono">Free download</p>
+      <h1 class="font-display text-3xl sm:text-4xl leading-normal">
+        The BL4CK4T Field Guide: 7 cyber habits for young defenders.
+      </h1>
+      <p class="text-lg">
+        The Field Guide turns Cybertropolis stories into practical cyber wisdom: what to notice, how to slow down, when to report, how to repair, and how to leave the system better than it was.
+      </p>
+      <p class="zag-muted">
+        The habits are written in BL4CK4T language, but they are designed to align with modern security practice: identify what matters, protect trusted paths, detect strange signals, respond with evidence, recover carefully, and improve after the case.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4">
+        <Anchor url="/newsletter">Join the Field Guide list</Anchor>
+        <Anchor url="/seasons/season-01-the-singing-network">Start with Season 1</Anchor>
+      </div>
+    </div>
+  </Section>
+  <Section>
+    <div class="zag-border-b border-t-2 border-current p-4">
+      <h2 class="font-display text-xl leading-loose mb-4">How to use this guide</h2>
+      <p class="zag-muted mb-4">
+        Read one habit before an episode, then look for the moment where a character practices it under pressure. After the episode, use the prompt to turn the story into a family conversation, classroom discussion, cyber club activity, or security culture note.
+      </p>
+      <p class="zag-muted">
+        A printable edition is planned. Until it is ready, this page is the online version for readers, families, classrooms, and cyber clubs.
+      </p>
+    </div>
+  </Section>
+  <Section>
+    <h2 class="font-display text-xl leading-loose mb-6">Seven Habits</h2>
+    <ol class="grid gap-3">
+      {habits.map((habit) => (
+        <li class="zag-border-b border-t-2 border-current p-4">
+          <h3 class="font-display text-base leading-relaxed mb-3">{habit.title}</h3>
+          <p class="mb-4">{habit.principle}</p>
+          <div class="grid gap-3 text-sm">
+            <p><span class="font-medium">In the story:</span> <span class="zag-muted">{habit.story}</span></p>
+            <p><span class="font-medium">In practice:</span> <span class="zag-muted">{habit.practice}</span></p>
+            <p><span class="font-medium">Ask:</span> <span class="zag-muted">{habit.prompt}</span></p>
+            <p><span class="font-medium">Artifact:</span> <span class="zag-muted">{habit.artifact}</span></p>
+          </div>
+        </li>
+      ))}
+    </ol>
+  </Section>
+  <Section>
+    <h2 class="font-display text-xl leading-loose mb-6">Season Path</h2>
+    <div class="grid gap-3">
+      {seasonMap.map(([season, habit, url]) => (
+        <article class="zag-border-b border-t-2 border-current p-4">
+          <h3 class="font-display text-base leading-relaxed mb-2">{season}</h3>
+          <p class="zag-muted mb-3">Featured habit: {habit}</p>
+          <Anchor url={url}>Read the season</Anchor>
+        </article>
+      ))}
+    </div>
+  </Section>
+  <Section>
+    <div class="grid gap-4 sm:grid-cols-3">
+      {uses.map(([title, text]) => (
+        <article class="p-4 zag-border-b border-t-2 border-current">
+          <h2 class="font-display text-base leading-relaxed mb-3">{title}</h2>
+          <p class="zag-muted">{text}</p>
+        </article>
+      ))}
+    </div>
+  </Section>
+  <Section>
+    <div class="zag-border-b border-t-2 border-current p-4">
+      <h2 class="font-display text-xl leading-loose mb-4">Get the printable edition</h2>
+      <p class="zag-muted mb-4">
+        The printable Field Guide will collect the seven habits, Script Kitties character notes, artifact cards, and discussion prompts in a shareable PDF.
+      </p>
+      <Anchor url="/newsletter">Get the Field Guide release note</Anchor>
+    </div>
+  </Section>
+</Layout>

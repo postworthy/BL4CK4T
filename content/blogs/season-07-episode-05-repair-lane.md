@@ -65,6 +65,7 @@ The unsigned card went into evidence.
 - Key distinction: urgency does not replace source, signature, owner, rollback, and verification.
 - Defensive habit: use trusted update channels and give people a clear way to confirm repair instructions.
 - Season thread: maintenance is part of trust.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

@@ -165,6 +165,7 @@ That bothered Jinx more than a message would have. BL4CK4T had already said enou
 - Key distinction: a clue is not a conclusion.
 - Defensive habit: the Script Kitties record the mismatch before explaining it.
 - Season thread: `-0.75` moves from the Hushline model into the Ledger Lab.
+- Field Guide habit: [Watch for strange signals](/field-guide).
 
 ## Behind the Signal
 

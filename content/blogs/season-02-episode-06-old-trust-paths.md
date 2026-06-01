@@ -139,6 +139,7 @@ The old map did not look harmless now. It looked generous, built by people who w
 - Key distinction: removing a false pattern strengthens the case.
 - Defensive habit: Grimalkin maps, Cipher tests, Shadow verifies physical details.
 - Season thread: the route narrows to Ledger Lab, library, and old relay.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

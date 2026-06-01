@@ -28,6 +28,7 @@ Whiskers drafts a false-sounding `under control` notice, then learns to publish 
 - Concept: status communication.
 - Story idea: Whiskers tells the truth before the full answer is known.
 - Key distinction: honest uncertainty is different from confusion.
+- Field Guide habit: Report early, kindly, and clearly. Public link: `/field-guide`.
 - Defensive habit: communicate what is known, what is affected, what is being done, and when the next update comes.
 - Season thread: availability is part of trust.
 

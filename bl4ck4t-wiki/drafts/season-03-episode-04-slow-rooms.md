@@ -38,6 +38,7 @@ The sprite copies do not destroy rooms, yet they stall queues, printers, and cla
 ## Teaching Tie-In
 
 - Key concept: impact can appear as delay, downtime, and diverted work.
+- Field Guide habit: Know what you protect. Public link: `/field-guide`.
 - Defensive habit: name affected users and scope before cleanup.
 
 ## Behind the Signal

@@ -37,6 +37,8 @@ Draft canon until a public article is approved.
 ## Lesson Payload
 
 - Concept:
+- Field Guide habit:
+- Standards root:
 - Defensive takeaway:
 - Teacher note:
 

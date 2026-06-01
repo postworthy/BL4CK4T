@@ -93,6 +93,7 @@ Grimalkin did not ring the bell. Not yet.
 - Key distinction: closing an incident should leave a handle for the next one.
 - Defensive habit: create a clear place to report, coordinate, and recover.
 - Season thread: Season 3 closes the Copycat Sprite incident and points toward Season 4's chase story.
+- Field Guide habit: [Improve the city after the case](/field-guide).
 
 ## Behind the Signal
 

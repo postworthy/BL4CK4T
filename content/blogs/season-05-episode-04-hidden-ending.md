@@ -81,6 +81,7 @@ Cipher considered that an improvement in taste.
 - Key distinction: appearance and behavior can differ.
 - Defensive habit: judge suspicious messages by context and approved review, not by name or look.
 - Season thread: the city learns why the letter cannot be treated like ordinary mail.
+- Field Guide habit: [Watch for strange signals](/field-guide).
 
 ## Behind the Signal
 

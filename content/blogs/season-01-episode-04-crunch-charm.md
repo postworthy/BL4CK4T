@@ -135,6 +135,7 @@ Pixel's charm felt heavier in his pocket.
 - Key distinction: a visible artifact can distract people from the architecture underneath it.
 - Defensive habit: Byte and Cipher test the claim with a model and show that other objects can trigger the same effect.
 - Season thread: the Crunch Charm myth has mutated again, and a new mischievous signal figure has appeared.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

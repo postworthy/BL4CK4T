@@ -79,6 +79,7 @@ Pixel objected to losing the magic theory, but only for six seconds.
 - Key distinction: a trace can show movement or timing without naming a person.
 - Defensive habit: record clues before moving or explaining them.
 - Season thread: Shadow starts turning the chase from rumor into evidence.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

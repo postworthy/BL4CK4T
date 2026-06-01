@@ -28,6 +28,7 @@ The Glitter Letter appears in multiple trays and even reaches Pixel under his ow
 - Concept: Sender-context verification.
 - Story idea: A familiar name can carry an unfamiliar message.
 - Key distinction: Sender appearance is not proof of sender intent.
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
 - Defensive habit: Verify strange messages from known people.
 - Season thread: The letter begins spreading through trusted relationships.
 

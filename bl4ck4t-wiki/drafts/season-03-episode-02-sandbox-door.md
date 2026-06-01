@@ -38,6 +38,7 @@ Byte builds a cleaner sandbox with labels, expected counts, stop controls, and c
 ## Teaching Tie-In
 
 - Key concept: safe testing boundaries need limits, stop controls, and expected timing.
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
 - Defensive habit: define normal behavior before the test begins.
 
 ## Behind the Signal

@@ -79,6 +79,7 @@ Whiskers took it. "I hate that you are right."
 - Key distinction: helping fast is different from helping clearly.
 - Defensive habit: hold, report, warn, and recover through defined paths.
 - Season thread: the city gains the process needed to slow the Love Letter Plague.
+- Field Guide habit: [Report early, kindly, and clearly](/field-guide).
 
 ## Behind the Signal
 

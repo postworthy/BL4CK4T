@@ -79,6 +79,7 @@ Shadow watched Oren leave through the east doors. The city had almost chosen the
 - Key distinction: resemblance and suspicion are not identification.
 - Defensive habit: match public response to evidence, harm, and uncertainty.
 - Season thread: the city learns that restraint can protect people too.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

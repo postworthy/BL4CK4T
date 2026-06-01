@@ -169,6 +169,7 @@ Jinx looked back at the Bureau. Inside, the case stub crossed the desks with the
 - Concept: incident reporting and ownership.
 - Story idea: a valid clue may cross too many systems for one desk to act alone.
 - Key distinction: a report should separate knowns, unknowns, and requested action.
+- Field Guide habit: Report early, kindly, and clearly. Public link: `/field-guide`.
 - Team skill: Whiskers translates the case without weakening it.
 - Season thread: the Glass Bureau opens a shared case stub.
 

@@ -11,3 +11,5 @@ timestamp: 2026-05-27T00:00:00+00:00
 ---
 
 The Day The City Would Not Answer begins when the Message Office fills with empty receipts and ordinary civic services start to stall. The Script Kitties learn that availability is part of trust, and Whiskers learns that honest uncertainty can lead a city through pressure.
+
+Field Guide tie-in: [Know what you protect](/field-guide).

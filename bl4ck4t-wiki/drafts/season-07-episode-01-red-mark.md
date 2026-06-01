@@ -28,6 +28,7 @@ Rebuilt around a known City Runtime repair notice instead of vague cabinet-langu
 - Concept: patch debt.
 - Story idea: the red card shows a known City Runtime repair that waited after the flood ended.
 - Key distinction: an unknown weakness and a known unfixed weakness create different responsibilities.
+- Field Guide habit: Know what you protect. Public link: `/field-guide`.
 - Defensive habit: track known fixes until they are patched, isolated, or openly risk-accepted.
 - Season thread: maintenance is part of trust.
 

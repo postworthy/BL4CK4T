@@ -177,6 +177,7 @@ Shadow looked at the warm-terminal card. "Now we do."
 - Concept: account misuse from the defender's view.
 - Story idea: the clue becomes behavior through timing, terminal state, and records.
 - Key distinction: a familiar project label does not prove the project owner acted.
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
 - Team skill: the Script Kitties preserve alternate explanations.
 - Season thread: the working phrase "Borrowed Door" enters the case.
 

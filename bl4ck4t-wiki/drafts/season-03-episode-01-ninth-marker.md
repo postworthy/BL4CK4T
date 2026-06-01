@@ -40,6 +40,7 @@ The episode opens with the extra marker from the Season 2 simulator. Pixel notic
 ## Teaching Tie-In
 
 - Key concept: self-copying behavior can become a problem when connected systems let it move farther than expected and consume shared capacity.
+- Field Guide habit: Watch for strange signals. Public link: `/field-guide`.
 - Defensive habit: pause, record, and check boundaries before rerunning a strange test.
 
 ## Behind the Signal

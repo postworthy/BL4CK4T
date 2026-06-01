@@ -157,6 +157,7 @@ Crunch Charm. Crunch Charm. Crunch Charm.
 - Key distinction: what a document says can differ from what readers do with it.
 - Defensive habit: Jinx maps the rumor path while Cipher separates poetic claims from technical ones.
 - Season thread: the zine mutates into the Crunch Charm myth.
+- Field Guide habit: [Keep evidence before story](/field-guide).
 
 ## Behind the Signal
 

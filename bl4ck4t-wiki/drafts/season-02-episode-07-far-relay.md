@@ -151,6 +151,7 @@ Jinx looked at the first red card. The smallest wrong number in the room had led
 - Concept: brokered misuse and evidence-based escalation.
 - Story idea: a wider adversary layer appears through records, not spectacle.
 - Key distinction: a mark can widen a case without proving a mastermind.
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
 - Team skill: the Script Kitties resist making the adversary more important than the evidence.
 - Season thread: Far Relay and Ledgerjack enter the Season 2 case.
 

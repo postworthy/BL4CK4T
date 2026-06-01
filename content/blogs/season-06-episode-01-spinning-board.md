@@ -109,6 +109,7 @@ He wrote, `We are finding out which doors are blocked.`
 - Key distinction: unavailable is different from corrupted.
 - Defensive habit: report service impact clearly, including what still works.
 - Season thread: availability is part of trust.
+- Field Guide habit: [Know what you protect](/field-guide).
 
 ## Behind the Signal
 

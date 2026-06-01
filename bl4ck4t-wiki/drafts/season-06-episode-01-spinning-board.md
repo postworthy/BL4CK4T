@@ -28,6 +28,7 @@ A clinic board hangs on `ANSWERING...` while people wait. Whiskers starts to rea
 - Concept: availability.
 - Story idea: the clinic still has its records, but the board cannot answer when people need it.
 - Key distinction: unavailable is different from corrupted.
+- Field Guide habit: Know what you protect. Public link: `/field-guide`.
 - Defensive habit: report service impact clearly, including what still works.
 - Season thread: availability is part of trust.
 

@@ -28,6 +28,7 @@ Jinx and Grimalkin follow one confused request token through the Queue District.
 - Concept: service degradation.
 - Story idea: some services answer slowly, partly, or only through fallback paths.
 - Key distinction: degraded is not the same as down.
+- Field Guide habit: Know what you protect. Public link: `/field-guide`.
 - Defensive habit: describe impact precisely so people know what to do next.
 - Season thread: availability is part of trust.
 

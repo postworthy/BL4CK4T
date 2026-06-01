@@ -97,6 +97,7 @@ Whiskers answered. "You are responsible. That is harder and more useful."
 - Key distinction: understanding motive does not erase impact.
 - Defensive habit: tie accountability to evidence, harm, repair, and prevention.
 - Season thread: the Vanishing Caller becomes a responsible person instead of a myth.
+- Field Guide habit: [Recover with consent and care](/field-guide).
 
 ## Behind the Signal
 

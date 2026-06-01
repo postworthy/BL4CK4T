@@ -83,6 +83,7 @@ The card looked rude. Byte liked it anyway.
 - Key distinction: responsibility includes cleanup even when the original goal was harmless.
 - Defensive habit: write expected behavior, actual behavior, missing controls, and repair steps.
 - Season thread: Byte moves from gadget-first builder toward responsible engineer.
+- Field Guide habit: [Recover with consent and care](/field-guide).
 
 ## Behind the Signal
 

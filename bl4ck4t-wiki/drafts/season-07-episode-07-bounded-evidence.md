@@ -28,6 +28,7 @@ Rebuilt to approve a limited City Runtime repair batch with owners, rollback, pu
 - Concept: emergency change.
 - Story idea: Cipher approves a limited repair with rollback and public notice while some unknowns remain.
 - Key distinction: bounded action is not the same as reckless action.
+- Field Guide habit: Recover with consent and care. Public link: `/field-guide`.
 - Defensive habit: define scope, evidence, owner approval, rollback, and verification before emergency change.
 - Season thread: maintenance is part of trust.
 

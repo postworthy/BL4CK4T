@@ -12,6 +12,7 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 - [Naming Guide](canon/naming-guide.md) - Naming rules for drops, missions, artifacts, districts, villains, and transformed cyber concepts.
 - [Hero Anchor Policy](canon/hero-anchor-policy.md) - Selected hero/persona anchors for BL4CK4T and the Script Kitties.
 - [Historical Grounding Policy](canon/historical-grounding-policy.md) - Required source-first process for seasons based on real cybersecurity history.
+- [Cyber Habit Standards Alignment](canon/cyber-habit-standards-alignment.md) - Field Guide habit mapping to NIST CSF, NIST incident response, CISA CPGs, and CIS Controls.
 
 ## Style Guides
 
@@ -30,6 +31,14 @@ This is the working index for the BL4CK4T worldbuilding wiki. Read this first be
 ## Visual Assets
 
 - [Assets README](assets/README.md) - Inventory and usage notes for logo, character cards, lesson art, crowd art, and season-poster references.
+
+## Business
+
+- [Business Model](business/business-model.md) - Trust-first monetization model, revenue ladder, product sequence, and brand guardrails.
+- [Social Media Operating System](business/social-media-operating-system.md) - Platform roles, funnel, campaign priorities, episode derivative workflow, and CTA rules.
+- [Product Roadmap](business/product-roadmap.md) - Phased product plan from Field Guide and store validation through curriculum, decks, and enterprise training.
+- [Audience Funnel](business/audience-funnel.md) - Audience routes, lead magnets, CTA map, and segmentation defaults.
+- [Metrics Dashboard Specification](business/metrics-dashboard-spec.md) - Awareness, engagement, conversion, influence, and UTM metrics.
 
 ## Artifacts
 

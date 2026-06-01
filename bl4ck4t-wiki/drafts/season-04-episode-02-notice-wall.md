@@ -24,6 +24,8 @@ The City Chronicle names the Vanishing Caller. Jinx and Pixel use BL4CK4T's four
 
 ## Teaching Tie-In
 
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
+
 Repeated claims need sources and classification.
 
 ## Behind the Signal

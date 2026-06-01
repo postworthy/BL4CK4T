@@ -28,6 +28,7 @@ Replaces the confusing prior analogy with ordinary desk terminals running the Ci
 - Concept: operational impact.
 - Story idea: unstable desk terminals turn patch debt into lost work, support queues, and delayed civic services.
 - Key distinction: surviving records do not erase the harm of lost time, lost drafts, and interrupted work.
+- Field Guide habit: Know what you protect. Public link: `/field-guide`.
 - Defensive habit: map affected endpoints, preserve work, prioritize impact, and prepare rollback before urgent repair.
 - Season thread: maintenance is part of trust.
 

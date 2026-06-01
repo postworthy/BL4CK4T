@@ -28,6 +28,7 @@ Whiskers and Grimalkin turn Message Office chaos into four response lanes: hold,
 - Concept: Incident response lanes.
 - Story idea: Help needs lanes before it can scale.
 - Key distinction: Urgent action is not the same as organized action.
+- Field Guide habit: Report early, kindly, and clearly. Public link: `/field-guide`.
 - Defensive habit: Separate intake, warning, containment, and recovery work.
 - Season thread: The response becomes city-wide enough to slow the plague.
 

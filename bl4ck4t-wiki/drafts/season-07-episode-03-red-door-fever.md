@@ -28,6 +28,7 @@ Rebuilt to show public-facing City Runtime symptoms plus service-room evidence, 
 - Concept: exposed services.
 - Story idea: public-facing runtime systems show symptoms first because they are reachable and visible.
 - Key distinction: a flaw becomes more urgent when the affected system is exposed to many users or requests.
+- Field Guide habit: Guard the trusted paths. Public link: `/field-guide`.
 - Defensive habit: identify reachable systems, isolate affected groups, and keep fallback paths available.
 - Season thread: maintenance is part of trust.
 

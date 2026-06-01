@@ -38,6 +38,7 @@ Grimalkin turns a hallway full of helpers into response lanes, update times, and
 ## Teaching Tie-In
 
 - Key concept: incident response needs roles, timing, and clear handoffs.
+- Field Guide habit: Report early, kindly, and clearly. Public link: `/field-guide`.
 - Defensive habit: assign lanes so helpers do not create more confusion.
 
 ## Behind the Signal

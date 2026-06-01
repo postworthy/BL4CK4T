@@ -117,6 +117,7 @@ Pixel added one more label to the tray.
 - Key distinction: nothing missing does not mean nothing wrong.
 - Defensive habit: record symptoms and impact, not only missing files.
 - Season thread: availability is part of trust.
+- Field Guide habit: [Watch for strange signals](/field-guide).
 
 ## Behind the Signal
 

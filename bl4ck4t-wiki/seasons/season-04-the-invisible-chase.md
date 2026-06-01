@@ -42,6 +42,10 @@ Kevin Mitnick, Tsutomu Shimomura, and the hacker-manhunt era.
 
 A rumored shadow-hacker becomes the city's obsession. The Script Kitties investigate social engineering, identity, media fear, pursuit, and proportionality without turning the season into hero worship or panic.
 
+## Field Guide Tie-In
+
+- Primary habit: Keep evidence before story. Public tie-in: `/field-guide`.
+
 ## Season Theme
 
 - Technical theme: identity, access, social engineering, and trace evidence.

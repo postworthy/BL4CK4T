@@ -89,6 +89,7 @@ That one stayed up all week.
 - Key distinction: familiar words do not prove a familiar sender.
 - Defensive habit: check context, authority, timing, and normal process before acting.
 - Season thread: the Caller moves from rumor into concrete harm.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

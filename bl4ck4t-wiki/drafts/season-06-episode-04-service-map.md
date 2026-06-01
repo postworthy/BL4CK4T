@@ -28,6 +28,7 @@ Jinx builds a clean Service Map and Whiskers spots its flaw: it lists systems bu
 - Concept: dependency mapping.
 - Story idea: the Service Map changes when people are added to it.
 - Key distinction: mapping systems is not the same as mapping impact.
+- Field Guide habit: Know what you protect. Public link: `/field-guide`.
 - Defensive habit: identify critical dependencies and affected people before a crisis.
 - Season thread: availability is part of trust.
 

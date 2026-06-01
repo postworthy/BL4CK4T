@@ -99,6 +99,7 @@ Grimalkin nodded toward the growing wall of labels. "Then now we know what to ca
 - Key distinction: degraded is not the same as down.
 - Defensive habit: describe impact precisely so people know what to do next.
 - Season thread: availability is part of trust.
+- Field Guide habit: [Know what you protect](/field-guide).
 
 ## Behind the Signal
 

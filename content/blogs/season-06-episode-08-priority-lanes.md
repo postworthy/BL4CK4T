@@ -115,6 +115,7 @@ Whiskers wrote under it in plain ink.
 - Key distinction: prioritizing is not ignoring everyone else.
 - Defensive habit: define critical services, fallback procedures, and review points before a crisis.
 - Season thread: availability is part of trust.
+- Field Guide habit: [Know what you protect](/field-guide).
 
 ## Behind the Signal
 

@@ -28,6 +28,7 @@ Jinx and Cipher find the Phishmonger's ribbon pattern behind the Glitter Letter 
 - Concept: Phishing lure patterns.
 - Story idea: A signature is a clue, not a finish line.
 - Key distinction: Style can guide investigation but cannot replace evidence.
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
 - Defensive habit: Classify lure features without jumping past proof.
 - Season thread: The team understands the lure while still closing the spread.
 

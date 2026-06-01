@@ -77,6 +77,7 @@ Pixel helped Milo tape the handwritten paragraph above the desk. The terminal co
 - Key distinction: surviving records do not erase the harm of lost time, lost drafts, and interrupted work.
 - Defensive habit: map affected endpoints, preserve work, prioritize impact, and prepare rollback before urgent repair.
 - Season thread: maintenance is part of trust.
+- Field Guide habit: [Know what you protect](/field-guide).
 
 ## Behind the Signal
 

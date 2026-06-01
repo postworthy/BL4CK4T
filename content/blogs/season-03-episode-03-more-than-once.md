@@ -81,6 +81,7 @@ The printer clicked after everyone had gone silent.
 - Key distinction: intent does not determine impact once a process escapes its boundary.
 - Defensive habit: separate known facts, feelings, and unknowns during response.
 - Season thread: The Old Stack becomes the first clear path beyond Byte's sandbox.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

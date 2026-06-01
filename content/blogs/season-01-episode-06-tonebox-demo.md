@@ -129,6 +129,7 @@ The season had been full of sparks. This was the first one that smelled like smo
 - Key distinction: a model can explain a system without being the system.
 - Defensive habit: Byte builds, Cipher labels limits, Whiskers considers impact, and Jinx watches how the audience reacts.
 - Season thread: the first false closure appears, setting up the next episode's consequence turn.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

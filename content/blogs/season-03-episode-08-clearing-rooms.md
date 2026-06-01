@@ -81,6 +81,7 @@ Grimalkin shook his head. "Recovery over. Lesson still open."
 - Key distinction: looking fixed and being verified are not the same thing.
 - Defensive habit: do not call a system clear until records, tools, and physical checks agree.
 - Season thread: the team is ready to turn the incident into a permanent practice.
+- Field Guide habit: [Recover with consent and care](/field-guide).
 
 ## Behind the Signal
 

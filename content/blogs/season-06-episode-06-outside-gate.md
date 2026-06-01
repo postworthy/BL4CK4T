@@ -123,6 +123,7 @@ Shadow pinned it beside the sign so nobody could pretend the closed gate affecte
 - Key distinction: outside is not the same as hostile.
 - Defensive habit: explain temporary limits, provide help paths, and review restrictions often.
 - Season thread: availability is part of trust.
+- Field Guide habit: [Guard the trusted paths](/field-guide).
 
 ## Behind the Signal
 

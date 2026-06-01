@@ -81,6 +81,7 @@ Whiskers looked at the Status Wall, then at the Service Map, then at the drawer 
 - Key distinction: recovery is not the same as learning.
 - Defensive habit: review incidents and turn useful response habits into normal practice.
 - Season thread: availability is part of trust.
+- Field Guide habit: [Improve the city after the case](/field-guide).
 
 ## Behind the Signal
 

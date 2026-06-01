@@ -28,6 +28,7 @@ A crown-marked claim appears and tries to define the incident as harmless attent
 - Concept: attribution discipline.
 - Story idea: the Flood Prince claims the interruption, but the team still checks evidence.
 - Key distinction: a claim is not proof.
+- Field Guide habit: Keep evidence before story. Public link: `/field-guide`.
 - Defensive habit: separate what is known, alleged, inferred, and unknown.
 - Season thread: availability is part of trust.
 

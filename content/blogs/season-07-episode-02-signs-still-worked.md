@@ -69,6 +69,7 @@ Inside, the room felt less quiet.
 - Key distinction: fear of breaking something justifies rollback planning, not indefinite delay.
 - Defensive habit: every serious repair notice needs an owner, a decision, and a review time.
 - Season thread: maintenance is part of trust.
+- Field Guide habit: [Know what you protect](/field-guide).
 
 ## Behind the Signal
 
